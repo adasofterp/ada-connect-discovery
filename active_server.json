@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sit-coral-goals-chip.trycloudflare.com",
-  "httpUrl": "https://sit-coral-goals-chip.trycloudflare.com",
-  "updatedAt": "2026-10-20T14:07:24.172Z",
-  "expiresAt": "2026-10-21T14:07:24.172Z",
-  "nonce": "9c386686cf29fa8d166ef5e23a053252",
+  "wsUrl": "wss://sofa-librarian-disclose-naturals.trycloudflare.com",
+  "httpUrl": "https://sofa-librarian-disclose-naturals.trycloudflare.com",
+  "updatedAt": "2026-10-20T14:18:52.471Z",
+  "expiresAt": "2026-10-21T14:18:52.471Z",
+  "nonce": "f6f25c3f3dbb06720310a76e10c3539a",
   "payload": {
-    "wsUrl": "wss://sit-coral-goals-chip.trycloudflare.com",
-    "httpUrl": "https://sit-coral-goals-chip.trycloudflare.com",
-    "issuedAt": "2026-10-20T14:07:24.172Z",
-    "expiresAt": "2026-10-21T14:07:24.172Z",
-    "nonce": "9c386686cf29fa8d166ef5e23a053252"
+    "wsUrl": "wss://sofa-librarian-disclose-naturals.trycloudflare.com",
+    "httpUrl": "https://sofa-librarian-disclose-naturals.trycloudflare.com",
+    "issuedAt": "2026-10-20T14:18:52.471Z",
+    "expiresAt": "2026-10-21T14:18:52.471Z",
+    "nonce": "f6f25c3f3dbb06720310a76e10c3539a"
   },
-  "signature": "tImdwrzItTBTsbgr/HzKwwB/bkk0rVviGRmjCqxaW6F+daC8OJ8G/HF1II10FXCYUEUXrOko9HI4I/DmTRiUfQ==",
+  "signature": "mIkob9rmUys0Oyc8GeujRnkVYqNVpyzyShRRYZSq21DD3d+mUDb8iAInr8UvAQCnz87qEXkLmLAtZUJ95zp8WA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

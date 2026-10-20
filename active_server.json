@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-20T18:59:15.913Z",
-  "expiresAt": "2026-10-21T18:59:15.913Z",
-  "nonce": "34b4773eba9122c4e86f2a32d8c8ea6b",
+  "wsUrl": "wss://arising-exploring-save-interests.trycloudflare.com",
+  "httpUrl": "https://arising-exploring-save-interests.trycloudflare.com",
+  "updatedAt": "2026-10-20T18:59:24.770Z",
+  "expiresAt": "2026-10-21T18:59:24.770Z",
+  "nonce": "38e801db8a214b88d589e5432050fd0b",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-20T18:59:15.913Z",
-    "expiresAt": "2026-10-21T18:59:15.913Z",
-    "nonce": "34b4773eba9122c4e86f2a32d8c8ea6b"
+    "wsUrl": "wss://arising-exploring-save-interests.trycloudflare.com",
+    "httpUrl": "https://arising-exploring-save-interests.trycloudflare.com",
+    "issuedAt": "2026-10-20T18:59:24.770Z",
+    "expiresAt": "2026-10-21T18:59:24.770Z",
+    "nonce": "38e801db8a214b88d589e5432050fd0b"
   },
-  "signature": "z5Tu5TIhrdbnQ5fwNjMZcSvyUQ6Zrs0x3jNN9aHajXZ204VD2rF8OHQamfUiKCm8LSTJLWob424opAhFTeYPKg==",
+  "signature": "B66CWMVBfuWLgjfdR95rq8o+EbaBysa858vEDfertZIEy8hIfdkV3KGYu5Wb8KkmhjQ2CY1JzMD+ocbB/Mooiw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

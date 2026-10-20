@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://attitude-addition-governmental-tomatoes.trycloudflare.com",
-  "httpUrl": "https://attitude-addition-governmental-tomatoes.trycloudflare.com",
-  "updatedAt": "2026-10-20T19:55:33.431Z",
-  "expiresAt": "2026-10-21T19:55:33.431Z",
-  "nonce": "64f44bd422e6e6a8794dc8057e316e16",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-20T20:16:41.839Z",
+  "expiresAt": "2026-10-21T20:16:41.839Z",
+  "nonce": "15050eefbc8c2b681048f52096bc27a6",
   "payload": {
-    "wsUrl": "wss://attitude-addition-governmental-tomatoes.trycloudflare.com",
-    "httpUrl": "https://attitude-addition-governmental-tomatoes.trycloudflare.com",
-    "issuedAt": "2026-10-20T19:55:33.431Z",
-    "expiresAt": "2026-10-21T19:55:33.431Z",
-    "nonce": "64f44bd422e6e6a8794dc8057e316e16"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-20T20:16:41.839Z",
+    "expiresAt": "2026-10-21T20:16:41.839Z",
+    "nonce": "15050eefbc8c2b681048f52096bc27a6"
   },
-  "signature": "JVESo8avP9NJTt+KN710DknrDGTWtanCwlgDIENDZLcF+29rOrCgDfJMpFl7Gl3bI8N+bGDsIVD8nwoVfzpd6w==",
+  "signature": "JoVub2XFDnV8Fc5fJRaRlj8HDkwpun3Blq7Zs1cXbRLrORV4cPwfA+M9alh461ilHzJqWotNnBsNpXPBcQG5Zw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

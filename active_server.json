@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-20T20:16:41.839Z",
-  "expiresAt": "2026-10-21T20:16:41.839Z",
-  "nonce": "15050eefbc8c2b681048f52096bc27a6",
+  "wsUrl": "wss://firm-morrison-fall-relax.trycloudflare.com",
+  "httpUrl": "https://firm-morrison-fall-relax.trycloudflare.com",
+  "updatedAt": "2026-10-20T20:16:53.154Z",
+  "expiresAt": "2026-10-21T20:16:53.154Z",
+  "nonce": "b72285140438c180e4733154ccf30355",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-20T20:16:41.839Z",
-    "expiresAt": "2026-10-21T20:16:41.839Z",
-    "nonce": "15050eefbc8c2b681048f52096bc27a6"
+    "wsUrl": "wss://firm-morrison-fall-relax.trycloudflare.com",
+    "httpUrl": "https://firm-morrison-fall-relax.trycloudflare.com",
+    "issuedAt": "2026-10-20T20:16:53.154Z",
+    "expiresAt": "2026-10-21T20:16:53.154Z",
+    "nonce": "b72285140438c180e4733154ccf30355"
   },
-  "signature": "JoVub2XFDnV8Fc5fJRaRlj8HDkwpun3Blq7Zs1cXbRLrORV4cPwfA+M9alh461ilHzJqWotNnBsNpXPBcQG5Zw==",
+  "signature": "H57I6czuutsguW6jl+KhkV7kedqDW3LgTlmQG77GAWWtE9DjQCr/0YMe/5aatrNQrsxo4DxWTn6MI73hhbW63w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

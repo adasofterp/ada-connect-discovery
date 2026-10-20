@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://vacuum-beats-piece-neighbor.trycloudflare.com",
-  "httpUrl": "https://vacuum-beats-piece-neighbor.trycloudflare.com",
-  "updatedAt": "2026-10-20T20:50:10.957Z",
-  "expiresAt": "2026-10-21T20:50:10.957Z",
-  "nonce": "c52f167f78c382fa641e57a8f5e3b665",
+  "wsUrl": "wss://advisory-administration-berkeley-fixed.trycloudflare.com",
+  "httpUrl": "https://advisory-administration-berkeley-fixed.trycloudflare.com",
+  "updatedAt": "2026-10-20T23:12:12.736Z",
+  "expiresAt": "2026-10-21T23:12:12.736Z",
+  "nonce": "d61320cb12db95bc6907a7862a1b8759",
   "payload": {
-    "wsUrl": "wss://vacuum-beats-piece-neighbor.trycloudflare.com",
-    "httpUrl": "https://vacuum-beats-piece-neighbor.trycloudflare.com",
-    "issuedAt": "2026-10-20T20:50:10.957Z",
-    "expiresAt": "2026-10-21T20:50:10.957Z",
-    "nonce": "c52f167f78c382fa641e57a8f5e3b665"
+    "wsUrl": "wss://advisory-administration-berkeley-fixed.trycloudflare.com",
+    "httpUrl": "https://advisory-administration-berkeley-fixed.trycloudflare.com",
+    "issuedAt": "2026-10-20T23:12:12.736Z",
+    "expiresAt": "2026-10-21T23:12:12.736Z",
+    "nonce": "d61320cb12db95bc6907a7862a1b8759"
   },
-  "signature": "CjJJ4Xi+xuzjORgV311g5v6JcQtfAlPzcV+gmZfrTwyWPepo2+3Qc+i+qqiHi4FfsgqP+z1KYcVV287VvPDFRQ==",
+  "signature": "ZD8KJlGcyfcciVO2oBZJGONF0gLCvLcuhUjnO7M36cMylBRh30IgzyXgOlbPePhPJwxgZkCwnhIcL7CINgHS/Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

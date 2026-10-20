@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-20T20:49:43.893Z",
-  "expiresAt": "2026-10-21T20:49:43.893Z",
-  "nonce": "cfb76c5287a71c7971096342e80f7ada",
+  "wsUrl": "wss://vacuum-beats-piece-neighbor.trycloudflare.com",
+  "httpUrl": "https://vacuum-beats-piece-neighbor.trycloudflare.com",
+  "updatedAt": "2026-10-20T20:50:10.957Z",
+  "expiresAt": "2026-10-21T20:50:10.957Z",
+  "nonce": "c52f167f78c382fa641e57a8f5e3b665",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-20T20:49:43.893Z",
-    "expiresAt": "2026-10-21T20:49:43.893Z",
-    "nonce": "cfb76c5287a71c7971096342e80f7ada"
+    "wsUrl": "wss://vacuum-beats-piece-neighbor.trycloudflare.com",
+    "httpUrl": "https://vacuum-beats-piece-neighbor.trycloudflare.com",
+    "issuedAt": "2026-10-20T20:50:10.957Z",
+    "expiresAt": "2026-10-21T20:50:10.957Z",
+    "nonce": "c52f167f78c382fa641e57a8f5e3b665"
   },
-  "signature": "lWviDGuDNR0Pxlmr0eNd3EEL/PQNr6A7P5kBAuQF50uYG87INfSC+CA1BFP7TSP+ykOIP5YAeCgIZQ+/DxLMCw==",
+  "signature": "CjJJ4Xi+xuzjORgV311g5v6JcQtfAlPzcV+gmZfrTwyWPepo2+3Qc+i+qqiHi4FfsgqP+z1KYcVV287VvPDFRQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

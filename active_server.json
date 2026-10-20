@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://roulette-fastest-sql-shelf.trycloudflare.com",
-  "httpUrl": "https://roulette-fastest-sql-shelf.trycloudflare.com",
-  "updatedAt": "2026-10-20T13:16:49.685Z",
-  "expiresAt": "2026-10-21T13:16:49.685Z",
-  "nonce": "500e39d47cf83f30d6e3c0e35a757400",
+  "wsUrl": "wss://discounted-las-current-sword.trycloudflare.com",
+  "httpUrl": "https://discounted-las-current-sword.trycloudflare.com",
+  "updatedAt": "2026-10-20T13:27:27.207Z",
+  "expiresAt": "2026-10-21T13:27:27.207Z",
+  "nonce": "706790705dd8adca2922285a9c0950e3",
   "payload": {
-    "wsUrl": "wss://roulette-fastest-sql-shelf.trycloudflare.com",
-    "httpUrl": "https://roulette-fastest-sql-shelf.trycloudflare.com",
-    "issuedAt": "2026-10-20T13:16:49.685Z",
-    "expiresAt": "2026-10-21T13:16:49.685Z",
-    "nonce": "500e39d47cf83f30d6e3c0e35a757400"
+    "wsUrl": "wss://discounted-las-current-sword.trycloudflare.com",
+    "httpUrl": "https://discounted-las-current-sword.trycloudflare.com",
+    "issuedAt": "2026-10-20T13:27:27.207Z",
+    "expiresAt": "2026-10-21T13:27:27.207Z",
+    "nonce": "706790705dd8adca2922285a9c0950e3"
   },
-  "signature": "YFki0NulibcHoYvYM1nTHpv7a4O9Noy8rlJ8ATomaMtLoG7g6tZdNYV/YvsZ1LGt3RorRsnidEjXosnbA4dkrw==",
+  "signature": "X84rjv1swHiIma9z0AzyF8Lpp1ovGsheFu41yZukF3ja935gisKKe1V6zdvmvPgoBdIsNbSG2avnTRJDoCsEjg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

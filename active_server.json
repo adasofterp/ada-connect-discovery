@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://discounted-las-current-sword.trycloudflare.com",
-  "httpUrl": "https://discounted-las-current-sword.trycloudflare.com",
-  "updatedAt": "2026-10-20T13:27:27.207Z",
-  "expiresAt": "2026-10-21T13:27:27.207Z",
-  "nonce": "706790705dd8adca2922285a9c0950e3",
+  "wsUrl": "wss://sit-coral-goals-chip.trycloudflare.com",
+  "httpUrl": "https://sit-coral-goals-chip.trycloudflare.com",
+  "updatedAt": "2026-10-20T14:07:24.172Z",
+  "expiresAt": "2026-10-21T14:07:24.172Z",
+  "nonce": "9c386686cf29fa8d166ef5e23a053252",
   "payload": {
-    "wsUrl": "wss://discounted-las-current-sword.trycloudflare.com",
-    "httpUrl": "https://discounted-las-current-sword.trycloudflare.com",
-    "issuedAt": "2026-10-20T13:27:27.207Z",
-    "expiresAt": "2026-10-21T13:27:27.207Z",
-    "nonce": "706790705dd8adca2922285a9c0950e3"
+    "wsUrl": "wss://sit-coral-goals-chip.trycloudflare.com",
+    "httpUrl": "https://sit-coral-goals-chip.trycloudflare.com",
+    "issuedAt": "2026-10-20T14:07:24.172Z",
+    "expiresAt": "2026-10-21T14:07:24.172Z",
+    "nonce": "9c386686cf29fa8d166ef5e23a053252"
   },
-  "signature": "X84rjv1swHiIma9z0AzyF8Lpp1ovGsheFu41yZukF3ja935gisKKe1V6zdvmvPgoBdIsNbSG2avnTRJDoCsEjg==",
+  "signature": "tImdwrzItTBTsbgr/HzKwwB/bkk0rVviGRmjCqxaW6F+daC8OJ8G/HF1II10FXCYUEUXrOko9HI4I/DmTRiUfQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

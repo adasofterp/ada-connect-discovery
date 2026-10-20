@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://captured-cartridges-perceived-amenities.trycloudflare.com",
-  "httpUrl": "https://captured-cartridges-perceived-amenities.trycloudflare.com",
-  "updatedAt": "2026-10-20T11:47:24.277Z",
-  "expiresAt": "2026-10-21T11:47:24.277Z",
-  "nonce": "45b78f184855cd25501e32ed84c42ef4",
+  "wsUrl": "wss://sys-clusters-paperbacks-spam.trycloudflare.com",
+  "httpUrl": "https://sys-clusters-paperbacks-spam.trycloudflare.com",
+  "updatedAt": "2026-10-20T13:00:15.952Z",
+  "expiresAt": "2026-10-21T13:00:15.952Z",
+  "nonce": "510ca2a00f1ea98697871cce16455c89",
   "payload": {
-    "wsUrl": "wss://captured-cartridges-perceived-amenities.trycloudflare.com",
-    "httpUrl": "https://captured-cartridges-perceived-amenities.trycloudflare.com",
-    "issuedAt": "2026-10-20T11:47:24.277Z",
-    "expiresAt": "2026-10-21T11:47:24.277Z",
-    "nonce": "45b78f184855cd25501e32ed84c42ef4"
+    "wsUrl": "wss://sys-clusters-paperbacks-spam.trycloudflare.com",
+    "httpUrl": "https://sys-clusters-paperbacks-spam.trycloudflare.com",
+    "issuedAt": "2026-10-20T13:00:15.952Z",
+    "expiresAt": "2026-10-21T13:00:15.952Z",
+    "nonce": "510ca2a00f1ea98697871cce16455c89"
   },
-  "signature": "MTcpz3Ur0LgGM5CjTDnf4gskivPGKtAB1b+Xgm4WPmrusDCZGgiUNHRh5kXGefLnBmWi/R1+Ih/3q26Xcwi7pQ==",
+  "signature": "w2zr1g44aI/Kq9Bjl5+PfCLzhSZd6hSALl0d9WRHCLVWPVYnFOe9Q1mWHFwSKmMbtcXTlLEyfrHp43r1a4pY9A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

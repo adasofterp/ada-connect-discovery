@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://divorce-interpreted-thee-tri.trycloudflare.com",
-  "httpUrl": "https://divorce-interpreted-thee-tri.trycloudflare.com",
-  "updatedAt": "2026-10-20T18:09:35.505Z",
-  "expiresAt": "2026-10-21T18:09:35.505Z",
-  "nonce": "b3f12893d4d9294a4c3f75ce7fcd6799",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-20T18:23:27.146Z",
+  "expiresAt": "2026-10-21T18:23:27.146Z",
+  "nonce": "1d1bed30ce9edf47f733efb0c1034f64",
   "payload": {
-    "wsUrl": "wss://divorce-interpreted-thee-tri.trycloudflare.com",
-    "httpUrl": "https://divorce-interpreted-thee-tri.trycloudflare.com",
-    "issuedAt": "2026-10-20T18:09:35.505Z",
-    "expiresAt": "2026-10-21T18:09:35.505Z",
-    "nonce": "b3f12893d4d9294a4c3f75ce7fcd6799"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-20T18:23:27.146Z",
+    "expiresAt": "2026-10-21T18:23:27.146Z",
+    "nonce": "1d1bed30ce9edf47f733efb0c1034f64"
   },
-  "signature": "4DKRZonfV/pLZP4H2/ct9ODz5ReWV+o/04Er/oQeb/6LpNLg/JMBtKzPfzNTv3J48PgRQpOR+dbaxA4pxBnuLQ==",
+  "signature": "FJagjTZQ09O/czA3GZk0HqgA07qmznBFmMmwBDltiWQOkRWiO7eJIrvHxJwrzp98NxmZn/oE6QgtZiF+/BzHrQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

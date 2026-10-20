@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sys-clusters-paperbacks-spam.trycloudflare.com",
-  "httpUrl": "https://sys-clusters-paperbacks-spam.trycloudflare.com",
-  "updatedAt": "2026-10-20T13:00:15.952Z",
-  "expiresAt": "2026-10-21T13:00:15.952Z",
-  "nonce": "510ca2a00f1ea98697871cce16455c89",
+  "wsUrl": "wss://roulette-fastest-sql-shelf.trycloudflare.com",
+  "httpUrl": "https://roulette-fastest-sql-shelf.trycloudflare.com",
+  "updatedAt": "2026-10-20T13:16:49.685Z",
+  "expiresAt": "2026-10-21T13:16:49.685Z",
+  "nonce": "500e39d47cf83f30d6e3c0e35a757400",
   "payload": {
-    "wsUrl": "wss://sys-clusters-paperbacks-spam.trycloudflare.com",
-    "httpUrl": "https://sys-clusters-paperbacks-spam.trycloudflare.com",
-    "issuedAt": "2026-10-20T13:00:15.952Z",
-    "expiresAt": "2026-10-21T13:00:15.952Z",
-    "nonce": "510ca2a00f1ea98697871cce16455c89"
+    "wsUrl": "wss://roulette-fastest-sql-shelf.trycloudflare.com",
+    "httpUrl": "https://roulette-fastest-sql-shelf.trycloudflare.com",
+    "issuedAt": "2026-10-20T13:16:49.685Z",
+    "expiresAt": "2026-10-21T13:16:49.685Z",
+    "nonce": "500e39d47cf83f30d6e3c0e35a757400"
   },
-  "signature": "w2zr1g44aI/Kq9Bjl5+PfCLzhSZd6hSALl0d9WRHCLVWPVYnFOe9Q1mWHFwSKmMbtcXTlLEyfrHp43r1a4pY9A==",
+  "signature": "YFki0NulibcHoYvYM1nTHpv7a4O9Noy8rlJ8ATomaMtLoG7g6tZdNYV/YvsZ1LGt3RorRsnidEjXosnbA4dkrw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

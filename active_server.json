@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://champion-grants-classification-drawing.trycloudflare.com",
-  "httpUrl": "https://champion-grants-classification-drawing.trycloudflare.com",
-  "updatedAt": "2026-10-20T11:41:05.356Z",
-  "expiresAt": "2026-10-21T11:41:05.356Z",
-  "nonce": "0c6a4f323a7734100a0ef035dc5b3f7c",
+  "wsUrl": "wss://captured-cartridges-perceived-amenities.trycloudflare.com",
+  "httpUrl": "https://captured-cartridges-perceived-amenities.trycloudflare.com",
+  "updatedAt": "2026-10-20T11:47:24.277Z",
+  "expiresAt": "2026-10-21T11:47:24.277Z",
+  "nonce": "45b78f184855cd25501e32ed84c42ef4",
   "payload": {
-    "wsUrl": "wss://champion-grants-classification-drawing.trycloudflare.com",
-    "httpUrl": "https://champion-grants-classification-drawing.trycloudflare.com",
-    "issuedAt": "2026-10-20T11:41:05.356Z",
-    "expiresAt": "2026-10-21T11:41:05.356Z",
-    "nonce": "0c6a4f323a7734100a0ef035dc5b3f7c"
+    "wsUrl": "wss://captured-cartridges-perceived-amenities.trycloudflare.com",
+    "httpUrl": "https://captured-cartridges-perceived-amenities.trycloudflare.com",
+    "issuedAt": "2026-10-20T11:47:24.277Z",
+    "expiresAt": "2026-10-21T11:47:24.277Z",
+    "nonce": "45b78f184855cd25501e32ed84c42ef4"
   },
-  "signature": "hI94bR+52Noah8jS3TDOpQW5Qebnw+zlKe1bSuGXvX8dMmrgHTlRgALCTHK2Sfnlva9gwaLZnCDGaHnSBgMJ+g==",
+  "signature": "MTcpz3Ur0LgGM5CjTDnf4gskivPGKtAB1b+Xgm4WPmrusDCZGgiUNHRh5kXGefLnBmWi/R1+Ih/3q26Xcwi7pQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

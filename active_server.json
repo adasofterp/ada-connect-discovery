@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pair-postcards-routes-dawn.trycloudflare.com",
-  "httpUrl": "https://pair-postcards-routes-dawn.trycloudflare.com",
-  "updatedAt": "2026-10-20T19:55:08.263Z",
-  "expiresAt": "2026-10-21T19:55:08.263Z",
-  "nonce": "6559da2c531b149922542cb130496407",
+  "wsUrl": "wss://attitude-addition-governmental-tomatoes.trycloudflare.com",
+  "httpUrl": "https://attitude-addition-governmental-tomatoes.trycloudflare.com",
+  "updatedAt": "2026-10-20T19:55:33.431Z",
+  "expiresAt": "2026-10-21T19:55:33.431Z",
+  "nonce": "64f44bd422e6e6a8794dc8057e316e16",
   "payload": {
-    "wsUrl": "wss://pair-postcards-routes-dawn.trycloudflare.com",
-    "httpUrl": "https://pair-postcards-routes-dawn.trycloudflare.com",
-    "issuedAt": "2026-10-20T19:55:08.263Z",
-    "expiresAt": "2026-10-21T19:55:08.263Z",
-    "nonce": "6559da2c531b149922542cb130496407"
+    "wsUrl": "wss://attitude-addition-governmental-tomatoes.trycloudflare.com",
+    "httpUrl": "https://attitude-addition-governmental-tomatoes.trycloudflare.com",
+    "issuedAt": "2026-10-20T19:55:33.431Z",
+    "expiresAt": "2026-10-21T19:55:33.431Z",
+    "nonce": "64f44bd422e6e6a8794dc8057e316e16"
   },
-  "signature": "qVAUQJmfDVS4WEDk0r0b+hLnLjZb/mxWioZnBYPpNRj37Hcf8NekFA3XnNnZ/w1EU0DSmPvY2ut+0pcIuqydyA==",
+  "signature": "JVESo8avP9NJTt+KN710DknrDGTWtanCwlgDIENDZLcF+29rOrCgDfJMpFl7Gl3bI8N+bGDsIVD8nwoVfzpd6w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

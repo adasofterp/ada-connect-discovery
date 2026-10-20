@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://widely-nights-doubt-nebraska.trycloudflare.com",
-  "httpUrl": "https://widely-nights-doubt-nebraska.trycloudflare.com",
-  "updatedAt": "2026-10-20T19:40:06.391Z",
-  "expiresAt": "2026-10-21T19:40:06.391Z",
-  "nonce": "ea0dbb2d2d1a02128425b3901dbdda64",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-20T19:54:41.681Z",
+  "expiresAt": "2026-10-21T19:54:41.681Z",
+  "nonce": "2af02808a01da6b37c616a14a86da138",
   "payload": {
-    "wsUrl": "wss://widely-nights-doubt-nebraska.trycloudflare.com",
-    "httpUrl": "https://widely-nights-doubt-nebraska.trycloudflare.com",
-    "issuedAt": "2026-10-20T19:40:06.391Z",
-    "expiresAt": "2026-10-21T19:40:06.391Z",
-    "nonce": "ea0dbb2d2d1a02128425b3901dbdda64"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-20T19:54:41.681Z",
+    "expiresAt": "2026-10-21T19:54:41.681Z",
+    "nonce": "2af02808a01da6b37c616a14a86da138"
   },
-  "signature": "osOvP0WNDSvK6v3cL4kyXhAHL2eRRldDuhrDddjd6s24mhJIMdhqW0SGMyS03efdEx8zkYz/J234G29KYKZByQ==",
+  "signature": "Ny2pbKCXtRxoM63qtzJRX0l7MgaLJhma9dKdk6GLCay3NOEOUF2YejlnYEob9uJPH9We18+XaUoF0h3+nq3ERQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://read-zum-aye-construction.trycloudflare.com",
-  "httpUrl": "https://read-zum-aye-construction.trycloudflare.com",
-  "updatedAt": "2026-10-21T06:19:21.092Z",
-  "expiresAt": "2026-10-22T06:19:21.092Z",
-  "nonce": "103d037d0a0c5d70a09c3116f748d93b",
+  "wsUrl": "wss://raleigh-cubic-sound-rpg.trycloudflare.com",
+  "httpUrl": "https://raleigh-cubic-sound-rpg.trycloudflare.com",
+  "updatedAt": "2026-10-21T06:20:08.632Z",
+  "expiresAt": "2026-10-22T06:20:08.632Z",
+  "nonce": "9e2fced985b8e74e2cdcf83d41daa595",
   "payload": {
-    "wsUrl": "wss://read-zum-aye-construction.trycloudflare.com",
-    "httpUrl": "https://read-zum-aye-construction.trycloudflare.com",
-    "issuedAt": "2026-10-21T06:19:21.092Z",
-    "expiresAt": "2026-10-22T06:19:21.092Z",
-    "nonce": "103d037d0a0c5d70a09c3116f748d93b"
+    "wsUrl": "wss://raleigh-cubic-sound-rpg.trycloudflare.com",
+    "httpUrl": "https://raleigh-cubic-sound-rpg.trycloudflare.com",
+    "issuedAt": "2026-10-21T06:20:08.632Z",
+    "expiresAt": "2026-10-22T06:20:08.632Z",
+    "nonce": "9e2fced985b8e74e2cdcf83d41daa595"
   },
-  "signature": "N+JI60uIjCs3A1NywdDKVP1/uZWDcdgZ2dkVw46WfR9Ebe5xnYe2kcORzyFe/5NvZGPcin497guQ+XSleES6gQ==",
+  "signature": "wJ2rYBaac+ExB/DjQTAVQy98hqzxC34e3OigqfME5Mr9yBAyrFxqycv/ef38IornQFDR6gF2/MX2f7iuvMMFOw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

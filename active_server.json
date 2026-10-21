@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://apnic-broadband-alike-caroline.trycloudflare.com",
-  "httpUrl": "https://apnic-broadband-alike-caroline.trycloudflare.com",
-  "updatedAt": "2026-10-21T14:45:26.457Z",
-  "expiresAt": "2026-10-22T14:45:26.457Z",
-  "nonce": "4c9d5611f68e0554ab9cfa4368e39744",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-21T14:55:12.471Z",
+  "expiresAt": "2026-10-22T14:55:12.471Z",
+  "nonce": "0f5fa3afd6d6d98baa47b3e69798f86c",
   "payload": {
-    "wsUrl": "wss://apnic-broadband-alike-caroline.trycloudflare.com",
-    "httpUrl": "https://apnic-broadband-alike-caroline.trycloudflare.com",
-    "issuedAt": "2026-10-21T14:45:26.457Z",
-    "expiresAt": "2026-10-22T14:45:26.457Z",
-    "nonce": "4c9d5611f68e0554ab9cfa4368e39744"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-21T14:55:12.471Z",
+    "expiresAt": "2026-10-22T14:55:12.471Z",
+    "nonce": "0f5fa3afd6d6d98baa47b3e69798f86c"
   },
-  "signature": "nsoXjPW0D4/vtKN/8cZAs7GRk1h78DjyYUaGxzLc3AiS0bFrLqd0cxIcjbxwAgj7JIoULfZhvZ3EMCJIUfpKtA==",
+  "signature": "ESOLlQKsL1HsoHZAGNBSTAnVrMXShM8GlQDmsc7i8UuzMJAuRWRnyhnaEtzVQpyX4ATc9Jy2q4iU8wcPeOdewQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

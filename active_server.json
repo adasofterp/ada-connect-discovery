@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://today-second-gel-mill.trycloudflare.com",
-  "httpUrl": "https://today-second-gel-mill.trycloudflare.com",
-  "updatedAt": "2026-10-21T02:12:13.168Z",
-  "expiresAt": "2026-10-22T02:12:13.168Z",
-  "nonce": "5907aaccf10f4bc66299260822b836fe",
+  "wsUrl": "wss://digest-reservation-medications-textiles.trycloudflare.com",
+  "httpUrl": "https://digest-reservation-medications-textiles.trycloudflare.com",
+  "updatedAt": "2026-10-21T02:22:38.431Z",
+  "expiresAt": "2026-10-22T02:22:38.431Z",
+  "nonce": "567b5406b6e5d6b121968d02444f260e",
   "payload": {
-    "wsUrl": "wss://today-second-gel-mill.trycloudflare.com",
-    "httpUrl": "https://today-second-gel-mill.trycloudflare.com",
-    "issuedAt": "2026-10-21T02:12:13.168Z",
-    "expiresAt": "2026-10-22T02:12:13.168Z",
-    "nonce": "5907aaccf10f4bc66299260822b836fe"
+    "wsUrl": "wss://digest-reservation-medications-textiles.trycloudflare.com",
+    "httpUrl": "https://digest-reservation-medications-textiles.trycloudflare.com",
+    "issuedAt": "2026-10-21T02:22:38.431Z",
+    "expiresAt": "2026-10-22T02:22:38.431Z",
+    "nonce": "567b5406b6e5d6b121968d02444f260e"
   },
-  "signature": "ou6ahZ0Uk3is3J+Asn0pZDUkCgNs694JBFxJIkOEiv6dYxFHI0D8heUwpI+12C3XQDlA51YVLRAcSeQY8Cj2Fg==",
+  "signature": "47ZarDOSo8AjzjmTwODA5/INiIyc+7KiKz2ASTOYYtRXrktULGaLtmN6Z+l7+EaoHLMbPybqjyzv9EjGfcz2+Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

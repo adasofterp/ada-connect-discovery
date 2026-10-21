@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://entrepreneurs-convention-enemies-birmingham.trycloudflare.com",
-  "httpUrl": "https://entrepreneurs-convention-enemies-birmingham.trycloudflare.com",
-  "updatedAt": "2026-10-21T12:38:18.443Z",
-  "expiresAt": "2026-10-22T12:38:18.443Z",
-  "nonce": "8b5f77ce329fc2323e864105fb796697",
+  "wsUrl": "wss://member-favorite-stanford-invited.trycloudflare.com",
+  "httpUrl": "https://member-favorite-stanford-invited.trycloudflare.com",
+  "updatedAt": "2026-10-21T12:38:44.216Z",
+  "expiresAt": "2026-10-22T12:38:44.216Z",
+  "nonce": "c85acb1a84685aef00c65e1bb1f5d1ab",
   "payload": {
-    "wsUrl": "wss://entrepreneurs-convention-enemies-birmingham.trycloudflare.com",
-    "httpUrl": "https://entrepreneurs-convention-enemies-birmingham.trycloudflare.com",
-    "issuedAt": "2026-10-21T12:38:18.443Z",
-    "expiresAt": "2026-10-22T12:38:18.443Z",
-    "nonce": "8b5f77ce329fc2323e864105fb796697"
+    "wsUrl": "wss://member-favorite-stanford-invited.trycloudflare.com",
+    "httpUrl": "https://member-favorite-stanford-invited.trycloudflare.com",
+    "issuedAt": "2026-10-21T12:38:44.216Z",
+    "expiresAt": "2026-10-22T12:38:44.216Z",
+    "nonce": "c85acb1a84685aef00c65e1bb1f5d1ab"
   },
-  "signature": "PZc3iapvVWXOQDG8IgvRNVw/B8TN/DwHmyQExzicDNM/yvlM5+t/jq2CYC9Q9tnVEiu0ixKpmb6cx8hLaKtjjA==",
+  "signature": "8FB5J6YsJ+x1MRjxyk+ZD9VnOxEYvP21AsbnXYds4HQ8OmyM1OYXARLWA+8Wp8h3EdL/UgAd727jx0ub99nyig==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
-  "httpUrl": "https://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
-  "updatedAt": "2026-10-21T07:23:40.614Z",
-  "expiresAt": "2026-10-22T07:23:40.614Z",
-  "nonce": "3abf17f9b8b603aed578e472ea497fbd",
+  "wsUrl": "wss://duo-watson-herein-bluetooth.trycloudflare.com",
+  "httpUrl": "https://duo-watson-herein-bluetooth.trycloudflare.com",
+  "updatedAt": "2026-10-21T09:15:44.707Z",
+  "expiresAt": "2026-10-22T09:15:44.707Z",
+  "nonce": "64cd15e1d4ff2d86a3dc9daaf434d437",
   "payload": {
-    "wsUrl": "wss://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
-    "httpUrl": "https://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
-    "issuedAt": "2026-10-21T07:23:40.614Z",
-    "expiresAt": "2026-10-22T07:23:40.614Z",
-    "nonce": "3abf17f9b8b603aed578e472ea497fbd"
+    "wsUrl": "wss://duo-watson-herein-bluetooth.trycloudflare.com",
+    "httpUrl": "https://duo-watson-herein-bluetooth.trycloudflare.com",
+    "issuedAt": "2026-10-21T09:15:44.707Z",
+    "expiresAt": "2026-10-22T09:15:44.707Z",
+    "nonce": "64cd15e1d4ff2d86a3dc9daaf434d437"
   },
-  "signature": "GJcytnczoZ6ejCiHTCQYQ9ep/CRKRLoPeKmFgwUlQtIu6q3Q2BgYPYeXhGCtHNaeaper15An5z50bLEyR8cBfA==",
+  "signature": "G6N6+ycSr5RRloGh1zEVX0BxSmfL03JWHck9T66K4HC+X2Yf1sL2hGbOOGqw51T2KEMO5X5NditkATltXXgPWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://fisher-palm-processes-whereas.trycloudflare.com",
-  "httpUrl": "https://fisher-palm-processes-whereas.trycloudflare.com",
-  "updatedAt": "2026-10-21T11:42:41.689Z",
-  "expiresAt": "2026-10-22T11:42:41.689Z",
-  "nonce": "0b11aaeb39c4903b03e6c5c5ffc360f4",
+  "wsUrl": "wss://twins-rights-brisbane-scott.trycloudflare.com",
+  "httpUrl": "https://twins-rights-brisbane-scott.trycloudflare.com",
+  "updatedAt": "2026-10-21T12:07:54.780Z",
+  "expiresAt": "2026-10-22T12:07:54.780Z",
+  "nonce": "9d0b0ea64558749fad3d7b3710cb327f",
   "payload": {
-    "wsUrl": "wss://fisher-palm-processes-whereas.trycloudflare.com",
-    "httpUrl": "https://fisher-palm-processes-whereas.trycloudflare.com",
-    "issuedAt": "2026-10-21T11:42:41.689Z",
-    "expiresAt": "2026-10-22T11:42:41.689Z",
-    "nonce": "0b11aaeb39c4903b03e6c5c5ffc360f4"
+    "wsUrl": "wss://twins-rights-brisbane-scott.trycloudflare.com",
+    "httpUrl": "https://twins-rights-brisbane-scott.trycloudflare.com",
+    "issuedAt": "2026-10-21T12:07:54.780Z",
+    "expiresAt": "2026-10-22T12:07:54.780Z",
+    "nonce": "9d0b0ea64558749fad3d7b3710cb327f"
   },
-  "signature": "3d15XwNlw0lgOgR2AMoqml2Rcvg8DeQMLzRgm/Q1WWeUbFTm96Y3WlQzrplCvwqgE+qqqmzdskNRjKWGsJ/i0g==",
+  "signature": "G3xXbMCyr69gIP0Jxg3xghbv7QnLyR+0hZyskfZ1UUPuVm03S1tmBi8t60u4eJck6bufGGJl3gi3yez68tNAvQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

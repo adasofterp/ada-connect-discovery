@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://orleans-louisville-mouse-country.trycloudflare.com",
-  "httpUrl": "https://orleans-louisville-mouse-country.trycloudflare.com",
-  "updatedAt": "2026-10-21T06:36:55.224Z",
-  "expiresAt": "2026-10-22T06:36:55.224Z",
-  "nonce": "e78eac8218d641bd4cbf262122934570",
+  "wsUrl": "wss://favourites-excerpt-catherine-language.trycloudflare.com",
+  "httpUrl": "https://favourites-excerpt-catherine-language.trycloudflare.com",
+  "updatedAt": "2026-10-21T06:45:37.623Z",
+  "expiresAt": "2026-10-22T06:45:37.623Z",
+  "nonce": "147c06cd5343bcfa48c9bab929fb487e",
   "payload": {
-    "wsUrl": "wss://orleans-louisville-mouse-country.trycloudflare.com",
-    "httpUrl": "https://orleans-louisville-mouse-country.trycloudflare.com",
-    "issuedAt": "2026-10-21T06:36:55.224Z",
-    "expiresAt": "2026-10-22T06:36:55.224Z",
-    "nonce": "e78eac8218d641bd4cbf262122934570"
+    "wsUrl": "wss://favourites-excerpt-catherine-language.trycloudflare.com",
+    "httpUrl": "https://favourites-excerpt-catherine-language.trycloudflare.com",
+    "issuedAt": "2026-10-21T06:45:37.623Z",
+    "expiresAt": "2026-10-22T06:45:37.623Z",
+    "nonce": "147c06cd5343bcfa48c9bab929fb487e"
   },
-  "signature": "3tWo6CTUJqva+aou2CPpUFI/GX3MH5YkfdWn/KHOSlNav+MINy1QA5vttzx5far9phjwo8x3H9kgkvRPyXS/yA==",
+  "signature": "PIFCrxRniJUH1tQDtQ2DPTv4HKuxT/Yg4OjWmkZnzCLxtfuHtoQQVM8o6sSPWeIWEl9gGwCJ3951vhdzPS1wlg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

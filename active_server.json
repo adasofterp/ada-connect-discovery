@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://foundation-bones-celebration-charleston.trycloudflare.com",
-  "httpUrl": "https://foundation-bones-celebration-charleston.trycloudflare.com",
-  "updatedAt": "2026-10-21T06:02:32.477Z",
-  "expiresAt": "2026-10-22T06:02:32.477Z",
-  "nonce": "e6dc81e2d251f2ecf4c1d1e1bee78734",
+  "wsUrl": "wss://read-zum-aye-construction.trycloudflare.com",
+  "httpUrl": "https://read-zum-aye-construction.trycloudflare.com",
+  "updatedAt": "2026-10-21T06:19:21.092Z",
+  "expiresAt": "2026-10-22T06:19:21.092Z",
+  "nonce": "103d037d0a0c5d70a09c3116f748d93b",
   "payload": {
-    "wsUrl": "wss://foundation-bones-celebration-charleston.trycloudflare.com",
-    "httpUrl": "https://foundation-bones-celebration-charleston.trycloudflare.com",
-    "issuedAt": "2026-10-21T06:02:32.477Z",
-    "expiresAt": "2026-10-22T06:02:32.477Z",
-    "nonce": "e6dc81e2d251f2ecf4c1d1e1bee78734"
+    "wsUrl": "wss://read-zum-aye-construction.trycloudflare.com",
+    "httpUrl": "https://read-zum-aye-construction.trycloudflare.com",
+    "issuedAt": "2026-10-21T06:19:21.092Z",
+    "expiresAt": "2026-10-22T06:19:21.092Z",
+    "nonce": "103d037d0a0c5d70a09c3116f748d93b"
   },
-  "signature": "HjrKagV8g+4idnXY6mHi4AQM0QijxJ0AkWdVO6MPZEZCrbivJFKtapBKt7vqN94dAcoU8kdSVVXLyrPhfAh5gQ==",
+  "signature": "N+JI60uIjCs3A1NywdDKVP1/uZWDcdgZ2dkVw46WfR9Ebe5xnYe2kcORzyFe/5NvZGPcin497guQ+XSleES6gQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-21T07:23:31.929Z",
-  "expiresAt": "2026-10-22T07:23:31.929Z",
-  "nonce": "ab935617e7173ac1c392bb7bbd7ab0f5",
+  "wsUrl": "wss://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
+  "httpUrl": "https://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
+  "updatedAt": "2026-10-21T07:23:40.614Z",
+  "expiresAt": "2026-10-22T07:23:40.614Z",
+  "nonce": "3abf17f9b8b603aed578e472ea497fbd",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-21T07:23:31.929Z",
-    "expiresAt": "2026-10-22T07:23:31.929Z",
-    "nonce": "ab935617e7173ac1c392bb7bbd7ab0f5"
+    "wsUrl": "wss://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
+    "httpUrl": "https://fabulous-motion-shakespeare-brilliant.trycloudflare.com",
+    "issuedAt": "2026-10-21T07:23:40.614Z",
+    "expiresAt": "2026-10-22T07:23:40.614Z",
+    "nonce": "3abf17f9b8b603aed578e472ea497fbd"
   },
-  "signature": "t5W4rVv00x8Z2zIHaZz/YnX2EAnQuyNGEQJbx/E4NU/+2BwxA23eFvfN+8PUVvROIUApiaN1ouERtywxM/plYA==",
+  "signature": "GJcytnczoZ6ejCiHTCQYQ9ep/CRKRLoPeKmFgwUlQtIu6q3Q2BgYPYeXhGCtHNaeaper15An5z50bLEyR8cBfA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

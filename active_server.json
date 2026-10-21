@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://formula-mph-constant-novels.trycloudflare.com",
-  "httpUrl": "https://formula-mph-constant-novels.trycloudflare.com",
-  "updatedAt": "2026-10-21T00:38:19.415Z",
-  "expiresAt": "2026-10-22T00:38:19.415Z",
-  "nonce": "bf996bf0c4255ea80b3a29d8d9fe524f",
+  "wsUrl": "wss://monte-margaret-herein-discover.trycloudflare.com",
+  "httpUrl": "https://monte-margaret-herein-discover.trycloudflare.com",
+  "updatedAt": "2026-10-21T00:59:06.727Z",
+  "expiresAt": "2026-10-22T00:59:06.727Z",
+  "nonce": "f17dd9d64dae4c3ae5fdf13f3b99be9e",
   "payload": {
-    "wsUrl": "wss://formula-mph-constant-novels.trycloudflare.com",
-    "httpUrl": "https://formula-mph-constant-novels.trycloudflare.com",
-    "issuedAt": "2026-10-21T00:38:19.415Z",
-    "expiresAt": "2026-10-22T00:38:19.415Z",
-    "nonce": "bf996bf0c4255ea80b3a29d8d9fe524f"
+    "wsUrl": "wss://monte-margaret-herein-discover.trycloudflare.com",
+    "httpUrl": "https://monte-margaret-herein-discover.trycloudflare.com",
+    "issuedAt": "2026-10-21T00:59:06.727Z",
+    "expiresAt": "2026-10-22T00:59:06.727Z",
+    "nonce": "f17dd9d64dae4c3ae5fdf13f3b99be9e"
   },
-  "signature": "OTUm4UWPxw5D1/0l7rFcF9Qu7o3XO/I7y6PcDV7RMMj6OKPt5jAxQDG168iLPKkxmFHCWClSJGDydijQmCOSEg==",
+  "signature": "YI+DsvEeo03ut4Q9rZ5GUlXpHht7cew1WWpqgwNBd1sAVT7h17qZXjZh5wxbzxp6yPKB9lZwD1pGrQqEZ22M/g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

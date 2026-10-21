@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://industrial-greetings-variety-certificates.trycloudflare.com",
-  "httpUrl": "https://industrial-greetings-variety-certificates.trycloudflare.com",
-  "updatedAt": "2026-10-21T10:49:22.704Z",
-  "expiresAt": "2026-10-22T10:49:22.704Z",
-  "nonce": "f71411ee2f1dc6dd0e5a19b22496bfbf",
+  "wsUrl": "wss://fisher-palm-processes-whereas.trycloudflare.com",
+  "httpUrl": "https://fisher-palm-processes-whereas.trycloudflare.com",
+  "updatedAt": "2026-10-21T11:42:41.689Z",
+  "expiresAt": "2026-10-22T11:42:41.689Z",
+  "nonce": "0b11aaeb39c4903b03e6c5c5ffc360f4",
   "payload": {
-    "wsUrl": "wss://industrial-greetings-variety-certificates.trycloudflare.com",
-    "httpUrl": "https://industrial-greetings-variety-certificates.trycloudflare.com",
-    "issuedAt": "2026-10-21T10:49:22.704Z",
-    "expiresAt": "2026-10-22T10:49:22.704Z",
-    "nonce": "f71411ee2f1dc6dd0e5a19b22496bfbf"
+    "wsUrl": "wss://fisher-palm-processes-whereas.trycloudflare.com",
+    "httpUrl": "https://fisher-palm-processes-whereas.trycloudflare.com",
+    "issuedAt": "2026-10-21T11:42:41.689Z",
+    "expiresAt": "2026-10-22T11:42:41.689Z",
+    "nonce": "0b11aaeb39c4903b03e6c5c5ffc360f4"
   },
-  "signature": "niaFihGI1TiZl1bIRP3MpNSTftByVVVyXkqEka06jE0AmGJ+Wuj0ySPEwqsoE3SGZK0WKmXAfE6gspky7ECRBA==",
+  "signature": "3d15XwNlw0lgOgR2AMoqml2Rcvg8DeQMLzRgm/Q1WWeUbFTm96Y3WlQzrplCvwqgE+qqqmzdskNRjKWGsJ/i0g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

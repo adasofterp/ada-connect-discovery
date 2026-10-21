@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://informal-aware-refurbished-identifier.trycloudflare.com",
-  "httpUrl": "https://informal-aware-refurbished-identifier.trycloudflare.com",
-  "updatedAt": "2026-10-21T00:11:49.969Z",
-  "expiresAt": "2026-10-22T00:11:49.969Z",
-  "nonce": "bf2657d2f66dbead74ebf310841f221a",
+  "wsUrl": "wss://formula-mph-constant-novels.trycloudflare.com",
+  "httpUrl": "https://formula-mph-constant-novels.trycloudflare.com",
+  "updatedAt": "2026-10-21T00:38:19.415Z",
+  "expiresAt": "2026-10-22T00:38:19.415Z",
+  "nonce": "bf996bf0c4255ea80b3a29d8d9fe524f",
   "payload": {
-    "wsUrl": "wss://informal-aware-refurbished-identifier.trycloudflare.com",
-    "httpUrl": "https://informal-aware-refurbished-identifier.trycloudflare.com",
-    "issuedAt": "2026-10-21T00:11:49.969Z",
-    "expiresAt": "2026-10-22T00:11:49.969Z",
-    "nonce": "bf2657d2f66dbead74ebf310841f221a"
+    "wsUrl": "wss://formula-mph-constant-novels.trycloudflare.com",
+    "httpUrl": "https://formula-mph-constant-novels.trycloudflare.com",
+    "issuedAt": "2026-10-21T00:38:19.415Z",
+    "expiresAt": "2026-10-22T00:38:19.415Z",
+    "nonce": "bf996bf0c4255ea80b3a29d8d9fe524f"
   },
-  "signature": "sLxZjGiS96ac7+1++W126LNZFrbtYnAUip2phj4WBAQN6jvyleBR3FMOUBdp+9UhF4V3jS+qErPGPFQ2eDWfJw==",
+  "signature": "OTUm4UWPxw5D1/0l7rFcF9Qu7o3XO/I7y6PcDV7RMMj6OKPt5jAxQDG168iLPKkxmFHCWClSJGDydijQmCOSEg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

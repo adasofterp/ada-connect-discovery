@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://member-favorite-stanford-invited.trycloudflare.com",
-  "httpUrl": "https://member-favorite-stanford-invited.trycloudflare.com",
-  "updatedAt": "2026-10-21T12:38:44.216Z",
-  "expiresAt": "2026-10-22T12:38:44.216Z",
-  "nonce": "c85acb1a84685aef00c65e1bb1f5d1ab",
+  "wsUrl": "wss://broad-belkin-memo-counters.trycloudflare.com",
+  "httpUrl": "https://broad-belkin-memo-counters.trycloudflare.com",
+  "updatedAt": "2026-10-21T14:31:20.522Z",
+  "expiresAt": "2026-10-22T14:31:20.522Z",
+  "nonce": "38e055d0fef2c105b0e06dddbb8d508e",
   "payload": {
-    "wsUrl": "wss://member-favorite-stanford-invited.trycloudflare.com",
-    "httpUrl": "https://member-favorite-stanford-invited.trycloudflare.com",
-    "issuedAt": "2026-10-21T12:38:44.216Z",
-    "expiresAt": "2026-10-22T12:38:44.216Z",
-    "nonce": "c85acb1a84685aef00c65e1bb1f5d1ab"
+    "wsUrl": "wss://broad-belkin-memo-counters.trycloudflare.com",
+    "httpUrl": "https://broad-belkin-memo-counters.trycloudflare.com",
+    "issuedAt": "2026-10-21T14:31:20.522Z",
+    "expiresAt": "2026-10-22T14:31:20.522Z",
+    "nonce": "38e055d0fef2c105b0e06dddbb8d508e"
   },
-  "signature": "8FB5J6YsJ+x1MRjxyk+ZD9VnOxEYvP21AsbnXYds4HQ8OmyM1OYXARLWA+8Wp8h3EdL/UgAd727jx0ub99nyig==",
+  "signature": "KAa653XzRUt3VzeHERObko+lRsSmts1FpUA4RoqNCz1FEsTPYzG0gX+P6pl4nSN3Rs+46B6h8cHKloor6FRcuA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

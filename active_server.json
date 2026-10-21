@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shade-xhtml-poly-keyboard.trycloudflare.com",
-  "httpUrl": "https://shade-xhtml-poly-keyboard.trycloudflare.com",
-  "updatedAt": "2026-10-21T01:30:26.965Z",
-  "expiresAt": "2026-10-22T01:30:26.965Z",
-  "nonce": "60361d5728693751f17a5e67847334b5",
+  "wsUrl": "wss://detective-slot-achieve-question.trycloudflare.com",
+  "httpUrl": "https://detective-slot-achieve-question.trycloudflare.com",
+  "updatedAt": "2026-10-21T01:40:58.639Z",
+  "expiresAt": "2026-10-22T01:40:58.639Z",
+  "nonce": "113d4bf722c1b4ca097094c450cb9fda",
   "payload": {
-    "wsUrl": "wss://shade-xhtml-poly-keyboard.trycloudflare.com",
-    "httpUrl": "https://shade-xhtml-poly-keyboard.trycloudflare.com",
-    "issuedAt": "2026-10-21T01:30:26.965Z",
-    "expiresAt": "2026-10-22T01:30:26.965Z",
-    "nonce": "60361d5728693751f17a5e67847334b5"
+    "wsUrl": "wss://detective-slot-achieve-question.trycloudflare.com",
+    "httpUrl": "https://detective-slot-achieve-question.trycloudflare.com",
+    "issuedAt": "2026-10-21T01:40:58.639Z",
+    "expiresAt": "2026-10-22T01:40:58.639Z",
+    "nonce": "113d4bf722c1b4ca097094c450cb9fda"
   },
-  "signature": "RWoFruqOMY7Xda2AkUppCZFLUu83tZxY+A2+FblmBBEMT3t6sInO70adh0cwW4lqobK163FNK70C9LB0gdXh3Q==",
+  "signature": "oXEV7/5gwHExHKeSK4VoOBJUwehxsDq5X1YYgIoTP2REDD1iH+DoxWLIo4KUsGQ9QV0bS8M+KDKduTFJdPyC/Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

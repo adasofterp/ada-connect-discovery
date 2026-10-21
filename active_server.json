@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://approach-gossip-animated-associations.trycloudflare.com",
-  "httpUrl": "https://approach-gossip-animated-associations.trycloudflare.com",
-  "updatedAt": "2026-10-21T05:06:39.319Z",
-  "expiresAt": "2026-10-22T05:06:39.319Z",
-  "nonce": "ade58594279a8d6660f4d73e8a58902d",
+  "wsUrl": "wss://top-arrives-maintenance-hall.trycloudflare.com",
+  "httpUrl": "https://top-arrives-maintenance-hall.trycloudflare.com",
+  "updatedAt": "2026-10-21T05:17:04.297Z",
+  "expiresAt": "2026-10-22T05:17:04.297Z",
+  "nonce": "3bfbb2bd06865286b10b7195bbd7b5ef",
   "payload": {
-    "wsUrl": "wss://approach-gossip-animated-associations.trycloudflare.com",
-    "httpUrl": "https://approach-gossip-animated-associations.trycloudflare.com",
-    "issuedAt": "2026-10-21T05:06:39.319Z",
-    "expiresAt": "2026-10-22T05:06:39.319Z",
-    "nonce": "ade58594279a8d6660f4d73e8a58902d"
+    "wsUrl": "wss://top-arrives-maintenance-hall.trycloudflare.com",
+    "httpUrl": "https://top-arrives-maintenance-hall.trycloudflare.com",
+    "issuedAt": "2026-10-21T05:17:04.297Z",
+    "expiresAt": "2026-10-22T05:17:04.297Z",
+    "nonce": "3bfbb2bd06865286b10b7195bbd7b5ef"
   },
-  "signature": "WV8MdyAVHTZEIrDhpX1t+XaNa1jOxG8Bno+6PUaB89ugRNpvxlpVatnXBMW3qSrzBe5etaYNyhvQoSYkyUNCKQ==",
+  "signature": "v01kHFd8ywieWzKVygUBb2CnNNdDXCgZWGbF6esC73/wsZSG8KkzKOA6CjkuSFlly8F+9BvIWol7oMcf5Nz6Kg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

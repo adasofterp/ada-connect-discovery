@@ -1,19 +1,19 @@
 {
-  "wsUrl": "wss://countries-claims-parental-chose.trycloudflare.com",
-  "httpUrl": "https://countries-claims-parental-chose.trycloudflare.com",
-  "updatedAt": "2026-10-21T12:08:15.059Z",
-  "expiresAt": "2026-10-22T12:08:15.059Z",
-  "nonce": "4bc7681ea94ad38f6e9d479eaafc02f4",
+  "wsUrl": "wss://attachment-officially-next-lane.trycloudflare.com",
+  "httpUrl": "https://attachment-officially-next-lane.trycloudflare.com",
+  "updatedAt": "2026-10-21T12:29:23.403Z",
+  "expiresAt": "2026-10-22T12:29:23.403Z",
+  "nonce": "4e4950cc11a5e2ce34942c86643220c4",
   "payload": {
-    "wsUrl": "wss://countries-claims-parental-chose.trycloudflare.com",
-    "httpUrl": "https://countries-claims-parental-chose.trycloudflare.com",
-    "issuedAt": "2026-10-21T12:08:15.059Z",
-    "expiresAt": "2026-10-22T12:08:15.059Z",
-    "nonce": "4bc7681ea94ad38f6e9d479eaafc02f4"
+    "wsUrl": "wss://attachment-officially-next-lane.trycloudflare.com",
+    "httpUrl": "https://attachment-officially-next-lane.trycloudflare.com",
+    "issuedAt": "2026-10-21T12:29:23.403Z",
+    "expiresAt": "2026-10-22T12:29:23.403Z",
+    "nonce": "4e4950cc11a5e2ce34942c86643220c4"
   },
-  "signature": "QE2uNRdNBcgxJFzQ5aPMh+Zc/VvsLwIMhOM2BAyTIXQWWVcBWdLP45zQJDkSSANhRbjVnebDpVUwO5Y1FYE9zA==",
+  "signature": "yH/al9L7Ygdr7CF2MHBy0gJywTx9WfyjlNh4JGFq7JmqUdsonrjqZ5Nz56o9ndm0g/nuyMcIlvK0MXc1zv6opA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
-  "latestClientVersion": "1.4.0",
-  "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",
+  "latestClientVersion": "1.5.0",
+  "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",
   "service": "Ada-Connect Cross-City Relay"
 }

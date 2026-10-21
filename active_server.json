@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://coordinate-lie-excluding-distribution.trycloudflare.com",
-  "httpUrl": "https://coordinate-lie-excluding-distribution.trycloudflare.com",
-  "updatedAt": "2026-10-21T03:53:24.640Z",
-  "expiresAt": "2026-10-22T03:53:24.640Z",
-  "nonce": "978981e712ba9e517828801a5220eaa4",
+  "wsUrl": "wss://drawings-scale-finally-console.trycloudflare.com",
+  "httpUrl": "https://drawings-scale-finally-console.trycloudflare.com",
+  "updatedAt": "2026-10-21T04:24:41.523Z",
+  "expiresAt": "2026-10-22T04:24:41.523Z",
+  "nonce": "03dc3552361ff81e6d0ec6c8de741178",
   "payload": {
-    "wsUrl": "wss://coordinate-lie-excluding-distribution.trycloudflare.com",
-    "httpUrl": "https://coordinate-lie-excluding-distribution.trycloudflare.com",
-    "issuedAt": "2026-10-21T03:53:24.640Z",
-    "expiresAt": "2026-10-22T03:53:24.640Z",
-    "nonce": "978981e712ba9e517828801a5220eaa4"
+    "wsUrl": "wss://drawings-scale-finally-console.trycloudflare.com",
+    "httpUrl": "https://drawings-scale-finally-console.trycloudflare.com",
+    "issuedAt": "2026-10-21T04:24:41.523Z",
+    "expiresAt": "2026-10-22T04:24:41.523Z",
+    "nonce": "03dc3552361ff81e6d0ec6c8de741178"
   },
-  "signature": "fEIJ78JgZDW7Sp7Jk7QPtvCXVnkTAKsjjPxN8k0BzAAXIOCFha2wC32kjGCajOf653t/7/E4WndOS0WhNQAEvg==",
+  "signature": "Wc09B3tnXvWmQCm7aHT++egHR1h85A2g91DAAdClCPhtP/08bJNCnFgwK/FLKga88oE9/3FKIya8PKDv0ueL+A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

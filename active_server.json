@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://top-arrives-maintenance-hall.trycloudflare.com",
-  "httpUrl": "https://top-arrives-maintenance-hall.trycloudflare.com",
-  "updatedAt": "2026-10-21T05:17:04.297Z",
-  "expiresAt": "2026-10-22T05:17:04.297Z",
-  "nonce": "3bfbb2bd06865286b10b7195bbd7b5ef",
+  "wsUrl": "wss://thee-keno-colin-gratis.trycloudflare.com",
+  "httpUrl": "https://thee-keno-colin-gratis.trycloudflare.com",
+  "updatedAt": "2026-10-21T05:43:09.447Z",
+  "expiresAt": "2026-10-22T05:43:09.447Z",
+  "nonce": "0534e7dce75d56d1ba5f2bc5a3c1c2e9",
   "payload": {
-    "wsUrl": "wss://top-arrives-maintenance-hall.trycloudflare.com",
-    "httpUrl": "https://top-arrives-maintenance-hall.trycloudflare.com",
-    "issuedAt": "2026-10-21T05:17:04.297Z",
-    "expiresAt": "2026-10-22T05:17:04.297Z",
-    "nonce": "3bfbb2bd06865286b10b7195bbd7b5ef"
+    "wsUrl": "wss://thee-keno-colin-gratis.trycloudflare.com",
+    "httpUrl": "https://thee-keno-colin-gratis.trycloudflare.com",
+    "issuedAt": "2026-10-21T05:43:09.447Z",
+    "expiresAt": "2026-10-22T05:43:09.447Z",
+    "nonce": "0534e7dce75d56d1ba5f2bc5a3c1c2e9"
   },
-  "signature": "v01kHFd8ywieWzKVygUBb2CnNNdDXCgZWGbF6esC73/wsZSG8KkzKOA6CjkuSFlly8F+9BvIWol7oMcf5Nz6Kg==",
+  "signature": "PbG1LEW7/DWKxookTceui/igT4IXOXYAwP3Qz0t/bamawnqLmwYLPhfkePvjS8VKMsVJHdgucp6GrpxetXAmRw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

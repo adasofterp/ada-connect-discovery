@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://raleigh-cubic-sound-rpg.trycloudflare.com",
-  "httpUrl": "https://raleigh-cubic-sound-rpg.trycloudflare.com",
-  "updatedAt": "2026-10-21T06:20:08.632Z",
-  "expiresAt": "2026-10-22T06:20:08.632Z",
-  "nonce": "9e2fced985b8e74e2cdcf83d41daa595",
+  "wsUrl": "wss://orleans-louisville-mouse-country.trycloudflare.com",
+  "httpUrl": "https://orleans-louisville-mouse-country.trycloudflare.com",
+  "updatedAt": "2026-10-21T06:36:55.224Z",
+  "expiresAt": "2026-10-22T06:36:55.224Z",
+  "nonce": "e78eac8218d641bd4cbf262122934570",
   "payload": {
-    "wsUrl": "wss://raleigh-cubic-sound-rpg.trycloudflare.com",
-    "httpUrl": "https://raleigh-cubic-sound-rpg.trycloudflare.com",
-    "issuedAt": "2026-10-21T06:20:08.632Z",
-    "expiresAt": "2026-10-22T06:20:08.632Z",
-    "nonce": "9e2fced985b8e74e2cdcf83d41daa595"
+    "wsUrl": "wss://orleans-louisville-mouse-country.trycloudflare.com",
+    "httpUrl": "https://orleans-louisville-mouse-country.trycloudflare.com",
+    "issuedAt": "2026-10-21T06:36:55.224Z",
+    "expiresAt": "2026-10-22T06:36:55.224Z",
+    "nonce": "e78eac8218d641bd4cbf262122934570"
   },
-  "signature": "wJ2rYBaac+ExB/DjQTAVQy98hqzxC34e3OigqfME5Mr9yBAyrFxqycv/ef38IornQFDR6gF2/MX2f7iuvMMFOw==",
+  "signature": "3tWo6CTUJqva+aou2CPpUFI/GX3MH5YkfdWn/KHOSlNav+MINy1QA5vttzx5far9phjwo8x3H9kgkvRPyXS/yA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

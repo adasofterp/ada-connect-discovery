@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://monte-margaret-herein-discover.trycloudflare.com",
-  "httpUrl": "https://monte-margaret-herein-discover.trycloudflare.com",
-  "updatedAt": "2026-10-21T00:59:06.727Z",
-  "expiresAt": "2026-10-22T00:59:06.727Z",
-  "nonce": "f17dd9d64dae4c3ae5fdf13f3b99be9e",
+  "wsUrl": "wss://arrivals-reserves-dark-taught.trycloudflare.com",
+  "httpUrl": "https://arrivals-reserves-dark-taught.trycloudflare.com",
+  "updatedAt": "2026-10-21T01:09:30.398Z",
+  "expiresAt": "2026-10-22T01:09:30.398Z",
+  "nonce": "28ff2de8493bd121d095dfc98a06b67e",
   "payload": {
-    "wsUrl": "wss://monte-margaret-herein-discover.trycloudflare.com",
-    "httpUrl": "https://monte-margaret-herein-discover.trycloudflare.com",
-    "issuedAt": "2026-10-21T00:59:06.727Z",
-    "expiresAt": "2026-10-22T00:59:06.727Z",
-    "nonce": "f17dd9d64dae4c3ae5fdf13f3b99be9e"
+    "wsUrl": "wss://arrivals-reserves-dark-taught.trycloudflare.com",
+    "httpUrl": "https://arrivals-reserves-dark-taught.trycloudflare.com",
+    "issuedAt": "2026-10-21T01:09:30.398Z",
+    "expiresAt": "2026-10-22T01:09:30.398Z",
+    "nonce": "28ff2de8493bd121d095dfc98a06b67e"
   },
-  "signature": "YI+DsvEeo03ut4Q9rZ5GUlXpHht7cew1WWpqgwNBd1sAVT7h17qZXjZh5wxbzxp6yPKB9lZwD1pGrQqEZ22M/g==",
+  "signature": "I11C5mlzhY7xjzFFZwlboZFFSGyLUOSYR3ZRHRUhIx8pB20U1mKAT8vELusbgefznZng8NbsfBV9msX1fk978w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

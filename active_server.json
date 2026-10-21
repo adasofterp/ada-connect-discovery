@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://idol-comparable-sublime-drugs.trycloudflare.com",
-  "httpUrl": "https://idol-comparable-sublime-drugs.trycloudflare.com",
-  "updatedAt": "2026-10-21T04:35:08.290Z",
-  "expiresAt": "2026-10-22T04:35:08.290Z",
-  "nonce": "1ec4a3a5432b71ec5c97e66c65083f18",
+  "wsUrl": "wss://profits-todd-icq-consumption.trycloudflare.com",
+  "httpUrl": "https://profits-todd-icq-consumption.trycloudflare.com",
+  "updatedAt": "2026-10-21T04:45:34.156Z",
+  "expiresAt": "2026-10-22T04:45:34.156Z",
+  "nonce": "19a0b82a0341d462619b4a08ffc2fca4",
   "payload": {
-    "wsUrl": "wss://idol-comparable-sublime-drugs.trycloudflare.com",
-    "httpUrl": "https://idol-comparable-sublime-drugs.trycloudflare.com",
-    "issuedAt": "2026-10-21T04:35:08.290Z",
-    "expiresAt": "2026-10-22T04:35:08.290Z",
-    "nonce": "1ec4a3a5432b71ec5c97e66c65083f18"
+    "wsUrl": "wss://profits-todd-icq-consumption.trycloudflare.com",
+    "httpUrl": "https://profits-todd-icq-consumption.trycloudflare.com",
+    "issuedAt": "2026-10-21T04:45:34.156Z",
+    "expiresAt": "2026-10-22T04:45:34.156Z",
+    "nonce": "19a0b82a0341d462619b4a08ffc2fca4"
   },
-  "signature": "08MF8JSswO1X4yfMod46maC2+xzcemA8h7uO5yRnMDxy1VFQKyw7KqsnQH6lRpTfbtR3MiSV+IXaerZ1Fo7+xg==",
+  "signature": "E8Zt/RksxPEhcKzreLHt8o/+cpBERQSLJYb/zM+DC6L7QH1vSMb8AtFbdbTq1B9SgEhDRWNio+nE7fUk83bRnw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

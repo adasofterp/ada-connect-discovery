@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://school-remarks-mason-lodging.trycloudflare.com",
-  "httpUrl": "https://school-remarks-mason-lodging.trycloudflare.com",
-  "updatedAt": "2026-10-21T02:38:25.532Z",
-  "expiresAt": "2026-10-22T02:38:25.532Z",
-  "nonce": "3c541f615376cb738fb2c9d8827e9891",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-21T03:11:35.261Z",
+  "expiresAt": "2026-10-22T03:11:35.261Z",
+  "nonce": "6a251578ab157837db8631b6976ec116",
   "payload": {
-    "wsUrl": "wss://school-remarks-mason-lodging.trycloudflare.com",
-    "httpUrl": "https://school-remarks-mason-lodging.trycloudflare.com",
-    "issuedAt": "2026-10-21T02:38:25.532Z",
-    "expiresAt": "2026-10-22T02:38:25.532Z",
-    "nonce": "3c541f615376cb738fb2c9d8827e9891"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-21T03:11:35.261Z",
+    "expiresAt": "2026-10-22T03:11:35.261Z",
+    "nonce": "6a251578ab157837db8631b6976ec116"
   },
-  "signature": "pXlTDkrJ9NCR7J+HsuWnU6FPd9klnL/m3ujj9loI5PMevC6MJTw4x5rELBRx7gYbU5VczYzwgJ3E16hFgZKMQQ==",
+  "signature": "eCD6RGoA9umhzoKRIxRtDmb8DCPKcSRSofDsDmM7cYoqbVVuQ9CAw24TOhmptbxW+nA5dc1z4Jz0gFjgXjQIWQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

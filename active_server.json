@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cam-defense-touched-fabric.trycloudflare.com",
-  "httpUrl": "https://cam-defense-touched-fabric.trycloudflare.com",
-  "updatedAt": "2026-10-21T10:45:56.756Z",
-  "expiresAt": "2026-10-22T10:45:56.756Z",
-  "nonce": "66e433dbd2267b07802f55d899382583",
+  "wsUrl": "wss://industrial-greetings-variety-certificates.trycloudflare.com",
+  "httpUrl": "https://industrial-greetings-variety-certificates.trycloudflare.com",
+  "updatedAt": "2026-10-21T10:49:22.704Z",
+  "expiresAt": "2026-10-22T10:49:22.704Z",
+  "nonce": "f71411ee2f1dc6dd0e5a19b22496bfbf",
   "payload": {
-    "wsUrl": "wss://cam-defense-touched-fabric.trycloudflare.com",
-    "httpUrl": "https://cam-defense-touched-fabric.trycloudflare.com",
-    "issuedAt": "2026-10-21T10:45:56.756Z",
-    "expiresAt": "2026-10-22T10:45:56.756Z",
-    "nonce": "66e433dbd2267b07802f55d899382583"
+    "wsUrl": "wss://industrial-greetings-variety-certificates.trycloudflare.com",
+    "httpUrl": "https://industrial-greetings-variety-certificates.trycloudflare.com",
+    "issuedAt": "2026-10-21T10:49:22.704Z",
+    "expiresAt": "2026-10-22T10:49:22.704Z",
+    "nonce": "f71411ee2f1dc6dd0e5a19b22496bfbf"
   },
-  "signature": "yeaBsKcJxVaFSBAryZx2UA8Vai3ksr8CDZf8YMDmBbutX3Z/A1Bom63YNkFDTb7zl4qdEDKbiUMzTpwmUYKdIg==",
+  "signature": "niaFihGI1TiZl1bIRP3MpNSTftByVVVyXkqEka06jE0AmGJ+Wuj0ySPEwqsoE3SGZK0WKmXAfE6gspky7ECRBA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

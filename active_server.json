@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://digest-reservation-medications-textiles.trycloudflare.com",
-  "httpUrl": "https://digest-reservation-medications-textiles.trycloudflare.com",
-  "updatedAt": "2026-10-21T02:22:38.431Z",
-  "expiresAt": "2026-10-22T02:22:38.431Z",
-  "nonce": "567b5406b6e5d6b121968d02444f260e",
+  "wsUrl": "wss://school-remarks-mason-lodging.trycloudflare.com",
+  "httpUrl": "https://school-remarks-mason-lodging.trycloudflare.com",
+  "updatedAt": "2026-10-21T02:38:25.532Z",
+  "expiresAt": "2026-10-22T02:38:25.532Z",
+  "nonce": "3c541f615376cb738fb2c9d8827e9891",
   "payload": {
-    "wsUrl": "wss://digest-reservation-medications-textiles.trycloudflare.com",
-    "httpUrl": "https://digest-reservation-medications-textiles.trycloudflare.com",
-    "issuedAt": "2026-10-21T02:22:38.431Z",
-    "expiresAt": "2026-10-22T02:22:38.431Z",
-    "nonce": "567b5406b6e5d6b121968d02444f260e"
+    "wsUrl": "wss://school-remarks-mason-lodging.trycloudflare.com",
+    "httpUrl": "https://school-remarks-mason-lodging.trycloudflare.com",
+    "issuedAt": "2026-10-21T02:38:25.532Z",
+    "expiresAt": "2026-10-22T02:38:25.532Z",
+    "nonce": "3c541f615376cb738fb2c9d8827e9891"
   },
-  "signature": "47ZarDOSo8AjzjmTwODA5/INiIyc+7KiKz2ASTOYYtRXrktULGaLtmN6Z+l7+EaoHLMbPybqjyzv9EjGfcz2+Q==",
+  "signature": "pXlTDkrJ9NCR7J+HsuWnU6FPd9klnL/m3ujj9loI5PMevC6MJTw4x5rELBRx7gYbU5VczYzwgJ3E16hFgZKMQQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

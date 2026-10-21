@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://magnet-apps-miles-pioneer.trycloudflare.com",
-  "httpUrl": "https://magnet-apps-miles-pioneer.trycloudflare.com",
-  "updatedAt": "2026-10-21T10:37:34.822Z",
-  "expiresAt": "2026-10-22T10:37:34.822Z",
-  "nonce": "39b584fdc6b59873ecc5ee6fcadd1c24",
+  "wsUrl": "wss://continually-hydrogen-forever-furnishings.trycloudflare.com",
+  "httpUrl": "https://continually-hydrogen-forever-furnishings.trycloudflare.com",
+  "updatedAt": "2026-10-21T10:44:38.654Z",
+  "expiresAt": "2026-10-22T10:44:38.654Z",
+  "nonce": "29e5167866375bcbe32c4fc58b4d0301",
   "payload": {
-    "wsUrl": "wss://magnet-apps-miles-pioneer.trycloudflare.com",
-    "httpUrl": "https://magnet-apps-miles-pioneer.trycloudflare.com",
-    "issuedAt": "2026-10-21T10:37:34.822Z",
-    "expiresAt": "2026-10-22T10:37:34.822Z",
-    "nonce": "39b584fdc6b59873ecc5ee6fcadd1c24"
+    "wsUrl": "wss://continually-hydrogen-forever-furnishings.trycloudflare.com",
+    "httpUrl": "https://continually-hydrogen-forever-furnishings.trycloudflare.com",
+    "issuedAt": "2026-10-21T10:44:38.654Z",
+    "expiresAt": "2026-10-22T10:44:38.654Z",
+    "nonce": "29e5167866375bcbe32c4fc58b4d0301"
   },
-  "signature": "jz51wxgoPNavyyyPcRjcHUYneBwruetuElLkOhoUd5iIGwOOUjfrcyoDgrMxaQ6Tu+CDoiNiM7ee3Ug8zw9k2g==",
+  "signature": "LljSmhwHhXJrLCpUxzvFNH+Bif3f/02L2g/dsue8t6yNU6uq8DmQXuRT6aYiTsMFj+6D6RwsTYUOfQIoOfA0Ew==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.4.0",
   "exeSha256": "DE8F9A02D2B49B8B2223BBF623CED7B72DCBD3C9809DFA7AB22AF8B22B5B7A5B",

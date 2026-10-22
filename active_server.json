@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://traveller-efficient-postcard-pick.trycloudflare.com",
-  "httpUrl": "https://traveller-efficient-postcard-pick.trycloudflare.com",
-  "updatedAt": "2026-10-22T20:01:39.210Z",
-  "expiresAt": "2026-10-23T20:01:39.210Z",
-  "nonce": "39402d242e3e9e148e8f94f462c443d8",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-22T20:51:12.892Z",
+  "expiresAt": "2026-10-23T20:51:12.892Z",
+  "nonce": "c7a77eaf36057490007f04b1b815b983",
   "payload": {
-    "wsUrl": "wss://traveller-efficient-postcard-pick.trycloudflare.com",
-    "httpUrl": "https://traveller-efficient-postcard-pick.trycloudflare.com",
-    "issuedAt": "2026-10-22T20:01:39.210Z",
-    "expiresAt": "2026-10-23T20:01:39.210Z",
-    "nonce": "39402d242e3e9e148e8f94f462c443d8"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-22T20:51:12.892Z",
+    "expiresAt": "2026-10-23T20:51:12.892Z",
+    "nonce": "c7a77eaf36057490007f04b1b815b983"
   },
-  "signature": "fGcskYk+TeK5tg5qP9GANhegTJN0NtBEGJcScbsdgxvrEKTverHRSOYrmfWCIGh5PPsL9sJhkQOB+cC0gD7xhQ==",
+  "signature": "TSGigw+xwTZ/6iE17sxmZnElp9LcU9LzYEqeX8oNbt3+nUxLfZvTc9BVR6pUJmQDfXvtq6Tii94HQHbZ5YvlXQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://roof-stay-partnership-connected.trycloudflare.com",
-  "httpUrl": "https://roof-stay-partnership-connected.trycloudflare.com",
-  "updatedAt": "2026-10-22T19:23:04.495Z",
-  "expiresAt": "2026-10-23T19:23:04.495Z",
-  "nonce": "560623a3d73465837f92825889e70afb",
+  "wsUrl": "wss://managers-voluntary-renewal-brown.trycloudflare.com",
+  "httpUrl": "https://managers-voluntary-renewal-brown.trycloudflare.com",
+  "updatedAt": "2026-10-22T19:47:34.173Z",
+  "expiresAt": "2026-10-23T19:47:34.173Z",
+  "nonce": "a4f8fde68ce78122979a06810932f315",
   "payload": {
-    "wsUrl": "wss://roof-stay-partnership-connected.trycloudflare.com",
-    "httpUrl": "https://roof-stay-partnership-connected.trycloudflare.com",
-    "issuedAt": "2026-10-22T19:23:04.495Z",
-    "expiresAt": "2026-10-23T19:23:04.495Z",
-    "nonce": "560623a3d73465837f92825889e70afb"
+    "wsUrl": "wss://managers-voluntary-renewal-brown.trycloudflare.com",
+    "httpUrl": "https://managers-voluntary-renewal-brown.trycloudflare.com",
+    "issuedAt": "2026-10-22T19:47:34.173Z",
+    "expiresAt": "2026-10-23T19:47:34.173Z",
+    "nonce": "a4f8fde68ce78122979a06810932f315"
   },
-  "signature": "Vkji8hohPoMokU8S9stx38jD1ZrQWUvAURSoPTgC4Ac93M05Kwjxt5PYOVyp2G4wWE7NmVDXsZ9qedVUEEjVFg==",
+  "signature": "x/PMEkx3cpnk2iIE1aYquKCcYnuY2FGYfty/VsgxJhjncqCb+rJX4TXjfz3+YHkJn8VuFTTNRU6KLDR39FGR2w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

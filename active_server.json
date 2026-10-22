@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://creative-shortly-accurately-diagnostic.trycloudflare.com",
-  "httpUrl": "https://creative-shortly-accurately-diagnostic.trycloudflare.com",
-  "updatedAt": "2026-10-22T18:39:01.061Z",
-  "expiresAt": "2026-10-23T18:39:01.061Z",
-  "nonce": "8bce6c973b567c3834319bde6c92310a",
+  "wsUrl": "wss://patch-peripheral-greene-membership.trycloudflare.com",
+  "httpUrl": "https://patch-peripheral-greene-membership.trycloudflare.com",
+  "updatedAt": "2026-10-22T18:54:35.961Z",
+  "expiresAt": "2026-10-23T18:54:35.961Z",
+  "nonce": "421870262d426ee14d62febc1c1cf871",
   "payload": {
-    "wsUrl": "wss://creative-shortly-accurately-diagnostic.trycloudflare.com",
-    "httpUrl": "https://creative-shortly-accurately-diagnostic.trycloudflare.com",
-    "issuedAt": "2026-10-22T18:39:01.061Z",
-    "expiresAt": "2026-10-23T18:39:01.061Z",
-    "nonce": "8bce6c973b567c3834319bde6c92310a"
+    "wsUrl": "wss://patch-peripheral-greene-membership.trycloudflare.com",
+    "httpUrl": "https://patch-peripheral-greene-membership.trycloudflare.com",
+    "issuedAt": "2026-10-22T18:54:35.961Z",
+    "expiresAt": "2026-10-23T18:54:35.961Z",
+    "nonce": "421870262d426ee14d62febc1c1cf871"
   },
-  "signature": "0Rql87T5gEgTkLTrbxmZYa9f8kkUzCVQD2tNZOIG8RWvypGHk6sc91o7YNkJnnTStAI0GbI8AlR65OKiXeEqDw==",
+  "signature": "V7pLMLwe0kq5UJXz9c89xjakDy5QQ/DHl+gtL3KXNuO1MYLY3NBmht9JhIJ9YlOXYzePxOFPbz40Xnw6gAPCkA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

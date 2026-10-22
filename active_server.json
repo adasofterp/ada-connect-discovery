@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://water-obligations-griffin-agriculture.trycloudflare.com",
-  "httpUrl": "https://water-obligations-griffin-agriculture.trycloudflare.com",
-  "updatedAt": "2026-10-22T13:13:50.381Z",
-  "expiresAt": "2026-10-23T13:13:50.381Z",
-  "nonce": "37e3c50d2460682cf2c15373f2686df8",
+  "wsUrl": "wss://creative-shortly-accurately-diagnostic.trycloudflare.com",
+  "httpUrl": "https://creative-shortly-accurately-diagnostic.trycloudflare.com",
+  "updatedAt": "2026-10-22T18:39:01.061Z",
+  "expiresAt": "2026-10-23T18:39:01.061Z",
+  "nonce": "8bce6c973b567c3834319bde6c92310a",
   "payload": {
-    "wsUrl": "wss://water-obligations-griffin-agriculture.trycloudflare.com",
-    "httpUrl": "https://water-obligations-griffin-agriculture.trycloudflare.com",
-    "issuedAt": "2026-10-22T13:13:50.381Z",
-    "expiresAt": "2026-10-23T13:13:50.381Z",
-    "nonce": "37e3c50d2460682cf2c15373f2686df8"
+    "wsUrl": "wss://creative-shortly-accurately-diagnostic.trycloudflare.com",
+    "httpUrl": "https://creative-shortly-accurately-diagnostic.trycloudflare.com",
+    "issuedAt": "2026-10-22T18:39:01.061Z",
+    "expiresAt": "2026-10-23T18:39:01.061Z",
+    "nonce": "8bce6c973b567c3834319bde6c92310a"
   },
-  "signature": "tNmFtehlDH6nX+jYpFhQwKSVQp9NsiUP+XynmNz61TCT7+NfRs+qMgWjApfs/JfT4nbRXWkKCPU1cXgBBXQVVQ==",
+  "signature": "0Rql87T5gEgTkLTrbxmZYa9f8kkUzCVQD2tNZOIG8RWvypGHk6sc91o7YNkJnnTStAI0GbI8AlR65OKiXeEqDw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

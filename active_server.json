@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reflected-shoes-vid-screening.trycloudflare.com",
-  "httpUrl": "https://reflected-shoes-vid-screening.trycloudflare.com",
-  "updatedAt": "2026-10-22T06:58:28.148Z",
-  "expiresAt": "2026-10-23T06:58:28.148Z",
-  "nonce": "e9e38cf24a46f0338f4164ebccdb4c0e",
+  "wsUrl": "wss://ooo-receptors-live-friend.trycloudflare.com",
+  "httpUrl": "https://ooo-receptors-live-friend.trycloudflare.com",
+  "updatedAt": "2026-10-22T11:17:58.206Z",
+  "expiresAt": "2026-10-23T11:17:58.206Z",
+  "nonce": "0b24a2f21de1eaad0ecc6ba0d7d58196",
   "payload": {
-    "wsUrl": "wss://reflected-shoes-vid-screening.trycloudflare.com",
-    "httpUrl": "https://reflected-shoes-vid-screening.trycloudflare.com",
-    "issuedAt": "2026-10-22T06:58:28.148Z",
-    "expiresAt": "2026-10-23T06:58:28.148Z",
-    "nonce": "e9e38cf24a46f0338f4164ebccdb4c0e"
+    "wsUrl": "wss://ooo-receptors-live-friend.trycloudflare.com",
+    "httpUrl": "https://ooo-receptors-live-friend.trycloudflare.com",
+    "issuedAt": "2026-10-22T11:17:58.206Z",
+    "expiresAt": "2026-10-23T11:17:58.206Z",
+    "nonce": "0b24a2f21de1eaad0ecc6ba0d7d58196"
   },
-  "signature": "kiphvDyb4ue1apiQ8rjpp1W8SAQ7C4jEGpts1Oe95aepaCbdKnpbpPWzuhtXJkAYKO7Fl33lDBwkuwbtnSZEXg==",
+  "signature": "xZqngzVWV+jpqYakS22lp4bC+EZeJ5wFcd7LXc9J1yURjJv9zwR+pZ0SV/B+R7w4oXCgcybGy3IP3/sQ12v4Sg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://unsigned-kit-publishing-rings.trycloudflare.com",
-  "httpUrl": "https://unsigned-kit-publishing-rings.trycloudflare.com",
-  "updatedAt": "2026-10-23T14:23:36.896Z",
-  "expiresAt": "2026-10-24T14:23:36.896Z",
-  "nonce": "6343fd1fcad659e70a7f49e7a0bf2e1a",
+  "wsUrl": "wss://app-marvel-crystal-folding.trycloudflare.com",
+  "httpUrl": "https://app-marvel-crystal-folding.trycloudflare.com",
+  "updatedAt": "2026-10-23T14:32:28.074Z",
+  "expiresAt": "2026-10-24T14:32:28.074Z",
+  "nonce": "f3448ec9e7926341ad815391b1b68e46",
   "payload": {
-    "wsUrl": "wss://unsigned-kit-publishing-rings.trycloudflare.com",
-    "httpUrl": "https://unsigned-kit-publishing-rings.trycloudflare.com",
-    "issuedAt": "2026-10-23T14:23:36.896Z",
-    "expiresAt": "2026-10-24T14:23:36.896Z",
-    "nonce": "6343fd1fcad659e70a7f49e7a0bf2e1a"
+    "wsUrl": "wss://app-marvel-crystal-folding.trycloudflare.com",
+    "httpUrl": "https://app-marvel-crystal-folding.trycloudflare.com",
+    "issuedAt": "2026-10-23T14:32:28.074Z",
+    "expiresAt": "2026-10-24T14:32:28.074Z",
+    "nonce": "f3448ec9e7926341ad815391b1b68e46"
   },
-  "signature": "RciQzZbLD6PiIXl4bZd5JUSnexLzXGHZcYdkJlIALzcfi1A0d9lIBvvf/kCmkk9uzNSRWlphjZ0nn4Pbw5MNjw==",
+  "signature": "6SS4y5/J1b0HhehGV4gXbV6xwbUx3/NglWzaSAFOoRbSQV8jn8GpMgfsqigtGY4yYF9ZwTdhU9sXuHAHYKZI7A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://coding-logo-findings-thermal.trycloudflare.com",
-  "httpUrl": "https://coding-logo-findings-thermal.trycloudflare.com",
-  "updatedAt": "2026-10-23T23:41:02.200Z",
-  "expiresAt": "2026-10-24T23:41:02.200Z",
-  "nonce": "222ec5b424bc452589bc33812a16e8eb",
+  "wsUrl": "wss://univ-deleted-took-developmental.trycloudflare.com",
+  "httpUrl": "https://univ-deleted-took-developmental.trycloudflare.com",
+  "updatedAt": "2026-10-23T23:51:27.256Z",
+  "expiresAt": "2026-10-24T23:51:27.256Z",
+  "nonce": "31bcf9f184cd6d08dd133e0c13b6eb35",
   "payload": {
-    "wsUrl": "wss://coding-logo-findings-thermal.trycloudflare.com",
-    "httpUrl": "https://coding-logo-findings-thermal.trycloudflare.com",
-    "issuedAt": "2026-10-23T23:41:02.200Z",
-    "expiresAt": "2026-10-24T23:41:02.200Z",
-    "nonce": "222ec5b424bc452589bc33812a16e8eb"
+    "wsUrl": "wss://univ-deleted-took-developmental.trycloudflare.com",
+    "httpUrl": "https://univ-deleted-took-developmental.trycloudflare.com",
+    "issuedAt": "2026-10-23T23:51:27.256Z",
+    "expiresAt": "2026-10-24T23:51:27.256Z",
+    "nonce": "31bcf9f184cd6d08dd133e0c13b6eb35"
   },
-  "signature": "pGQ8MAxhPd+6m+0sqJE4r8fWldc3O+Py9V4BbGtX5AjQj4Y6Yoxc0jNKBx1ETrvAaMrEMEvBgqT/lKYdbTZrSw==",
+  "signature": "R2Dmkkcm7Ip3I7+ESa8WD1R0KDEHMY9xi/zqQKmuzVUYs2hbwKkiA7DdtX0sNDQxgxj+EaYuZYqdDJoWtBdawA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

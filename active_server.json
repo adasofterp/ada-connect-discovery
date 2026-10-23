@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://quite-degrees-modules-aware.trycloudflare.com",
-  "httpUrl": "https://quite-degrees-modules-aware.trycloudflare.com",
-  "updatedAt": "2026-10-23T08:59:52.173Z",
-  "expiresAt": "2026-10-24T08:59:52.173Z",
-  "nonce": "6b0b870ad9a9795fe970a39119551988",
+  "wsUrl": "wss://translator-pie-satisfy-rely.trycloudflare.com",
+  "httpUrl": "https://translator-pie-satisfy-rely.trycloudflare.com",
+  "updatedAt": "2026-10-23T12:13:08.195Z",
+  "expiresAt": "2026-10-24T12:13:08.195Z",
+  "nonce": "dab4d921da15e40e06c32467dd5711f5",
   "payload": {
-    "wsUrl": "wss://quite-degrees-modules-aware.trycloudflare.com",
-    "httpUrl": "https://quite-degrees-modules-aware.trycloudflare.com",
-    "issuedAt": "2026-10-23T08:59:52.173Z",
-    "expiresAt": "2026-10-24T08:59:52.173Z",
-    "nonce": "6b0b870ad9a9795fe970a39119551988"
+    "wsUrl": "wss://translator-pie-satisfy-rely.trycloudflare.com",
+    "httpUrl": "https://translator-pie-satisfy-rely.trycloudflare.com",
+    "issuedAt": "2026-10-23T12:13:08.195Z",
+    "expiresAt": "2026-10-24T12:13:08.195Z",
+    "nonce": "dab4d921da15e40e06c32467dd5711f5"
   },
-  "signature": "KL7VmB/2/QbGgVU+DCpE5h2USBzRgl/+NQmEm3YQ9DcUQmF4mR7Lho20o63Sen745XaA+Tyjm6hvetV2laQWQA==",
+  "signature": "IUnV4YJ9nNaU4gCmihND6yWGbhHeBeD9I3+oX4sCWjhUljtcpsKlpy7qMXday/CV6McI8VEAg4LSZGiysgXrYw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

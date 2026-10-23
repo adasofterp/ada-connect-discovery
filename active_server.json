@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://hardware-wet-gold-glenn.trycloudflare.com",
-  "httpUrl": "https://hardware-wet-gold-glenn.trycloudflare.com",
-  "updatedAt": "2026-10-23T14:14:52.405Z",
-  "expiresAt": "2026-10-24T14:14:52.405Z",
-  "nonce": "c7820761956fb8d0370fca1556209bd2",
+  "wsUrl": "wss://unsigned-kit-publishing-rings.trycloudflare.com",
+  "httpUrl": "https://unsigned-kit-publishing-rings.trycloudflare.com",
+  "updatedAt": "2026-10-23T14:23:36.896Z",
+  "expiresAt": "2026-10-24T14:23:36.896Z",
+  "nonce": "6343fd1fcad659e70a7f49e7a0bf2e1a",
   "payload": {
-    "wsUrl": "wss://hardware-wet-gold-glenn.trycloudflare.com",
-    "httpUrl": "https://hardware-wet-gold-glenn.trycloudflare.com",
-    "issuedAt": "2026-10-23T14:14:52.405Z",
-    "expiresAt": "2026-10-24T14:14:52.405Z",
-    "nonce": "c7820761956fb8d0370fca1556209bd2"
+    "wsUrl": "wss://unsigned-kit-publishing-rings.trycloudflare.com",
+    "httpUrl": "https://unsigned-kit-publishing-rings.trycloudflare.com",
+    "issuedAt": "2026-10-23T14:23:36.896Z",
+    "expiresAt": "2026-10-24T14:23:36.896Z",
+    "nonce": "6343fd1fcad659e70a7f49e7a0bf2e1a"
   },
-  "signature": "LOYPFss1ea7sZ7/LOchuzTn4zK1tKP03RlOTJxsuTYHkEimHv3GPJHAT+eB/ZwAK//vGACSF76+KG3MY1E1Nyw==",
+  "signature": "RciQzZbLD6PiIXl4bZd5JUSnexLzXGHZcYdkJlIALzcfi1A0d9lIBvvf/kCmkk9uzNSRWlphjZ0nn4Pbw5MNjw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

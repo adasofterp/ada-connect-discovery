@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://app-marvel-crystal-folding.trycloudflare.com",
-  "httpUrl": "https://app-marvel-crystal-folding.trycloudflare.com",
-  "updatedAt": "2026-10-23T14:32:28.074Z",
-  "expiresAt": "2026-10-24T14:32:28.074Z",
-  "nonce": "f3448ec9e7926341ad815391b1b68e46",
+  "wsUrl": "wss://bingo-runner-gem-study.trycloudflare.com",
+  "httpUrl": "https://bingo-runner-gem-study.trycloudflare.com",
+  "updatedAt": "2026-10-23T22:04:11.905Z",
+  "expiresAt": "2026-10-24T22:04:11.905Z",
+  "nonce": "de7dfef0dfe3368a4050e7c972e2ba95",
   "payload": {
-    "wsUrl": "wss://app-marvel-crystal-folding.trycloudflare.com",
-    "httpUrl": "https://app-marvel-crystal-folding.trycloudflare.com",
-    "issuedAt": "2026-10-23T14:32:28.074Z",
-    "expiresAt": "2026-10-24T14:32:28.074Z",
-    "nonce": "f3448ec9e7926341ad815391b1b68e46"
+    "wsUrl": "wss://bingo-runner-gem-study.trycloudflare.com",
+    "httpUrl": "https://bingo-runner-gem-study.trycloudflare.com",
+    "issuedAt": "2026-10-23T22:04:11.905Z",
+    "expiresAt": "2026-10-24T22:04:11.905Z",
+    "nonce": "de7dfef0dfe3368a4050e7c972e2ba95"
   },
-  "signature": "6SS4y5/J1b0HhehGV4gXbV6xwbUx3/NglWzaSAFOoRbSQV8jn8GpMgfsqigtGY4yYF9ZwTdhU9sXuHAHYKZI7A==",
+  "signature": "guy7xZFRrxuYL/PLgylmzM6ME4RZhjVR0t4a/olX+SeByhgRCVcmFsiM+8j93Tu0+TWjL4EfDB24SZ68dHpskA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://translator-pie-satisfy-rely.trycloudflare.com",
-  "httpUrl": "https://translator-pie-satisfy-rely.trycloudflare.com",
-  "updatedAt": "2026-10-23T12:13:08.195Z",
-  "expiresAt": "2026-10-24T12:13:08.195Z",
-  "nonce": "dab4d921da15e40e06c32467dd5711f5",
+  "wsUrl": "wss://pharmacy-encountered-donald-per.trycloudflare.com",
+  "httpUrl": "https://pharmacy-encountered-donald-per.trycloudflare.com",
+  "updatedAt": "2026-10-23T12:45:55.862Z",
+  "expiresAt": "2026-10-24T12:45:55.862Z",
+  "nonce": "1c584d84df751a714576434555047d39",
   "payload": {
-    "wsUrl": "wss://translator-pie-satisfy-rely.trycloudflare.com",
-    "httpUrl": "https://translator-pie-satisfy-rely.trycloudflare.com",
-    "issuedAt": "2026-10-23T12:13:08.195Z",
-    "expiresAt": "2026-10-24T12:13:08.195Z",
-    "nonce": "dab4d921da15e40e06c32467dd5711f5"
+    "wsUrl": "wss://pharmacy-encountered-donald-per.trycloudflare.com",
+    "httpUrl": "https://pharmacy-encountered-donald-per.trycloudflare.com",
+    "issuedAt": "2026-10-23T12:45:55.862Z",
+    "expiresAt": "2026-10-24T12:45:55.862Z",
+    "nonce": "1c584d84df751a714576434555047d39"
   },
-  "signature": "IUnV4YJ9nNaU4gCmihND6yWGbhHeBeD9I3+oX4sCWjhUljtcpsKlpy7qMXday/CV6McI8VEAg4LSZGiysgXrYw==",
+  "signature": "QYSQD5qIZdgTKpNEkFfhxmbsqQbF9vaXJbxDgIaDoJn+v77AcK0UFZT8k6myUMYW2Ka+dg+NnIfzdHJNg0yBJg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

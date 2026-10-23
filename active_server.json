@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://born-keys-plot-senators.trycloudflare.com",
-  "httpUrl": "https://born-keys-plot-senators.trycloudflare.com",
-  "updatedAt": "2026-10-23T23:30:35.456Z",
-  "expiresAt": "2026-10-24T23:30:35.456Z",
-  "nonce": "17cb09fcf54cda375ebf62de19cf7441",
+  "wsUrl": "wss://coding-logo-findings-thermal.trycloudflare.com",
+  "httpUrl": "https://coding-logo-findings-thermal.trycloudflare.com",
+  "updatedAt": "2026-10-23T23:41:02.200Z",
+  "expiresAt": "2026-10-24T23:41:02.200Z",
+  "nonce": "222ec5b424bc452589bc33812a16e8eb",
   "payload": {
-    "wsUrl": "wss://born-keys-plot-senators.trycloudflare.com",
-    "httpUrl": "https://born-keys-plot-senators.trycloudflare.com",
-    "issuedAt": "2026-10-23T23:30:35.456Z",
-    "expiresAt": "2026-10-24T23:30:35.456Z",
-    "nonce": "17cb09fcf54cda375ebf62de19cf7441"
+    "wsUrl": "wss://coding-logo-findings-thermal.trycloudflare.com",
+    "httpUrl": "https://coding-logo-findings-thermal.trycloudflare.com",
+    "issuedAt": "2026-10-23T23:41:02.200Z",
+    "expiresAt": "2026-10-24T23:41:02.200Z",
+    "nonce": "222ec5b424bc452589bc33812a16e8eb"
   },
-  "signature": "QWWg3tOKZyijeUmfRgaLmxhF0ui0UkdeLj0oHy5ry7yLV0XSzD68Tt02HovxjKup/ZzO/XNQrLmjGf51MCwL2g==",
+  "signature": "pGQ8MAxhPd+6m+0sqJE4r8fWldc3O+Py9V4BbGtX5AjQj4Y6Yoxc0jNKBx1ETrvAaMrEMEvBgqT/lKYdbTZrSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

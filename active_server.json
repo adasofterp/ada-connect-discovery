@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://guide-specialists-surge-seating.trycloudflare.com",
-  "httpUrl": "https://guide-specialists-surge-seating.trycloudflare.com",
-  "updatedAt": "2026-10-23T13:45:52.978Z",
-  "expiresAt": "2026-10-24T13:45:52.978Z",
-  "nonce": "a1d544b288e1abd5d8e5714643e22fdd",
+  "wsUrl": "wss://rio-surveys-expert-forbes.trycloudflare.com",
+  "httpUrl": "https://rio-surveys-expert-forbes.trycloudflare.com",
+  "updatedAt": "2026-10-23T14:03:10.964Z",
+  "expiresAt": "2026-10-24T14:03:10.964Z",
+  "nonce": "9f547fb167b5730755d41a886f3c68da",
   "payload": {
-    "wsUrl": "wss://guide-specialists-surge-seating.trycloudflare.com",
-    "httpUrl": "https://guide-specialists-surge-seating.trycloudflare.com",
-    "issuedAt": "2026-10-23T13:45:52.978Z",
-    "expiresAt": "2026-10-24T13:45:52.978Z",
-    "nonce": "a1d544b288e1abd5d8e5714643e22fdd"
+    "wsUrl": "wss://rio-surveys-expert-forbes.trycloudflare.com",
+    "httpUrl": "https://rio-surveys-expert-forbes.trycloudflare.com",
+    "issuedAt": "2026-10-23T14:03:10.964Z",
+    "expiresAt": "2026-10-24T14:03:10.964Z",
+    "nonce": "9f547fb167b5730755d41a886f3c68da"
   },
-  "signature": "a2kpqCuKKEPzKtnUVoaY/y7U/IZpcfuGgSitBAc+Ho+rZnTnS+UNnstNG4L6iyPyxbTqcS1OnOSSvNT4AjBiZA==",
+  "signature": "Jh9+WtcnI7g5bpCUsrsfog+9vU/F02ZYusSJw0PzJYasVjjuRTWkcpzbBgKuVf6ibPHG0ShWA4PlFNjK31a/aA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

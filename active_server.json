@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bingo-runner-gem-study.trycloudflare.com",
-  "httpUrl": "https://bingo-runner-gem-study.trycloudflare.com",
-  "updatedAt": "2026-10-23T22:04:11.905Z",
-  "expiresAt": "2026-10-24T22:04:11.905Z",
-  "nonce": "de7dfef0dfe3368a4050e7c972e2ba95",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-23T22:30:14.993Z",
+  "expiresAt": "2026-10-24T22:30:14.993Z",
+  "nonce": "1ac3c6bdccbee49191244310c09d9814",
   "payload": {
-    "wsUrl": "wss://bingo-runner-gem-study.trycloudflare.com",
-    "httpUrl": "https://bingo-runner-gem-study.trycloudflare.com",
-    "issuedAt": "2026-10-23T22:04:11.905Z",
-    "expiresAt": "2026-10-24T22:04:11.905Z",
-    "nonce": "de7dfef0dfe3368a4050e7c972e2ba95"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-23T22:30:14.993Z",
+    "expiresAt": "2026-10-24T22:30:14.993Z",
+    "nonce": "1ac3c6bdccbee49191244310c09d9814"
   },
-  "signature": "guy7xZFRrxuYL/PLgylmzM6ME4RZhjVR0t4a/olX+SeByhgRCVcmFsiM+8j93Tu0+TWjL4EfDB24SZ68dHpskA==",
+  "signature": "dWi7z6BjiFnsdzyKMI1aUlVN/rt1U0NrUz3oJXbB4dYP0yuJeO/IGbe9kOHQ80IM51b7pCKhyO7kaqtJEKTN6Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

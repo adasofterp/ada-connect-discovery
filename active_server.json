@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-23T23:14:56.805Z",
-  "expiresAt": "2026-10-24T23:14:56.805Z",
-  "nonce": "f6722671fe336c118e736ad5c5718a05",
+  "wsUrl": "wss://champion-liz-journalist-jennifer.trycloudflare.com",
+  "httpUrl": "https://champion-liz-journalist-jennifer.trycloudflare.com",
+  "updatedAt": "2026-10-23T23:20:11.622Z",
+  "expiresAt": "2026-10-24T23:20:11.622Z",
+  "nonce": "b82b07645339cf9aed001885be3e6e09",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-23T23:14:56.805Z",
-    "expiresAt": "2026-10-24T23:14:56.805Z",
-    "nonce": "f6722671fe336c118e736ad5c5718a05"
+    "wsUrl": "wss://champion-liz-journalist-jennifer.trycloudflare.com",
+    "httpUrl": "https://champion-liz-journalist-jennifer.trycloudflare.com",
+    "issuedAt": "2026-10-23T23:20:11.622Z",
+    "expiresAt": "2026-10-24T23:20:11.622Z",
+    "nonce": "b82b07645339cf9aed001885be3e6e09"
   },
-  "signature": "orhuaTfwL+WZcorjpArHclkbg71RF6H+xitYnK1fSW0yQvAsgQRYyXcVagApvk5bot/KSwaxGfhokhVYC4qBgQ==",
+  "signature": "TD3bC2GH8ojj/vtAlkCWt4QwnnyN5MaRtuctss71QabQI+y/fzffI1HTSo6Omi6TyJw2NQy+dbDdUHSsS5Y2eg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

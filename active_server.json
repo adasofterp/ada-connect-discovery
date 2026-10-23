@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-23T22:51:07.197Z",
-  "expiresAt": "2026-10-24T22:51:07.197Z",
-  "nonce": "cba2e1848544bd44a6389c319e1bc268",
+  "wsUrl": "wss://aaron-aqua-owned-chairs.trycloudflare.com",
+  "httpUrl": "https://aaron-aqua-owned-chairs.trycloudflare.com",
+  "updatedAt": "2026-10-23T22:54:10.242Z",
+  "expiresAt": "2026-10-24T22:54:10.242Z",
+  "nonce": "d129c3aebdefb88608b307a9ac194da8",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-23T22:51:07.197Z",
-    "expiresAt": "2026-10-24T22:51:07.197Z",
-    "nonce": "cba2e1848544bd44a6389c319e1bc268"
+    "wsUrl": "wss://aaron-aqua-owned-chairs.trycloudflare.com",
+    "httpUrl": "https://aaron-aqua-owned-chairs.trycloudflare.com",
+    "issuedAt": "2026-10-23T22:54:10.242Z",
+    "expiresAt": "2026-10-24T22:54:10.242Z",
+    "nonce": "d129c3aebdefb88608b307a9ac194da8"
   },
-  "signature": "y2rpcYziPDdZV4ikfas6SLWl2AI+JAu23gjNu5Yj4JSejyZo2ivv2yhXWDZt+53Jo4KXg+zjHVW4wLygWMvg0Q==",
+  "signature": "zLQI+Hla9CNehgc/8HMna1tTM+h2VVaOc5uV9jqu7952j/Kd+nc7J7kWZ0G1N6hGQbhQA/gkAWiAU6wLkhKnWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

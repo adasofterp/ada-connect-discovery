@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rpm-fence-concept-hopkins.trycloudflare.com",
-  "httpUrl": "https://rpm-fence-concept-hopkins.trycloudflare.com",
-  "updatedAt": "2026-10-23T07:24:33.418Z",
-  "expiresAt": "2026-10-24T07:24:33.418Z",
-  "nonce": "f89fc684385f8cd07254dbabb4718652",
+  "wsUrl": "wss://threatened-reflect-diamond-housewives.trycloudflare.com",
+  "httpUrl": "https://threatened-reflect-diamond-housewives.trycloudflare.com",
+  "updatedAt": "2026-10-23T07:25:20.371Z",
+  "expiresAt": "2026-10-24T07:25:20.371Z",
+  "nonce": "c3dbd58d450f24599a91509a3e33c375",
   "payload": {
-    "wsUrl": "wss://rpm-fence-concept-hopkins.trycloudflare.com",
-    "httpUrl": "https://rpm-fence-concept-hopkins.trycloudflare.com",
-    "issuedAt": "2026-10-23T07:24:33.418Z",
-    "expiresAt": "2026-10-24T07:24:33.418Z",
-    "nonce": "f89fc684385f8cd07254dbabb4718652"
+    "wsUrl": "wss://threatened-reflect-diamond-housewives.trycloudflare.com",
+    "httpUrl": "https://threatened-reflect-diamond-housewives.trycloudflare.com",
+    "issuedAt": "2026-10-23T07:25:20.371Z",
+    "expiresAt": "2026-10-24T07:25:20.371Z",
+    "nonce": "c3dbd58d450f24599a91509a3e33c375"
   },
-  "signature": "NwFwGoqAouccMDWsU2mTo/ZrCf6Ah64lZ+qSlGasD9itPNe1j2C23Qy/E1Ot4QLkauzpCWxj/XB3qEy3lhR9tQ==",
+  "signature": "XfGXZssju/JFGZhY3WYEo8H9JtFrCKtQeLHE31ukfvvDAggK/geM95eW67iyMJvysksr4IgarL8jyk/N+nFXbg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

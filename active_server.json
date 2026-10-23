@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rio-surveys-expert-forbes.trycloudflare.com",
-  "httpUrl": "https://rio-surveys-expert-forbes.trycloudflare.com",
-  "updatedAt": "2026-10-23T14:03:10.964Z",
-  "expiresAt": "2026-10-24T14:03:10.964Z",
-  "nonce": "9f547fb167b5730755d41a886f3c68da",
+  "wsUrl": "wss://hardware-wet-gold-glenn.trycloudflare.com",
+  "httpUrl": "https://hardware-wet-gold-glenn.trycloudflare.com",
+  "updatedAt": "2026-10-23T14:14:52.405Z",
+  "expiresAt": "2026-10-24T14:14:52.405Z",
+  "nonce": "c7820761956fb8d0370fca1556209bd2",
   "payload": {
-    "wsUrl": "wss://rio-surveys-expert-forbes.trycloudflare.com",
-    "httpUrl": "https://rio-surveys-expert-forbes.trycloudflare.com",
-    "issuedAt": "2026-10-23T14:03:10.964Z",
-    "expiresAt": "2026-10-24T14:03:10.964Z",
-    "nonce": "9f547fb167b5730755d41a886f3c68da"
+    "wsUrl": "wss://hardware-wet-gold-glenn.trycloudflare.com",
+    "httpUrl": "https://hardware-wet-gold-glenn.trycloudflare.com",
+    "issuedAt": "2026-10-23T14:14:52.405Z",
+    "expiresAt": "2026-10-24T14:14:52.405Z",
+    "nonce": "c7820761956fb8d0370fca1556209bd2"
   },
-  "signature": "Jh9+WtcnI7g5bpCUsrsfog+9vU/F02ZYusSJw0PzJYasVjjuRTWkcpzbBgKuVf6ibPHG0ShWA4PlFNjK31a/aA==",
+  "signature": "LOYPFss1ea7sZ7/LOchuzTn4zK1tKP03RlOTJxsuTYHkEimHv3GPJHAT+eB/ZwAK//vGACSF76+KG3MY1E1Nyw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

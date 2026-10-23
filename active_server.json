@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://handbags-allocated-michigan-middle.trycloudflare.com",
-  "httpUrl": "https://handbags-allocated-michigan-middle.trycloudflare.com",
-  "updatedAt": "2026-10-23T13:19:16.355Z",
-  "expiresAt": "2026-10-24T13:19:16.355Z",
-  "nonce": "a3cd920604d2d946bdfc32f85dead518",
+  "wsUrl": "wss://guide-specialists-surge-seating.trycloudflare.com",
+  "httpUrl": "https://guide-specialists-surge-seating.trycloudflare.com",
+  "updatedAt": "2026-10-23T13:45:52.978Z",
+  "expiresAt": "2026-10-24T13:45:52.978Z",
+  "nonce": "a1d544b288e1abd5d8e5714643e22fdd",
   "payload": {
-    "wsUrl": "wss://handbags-allocated-michigan-middle.trycloudflare.com",
-    "httpUrl": "https://handbags-allocated-michigan-middle.trycloudflare.com",
-    "issuedAt": "2026-10-23T13:19:16.355Z",
-    "expiresAt": "2026-10-24T13:19:16.355Z",
-    "nonce": "a3cd920604d2d946bdfc32f85dead518"
+    "wsUrl": "wss://guide-specialists-surge-seating.trycloudflare.com",
+    "httpUrl": "https://guide-specialists-surge-seating.trycloudflare.com",
+    "issuedAt": "2026-10-23T13:45:52.978Z",
+    "expiresAt": "2026-10-24T13:45:52.978Z",
+    "nonce": "a1d544b288e1abd5d8e5714643e22fdd"
   },
-  "signature": "GmLoETs2b9ye403Bv6T7k7Fem8VcdxTnZhMyuugASbJHxzvCWAfyy+h03mxZukt/h1iuBrlbKH6Qf1ZC1jUAGQ==",
+  "signature": "a2kpqCuKKEPzKtnUVoaY/y7U/IZpcfuGgSitBAc+Ho+rZnTnS+UNnstNG4L6iyPyxbTqcS1OnOSSvNT4AjBiZA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

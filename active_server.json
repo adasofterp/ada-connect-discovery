@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://champion-liz-journalist-jennifer.trycloudflare.com",
-  "httpUrl": "https://champion-liz-journalist-jennifer.trycloudflare.com",
-  "updatedAt": "2026-10-23T23:20:11.622Z",
-  "expiresAt": "2026-10-24T23:20:11.622Z",
-  "nonce": "b82b07645339cf9aed001885be3e6e09",
+  "wsUrl": "wss://born-keys-plot-senators.trycloudflare.com",
+  "httpUrl": "https://born-keys-plot-senators.trycloudflare.com",
+  "updatedAt": "2026-10-23T23:30:35.456Z",
+  "expiresAt": "2026-10-24T23:30:35.456Z",
+  "nonce": "17cb09fcf54cda375ebf62de19cf7441",
   "payload": {
-    "wsUrl": "wss://champion-liz-journalist-jennifer.trycloudflare.com",
-    "httpUrl": "https://champion-liz-journalist-jennifer.trycloudflare.com",
-    "issuedAt": "2026-10-23T23:20:11.622Z",
-    "expiresAt": "2026-10-24T23:20:11.622Z",
-    "nonce": "b82b07645339cf9aed001885be3e6e09"
+    "wsUrl": "wss://born-keys-plot-senators.trycloudflare.com",
+    "httpUrl": "https://born-keys-plot-senators.trycloudflare.com",
+    "issuedAt": "2026-10-23T23:30:35.456Z",
+    "expiresAt": "2026-10-24T23:30:35.456Z",
+    "nonce": "17cb09fcf54cda375ebf62de19cf7441"
   },
-  "signature": "TD3bC2GH8ojj/vtAlkCWt4QwnnyN5MaRtuctss71QabQI+y/fzffI1HTSo6Omi6TyJw2NQy+dbDdUHSsS5Y2eg==",
+  "signature": "QWWg3tOKZyijeUmfRgaLmxhF0ui0UkdeLj0oHy5ry7yLV0XSzD68Tt02HovxjKup/ZzO/XNQrLmjGf51MCwL2g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://beverage-creek-jobs-hdtv.trycloudflare.com",
-  "httpUrl": "https://beverage-creek-jobs-hdtv.trycloudflare.com",
-  "updatedAt": "2026-10-24T23:24:31.806Z",
-  "expiresAt": "2026-10-25T23:24:31.806Z",
-  "nonce": "31082aca5cdf5c79b27f354e2d49d81b",
+  "wsUrl": "wss://lean-cheers-entrepreneur-bit.trycloudflare.com",
+  "httpUrl": "https://lean-cheers-entrepreneur-bit.trycloudflare.com",
+  "updatedAt": "2026-10-24T23:40:35.170Z",
+  "expiresAt": "2026-10-25T23:40:35.170Z",
+  "nonce": "b804b35c63e452131b6c7209d8e9093a",
   "payload": {
-    "wsUrl": "wss://beverage-creek-jobs-hdtv.trycloudflare.com",
-    "httpUrl": "https://beverage-creek-jobs-hdtv.trycloudflare.com",
-    "issuedAt": "2026-10-24T23:24:31.806Z",
-    "expiresAt": "2026-10-25T23:24:31.806Z",
-    "nonce": "31082aca5cdf5c79b27f354e2d49d81b"
+    "wsUrl": "wss://lean-cheers-entrepreneur-bit.trycloudflare.com",
+    "httpUrl": "https://lean-cheers-entrepreneur-bit.trycloudflare.com",
+    "issuedAt": "2026-10-24T23:40:35.170Z",
+    "expiresAt": "2026-10-25T23:40:35.170Z",
+    "nonce": "b804b35c63e452131b6c7209d8e9093a"
   },
-  "signature": "riqmCAX1hXG2j6n/lLrfjUwhgz1RUwmC+nNzxKQx1N1Fai6wnFRwwYpqK/zADJubi2FMlIxBoy4oneLwCk8Amg==",
+  "signature": "+rKsdJZHtBtLmRaiH5MNUtG3htP488mKzkaLn+qKTG33vcqGj8v7YS0cX+8Y98BBWeYUVR3SSq5E1IoPBGwdEA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

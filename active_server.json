@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://additional-upon-trigger-radio.trycloudflare.com",
-  "httpUrl": "https://additional-upon-trigger-radio.trycloudflare.com",
-  "updatedAt": "2026-10-24T14:19:34.034Z",
-  "expiresAt": "2026-10-25T14:19:34.034Z",
-  "nonce": "65f626ea09d09fd77135c35d96beb9f2",
+  "wsUrl": "wss://endorsed-milwaukee-projects-utilities.trycloudflare.com",
+  "httpUrl": "https://endorsed-milwaukee-projects-utilities.trycloudflare.com",
+  "updatedAt": "2026-10-24T19:42:17.157Z",
+  "expiresAt": "2026-10-25T19:42:17.157Z",
+  "nonce": "63dca850485ace7b79047cb2f4463e11",
   "payload": {
-    "wsUrl": "wss://additional-upon-trigger-radio.trycloudflare.com",
-    "httpUrl": "https://additional-upon-trigger-radio.trycloudflare.com",
-    "issuedAt": "2026-10-24T14:19:34.034Z",
-    "expiresAt": "2026-10-25T14:19:34.034Z",
-    "nonce": "65f626ea09d09fd77135c35d96beb9f2"
+    "wsUrl": "wss://endorsed-milwaukee-projects-utilities.trycloudflare.com",
+    "httpUrl": "https://endorsed-milwaukee-projects-utilities.trycloudflare.com",
+    "issuedAt": "2026-10-24T19:42:17.157Z",
+    "expiresAt": "2026-10-25T19:42:17.157Z",
+    "nonce": "63dca850485ace7b79047cb2f4463e11"
   },
-  "signature": "EXVMbvcgC88kAaFk4vBUPQpafwpHSbzq919U/1ijgRRY40fzcKuHAHO3KJXlM9zX/g8WpTeGeFVWxlFCrp1cLw==",
+  "signature": "33GcPX2GKUpw5+EoxPQbMd0F8oR+x1b8vS33DWFaSbrSVW53DAfTIXm/bJWtElxfYBDaVkclGdDOkc5GloUVUA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

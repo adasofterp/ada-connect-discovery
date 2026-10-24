@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://curtis-optimal-pressure-back.trycloudflare.com",
-  "httpUrl": "https://curtis-optimal-pressure-back.trycloudflare.com",
-  "updatedAt": "2026-10-24T06:07:59.756Z",
-  "expiresAt": "2026-10-25T06:07:59.756Z",
-  "nonce": "51e2a6628f71ad3b921536d6e76b096a",
+  "wsUrl": "wss://routers-cross-machine-registry.trycloudflare.com",
+  "httpUrl": "https://routers-cross-machine-registry.trycloudflare.com",
+  "updatedAt": "2026-10-24T06:32:58.138Z",
+  "expiresAt": "2026-10-25T06:32:58.138Z",
+  "nonce": "e21d467eb77ee63019194ee9f1b1d6b2",
   "payload": {
-    "wsUrl": "wss://curtis-optimal-pressure-back.trycloudflare.com",
-    "httpUrl": "https://curtis-optimal-pressure-back.trycloudflare.com",
-    "issuedAt": "2026-10-24T06:07:59.756Z",
-    "expiresAt": "2026-10-25T06:07:59.756Z",
-    "nonce": "51e2a6628f71ad3b921536d6e76b096a"
+    "wsUrl": "wss://routers-cross-machine-registry.trycloudflare.com",
+    "httpUrl": "https://routers-cross-machine-registry.trycloudflare.com",
+    "issuedAt": "2026-10-24T06:32:58.138Z",
+    "expiresAt": "2026-10-25T06:32:58.138Z",
+    "nonce": "e21d467eb77ee63019194ee9f1b1d6b2"
   },
-  "signature": "Lciq0PLOgEhGp/CPPEUrqA7YCW1n6M+SV53mxekcBof7OEh9U1QgLQ7yVa+uhKsKvi5QN+p9o4xylrwX6miIJw==",
+  "signature": "Ea0OPuGvFErmZnHWgf+qq0s7Hq8B2Wqz57PVw/fHyFmu0/BvflLF9sVpTGmn3jgW3uPNVQQ017w7kWjh6J6TiQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

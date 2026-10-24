@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lift-minolta-preliminary-mistress.trycloudflare.com",
-  "httpUrl": "https://lift-minolta-preliminary-mistress.trycloudflare.com",
-  "updatedAt": "2026-10-24T00:10:44.435Z",
-  "expiresAt": "2026-10-25T00:10:44.435Z",
-  "nonce": "c3bc3605d3c3698d3d40e461b870edf2",
+  "wsUrl": "wss://logs-edit-participated-vatican.trycloudflare.com",
+  "httpUrl": "https://logs-edit-participated-vatican.trycloudflare.com",
+  "updatedAt": "2026-10-24T00:21:07.466Z",
+  "expiresAt": "2026-10-25T00:21:07.466Z",
+  "nonce": "12f2a4f009372475196b43d57fcd1cc7",
   "payload": {
-    "wsUrl": "wss://lift-minolta-preliminary-mistress.trycloudflare.com",
-    "httpUrl": "https://lift-minolta-preliminary-mistress.trycloudflare.com",
-    "issuedAt": "2026-10-24T00:10:44.435Z",
-    "expiresAt": "2026-10-25T00:10:44.435Z",
-    "nonce": "c3bc3605d3c3698d3d40e461b870edf2"
+    "wsUrl": "wss://logs-edit-participated-vatican.trycloudflare.com",
+    "httpUrl": "https://logs-edit-participated-vatican.trycloudflare.com",
+    "issuedAt": "2026-10-24T00:21:07.466Z",
+    "expiresAt": "2026-10-25T00:21:07.466Z",
+    "nonce": "12f2a4f009372475196b43d57fcd1cc7"
   },
-  "signature": "CjdrsHVEol7LIQaKpNPNoFp8PjukwRvokr3zu/r2FsLKTOqIgYy9AQ2HNkaUSA8o0qyfvTZgDbpj6v7z1wxkJw==",
+  "signature": "g18EAlat8miu+nyKAyhOvXxLFieY7rjJMliHIwVu+8qSE1j5dLc/6bwi31Sf6m6HlItjpOV7banWxtj3asLYzQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

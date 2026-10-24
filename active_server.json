@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://visited-driver-tract-intro.trycloudflare.com",
-  "httpUrl": "https://visited-driver-tract-intro.trycloudflare.com",
-  "updatedAt": "2026-10-24T05:02:05.255Z",
-  "expiresAt": "2026-10-25T05:02:05.255Z",
-  "nonce": "eb809496ec5fc05954fe35d9c04d8899",
+  "wsUrl": "wss://uncertainty-meets-shareholders-talented.trycloudflare.com",
+  "httpUrl": "https://uncertainty-meets-shareholders-talented.trycloudflare.com",
+  "updatedAt": "2026-10-24T05:12:55.325Z",
+  "expiresAt": "2026-10-25T05:12:55.325Z",
+  "nonce": "502e904f2b34231dd6edb6084629794a",
   "payload": {
-    "wsUrl": "wss://visited-driver-tract-intro.trycloudflare.com",
-    "httpUrl": "https://visited-driver-tract-intro.trycloudflare.com",
-    "issuedAt": "2026-10-24T05:02:05.255Z",
-    "expiresAt": "2026-10-25T05:02:05.255Z",
-    "nonce": "eb809496ec5fc05954fe35d9c04d8899"
+    "wsUrl": "wss://uncertainty-meets-shareholders-talented.trycloudflare.com",
+    "httpUrl": "https://uncertainty-meets-shareholders-talented.trycloudflare.com",
+    "issuedAt": "2026-10-24T05:12:55.325Z",
+    "expiresAt": "2026-10-25T05:12:55.325Z",
+    "nonce": "502e904f2b34231dd6edb6084629794a"
   },
-  "signature": "WPEWsTwt3Xcw3z8y8KaoSKh0Zl7ZyzIaGurY+8D40ZlQd7kRKpUhD8ekP3bETa4ezwH+Gl2AE6I3vv1mIq8ZcQ==",
+  "signature": "+Yf8J24kzSO3ggKZq3bPBVy0gn41qb/Qn4VzGb640sbXflyyf9nA+EAT2nJurZWi3NX5uYLIsTp5xusswr6oaA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

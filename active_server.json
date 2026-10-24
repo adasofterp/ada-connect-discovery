@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://freight-dare-ensuring-territories.trycloudflare.com",
-  "httpUrl": "https://freight-dare-ensuring-territories.trycloudflare.com",
-  "updatedAt": "2026-10-24T03:01:17.761Z",
-  "expiresAt": "2026-10-25T03:01:17.761Z",
-  "nonce": "b920f9c54c60f6133cc6ba1e26b1d36e",
+  "wsUrl": "wss://attractions-billing-capital-euros.trycloudflare.com",
+  "httpUrl": "https://attractions-billing-capital-euros.trycloudflare.com",
+  "updatedAt": "2026-10-24T03:30:32.878Z",
+  "expiresAt": "2026-10-25T03:30:32.878Z",
+  "nonce": "c046c3b5ca19291b593236f0972c06d8",
   "payload": {
-    "wsUrl": "wss://freight-dare-ensuring-territories.trycloudflare.com",
-    "httpUrl": "https://freight-dare-ensuring-territories.trycloudflare.com",
-    "issuedAt": "2026-10-24T03:01:17.761Z",
-    "expiresAt": "2026-10-25T03:01:17.761Z",
-    "nonce": "b920f9c54c60f6133cc6ba1e26b1d36e"
+    "wsUrl": "wss://attractions-billing-capital-euros.trycloudflare.com",
+    "httpUrl": "https://attractions-billing-capital-euros.trycloudflare.com",
+    "issuedAt": "2026-10-24T03:30:32.878Z",
+    "expiresAt": "2026-10-25T03:30:32.878Z",
+    "nonce": "c046c3b5ca19291b593236f0972c06d8"
   },
-  "signature": "5EmrtqkluP5Fu7Q4FF6OC5wQ7CHaRhs8zkb57Y8koYxW7xH6jGAdnE0H2NmlNDcYG79FAN/bQQrjg3K2wXmeBg==",
+  "signature": "c6Iy5ojdxUWxIjv2uR/PrwZrKp6VcGpWhCXiiGPYtKvzgXH7bemfbW1Sn96cXPpHs23/6SyZ2o2PYz1ZyfXd3A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lighting-person-src-surge.trycloudflare.com",
-  "httpUrl": "https://lighting-person-src-surge.trycloudflare.com",
-  "updatedAt": "2026-10-24T23:03:33.742Z",
-  "expiresAt": "2026-10-25T23:03:33.742Z",
-  "nonce": "563011a323fa292391945a419e4770d1",
+  "wsUrl": "wss://brown-customs-polyphonic-considers.trycloudflare.com",
+  "httpUrl": "https://brown-customs-polyphonic-considers.trycloudflare.com",
+  "updatedAt": "2026-10-24T23:14:02.145Z",
+  "expiresAt": "2026-10-25T23:14:02.145Z",
+  "nonce": "2c92a974614814a1166dc6555c2d63a6",
   "payload": {
-    "wsUrl": "wss://lighting-person-src-surge.trycloudflare.com",
-    "httpUrl": "https://lighting-person-src-surge.trycloudflare.com",
-    "issuedAt": "2026-10-24T23:03:33.742Z",
-    "expiresAt": "2026-10-25T23:03:33.742Z",
-    "nonce": "563011a323fa292391945a419e4770d1"
+    "wsUrl": "wss://brown-customs-polyphonic-considers.trycloudflare.com",
+    "httpUrl": "https://brown-customs-polyphonic-considers.trycloudflare.com",
+    "issuedAt": "2026-10-24T23:14:02.145Z",
+    "expiresAt": "2026-10-25T23:14:02.145Z",
+    "nonce": "2c92a974614814a1166dc6555c2d63a6"
   },
-  "signature": "GSVyYxEUtd6klPxAyEsX1RIS36VMKd/XQvLpKzwCBQEbyYNmXLUW10y+8PCg3BWs0VWK5Rd37NKjWGNTD3xOog==",
+  "signature": "aqOhcsFRJPbIFUYkg0oB/UCsTWO45tsemzZlC3fojkfZJYL3HEN1bwbonWTR09+Z0dyQ+hqwoUz1yoUeQsu7uA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

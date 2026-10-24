@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-24T22:30:32.157Z",
-  "expiresAt": "2026-10-25T22:30:32.157Z",
-  "nonce": "5569e6666449b490864cb7508163cec5",
+  "wsUrl": "wss://rings-fax-marsh-favorite.trycloudflare.com",
+  "httpUrl": "https://rings-fax-marsh-favorite.trycloudflare.com",
+  "updatedAt": "2026-10-24T22:35:44.316Z",
+  "expiresAt": "2026-10-25T22:35:44.316Z",
+  "nonce": "7c4074f5b855ca0971beb915ab08126a",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-24T22:30:32.157Z",
-    "expiresAt": "2026-10-25T22:30:32.157Z",
-    "nonce": "5569e6666449b490864cb7508163cec5"
+    "wsUrl": "wss://rings-fax-marsh-favorite.trycloudflare.com",
+    "httpUrl": "https://rings-fax-marsh-favorite.trycloudflare.com",
+    "issuedAt": "2026-10-24T22:35:44.316Z",
+    "expiresAt": "2026-10-25T22:35:44.316Z",
+    "nonce": "7c4074f5b855ca0971beb915ab08126a"
   },
-  "signature": "8eKvyxmAz7am74Vn6QQTsshpdGgpGvD9PrCwaZL1qWpU9GQa8jlmNplwobtiBgMDahuZ+0+A3rttcrXCl4MhTw==",
+  "signature": "+Bx+E5FBSjN9VPBb2XtggKURL5qUsa3FPLBsBS5dY48PeoZAZWvHPsfnNSKH4Mn4Hc1I/83smlCH/uNEgfyroQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

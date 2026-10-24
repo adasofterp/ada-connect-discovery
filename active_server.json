@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://add-cap-queens-dragon.trycloudflare.com",
-  "httpUrl": "https://add-cap-queens-dragon.trycloudflare.com",
-  "updatedAt": "2026-10-24T07:15:17.596Z",
-  "expiresAt": "2026-10-25T07:15:17.596Z",
-  "nonce": "8232faa55d860977152281f04eee5ba4",
+  "wsUrl": "wss://frederick-alan-talks-six.trycloudflare.com",
+  "httpUrl": "https://frederick-alan-talks-six.trycloudflare.com",
+  "updatedAt": "2026-10-24T07:32:10.703Z",
+  "expiresAt": "2026-10-25T07:32:10.703Z",
+  "nonce": "413a4955217530db45a78902c14a9dae",
   "payload": {
-    "wsUrl": "wss://add-cap-queens-dragon.trycloudflare.com",
-    "httpUrl": "https://add-cap-queens-dragon.trycloudflare.com",
-    "issuedAt": "2026-10-24T07:15:17.596Z",
-    "expiresAt": "2026-10-25T07:15:17.596Z",
-    "nonce": "8232faa55d860977152281f04eee5ba4"
+    "wsUrl": "wss://frederick-alan-talks-six.trycloudflare.com",
+    "httpUrl": "https://frederick-alan-talks-six.trycloudflare.com",
+    "issuedAt": "2026-10-24T07:32:10.703Z",
+    "expiresAt": "2026-10-25T07:32:10.703Z",
+    "nonce": "413a4955217530db45a78902c14a9dae"
   },
-  "signature": "H0/znuuw/xZwfg6zh3qIZJ2/BalYArN2Cbs5zR2tf+OCawwsD2Wcar2gpvz6zZ397silwSaTZOrwDjyNAPWfYA==",
+  "signature": "9nwGfWyspK1LSY1DeGqkxYczBueoTUrcHO3Fz7c83bNaDGInehluE7vLwn7RP8tQbxahU/t/GSYXx5P/EdFB6A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

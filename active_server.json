@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://examining-never-mileage-acting.trycloudflare.com",
-  "httpUrl": "https://examining-never-mileage-acting.trycloudflare.com",
-  "updatedAt": "2026-10-24T06:52:04.771Z",
-  "expiresAt": "2026-10-25T06:52:04.771Z",
-  "nonce": "b3029c021bde385e06a8b3513aca0deb",
+  "wsUrl": "wss://mixer-amendment-college-till.trycloudflare.com",
+  "httpUrl": "https://mixer-amendment-college-till.trycloudflare.com",
+  "updatedAt": "2026-10-24T07:04:19.432Z",
+  "expiresAt": "2026-10-25T07:04:19.432Z",
+  "nonce": "39dfb852e254e84ef98a22be431c3c6f",
   "payload": {
-    "wsUrl": "wss://examining-never-mileage-acting.trycloudflare.com",
-    "httpUrl": "https://examining-never-mileage-acting.trycloudflare.com",
-    "issuedAt": "2026-10-24T06:52:04.771Z",
-    "expiresAt": "2026-10-25T06:52:04.771Z",
-    "nonce": "b3029c021bde385e06a8b3513aca0deb"
+    "wsUrl": "wss://mixer-amendment-college-till.trycloudflare.com",
+    "httpUrl": "https://mixer-amendment-college-till.trycloudflare.com",
+    "issuedAt": "2026-10-24T07:04:19.432Z",
+    "expiresAt": "2026-10-25T07:04:19.432Z",
+    "nonce": "39dfb852e254e84ef98a22be431c3c6f"
   },
-  "signature": "WPLlsmjXP2w4IcNrGBB94q0wXPmaoxpwxtv73RbEXyVIhift9F+vhHreU7r39jAgMx6qKM0z+2s3XtynXIpgHg==",
+  "signature": "oVpnAW+CxPL4JhdmJycABBKcJfQgTpDud1XfvrBioOkhd1JyjZHdPnoTC+nR2QgTI1m5QgMDYxkb7M7O2xAASw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

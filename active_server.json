@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://frederick-alan-talks-six.trycloudflare.com",
-  "httpUrl": "https://frederick-alan-talks-six.trycloudflare.com",
-  "updatedAt": "2026-10-24T07:32:10.703Z",
-  "expiresAt": "2026-10-25T07:32:10.703Z",
-  "nonce": "413a4955217530db45a78902c14a9dae",
+  "wsUrl": "wss://principles-people-vegetable-pills.trycloudflare.com",
+  "httpUrl": "https://principles-people-vegetable-pills.trycloudflare.com",
+  "updatedAt": "2026-10-24T11:23:24.043Z",
+  "expiresAt": "2026-10-25T11:23:24.043Z",
+  "nonce": "709541547560ab48bee0099678b22197",
   "payload": {
-    "wsUrl": "wss://frederick-alan-talks-six.trycloudflare.com",
-    "httpUrl": "https://frederick-alan-talks-six.trycloudflare.com",
-    "issuedAt": "2026-10-24T07:32:10.703Z",
-    "expiresAt": "2026-10-25T07:32:10.703Z",
-    "nonce": "413a4955217530db45a78902c14a9dae"
+    "wsUrl": "wss://principles-people-vegetable-pills.trycloudflare.com",
+    "httpUrl": "https://principles-people-vegetable-pills.trycloudflare.com",
+    "issuedAt": "2026-10-24T11:23:24.043Z",
+    "expiresAt": "2026-10-25T11:23:24.043Z",
+    "nonce": "709541547560ab48bee0099678b22197"
   },
-  "signature": "9nwGfWyspK1LSY1DeGqkxYczBueoTUrcHO3Fz7c83bNaDGInehluE7vLwn7RP8tQbxahU/t/GSYXx5P/EdFB6A==",
+  "signature": "D7uJw+aKgRIe5bQXwrO1MFvswBr2xmV2iK43G6EvG6VsDYD0SjUbamKZdukCUGHw5pZCpeK6onaEepldeLXbAw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

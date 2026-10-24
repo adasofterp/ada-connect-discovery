@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://principles-people-vegetable-pills.trycloudflare.com",
-  "httpUrl": "https://principles-people-vegetable-pills.trycloudflare.com",
-  "updatedAt": "2026-10-24T11:23:24.043Z",
-  "expiresAt": "2026-10-25T11:23:24.043Z",
-  "nonce": "709541547560ab48bee0099678b22197",
+  "wsUrl": "wss://cleanup-editor-cloud-camcorders.trycloudflare.com",
+  "httpUrl": "https://cleanup-editor-cloud-camcorders.trycloudflare.com",
+  "updatedAt": "2026-10-24T11:57:01.673Z",
+  "expiresAt": "2026-10-25T11:57:01.673Z",
+  "nonce": "ab53fbf1c9aad337cab214d7b2dbf31b",
   "payload": {
-    "wsUrl": "wss://principles-people-vegetable-pills.trycloudflare.com",
-    "httpUrl": "https://principles-people-vegetable-pills.trycloudflare.com",
-    "issuedAt": "2026-10-24T11:23:24.043Z",
-    "expiresAt": "2026-10-25T11:23:24.043Z",
-    "nonce": "709541547560ab48bee0099678b22197"
+    "wsUrl": "wss://cleanup-editor-cloud-camcorders.trycloudflare.com",
+    "httpUrl": "https://cleanup-editor-cloud-camcorders.trycloudflare.com",
+    "issuedAt": "2026-10-24T11:57:01.673Z",
+    "expiresAt": "2026-10-25T11:57:01.673Z",
+    "nonce": "ab53fbf1c9aad337cab214d7b2dbf31b"
   },
-  "signature": "D7uJw+aKgRIe5bQXwrO1MFvswBr2xmV2iK43G6EvG6VsDYD0SjUbamKZdukCUGHw5pZCpeK6onaEepldeLXbAw==",
+  "signature": "+FC7oD/Bt8Uwdm9XeFCQmS88+hb7rKK0gbtH/6CQlnU88QJHhM4I8rpMT7j69n3rcgpznOMOzu17WiLcl54hpQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

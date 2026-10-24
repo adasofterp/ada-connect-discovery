@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://univ-deleted-took-developmental.trycloudflare.com",
-  "httpUrl": "https://univ-deleted-took-developmental.trycloudflare.com",
-  "updatedAt": "2026-10-23T23:51:27.256Z",
-  "expiresAt": "2026-10-24T23:51:27.256Z",
-  "nonce": "31bcf9f184cd6d08dd133e0c13b6eb35",
+  "wsUrl": "wss://signal-lab-print-behalf.trycloudflare.com",
+  "httpUrl": "https://signal-lab-print-behalf.trycloudflare.com",
+  "updatedAt": "2026-10-24T00:00:20.854Z",
+  "expiresAt": "2026-10-25T00:00:20.854Z",
+  "nonce": "5d1cd43e63e40c24b9a7efb2e8136422",
   "payload": {
-    "wsUrl": "wss://univ-deleted-took-developmental.trycloudflare.com",
-    "httpUrl": "https://univ-deleted-took-developmental.trycloudflare.com",
-    "issuedAt": "2026-10-23T23:51:27.256Z",
-    "expiresAt": "2026-10-24T23:51:27.256Z",
-    "nonce": "31bcf9f184cd6d08dd133e0c13b6eb35"
+    "wsUrl": "wss://signal-lab-print-behalf.trycloudflare.com",
+    "httpUrl": "https://signal-lab-print-behalf.trycloudflare.com",
+    "issuedAt": "2026-10-24T00:00:20.854Z",
+    "expiresAt": "2026-10-25T00:00:20.854Z",
+    "nonce": "5d1cd43e63e40c24b9a7efb2e8136422"
   },
-  "signature": "R2Dmkkcm7Ip3I7+ESa8WD1R0KDEHMY9xi/zqQKmuzVUYs2hbwKkiA7DdtX0sNDQxgxj+EaYuZYqdDJoWtBdawA==",
+  "signature": "qfyo8UxWOnLopqt5p0xHrQSlCq8TDgs4YqZ9Z7aHWJdMssKn8YKN2qBC7OzEb8B/MVledt3u2T67IMog1BphCw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

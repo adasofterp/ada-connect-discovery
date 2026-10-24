@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://uncertainty-meets-shareholders-talented.trycloudflare.com",
-  "httpUrl": "https://uncertainty-meets-shareholders-talented.trycloudflare.com",
-  "updatedAt": "2026-10-24T05:12:55.325Z",
-  "expiresAt": "2026-10-25T05:12:55.325Z",
-  "nonce": "502e904f2b34231dd6edb6084629794a",
+  "wsUrl": "wss://doctor-larry-equivalent-describes.trycloudflare.com",
+  "httpUrl": "https://doctor-larry-equivalent-describes.trycloudflare.com",
+  "updatedAt": "2026-10-24T05:36:44.514Z",
+  "expiresAt": "2026-10-25T05:36:44.514Z",
+  "nonce": "d64e47d3092526be0d6589f819c9e90f",
   "payload": {
-    "wsUrl": "wss://uncertainty-meets-shareholders-talented.trycloudflare.com",
-    "httpUrl": "https://uncertainty-meets-shareholders-talented.trycloudflare.com",
-    "issuedAt": "2026-10-24T05:12:55.325Z",
-    "expiresAt": "2026-10-25T05:12:55.325Z",
-    "nonce": "502e904f2b34231dd6edb6084629794a"
+    "wsUrl": "wss://doctor-larry-equivalent-describes.trycloudflare.com",
+    "httpUrl": "https://doctor-larry-equivalent-describes.trycloudflare.com",
+    "issuedAt": "2026-10-24T05:36:44.514Z",
+    "expiresAt": "2026-10-25T05:36:44.514Z",
+    "nonce": "d64e47d3092526be0d6589f819c9e90f"
   },
-  "signature": "+Yf8J24kzSO3ggKZq3bPBVy0gn41qb/Qn4VzGb640sbXflyyf9nA+EAT2nJurZWi3NX5uYLIsTp5xusswr6oaA==",
+  "signature": "N0jQ2zRnezQCjFPfGOkgMkII9B5m67GQt0t0QL/0DBsvM1ZtSWQ2XZ26fDnOckvS9iSdsBBKfT0lRp/108RpPA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

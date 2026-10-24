@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://artwork-raleigh-amendments-iron.trycloudflare.com",
-  "httpUrl": "https://artwork-raleigh-amendments-iron.trycloudflare.com",
-  "updatedAt": "2026-10-24T13:38:15.007Z",
-  "expiresAt": "2026-10-25T13:38:15.007Z",
-  "nonce": "ae26716bbbc73941b3d93981317f1a39",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-24T13:58:57.916Z",
+  "expiresAt": "2026-10-25T13:58:57.916Z",
+  "nonce": "34b31c29875ceccd4e0743bf3d724819",
   "payload": {
-    "wsUrl": "wss://artwork-raleigh-amendments-iron.trycloudflare.com",
-    "httpUrl": "https://artwork-raleigh-amendments-iron.trycloudflare.com",
-    "issuedAt": "2026-10-24T13:38:15.007Z",
-    "expiresAt": "2026-10-25T13:38:15.007Z",
-    "nonce": "ae26716bbbc73941b3d93981317f1a39"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-24T13:58:57.916Z",
+    "expiresAt": "2026-10-25T13:58:57.916Z",
+    "nonce": "34b31c29875ceccd4e0743bf3d724819"
   },
-  "signature": "S7hqRKWDzvwsNuU6KnjpsjvT7aneHv33GTGswFQosV0qkwQThrFFeDoufPYw8fSxgaAuf3BAod8Ny8uEggn8kQ==",
+  "signature": "pgHTxSwHfR+kmVnROSUj5fB6ah7ODzlAIfq+hnWkxcyto+AsxrxslB5kwBqbG6q0D3KFfWFHPFiMsqfTXddr2A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

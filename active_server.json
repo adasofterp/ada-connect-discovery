@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://attractions-billing-capital-euros.trycloudflare.com",
-  "httpUrl": "https://attractions-billing-capital-euros.trycloudflare.com",
-  "updatedAt": "2026-10-24T03:30:32.878Z",
-  "expiresAt": "2026-10-25T03:30:32.878Z",
-  "nonce": "c046c3b5ca19291b593236f0972c06d8",
+  "wsUrl": "wss://purpose-keith-fighting-dimension.trycloudflare.com",
+  "httpUrl": "https://purpose-keith-fighting-dimension.trycloudflare.com",
+  "updatedAt": "2026-10-24T03:40:57.880Z",
+  "expiresAt": "2026-10-25T03:40:57.880Z",
+  "nonce": "f027627bfd492a4f9e8c2662a716f530",
   "payload": {
-    "wsUrl": "wss://attractions-billing-capital-euros.trycloudflare.com",
-    "httpUrl": "https://attractions-billing-capital-euros.trycloudflare.com",
-    "issuedAt": "2026-10-24T03:30:32.878Z",
-    "expiresAt": "2026-10-25T03:30:32.878Z",
-    "nonce": "c046c3b5ca19291b593236f0972c06d8"
+    "wsUrl": "wss://purpose-keith-fighting-dimension.trycloudflare.com",
+    "httpUrl": "https://purpose-keith-fighting-dimension.trycloudflare.com",
+    "issuedAt": "2026-10-24T03:40:57.880Z",
+    "expiresAt": "2026-10-25T03:40:57.880Z",
+    "nonce": "f027627bfd492a4f9e8c2662a716f530"
   },
-  "signature": "c6Iy5ojdxUWxIjv2uR/PrwZrKp6VcGpWhCXiiGPYtKvzgXH7bemfbW1Sn96cXPpHs23/6SyZ2o2PYz1ZyfXd3A==",
+  "signature": "Yb1XNKTIcR6IfOd7T4XrLmFKkk4YpmphM66TkG6X5Xs46OvwwEgPRy0W/9V8k6v5q0SgX3hR7B+h1RdoTIXFMQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

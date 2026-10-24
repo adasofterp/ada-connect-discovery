@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://administered-arg-biographies-maintaining.trycloudflare.com",
-  "httpUrl": "https://administered-arg-biographies-maintaining.trycloudflare.com",
-  "updatedAt": "2026-10-24T04:01:51.671Z",
-  "expiresAt": "2026-10-25T04:01:51.671Z",
-  "nonce": "7f60a90b41e4237333acaa8688ed33bb",
+  "wsUrl": "wss://minority-plants-muscle-rider.trycloudflare.com",
+  "httpUrl": "https://minority-plants-muscle-rider.trycloudflare.com",
+  "updatedAt": "2026-10-24T04:12:14.261Z",
+  "expiresAt": "2026-10-25T04:12:14.261Z",
+  "nonce": "b27a8ab13fadf337f36b14966f060e1e",
   "payload": {
-    "wsUrl": "wss://administered-arg-biographies-maintaining.trycloudflare.com",
-    "httpUrl": "https://administered-arg-biographies-maintaining.trycloudflare.com",
-    "issuedAt": "2026-10-24T04:01:51.671Z",
-    "expiresAt": "2026-10-25T04:01:51.671Z",
-    "nonce": "7f60a90b41e4237333acaa8688ed33bb"
+    "wsUrl": "wss://minority-plants-muscle-rider.trycloudflare.com",
+    "httpUrl": "https://minority-plants-muscle-rider.trycloudflare.com",
+    "issuedAt": "2026-10-24T04:12:14.261Z",
+    "expiresAt": "2026-10-25T04:12:14.261Z",
+    "nonce": "b27a8ab13fadf337f36b14966f060e1e"
   },
-  "signature": "HqYb5HjvKeQbbywHhL8xFRy+YPoUHZsv476KiPMq9hSUpZtN0Kfu3qKN51BQkkdoSGkVY0T88yfJkqNgYFzmwA==",
+  "signature": "pkFwcN+AuGulldowsHrWlRuVHSKifuOrBMJeiHdmCQwS6YNDbWem8RdRGfOMzBdQyU8rtN1Hj2aEiTBPio0arw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

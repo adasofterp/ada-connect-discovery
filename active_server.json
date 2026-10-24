@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://vienna-personal-sense-big.trycloudflare.com",
-  "httpUrl": "https://vienna-personal-sense-big.trycloudflare.com",
-  "updatedAt": "2026-10-24T02:10:20.761Z",
-  "expiresAt": "2026-10-25T02:10:20.761Z",
-  "nonce": "50869c8c3f22113c4c2e6c442947be16",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-24T02:31:08.880Z",
+  "expiresAt": "2026-10-25T02:31:08.880Z",
+  "nonce": "f5c6660f063d071a7eb7fec686a67914",
   "payload": {
-    "wsUrl": "wss://vienna-personal-sense-big.trycloudflare.com",
-    "httpUrl": "https://vienna-personal-sense-big.trycloudflare.com",
-    "issuedAt": "2026-10-24T02:10:20.761Z",
-    "expiresAt": "2026-10-25T02:10:20.761Z",
-    "nonce": "50869c8c3f22113c4c2e6c442947be16"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-24T02:31:08.880Z",
+    "expiresAt": "2026-10-25T02:31:08.880Z",
+    "nonce": "f5c6660f063d071a7eb7fec686a67914"
   },
-  "signature": "bU5y6kYeYEafTMgfiVXRkIe95FWS8kVZmgQw6BAqP2Qu/IB8W0mVusJl5FfS6joVHshi6Un+NR91XpJWyFpDjA==",
+  "signature": "WfX9FhsFfyq5L7hN6uuvqE5eYrVTVQY5P0CmKtXFx/LMXxwWU+JlRjoH5v4AgvXTzK3Gy7A7+u8oVkDSxUkbOQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

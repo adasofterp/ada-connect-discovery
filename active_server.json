@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://limitations-allowed-armed-knife.trycloudflare.com",
-  "httpUrl": "https://limitations-allowed-armed-knife.trycloudflare.com",
-  "updatedAt": "2026-10-24T13:17:24.708Z",
-  "expiresAt": "2026-10-25T13:17:24.708Z",
-  "nonce": "2d227ee990e61fd8abce0fbc1bfdfec7",
+  "wsUrl": "wss://generic-sounds-found-maiden.trycloudflare.com",
+  "httpUrl": "https://generic-sounds-found-maiden.trycloudflare.com",
+  "updatedAt": "2026-10-24T13:27:51.185Z",
+  "expiresAt": "2026-10-25T13:27:51.185Z",
+  "nonce": "3af58e36df54b2c33290f81573ef378b",
   "payload": {
-    "wsUrl": "wss://limitations-allowed-armed-knife.trycloudflare.com",
-    "httpUrl": "https://limitations-allowed-armed-knife.trycloudflare.com",
-    "issuedAt": "2026-10-24T13:17:24.708Z",
-    "expiresAt": "2026-10-25T13:17:24.708Z",
-    "nonce": "2d227ee990e61fd8abce0fbc1bfdfec7"
+    "wsUrl": "wss://generic-sounds-found-maiden.trycloudflare.com",
+    "httpUrl": "https://generic-sounds-found-maiden.trycloudflare.com",
+    "issuedAt": "2026-10-24T13:27:51.185Z",
+    "expiresAt": "2026-10-25T13:27:51.185Z",
+    "nonce": "3af58e36df54b2c33290f81573ef378b"
   },
-  "signature": "DIkq0kVxH++sHw98OrVMbudZ9P1OyCUKMZ7qLAoxIdNq1Ou1HtSqetfjE+xLA7/bCyRRz6lw4FquULW2SkJ97g==",
+  "signature": "ThiXwhmzyQXIRTWBoItZZWMOSz7kgUTxGWhWSny/kTOw8Y2vXTCPSKu3mvR4NOn7UsV96ap7kg573KLeVnZuzQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

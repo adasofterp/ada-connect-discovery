@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://witch-added-particle-videos.trycloudflare.com",
-  "httpUrl": "https://witch-added-particle-videos.trycloudflare.com",
-  "updatedAt": "2026-10-24T22:42:43.760Z",
-  "expiresAt": "2026-10-25T22:42:43.760Z",
-  "nonce": "b99ddbbb54a8fa22c9fbe1626a5f5797",
+  "wsUrl": "wss://lighting-person-src-surge.trycloudflare.com",
+  "httpUrl": "https://lighting-person-src-surge.trycloudflare.com",
+  "updatedAt": "2026-10-24T23:03:33.742Z",
+  "expiresAt": "2026-10-25T23:03:33.742Z",
+  "nonce": "563011a323fa292391945a419e4770d1",
   "payload": {
-    "wsUrl": "wss://witch-added-particle-videos.trycloudflare.com",
-    "httpUrl": "https://witch-added-particle-videos.trycloudflare.com",
-    "issuedAt": "2026-10-24T22:42:43.760Z",
-    "expiresAt": "2026-10-25T22:42:43.760Z",
-    "nonce": "b99ddbbb54a8fa22c9fbe1626a5f5797"
+    "wsUrl": "wss://lighting-person-src-surge.trycloudflare.com",
+    "httpUrl": "https://lighting-person-src-surge.trycloudflare.com",
+    "issuedAt": "2026-10-24T23:03:33.742Z",
+    "expiresAt": "2026-10-25T23:03:33.742Z",
+    "nonce": "563011a323fa292391945a419e4770d1"
   },
-  "signature": "UGVoVqnikqeTt3HTzxZoqMebVlqeg8jUzRlNUrERcOnM8LfB9CsiWFueBXdCajX/1Kv4YbRHeJCNzILw8HbAYg==",
+  "signature": "GSVyYxEUtd6klPxAyEsX1RIS36VMKd/XQvLpKzwCBQEbyYNmXLUW10y+8PCg3BWs0VWK5Rd37NKjWGNTD3xOog==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-24T05:52:28.969Z",
-  "expiresAt": "2026-10-25T05:52:28.969Z",
-  "nonce": "a299ba7bbd3d8c979c6d0ce75c1f9006",
+  "wsUrl": "wss://recipients-dui-horse-cliff.trycloudflare.com",
+  "httpUrl": "https://recipients-dui-horse-cliff.trycloudflare.com",
+  "updatedAt": "2026-10-24T05:57:40.747Z",
+  "expiresAt": "2026-10-25T05:57:40.747Z",
+  "nonce": "77f493d6541567202cb870d1a17246a5",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-24T05:52:28.969Z",
-    "expiresAt": "2026-10-25T05:52:28.969Z",
-    "nonce": "a299ba7bbd3d8c979c6d0ce75c1f9006"
+    "wsUrl": "wss://recipients-dui-horse-cliff.trycloudflare.com",
+    "httpUrl": "https://recipients-dui-horse-cliff.trycloudflare.com",
+    "issuedAt": "2026-10-24T05:57:40.747Z",
+    "expiresAt": "2026-10-25T05:57:40.747Z",
+    "nonce": "77f493d6541567202cb870d1a17246a5"
   },
-  "signature": "LJ+yWQmQHa152y+ODs4Uc0NPiYJanbcFcSfxwaoyJL5LXz8pmL5jLCDV1G81XB+cpvcdG5LF+a7vgABO98utQQ==",
+  "signature": "tfBibJpQ4WwYOtyuaV3yoZmIb2lH435Ly9DeyODAiGxwOuZs9F2V/WWkOUfR4gyjLqytA4p70EDVn/VFH5owSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

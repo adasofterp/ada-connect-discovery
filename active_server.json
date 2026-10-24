@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://purpose-keith-fighting-dimension.trycloudflare.com",
-  "httpUrl": "https://purpose-keith-fighting-dimension.trycloudflare.com",
-  "updatedAt": "2026-10-24T03:40:57.880Z",
-  "expiresAt": "2026-10-25T03:40:57.880Z",
-  "nonce": "f027627bfd492a4f9e8c2662a716f530",
+  "wsUrl": "wss://administered-arg-biographies-maintaining.trycloudflare.com",
+  "httpUrl": "https://administered-arg-biographies-maintaining.trycloudflare.com",
+  "updatedAt": "2026-10-24T04:01:51.671Z",
+  "expiresAt": "2026-10-25T04:01:51.671Z",
+  "nonce": "7f60a90b41e4237333acaa8688ed33bb",
   "payload": {
-    "wsUrl": "wss://purpose-keith-fighting-dimension.trycloudflare.com",
-    "httpUrl": "https://purpose-keith-fighting-dimension.trycloudflare.com",
-    "issuedAt": "2026-10-24T03:40:57.880Z",
-    "expiresAt": "2026-10-25T03:40:57.880Z",
-    "nonce": "f027627bfd492a4f9e8c2662a716f530"
+    "wsUrl": "wss://administered-arg-biographies-maintaining.trycloudflare.com",
+    "httpUrl": "https://administered-arg-biographies-maintaining.trycloudflare.com",
+    "issuedAt": "2026-10-24T04:01:51.671Z",
+    "expiresAt": "2026-10-25T04:01:51.671Z",
+    "nonce": "7f60a90b41e4237333acaa8688ed33bb"
   },
-  "signature": "Yb1XNKTIcR6IfOd7T4XrLmFKkk4YpmphM66TkG6X5Xs46OvwwEgPRy0W/9V8k6v5q0SgX3hR7B+h1RdoTIXFMQ==",
+  "signature": "HqYb5HjvKeQbbywHhL8xFRy+YPoUHZsv476KiPMq9hSUpZtN0Kfu3qKN51BQkkdoSGkVY0T88yfJkqNgYFzmwA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

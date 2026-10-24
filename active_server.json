@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://jennifer-season-manual-invisible.trycloudflare.com",
-  "httpUrl": "https://jennifer-season-manual-invisible.trycloudflare.com",
-  "updatedAt": "2026-10-24T01:49:32.810Z",
-  "expiresAt": "2026-10-25T01:49:32.810Z",
-  "nonce": "39768370775ea6f6c707acf65d0228b9",
+  "wsUrl": "wss://specialists-unlike-surely-database.trycloudflare.com",
+  "httpUrl": "https://specialists-unlike-surely-database.trycloudflare.com",
+  "updatedAt": "2026-10-24T01:59:56.684Z",
+  "expiresAt": "2026-10-25T01:59:56.684Z",
+  "nonce": "af3407df027eb7ded8276140c5597db2",
   "payload": {
-    "wsUrl": "wss://jennifer-season-manual-invisible.trycloudflare.com",
-    "httpUrl": "https://jennifer-season-manual-invisible.trycloudflare.com",
-    "issuedAt": "2026-10-24T01:49:32.810Z",
-    "expiresAt": "2026-10-25T01:49:32.810Z",
-    "nonce": "39768370775ea6f6c707acf65d0228b9"
+    "wsUrl": "wss://specialists-unlike-surely-database.trycloudflare.com",
+    "httpUrl": "https://specialists-unlike-surely-database.trycloudflare.com",
+    "issuedAt": "2026-10-24T01:59:56.684Z",
+    "expiresAt": "2026-10-25T01:59:56.684Z",
+    "nonce": "af3407df027eb7ded8276140c5597db2"
   },
-  "signature": "UR8UXxS5hfMtxNm6UgnLpgIjfRbSUHtsQf/aVwzq6LfQgLCCUHcBrh3sbEwdZD+JdzC1Ik9Y/7R8U3JK9oTGDg==",
+  "signature": "99bTIXrKfpW49iUI/B0r3NBR+BxXzI6134bR8F5p2QxdCfWTcK5DitD1LiBpwvGk5RZrxxm/oKaf/fkVRcnprg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

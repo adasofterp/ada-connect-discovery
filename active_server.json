@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cleanup-editor-cloud-camcorders.trycloudflare.com",
-  "httpUrl": "https://cleanup-editor-cloud-camcorders.trycloudflare.com",
-  "updatedAt": "2026-10-24T11:57:01.673Z",
-  "expiresAt": "2026-10-25T11:57:01.673Z",
-  "nonce": "ab53fbf1c9aad337cab214d7b2dbf31b",
+  "wsUrl": "wss://dominant-changes-rrp-fans.trycloudflare.com",
+  "httpUrl": "https://dominant-changes-rrp-fans.trycloudflare.com",
+  "updatedAt": "2026-10-24T12:18:24.700Z",
+  "expiresAt": "2026-10-25T12:18:24.700Z",
+  "nonce": "3a17e5f55282754c15bc13d56cb0211d",
   "payload": {
-    "wsUrl": "wss://cleanup-editor-cloud-camcorders.trycloudflare.com",
-    "httpUrl": "https://cleanup-editor-cloud-camcorders.trycloudflare.com",
-    "issuedAt": "2026-10-24T11:57:01.673Z",
-    "expiresAt": "2026-10-25T11:57:01.673Z",
-    "nonce": "ab53fbf1c9aad337cab214d7b2dbf31b"
+    "wsUrl": "wss://dominant-changes-rrp-fans.trycloudflare.com",
+    "httpUrl": "https://dominant-changes-rrp-fans.trycloudflare.com",
+    "issuedAt": "2026-10-24T12:18:24.700Z",
+    "expiresAt": "2026-10-25T12:18:24.700Z",
+    "nonce": "3a17e5f55282754c15bc13d56cb0211d"
   },
-  "signature": "+FC7oD/Bt8Uwdm9XeFCQmS88+hb7rKK0gbtH/6CQlnU88QJHhM4I8rpMT7j69n3rcgpznOMOzu17WiLcl54hpQ==",
+  "signature": "yXZTNzX2/+jMvT87PnrfPc0n4eY+eRML7X/isPMVcXTcrce2YVplPYVDdK96ecmnLewmq399Gyby1S/ELAwbjQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

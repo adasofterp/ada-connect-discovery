@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://humanity-terrace-wanna-promises.trycloudflare.com",
-  "httpUrl": "https://humanity-terrace-wanna-promises.trycloudflare.com",
-  "updatedAt": "2026-10-24T02:46:48.430Z",
-  "expiresAt": "2026-10-25T02:46:48.430Z",
-  "nonce": "d8a8722c7f6bd8f99cd99aadfb91e950",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-24T03:01:10.469Z",
+  "expiresAt": "2026-10-25T03:01:10.469Z",
+  "nonce": "bb628de6e90a827c98f9aee3b8f09091",
   "payload": {
-    "wsUrl": "wss://humanity-terrace-wanna-promises.trycloudflare.com",
-    "httpUrl": "https://humanity-terrace-wanna-promises.trycloudflare.com",
-    "issuedAt": "2026-10-24T02:46:48.430Z",
-    "expiresAt": "2026-10-25T02:46:48.430Z",
-    "nonce": "d8a8722c7f6bd8f99cd99aadfb91e950"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-24T03:01:10.469Z",
+    "expiresAt": "2026-10-25T03:01:10.469Z",
+    "nonce": "bb628de6e90a827c98f9aee3b8f09091"
   },
-  "signature": "RuAYcDMpJFCxWQAjqeiTSmN1fi/zums5PiNYDPF707AqBYAh290M4h6YXFP1a/zRgGHgJ31Hi+BjYYlrVmSfJw==",
+  "signature": "QMu95Je6Z244RKkprJeh9WMXakZqcf0X7ko/Ych7uUj+u5rHISBbFQEzGmS1GqeMYSjCPjfQZyUiKiWbFTExcA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

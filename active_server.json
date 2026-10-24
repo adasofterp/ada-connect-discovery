@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://dominant-changes-rrp-fans.trycloudflare.com",
-  "httpUrl": "https://dominant-changes-rrp-fans.trycloudflare.com",
-  "updatedAt": "2026-10-24T12:18:24.700Z",
-  "expiresAt": "2026-10-25T12:18:24.700Z",
-  "nonce": "3a17e5f55282754c15bc13d56cb0211d",
+  "wsUrl": "wss://limitations-allowed-armed-knife.trycloudflare.com",
+  "httpUrl": "https://limitations-allowed-armed-knife.trycloudflare.com",
+  "updatedAt": "2026-10-24T13:17:24.708Z",
+  "expiresAt": "2026-10-25T13:17:24.708Z",
+  "nonce": "2d227ee990e61fd8abce0fbc1bfdfec7",
   "payload": {
-    "wsUrl": "wss://dominant-changes-rrp-fans.trycloudflare.com",
-    "httpUrl": "https://dominant-changes-rrp-fans.trycloudflare.com",
-    "issuedAt": "2026-10-24T12:18:24.700Z",
-    "expiresAt": "2026-10-25T12:18:24.700Z",
-    "nonce": "3a17e5f55282754c15bc13d56cb0211d"
+    "wsUrl": "wss://limitations-allowed-armed-knife.trycloudflare.com",
+    "httpUrl": "https://limitations-allowed-armed-knife.trycloudflare.com",
+    "issuedAt": "2026-10-24T13:17:24.708Z",
+    "expiresAt": "2026-10-25T13:17:24.708Z",
+    "nonce": "2d227ee990e61fd8abce0fbc1bfdfec7"
   },
-  "signature": "yXZTNzX2/+jMvT87PnrfPc0n4eY+eRML7X/isPMVcXTcrce2YVplPYVDdK96ecmnLewmq399Gyby1S/ELAwbjQ==",
+  "signature": "DIkq0kVxH++sHw98OrVMbudZ9P1OyCUKMZ7qLAoxIdNq1Ou1HtSqetfjE+xLA7/bCyRRz6lw4FquULW2SkJ97g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://brown-customs-polyphonic-considers.trycloudflare.com",
-  "httpUrl": "https://brown-customs-polyphonic-considers.trycloudflare.com",
-  "updatedAt": "2026-10-24T23:14:02.145Z",
-  "expiresAt": "2026-10-25T23:14:02.145Z",
-  "nonce": "2c92a974614814a1166dc6555c2d63a6",
+  "wsUrl": "wss://beverage-creek-jobs-hdtv.trycloudflare.com",
+  "httpUrl": "https://beverage-creek-jobs-hdtv.trycloudflare.com",
+  "updatedAt": "2026-10-24T23:24:31.806Z",
+  "expiresAt": "2026-10-25T23:24:31.806Z",
+  "nonce": "31082aca5cdf5c79b27f354e2d49d81b",
   "payload": {
-    "wsUrl": "wss://brown-customs-polyphonic-considers.trycloudflare.com",
-    "httpUrl": "https://brown-customs-polyphonic-considers.trycloudflare.com",
-    "issuedAt": "2026-10-24T23:14:02.145Z",
-    "expiresAt": "2026-10-25T23:14:02.145Z",
-    "nonce": "2c92a974614814a1166dc6555c2d63a6"
+    "wsUrl": "wss://beverage-creek-jobs-hdtv.trycloudflare.com",
+    "httpUrl": "https://beverage-creek-jobs-hdtv.trycloudflare.com",
+    "issuedAt": "2026-10-24T23:24:31.806Z",
+    "expiresAt": "2026-10-25T23:24:31.806Z",
+    "nonce": "31082aca5cdf5c79b27f354e2d49d81b"
   },
-  "signature": "aqOhcsFRJPbIFUYkg0oB/UCsTWO45tsemzZlC3fojkfZJYL3HEN1bwbonWTR09+Z0dyQ+hqwoUz1yoUeQsu7uA==",
+  "signature": "riqmCAX1hXG2j6n/lLrfjUwhgz1RUwmC+nNzxKQx1N1Fai6wnFRwwYpqK/zADJubi2FMlIxBoy4oneLwCk8Amg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

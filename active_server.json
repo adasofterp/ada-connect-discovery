@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://generic-sounds-found-maiden.trycloudflare.com",
-  "httpUrl": "https://generic-sounds-found-maiden.trycloudflare.com",
-  "updatedAt": "2026-10-24T13:27:51.185Z",
-  "expiresAt": "2026-10-25T13:27:51.185Z",
-  "nonce": "3af58e36df54b2c33290f81573ef378b",
+  "wsUrl": "wss://artwork-raleigh-amendments-iron.trycloudflare.com",
+  "httpUrl": "https://artwork-raleigh-amendments-iron.trycloudflare.com",
+  "updatedAt": "2026-10-24T13:38:15.007Z",
+  "expiresAt": "2026-10-25T13:38:15.007Z",
+  "nonce": "ae26716bbbc73941b3d93981317f1a39",
   "payload": {
-    "wsUrl": "wss://generic-sounds-found-maiden.trycloudflare.com",
-    "httpUrl": "https://generic-sounds-found-maiden.trycloudflare.com",
-    "issuedAt": "2026-10-24T13:27:51.185Z",
-    "expiresAt": "2026-10-25T13:27:51.185Z",
-    "nonce": "3af58e36df54b2c33290f81573ef378b"
+    "wsUrl": "wss://artwork-raleigh-amendments-iron.trycloudflare.com",
+    "httpUrl": "https://artwork-raleigh-amendments-iron.trycloudflare.com",
+    "issuedAt": "2026-10-24T13:38:15.007Z",
+    "expiresAt": "2026-10-25T13:38:15.007Z",
+    "nonce": "ae26716bbbc73941b3d93981317f1a39"
   },
-  "signature": "ThiXwhmzyQXIRTWBoItZZWMOSz7kgUTxGWhWSny/kTOw8Y2vXTCPSKu3mvR4NOn7UsV96ap7kg573KLeVnZuzQ==",
+  "signature": "S7hqRKWDzvwsNuU6KnjpsjvT7aneHv33GTGswFQosV0qkwQThrFFeDoufPYw8fSxgaAuf3BAod8Ny8uEggn8kQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

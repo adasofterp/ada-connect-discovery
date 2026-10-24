@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://signal-lab-print-behalf.trycloudflare.com",
-  "httpUrl": "https://signal-lab-print-behalf.trycloudflare.com",
-  "updatedAt": "2026-10-24T00:00:20.854Z",
-  "expiresAt": "2026-10-25T00:00:20.854Z",
-  "nonce": "5d1cd43e63e40c24b9a7efb2e8136422",
+  "wsUrl": "wss://lift-minolta-preliminary-mistress.trycloudflare.com",
+  "httpUrl": "https://lift-minolta-preliminary-mistress.trycloudflare.com",
+  "updatedAt": "2026-10-24T00:10:44.435Z",
+  "expiresAt": "2026-10-25T00:10:44.435Z",
+  "nonce": "c3bc3605d3c3698d3d40e461b870edf2",
   "payload": {
-    "wsUrl": "wss://signal-lab-print-behalf.trycloudflare.com",
-    "httpUrl": "https://signal-lab-print-behalf.trycloudflare.com",
-    "issuedAt": "2026-10-24T00:00:20.854Z",
-    "expiresAt": "2026-10-25T00:00:20.854Z",
-    "nonce": "5d1cd43e63e40c24b9a7efb2e8136422"
+    "wsUrl": "wss://lift-minolta-preliminary-mistress.trycloudflare.com",
+    "httpUrl": "https://lift-minolta-preliminary-mistress.trycloudflare.com",
+    "issuedAt": "2026-10-24T00:10:44.435Z",
+    "expiresAt": "2026-10-25T00:10:44.435Z",
+    "nonce": "c3bc3605d3c3698d3d40e461b870edf2"
   },
-  "signature": "qfyo8UxWOnLopqt5p0xHrQSlCq8TDgs4YqZ9Z7aHWJdMssKn8YKN2qBC7OzEb8B/MVledt3u2T67IMog1BphCw==",
+  "signature": "CjdrsHVEol7LIQaKpNPNoFp8PjukwRvokr3zu/r2FsLKTOqIgYy9AQ2HNkaUSA8o0qyfvTZgDbpj6v7z1wxkJw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

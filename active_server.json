@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://minority-plants-muscle-rider.trycloudflare.com",
-  "httpUrl": "https://minority-plants-muscle-rider.trycloudflare.com",
-  "updatedAt": "2026-10-24T04:12:14.261Z",
-  "expiresAt": "2026-10-25T04:12:14.261Z",
-  "nonce": "b27a8ab13fadf337f36b14966f060e1e",
+  "wsUrl": "wss://visited-driver-tract-intro.trycloudflare.com",
+  "httpUrl": "https://visited-driver-tract-intro.trycloudflare.com",
+  "updatedAt": "2026-10-24T05:02:05.255Z",
+  "expiresAt": "2026-10-25T05:02:05.255Z",
+  "nonce": "eb809496ec5fc05954fe35d9c04d8899",
   "payload": {
-    "wsUrl": "wss://minority-plants-muscle-rider.trycloudflare.com",
-    "httpUrl": "https://minority-plants-muscle-rider.trycloudflare.com",
-    "issuedAt": "2026-10-24T04:12:14.261Z",
-    "expiresAt": "2026-10-25T04:12:14.261Z",
-    "nonce": "b27a8ab13fadf337f36b14966f060e1e"
+    "wsUrl": "wss://visited-driver-tract-intro.trycloudflare.com",
+    "httpUrl": "https://visited-driver-tract-intro.trycloudflare.com",
+    "issuedAt": "2026-10-24T05:02:05.255Z",
+    "expiresAt": "2026-10-25T05:02:05.255Z",
+    "nonce": "eb809496ec5fc05954fe35d9c04d8899"
   },
-  "signature": "pkFwcN+AuGulldowsHrWlRuVHSKifuOrBMJeiHdmCQwS6YNDbWem8RdRGfOMzBdQyU8rtN1Hj2aEiTBPio0arw==",
+  "signature": "WPEWsTwt3Xcw3z8y8KaoSKh0Zl7ZyzIaGurY+8D40ZlQd7kRKpUhD8ekP3bETa4ezwH+Gl2AE6I3vv1mIq8ZcQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

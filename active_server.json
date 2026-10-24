@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lean-cheers-entrepreneur-bit.trycloudflare.com",
-  "httpUrl": "https://lean-cheers-entrepreneur-bit.trycloudflare.com",
-  "updatedAt": "2026-10-24T23:40:35.170Z",
-  "expiresAt": "2026-10-25T23:40:35.170Z",
-  "nonce": "b804b35c63e452131b6c7209d8e9093a",
+  "wsUrl": "wss://depending-norman-went-cgi.trycloudflare.com",
+  "httpUrl": "https://depending-norman-went-cgi.trycloudflare.com",
+  "updatedAt": "2026-10-24T23:48:57.900Z",
+  "expiresAt": "2026-10-25T23:48:57.900Z",
+  "nonce": "a74926afd6274a704c5cd8b074653b32",
   "payload": {
-    "wsUrl": "wss://lean-cheers-entrepreneur-bit.trycloudflare.com",
-    "httpUrl": "https://lean-cheers-entrepreneur-bit.trycloudflare.com",
-    "issuedAt": "2026-10-24T23:40:35.170Z",
-    "expiresAt": "2026-10-25T23:40:35.170Z",
-    "nonce": "b804b35c63e452131b6c7209d8e9093a"
+    "wsUrl": "wss://depending-norman-went-cgi.trycloudflare.com",
+    "httpUrl": "https://depending-norman-went-cgi.trycloudflare.com",
+    "issuedAt": "2026-10-24T23:48:57.900Z",
+    "expiresAt": "2026-10-25T23:48:57.900Z",
+    "nonce": "a74926afd6274a704c5cd8b074653b32"
   },
-  "signature": "+rKsdJZHtBtLmRaiH5MNUtG3htP488mKzkaLn+qKTG33vcqGj8v7YS0cX+8Y98BBWeYUVR3SSq5E1IoPBGwdEA==",
+  "signature": "UpoZswexDgS0uQeUwnAAbhltVai530peHkErh8y+xQQYzRqfxO0gU9NhCoIlV8roflAFcAdWPCKLnW/H3K/++g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

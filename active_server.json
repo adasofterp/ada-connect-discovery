@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://attempting-websites-decrease-progress.trycloudflare.com",
-  "httpUrl": "https://attempting-websites-decrease-progress.trycloudflare.com",
-  "updatedAt": "2026-10-25T09:31:04.020Z",
-  "expiresAt": "2026-10-26T09:31:04.020Z",
-  "nonce": "07be4667edd1e80bdeb1a6e33adac64d",
+  "wsUrl": "wss://tobago-depends-favourites-productive.trycloudflare.com",
+  "httpUrl": "https://tobago-depends-favourites-productive.trycloudflare.com",
+  "updatedAt": "2026-10-25T09:41:28.173Z",
+  "expiresAt": "2026-10-26T09:41:28.173Z",
+  "nonce": "f6bb91f9feb67a332253cda3700f6325",
   "payload": {
-    "wsUrl": "wss://attempting-websites-decrease-progress.trycloudflare.com",
-    "httpUrl": "https://attempting-websites-decrease-progress.trycloudflare.com",
-    "issuedAt": "2026-10-25T09:31:04.020Z",
-    "expiresAt": "2026-10-26T09:31:04.020Z",
-    "nonce": "07be4667edd1e80bdeb1a6e33adac64d"
+    "wsUrl": "wss://tobago-depends-favourites-productive.trycloudflare.com",
+    "httpUrl": "https://tobago-depends-favourites-productive.trycloudflare.com",
+    "issuedAt": "2026-10-25T09:41:28.173Z",
+    "expiresAt": "2026-10-26T09:41:28.173Z",
+    "nonce": "f6bb91f9feb67a332253cda3700f6325"
   },
-  "signature": "DkiL8FkjcFDberJt2xNbeb/dGSmafLO/j9IVmR1UOk5vydak5Rok90kI/BNEW1P7+5nvzsiEMDY4HMt+x2zx+Q==",
+  "signature": "R2t8rug7hEf3CAPrSLj6KmMs24Oy7VveWlKa/nqo2nKWlEWJqcF0jQWnEJbrs6IHJZmNNdyzYyVjZ2Xl34mEMg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

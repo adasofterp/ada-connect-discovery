@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://summary-owen-eating-apollo.trycloudflare.com",
-  "httpUrl": "https://summary-owen-eating-apollo.trycloudflare.com",
-  "updatedAt": "2026-10-25T05:47:48.688Z",
-  "expiresAt": "2026-10-26T05:47:48.688Z",
-  "nonce": "42955162396b88c07de0dea4c4d0d350",
+  "wsUrl": "wss://excel-conservative-appliance-affair.trycloudflare.com",
+  "httpUrl": "https://excel-conservative-appliance-affair.trycloudflare.com",
+  "updatedAt": "2026-10-25T06:17:39.978Z",
+  "expiresAt": "2026-10-26T06:17:39.978Z",
+  "nonce": "f3c30a5e262ec92d5d1c69acf04158e9",
   "payload": {
-    "wsUrl": "wss://summary-owen-eating-apollo.trycloudflare.com",
-    "httpUrl": "https://summary-owen-eating-apollo.trycloudflare.com",
-    "issuedAt": "2026-10-25T05:47:48.688Z",
-    "expiresAt": "2026-10-26T05:47:48.688Z",
-    "nonce": "42955162396b88c07de0dea4c4d0d350"
+    "wsUrl": "wss://excel-conservative-appliance-affair.trycloudflare.com",
+    "httpUrl": "https://excel-conservative-appliance-affair.trycloudflare.com",
+    "issuedAt": "2026-10-25T06:17:39.978Z",
+    "expiresAt": "2026-10-26T06:17:39.978Z",
+    "nonce": "f3c30a5e262ec92d5d1c69acf04158e9"
   },
-  "signature": "GnsTM1h1p11diC1S+nMttMIWkjuTUBwpFwMQIlEa3jlu5xDv8GskQ5fvWnYYYbBvqztWb07zzJ+VAUaLxl/thw==",
+  "signature": "yGvbFX+9aq9cmGEaRlMPenyVVgtYeQrzloyIMhWlWgI6k8fRSa3fO7GvIYpaPSHXCW8Th4a2nocHB/qhmHURnA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

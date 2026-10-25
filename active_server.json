@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reed-gourmet-abilities-assured.trycloudflare.com",
-  "httpUrl": "https://reed-gourmet-abilities-assured.trycloudflare.com",
-  "updatedAt": "2026-10-25T20:29:17.761Z",
-  "expiresAt": "2026-10-26T20:29:17.761Z",
-  "nonce": "9a03fcb5b5f6d9cdc79f5cf32dad99e7",
+  "wsUrl": "wss://that-compression-based-samba.trycloudflare.com",
+  "httpUrl": "https://that-compression-based-samba.trycloudflare.com",
+  "updatedAt": "2026-10-25T20:39:41.809Z",
+  "expiresAt": "2026-10-26T20:39:41.809Z",
+  "nonce": "a2f89e79e39f1f9e8793e0bb0c4e891d",
   "payload": {
-    "wsUrl": "wss://reed-gourmet-abilities-assured.trycloudflare.com",
-    "httpUrl": "https://reed-gourmet-abilities-assured.trycloudflare.com",
-    "issuedAt": "2026-10-25T20:29:17.761Z",
-    "expiresAt": "2026-10-26T20:29:17.761Z",
-    "nonce": "9a03fcb5b5f6d9cdc79f5cf32dad99e7"
+    "wsUrl": "wss://that-compression-based-samba.trycloudflare.com",
+    "httpUrl": "https://that-compression-based-samba.trycloudflare.com",
+    "issuedAt": "2026-10-25T20:39:41.809Z",
+    "expiresAt": "2026-10-26T20:39:41.809Z",
+    "nonce": "a2f89e79e39f1f9e8793e0bb0c4e891d"
   },
-  "signature": "i0GOrnOK6n0Issb4Ohocz1H2XkYJdkPywXw3/cfQkPpIupL767cMkDiDRLmbIsb7feNv0QunOe8AIgjIt1T9Zg==",
+  "signature": "cSw5AJn5v855SsjTSwZzFbuhK2U7YIuBzceZjax5lNGrOPgwB3V3utowpTs1ZHFbnR68rBQJeWRtPfagFmF3+Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://picking-thy-interviews-publicity.trycloudflare.com",
-  "httpUrl": "https://picking-thy-interviews-publicity.trycloudflare.com",
-  "updatedAt": "2026-10-25T00:20:10.743Z",
-  "expiresAt": "2026-10-26T00:20:10.743Z",
-  "nonce": "03d5f8505455c40ada541777898b07e9",
+  "wsUrl": "wss://different-soil-analyze-committee.trycloudflare.com",
+  "httpUrl": "https://different-soil-analyze-committee.trycloudflare.com",
+  "updatedAt": "2026-10-25T00:30:34.662Z",
+  "expiresAt": "2026-10-26T00:30:34.662Z",
+  "nonce": "f668d7a02363e90f341430bec68bcd94",
   "payload": {
-    "wsUrl": "wss://picking-thy-interviews-publicity.trycloudflare.com",
-    "httpUrl": "https://picking-thy-interviews-publicity.trycloudflare.com",
-    "issuedAt": "2026-10-25T00:20:10.743Z",
-    "expiresAt": "2026-10-26T00:20:10.743Z",
-    "nonce": "03d5f8505455c40ada541777898b07e9"
+    "wsUrl": "wss://different-soil-analyze-committee.trycloudflare.com",
+    "httpUrl": "https://different-soil-analyze-committee.trycloudflare.com",
+    "issuedAt": "2026-10-25T00:30:34.662Z",
+    "expiresAt": "2026-10-26T00:30:34.662Z",
+    "nonce": "f668d7a02363e90f341430bec68bcd94"
   },
-  "signature": "aHzcZUEiCTbqzoThLIS4khIbglFdWHlSxqyWS9D3PyysyiMkT3QklvmnxvR1dp0RIkH51TIdn2GEEYPMzSxWMA==",
+  "signature": "sTq/w7A/BxWM3PiqlZrTOcJwJ8KXPkCKmgDjpHqYt0WYI8Q/5LMzkVCUm6624AefA0C8nWQ5rpMXmSdH2cSmug==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

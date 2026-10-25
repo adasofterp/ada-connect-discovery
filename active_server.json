@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://mass-alone-debate-refined.trycloudflare.com",
-  "httpUrl": "https://mass-alone-debate-refined.trycloudflare.com",
-  "updatedAt": "2026-10-25T21:09:27.566Z",
-  "expiresAt": "2026-10-26T21:09:27.566Z",
-  "nonce": "411f52960324255c92dd2db50507396a",
+  "wsUrl": "wss://developing-paper-trip-valve.trycloudflare.com",
+  "httpUrl": "https://developing-paper-trip-valve.trycloudflare.com",
+  "updatedAt": "2026-10-25T21:19:50.988Z",
+  "expiresAt": "2026-10-26T21:19:50.988Z",
+  "nonce": "4c9457471fb0b4f2019af10ecc4dc6b9",
   "payload": {
-    "wsUrl": "wss://mass-alone-debate-refined.trycloudflare.com",
-    "httpUrl": "https://mass-alone-debate-refined.trycloudflare.com",
-    "issuedAt": "2026-10-25T21:09:27.566Z",
-    "expiresAt": "2026-10-26T21:09:27.566Z",
-    "nonce": "411f52960324255c92dd2db50507396a"
+    "wsUrl": "wss://developing-paper-trip-valve.trycloudflare.com",
+    "httpUrl": "https://developing-paper-trip-valve.trycloudflare.com",
+    "issuedAt": "2026-10-25T21:19:50.988Z",
+    "expiresAt": "2026-10-26T21:19:50.988Z",
+    "nonce": "4c9457471fb0b4f2019af10ecc4dc6b9"
   },
-  "signature": "Gq7H4G33M9SwNpYTZLkjepefDXi2/nhrXcoRNVe6m00ALaNWxXL33ySIsBuHyHTVHdvXyoR2pt3qo7WqGDVzuw==",
+  "signature": "AqERHqFTPXCey6vFjlgnxVDPlqsNbdW/wI7ExBLy8bNuEM/5sW9QdQNzc0cps2B9Ek3qgS386NDhhm2f9YtUGw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

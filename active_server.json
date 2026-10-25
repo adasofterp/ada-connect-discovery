@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pointed-hampshire-proposition-signal.trycloudflare.com",
-  "httpUrl": "https://pointed-hampshire-proposition-signal.trycloudflare.com",
-  "updatedAt": "2026-10-25T02:14:31.929Z",
-  "expiresAt": "2026-10-26T02:14:31.929Z",
-  "nonce": "fd33291a29bf1da41d276f50e0a1349f",
+  "wsUrl": "wss://cornell-buffer-ready-import.trycloudflare.com",
+  "httpUrl": "https://cornell-buffer-ready-import.trycloudflare.com",
+  "updatedAt": "2026-10-25T02:45:43.963Z",
+  "expiresAt": "2026-10-26T02:45:43.963Z",
+  "nonce": "1ec1f29b9e22222cf79b508c08b78bda",
   "payload": {
-    "wsUrl": "wss://pointed-hampshire-proposition-signal.trycloudflare.com",
-    "httpUrl": "https://pointed-hampshire-proposition-signal.trycloudflare.com",
-    "issuedAt": "2026-10-25T02:14:31.929Z",
-    "expiresAt": "2026-10-26T02:14:31.929Z",
-    "nonce": "fd33291a29bf1da41d276f50e0a1349f"
+    "wsUrl": "wss://cornell-buffer-ready-import.trycloudflare.com",
+    "httpUrl": "https://cornell-buffer-ready-import.trycloudflare.com",
+    "issuedAt": "2026-10-25T02:45:43.963Z",
+    "expiresAt": "2026-10-26T02:45:43.963Z",
+    "nonce": "1ec1f29b9e22222cf79b508c08b78bda"
   },
-  "signature": "wz7RAtaEWLEL/5NTaqje4Pt/8Ashv6oVpjA1L2Rt9rxz/pv0Upd1dmnmVfhYxscgIPBO9GiPgRfPsdT6qVjsVQ==",
+  "signature": "aXgIO3M0KqjWEo5geX51yeBIq961b4yPYYL+ghfnOHdZktCj/KWzQM84zVWoLX8+RnitkuZBXoiTBMB4yKXGLg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

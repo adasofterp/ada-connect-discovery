@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://influences-distant-passage-trackback.trycloudflare.com",
-  "httpUrl": "https://influences-distant-passage-trackback.trycloudflare.com",
-  "updatedAt": "2026-10-25T07:18:46.732Z",
-  "expiresAt": "2026-10-26T07:18:46.732Z",
-  "nonce": "798f0017d256f151aedc5456ef83f3dd",
+  "wsUrl": "wss://arabic-highway-lifestyle-provider.trycloudflare.com",
+  "httpUrl": "https://arabic-highway-lifestyle-provider.trycloudflare.com",
+  "updatedAt": "2026-10-25T07:58:45.516Z",
+  "expiresAt": "2026-10-26T07:58:45.516Z",
+  "nonce": "24f24910c5bd40b56121db625f10d544",
   "payload": {
-    "wsUrl": "wss://influences-distant-passage-trackback.trycloudflare.com",
-    "httpUrl": "https://influences-distant-passage-trackback.trycloudflare.com",
-    "issuedAt": "2026-10-25T07:18:46.732Z",
-    "expiresAt": "2026-10-26T07:18:46.732Z",
-    "nonce": "798f0017d256f151aedc5456ef83f3dd"
+    "wsUrl": "wss://arabic-highway-lifestyle-provider.trycloudflare.com",
+    "httpUrl": "https://arabic-highway-lifestyle-provider.trycloudflare.com",
+    "issuedAt": "2026-10-25T07:58:45.516Z",
+    "expiresAt": "2026-10-26T07:58:45.516Z",
+    "nonce": "24f24910c5bd40b56121db625f10d544"
   },
-  "signature": "p3lqQm+F/WnRZGCBMSbl2k4NJM+tw89aIunkrHPy40sJy0FPbZ5fnnQZGSEC+gcYmv8qyqMQd9BOZciWtc3vFQ==",
+  "signature": "scTpszEe+2nw6V457wDL4oTEQFADGDwy0gf7kGdHgRE474sg27aBeNjwdo/iBHhD+fz+tl6sO3EkbfVBmUMNvg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

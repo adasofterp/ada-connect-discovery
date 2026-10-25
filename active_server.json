@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://july-seas-theorem-remarks.trycloudflare.com",
-  "httpUrl": "https://july-seas-theorem-remarks.trycloudflare.com",
-  "updatedAt": "2026-10-25T19:39:12.382Z",
-  "expiresAt": "2026-10-26T19:39:12.382Z",
-  "nonce": "cda7ef10fb8bee308916687d1390e78a",
+  "wsUrl": "wss://allowing-dryer-bike-planes.trycloudflare.com",
+  "httpUrl": "https://allowing-dryer-bike-planes.trycloudflare.com",
+  "updatedAt": "2026-10-25T19:58:01.025Z",
+  "expiresAt": "2026-10-26T19:58:01.025Z",
+  "nonce": "b13731850fdf3c1f4e455fc10c80e9ae",
   "payload": {
-    "wsUrl": "wss://july-seas-theorem-remarks.trycloudflare.com",
-    "httpUrl": "https://july-seas-theorem-remarks.trycloudflare.com",
-    "issuedAt": "2026-10-25T19:39:12.382Z",
-    "expiresAt": "2026-10-26T19:39:12.382Z",
-    "nonce": "cda7ef10fb8bee308916687d1390e78a"
+    "wsUrl": "wss://allowing-dryer-bike-planes.trycloudflare.com",
+    "httpUrl": "https://allowing-dryer-bike-planes.trycloudflare.com",
+    "issuedAt": "2026-10-25T19:58:01.025Z",
+    "expiresAt": "2026-10-26T19:58:01.025Z",
+    "nonce": "b13731850fdf3c1f4e455fc10c80e9ae"
   },
-  "signature": "XPFuB3xLOa9v1mUXeeyMbyfsCfK++9vdJEvYnN1eyQn/MGBcEutd5NTkKce3UnhcCABe9c6JeyhBhgyPJOmrkg==",
+  "signature": "lNCJty1OJKgR+dqjzUIvrx8FQmHS4JKCD5l29L4VZGn1o2M7BRM9egXAe9aFKIkfgZkHjPz80IK1MCuRbzSCOw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

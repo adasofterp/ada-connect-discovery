@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bedford-mandate-times-warning.trycloudflare.com",
-  "httpUrl": "https://bedford-mandate-times-warning.trycloudflare.com",
-  "updatedAt": "2026-10-25T02:56:05.777Z",
-  "expiresAt": "2026-10-26T02:56:05.777Z",
-  "nonce": "e78f31dbe2e05018f2d91e437d34db53",
+  "wsUrl": "wss://executive-thereof-stunning-stated.trycloudflare.com",
+  "httpUrl": "https://executive-thereof-stunning-stated.trycloudflare.com",
+  "updatedAt": "2026-10-25T03:06:17.228Z",
+  "expiresAt": "2026-10-26T03:06:17.228Z",
+  "nonce": "c69dab483a1db333021c3add7c0d9280",
   "payload": {
-    "wsUrl": "wss://bedford-mandate-times-warning.trycloudflare.com",
-    "httpUrl": "https://bedford-mandate-times-warning.trycloudflare.com",
-    "issuedAt": "2026-10-25T02:56:05.777Z",
-    "expiresAt": "2026-10-26T02:56:05.777Z",
-    "nonce": "e78f31dbe2e05018f2d91e437d34db53"
+    "wsUrl": "wss://executive-thereof-stunning-stated.trycloudflare.com",
+    "httpUrl": "https://executive-thereof-stunning-stated.trycloudflare.com",
+    "issuedAt": "2026-10-25T03:06:17.228Z",
+    "expiresAt": "2026-10-26T03:06:17.228Z",
+    "nonce": "c69dab483a1db333021c3add7c0d9280"
   },
-  "signature": "j9qywppe6DaFPEkULxY128e2NkktEfXnuNUVOadEyJlnqBdbn3XYogooueRCZSbl2/LSq2Sjl9stxZHVQ1Fuhw==",
+  "signature": "o9IOtOxXTO3LJ29Sjvg3fuSd+nVDA8QMxXP0P/udxfsXt+mf6OjXQDUITrz5A4+aEZF+3jIXoO1jUNjZm2vMcw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

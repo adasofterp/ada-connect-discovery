@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://executive-thereof-stunning-stated.trycloudflare.com",
-  "httpUrl": "https://executive-thereof-stunning-stated.trycloudflare.com",
-  "updatedAt": "2026-10-25T03:06:17.228Z",
-  "expiresAt": "2026-10-26T03:06:17.228Z",
-  "nonce": "c69dab483a1db333021c3add7c0d9280",
+  "wsUrl": "wss://exams-norm-women-mid.trycloudflare.com",
+  "httpUrl": "https://exams-norm-women-mid.trycloudflare.com",
+  "updatedAt": "2026-10-25T03:16:44.219Z",
+  "expiresAt": "2026-10-26T03:16:44.219Z",
+  "nonce": "b4889a8b3c3a3eb2b2826436f34c08f6",
   "payload": {
-    "wsUrl": "wss://executive-thereof-stunning-stated.trycloudflare.com",
-    "httpUrl": "https://executive-thereof-stunning-stated.trycloudflare.com",
-    "issuedAt": "2026-10-25T03:06:17.228Z",
-    "expiresAt": "2026-10-26T03:06:17.228Z",
-    "nonce": "c69dab483a1db333021c3add7c0d9280"
+    "wsUrl": "wss://exams-norm-women-mid.trycloudflare.com",
+    "httpUrl": "https://exams-norm-women-mid.trycloudflare.com",
+    "issuedAt": "2026-10-25T03:16:44.219Z",
+    "expiresAt": "2026-10-26T03:16:44.219Z",
+    "nonce": "b4889a8b3c3a3eb2b2826436f34c08f6"
   },
-  "signature": "o9IOtOxXTO3LJ29Sjvg3fuSd+nVDA8QMxXP0P/udxfsXt+mf6OjXQDUITrz5A4+aEZF+3jIXoO1jUNjZm2vMcw==",
+  "signature": "5jRdfetwmd2H7Yt0jxjgpRfag/CWeC0UHgp8EmxMucZ2KmdS4x3cMF/kg2//fuGCz4J2AdbOIvGTraC856iZMg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

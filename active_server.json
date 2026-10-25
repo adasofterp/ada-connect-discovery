@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rejected-plants-disclose-incurred.trycloudflare.com",
-  "httpUrl": "https://rejected-plants-disclose-incurred.trycloudflare.com",
-  "updatedAt": "2026-10-25T01:17:17.241Z",
-  "expiresAt": "2026-10-26T01:17:17.241Z",
-  "nonce": "1d74fbc3e9af96d8e9d187a40e529511",
+  "wsUrl": "wss://merchants-ban-pci-silk.trycloudflare.com",
+  "httpUrl": "https://merchants-ban-pci-silk.trycloudflare.com",
+  "updatedAt": "2026-10-25T01:27:41.191Z",
+  "expiresAt": "2026-10-26T01:27:41.191Z",
+  "nonce": "ce6f0929fe25158adf61ab39fbd4e691",
   "payload": {
-    "wsUrl": "wss://rejected-plants-disclose-incurred.trycloudflare.com",
-    "httpUrl": "https://rejected-plants-disclose-incurred.trycloudflare.com",
-    "issuedAt": "2026-10-25T01:17:17.241Z",
-    "expiresAt": "2026-10-26T01:17:17.241Z",
-    "nonce": "1d74fbc3e9af96d8e9d187a40e529511"
+    "wsUrl": "wss://merchants-ban-pci-silk.trycloudflare.com",
+    "httpUrl": "https://merchants-ban-pci-silk.trycloudflare.com",
+    "issuedAt": "2026-10-25T01:27:41.191Z",
+    "expiresAt": "2026-10-26T01:27:41.191Z",
+    "nonce": "ce6f0929fe25158adf61ab39fbd4e691"
   },
-  "signature": "yfiIBDQAunc9x9sx88MKZW/P4m0p1UW4+h5AluKNPkGbZnqjrPisQxJvMqMxcQdI9HZk1iz4+lRr0Ad0sf3D7A==",
+  "signature": "NMQglwzQnU9//hrTK9quFCluDJfJUPR/TFD3w7obIyWAX1JKbdz2sSjAXnmFsDO54k4GpSbbrsbFVygLfL17ow==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

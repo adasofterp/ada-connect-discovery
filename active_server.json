@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://blast-assumes-gone-cabinets.trycloudflare.com",
-  "httpUrl": "https://blast-assumes-gone-cabinets.trycloudflare.com",
-  "updatedAt": "2026-10-25T23:32:18.656Z",
-  "expiresAt": "2026-10-26T23:32:18.656Z",
-  "nonce": "d6651c85670f7fbda3ff1d647b74a2c1",
+  "wsUrl": "wss://coding-steps-included-monte.trycloudflare.com",
+  "httpUrl": "https://coding-steps-included-monte.trycloudflare.com",
+  "updatedAt": "2026-10-25T23:53:09.962Z",
+  "expiresAt": "2026-10-26T23:53:09.962Z",
+  "nonce": "d09ecb64372d4c4aa4b67ffbd228326c",
   "payload": {
-    "wsUrl": "wss://blast-assumes-gone-cabinets.trycloudflare.com",
-    "httpUrl": "https://blast-assumes-gone-cabinets.trycloudflare.com",
-    "issuedAt": "2026-10-25T23:32:18.656Z",
-    "expiresAt": "2026-10-26T23:32:18.656Z",
-    "nonce": "d6651c85670f7fbda3ff1d647b74a2c1"
+    "wsUrl": "wss://coding-steps-included-monte.trycloudflare.com",
+    "httpUrl": "https://coding-steps-included-monte.trycloudflare.com",
+    "issuedAt": "2026-10-25T23:53:09.962Z",
+    "expiresAt": "2026-10-26T23:53:09.962Z",
+    "nonce": "d09ecb64372d4c4aa4b67ffbd228326c"
   },
-  "signature": "38IQzcWDBQuNvVo9t3Y1xwOT8wWJ6QrLfwu16xemogUBUmH+GRXYTfhC474NwGS2JwglpmJ1c1mUcqVMGL2aLw==",
+  "signature": "n4j4b2Q47gMaatSI24FTPKUozNwaHVHeJm0qO3q/WGGOYFmHNY80ba/uwOL2QgsKY82GFG6bTXnna2IDy4mYlQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

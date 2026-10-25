@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://unwrap-spencer-paying-timing.trycloudflare.com",
-  "httpUrl": "https://unwrap-spencer-paying-timing.trycloudflare.com",
-  "updatedAt": "2026-10-25T20:18:51.430Z",
-  "expiresAt": "2026-10-26T20:18:51.430Z",
-  "nonce": "58324e84a28c4682c5efcfa8cabc1cfe",
+  "wsUrl": "wss://reed-gourmet-abilities-assured.trycloudflare.com",
+  "httpUrl": "https://reed-gourmet-abilities-assured.trycloudflare.com",
+  "updatedAt": "2026-10-25T20:29:17.761Z",
+  "expiresAt": "2026-10-26T20:29:17.761Z",
+  "nonce": "9a03fcb5b5f6d9cdc79f5cf32dad99e7",
   "payload": {
-    "wsUrl": "wss://unwrap-spencer-paying-timing.trycloudflare.com",
-    "httpUrl": "https://unwrap-spencer-paying-timing.trycloudflare.com",
-    "issuedAt": "2026-10-25T20:18:51.430Z",
-    "expiresAt": "2026-10-26T20:18:51.430Z",
-    "nonce": "58324e84a28c4682c5efcfa8cabc1cfe"
+    "wsUrl": "wss://reed-gourmet-abilities-assured.trycloudflare.com",
+    "httpUrl": "https://reed-gourmet-abilities-assured.trycloudflare.com",
+    "issuedAt": "2026-10-25T20:29:17.761Z",
+    "expiresAt": "2026-10-26T20:29:17.761Z",
+    "nonce": "9a03fcb5b5f6d9cdc79f5cf32dad99e7"
   },
-  "signature": "gTmroXxBdPMx+mexr4ih+P+RKwEza+Gbw+YxI89J8kK/F+082GS3237ATmOU4/MvRkJ+fih6ATtUhQDdmh+v5w==",
+  "signature": "i0GOrnOK6n0Issb4Ohocz1H2XkYJdkPywXw3/cfQkPpIupL767cMkDiDRLmbIsb7feNv0QunOe8AIgjIt1T9Zg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

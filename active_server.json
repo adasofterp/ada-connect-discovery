@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://knew-database-preventing-berry.trycloudflare.com",
-  "httpUrl": "https://knew-database-preventing-berry.trycloudflare.com",
-  "updatedAt": "2026-10-25T00:09:47.054Z",
-  "expiresAt": "2026-10-26T00:09:47.054Z",
-  "nonce": "2682f124bcffe1b9cb2a8033445c5532",
+  "wsUrl": "wss://picking-thy-interviews-publicity.trycloudflare.com",
+  "httpUrl": "https://picking-thy-interviews-publicity.trycloudflare.com",
+  "updatedAt": "2026-10-25T00:20:10.743Z",
+  "expiresAt": "2026-10-26T00:20:10.743Z",
+  "nonce": "03d5f8505455c40ada541777898b07e9",
   "payload": {
-    "wsUrl": "wss://knew-database-preventing-berry.trycloudflare.com",
-    "httpUrl": "https://knew-database-preventing-berry.trycloudflare.com",
-    "issuedAt": "2026-10-25T00:09:47.054Z",
-    "expiresAt": "2026-10-26T00:09:47.054Z",
-    "nonce": "2682f124bcffe1b9cb2a8033445c5532"
+    "wsUrl": "wss://picking-thy-interviews-publicity.trycloudflare.com",
+    "httpUrl": "https://picking-thy-interviews-publicity.trycloudflare.com",
+    "issuedAt": "2026-10-25T00:20:10.743Z",
+    "expiresAt": "2026-10-26T00:20:10.743Z",
+    "nonce": "03d5f8505455c40ada541777898b07e9"
   },
-  "signature": "vH5OqdAGSynDePHkIP3mEPbHhay3gmp/XF0dd+fpsyPAVCLH+p3CEqexUIkIuC7ll+0KPWZzTN4uA5/gAOKVsA==",
+  "signature": "aHzcZUEiCTbqzoThLIS4khIbglFdWHlSxqyWS9D3PyysyiMkT3QklvmnxvR1dp0RIkH51TIdn2GEEYPMzSxWMA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

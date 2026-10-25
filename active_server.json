@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://symphony-school-cars-channels.trycloudflare.com",
-  "httpUrl": "https://symphony-school-cars-channels.trycloudflare.com",
-  "updatedAt": "2026-10-25T08:29:57.008Z",
-  "expiresAt": "2026-10-26T08:29:57.008Z",
-  "nonce": "cc4f95c929dcb879867b515281461cc6",
+  "wsUrl": "wss://declined-apart-medications-jill.trycloudflare.com",
+  "httpUrl": "https://declined-apart-medications-jill.trycloudflare.com",
+  "updatedAt": "2026-10-25T08:40:21.288Z",
+  "expiresAt": "2026-10-26T08:40:21.288Z",
+  "nonce": "45842ba7291376e92f401390d46fb7ca",
   "payload": {
-    "wsUrl": "wss://symphony-school-cars-channels.trycloudflare.com",
-    "httpUrl": "https://symphony-school-cars-channels.trycloudflare.com",
-    "issuedAt": "2026-10-25T08:29:57.008Z",
-    "expiresAt": "2026-10-26T08:29:57.008Z",
-    "nonce": "cc4f95c929dcb879867b515281461cc6"
+    "wsUrl": "wss://declined-apart-medications-jill.trycloudflare.com",
+    "httpUrl": "https://declined-apart-medications-jill.trycloudflare.com",
+    "issuedAt": "2026-10-25T08:40:21.288Z",
+    "expiresAt": "2026-10-26T08:40:21.288Z",
+    "nonce": "45842ba7291376e92f401390d46fb7ca"
   },
-  "signature": "kXbRhMyAeFOgvYp2F+lX/PMdY1BXXXaormAwRTyLbitlCXDirDQfGiTXxdk3khChwLKD90Aw3yVmBpR0ufQuZQ==",
+  "signature": "8p31H2U7krC17qG7XEqO83NvTdrcGXTAHRGNPuoNKI/WEMRxe3qfxYuLxWnYmIjrJu6GlIIe3xShZivxzPh19Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://neon-caught-initiative-communications.trycloudflare.com",
-  "httpUrl": "https://neon-caught-initiative-communications.trycloudflare.com",
-  "updatedAt": "2026-10-25T22:31:18.000Z",
-  "expiresAt": "2026-10-26T22:31:18.000Z",
-  "nonce": "b7295b4dfc24c2194cc6ac9737fc54b5",
+  "wsUrl": "wss://computers-patch-foreign-sequences.trycloudflare.com",
+  "httpUrl": "https://computers-patch-foreign-sequences.trycloudflare.com",
+  "updatedAt": "2026-10-25T22:41:41.549Z",
+  "expiresAt": "2026-10-26T22:41:41.549Z",
+  "nonce": "066fd44923bb6347e29ffc0e1a1b51d1",
   "payload": {
-    "wsUrl": "wss://neon-caught-initiative-communications.trycloudflare.com",
-    "httpUrl": "https://neon-caught-initiative-communications.trycloudflare.com",
-    "issuedAt": "2026-10-25T22:31:18.000Z",
-    "expiresAt": "2026-10-26T22:31:18.000Z",
-    "nonce": "b7295b4dfc24c2194cc6ac9737fc54b5"
+    "wsUrl": "wss://computers-patch-foreign-sequences.trycloudflare.com",
+    "httpUrl": "https://computers-patch-foreign-sequences.trycloudflare.com",
+    "issuedAt": "2026-10-25T22:41:41.549Z",
+    "expiresAt": "2026-10-26T22:41:41.549Z",
+    "nonce": "066fd44923bb6347e29ffc0e1a1b51d1"
   },
-  "signature": "NzJbWC+IcmS0vwSo98dLo6C6TRyMySe2lWEnOxMofOkupxkN8MAUj07x423fEgp7cIrpHeGaZlByTf5xAYbuKA==",
+  "signature": "bb/SsNsGZlFDEr5FHw7wXSx0jZ//D2nom5uhHeKgNNdSefSF+uHvnCKwvBfH96m+/osBG2jHIqqtPaK9WkgQIg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

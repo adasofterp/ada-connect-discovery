@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://fact-michigan-tablets-suspension.trycloudflare.com",
-  "httpUrl": "https://fact-michigan-tablets-suspension.trycloudflare.com",
-  "updatedAt": "2026-10-25T19:28:50.144Z",
-  "expiresAt": "2026-10-26T19:28:50.144Z",
-  "nonce": "c9dcb0e206a6dce03a43b0807cb6a0d0",
+  "wsUrl": "wss://july-seas-theorem-remarks.trycloudflare.com",
+  "httpUrl": "https://july-seas-theorem-remarks.trycloudflare.com",
+  "updatedAt": "2026-10-25T19:39:12.382Z",
+  "expiresAt": "2026-10-26T19:39:12.382Z",
+  "nonce": "cda7ef10fb8bee308916687d1390e78a",
   "payload": {
-    "wsUrl": "wss://fact-michigan-tablets-suspension.trycloudflare.com",
-    "httpUrl": "https://fact-michigan-tablets-suspension.trycloudflare.com",
-    "issuedAt": "2026-10-25T19:28:50.144Z",
-    "expiresAt": "2026-10-26T19:28:50.144Z",
-    "nonce": "c9dcb0e206a6dce03a43b0807cb6a0d0"
+    "wsUrl": "wss://july-seas-theorem-remarks.trycloudflare.com",
+    "httpUrl": "https://july-seas-theorem-remarks.trycloudflare.com",
+    "issuedAt": "2026-10-25T19:39:12.382Z",
+    "expiresAt": "2026-10-26T19:39:12.382Z",
+    "nonce": "cda7ef10fb8bee308916687d1390e78a"
   },
-  "signature": "NHyWzP2k6H8KtQBQ3NXvg5Fe1Vuyh0XF3g0no2wFmloXKuzdPTHwgBEghzlolGn22Rw34+M1d+dY0pViSrcI1g==",
+  "signature": "XPFuB3xLOa9v1mUXeeyMbyfsCfK++9vdJEvYnN1eyQn/MGBcEutd5NTkKce3UnhcCABe9c6JeyhBhgyPJOmrkg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

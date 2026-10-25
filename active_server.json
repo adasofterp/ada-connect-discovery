@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://und-bias-resident-appeared.trycloudflare.com",
-  "httpUrl": "https://und-bias-resident-appeared.trycloudflare.com",
-  "updatedAt": "2026-10-25T10:42:28.207Z",
-  "expiresAt": "2026-10-26T10:42:28.207Z",
-  "nonce": "03a1e806e18fdcec4ff73395ea54e3ec",
+  "wsUrl": "wss://carter-kills-species-color.trycloudflare.com",
+  "httpUrl": "https://carter-kills-species-color.trycloudflare.com",
+  "updatedAt": "2026-10-25T10:52:52.573Z",
+  "expiresAt": "2026-10-26T10:52:52.573Z",
+  "nonce": "3c80fafd646d283057f67255228b86c2",
   "payload": {
-    "wsUrl": "wss://und-bias-resident-appeared.trycloudflare.com",
-    "httpUrl": "https://und-bias-resident-appeared.trycloudflare.com",
-    "issuedAt": "2026-10-25T10:42:28.207Z",
-    "expiresAt": "2026-10-26T10:42:28.207Z",
-    "nonce": "03a1e806e18fdcec4ff73395ea54e3ec"
+    "wsUrl": "wss://carter-kills-species-color.trycloudflare.com",
+    "httpUrl": "https://carter-kills-species-color.trycloudflare.com",
+    "issuedAt": "2026-10-25T10:52:52.573Z",
+    "expiresAt": "2026-10-26T10:52:52.573Z",
+    "nonce": "3c80fafd646d283057f67255228b86c2"
   },
-  "signature": "pNQgB3lR/YTRcdEzmb3whkuwOsUnzlgzQaYaVgMQX0nLT1jCR7rKzXQk2Zlq0Z4zHmUzyw6nk8UKB4BuYMMESw==",
+  "signature": "WX9aFtCQf4cqVEQboQPtLNLi10V8BdfjHFdIaiVFdTKtqbF5D0ul2V1qwneqKbDQ3SG+/0ZEy3m7ygwWb8BgRw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://grants-november-affairs-infections.trycloudflare.com",
-  "httpUrl": "https://grants-november-affairs-infections.trycloudflare.com",
-  "updatedAt": "2026-10-25T23:11:31.804Z",
-  "expiresAt": "2026-10-26T23:11:31.804Z",
-  "nonce": "7b110842baf5b9f00525e7701048cc6b",
+  "wsUrl": "wss://bbs-freeze-unto-actor.trycloudflare.com",
+  "httpUrl": "https://bbs-freeze-unto-actor.trycloudflare.com",
+  "updatedAt": "2026-10-25T23:21:53.692Z",
+  "expiresAt": "2026-10-26T23:21:53.692Z",
+  "nonce": "56a3cf6222c78c82d9bc22bbae9340ae",
   "payload": {
-    "wsUrl": "wss://grants-november-affairs-infections.trycloudflare.com",
-    "httpUrl": "https://grants-november-affairs-infections.trycloudflare.com",
-    "issuedAt": "2026-10-25T23:11:31.804Z",
-    "expiresAt": "2026-10-26T23:11:31.804Z",
-    "nonce": "7b110842baf5b9f00525e7701048cc6b"
+    "wsUrl": "wss://bbs-freeze-unto-actor.trycloudflare.com",
+    "httpUrl": "https://bbs-freeze-unto-actor.trycloudflare.com",
+    "issuedAt": "2026-10-25T23:21:53.692Z",
+    "expiresAt": "2026-10-26T23:21:53.692Z",
+    "nonce": "56a3cf6222c78c82d9bc22bbae9340ae"
   },
-  "signature": "DykwW/hf7ssuM9gUDS7Nox8f7qZC54M8abyoR/oVBnRxDNdE8NfEASAoEh2Ve33IUb9VxvmnWHYRWwnZ212b0Q==",
+  "signature": "34vjwrbIv8VGDf1SevB37UNTzdLuptgAaN7F7UVhTqv7fzDHpVVDvIPqarW22t2EWcj0UybXMcytVv2G9DQS6w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

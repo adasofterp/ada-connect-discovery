@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://targets-devices-ceremony-voted.trycloudflare.com",
-  "httpUrl": "https://targets-devices-ceremony-voted.trycloudflare.com",
-  "updatedAt": "2026-10-25T08:19:32.437Z",
-  "expiresAt": "2026-10-26T08:19:32.437Z",
-  "nonce": "ad8a39534d0e335764949c669bd201c1",
+  "wsUrl": "wss://symphony-school-cars-channels.trycloudflare.com",
+  "httpUrl": "https://symphony-school-cars-channels.trycloudflare.com",
+  "updatedAt": "2026-10-25T08:29:57.008Z",
+  "expiresAt": "2026-10-26T08:29:57.008Z",
+  "nonce": "cc4f95c929dcb879867b515281461cc6",
   "payload": {
-    "wsUrl": "wss://targets-devices-ceremony-voted.trycloudflare.com",
-    "httpUrl": "https://targets-devices-ceremony-voted.trycloudflare.com",
-    "issuedAt": "2026-10-25T08:19:32.437Z",
-    "expiresAt": "2026-10-26T08:19:32.437Z",
-    "nonce": "ad8a39534d0e335764949c669bd201c1"
+    "wsUrl": "wss://symphony-school-cars-channels.trycloudflare.com",
+    "httpUrl": "https://symphony-school-cars-channels.trycloudflare.com",
+    "issuedAt": "2026-10-25T08:29:57.008Z",
+    "expiresAt": "2026-10-26T08:29:57.008Z",
+    "nonce": "cc4f95c929dcb879867b515281461cc6"
   },
-  "signature": "6GjWJymZgjafDd94fglKmMABBSxdX/C6vBWYQZ9atkcb/wbAI3uR9dCvRvkP7RiJo8Bi3/PwwFbFWSioLBa60Q==",
+  "signature": "kXbRhMyAeFOgvYp2F+lX/PMdY1BXXXaormAwRTyLbitlCXDirDQfGiTXxdk3khChwLKD90Aw3yVmBpR0ufQuZQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

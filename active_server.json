@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cornell-buffer-ready-import.trycloudflare.com",
-  "httpUrl": "https://cornell-buffer-ready-import.trycloudflare.com",
-  "updatedAt": "2026-10-25T02:45:43.963Z",
-  "expiresAt": "2026-10-26T02:45:43.963Z",
-  "nonce": "1ec1f29b9e22222cf79b508c08b78bda",
+  "wsUrl": "wss://bedford-mandate-times-warning.trycloudflare.com",
+  "httpUrl": "https://bedford-mandate-times-warning.trycloudflare.com",
+  "updatedAt": "2026-10-25T02:56:05.777Z",
+  "expiresAt": "2026-10-26T02:56:05.777Z",
+  "nonce": "e78f31dbe2e05018f2d91e437d34db53",
   "payload": {
-    "wsUrl": "wss://cornell-buffer-ready-import.trycloudflare.com",
-    "httpUrl": "https://cornell-buffer-ready-import.trycloudflare.com",
-    "issuedAt": "2026-10-25T02:45:43.963Z",
-    "expiresAt": "2026-10-26T02:45:43.963Z",
-    "nonce": "1ec1f29b9e22222cf79b508c08b78bda"
+    "wsUrl": "wss://bedford-mandate-times-warning.trycloudflare.com",
+    "httpUrl": "https://bedford-mandate-times-warning.trycloudflare.com",
+    "issuedAt": "2026-10-25T02:56:05.777Z",
+    "expiresAt": "2026-10-26T02:56:05.777Z",
+    "nonce": "e78f31dbe2e05018f2d91e437d34db53"
   },
-  "signature": "aXgIO3M0KqjWEo5geX51yeBIq961b4yPYYL+ghfnOHdZktCj/KWzQM84zVWoLX8+RnitkuZBXoiTBMB4yKXGLg==",
+  "signature": "j9qywppe6DaFPEkULxY128e2NkktEfXnuNUVOadEyJlnqBdbn3XYogooueRCZSbl2/LSq2Sjl9stxZHVQ1Fuhw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cigarettes-congressional-empirical-gender.trycloudflare.com",
-  "httpUrl": "https://cigarettes-congressional-empirical-gender.trycloudflare.com",
-  "updatedAt": "2026-10-25T10:21:34.418Z",
-  "expiresAt": "2026-10-26T10:21:34.418Z",
-  "nonce": "b1a05759e0372217798c0f87edcd8f52",
+  "wsUrl": "wss://illustrated-careers-baking-knit.trycloudflare.com",
+  "httpUrl": "https://illustrated-careers-baking-knit.trycloudflare.com",
+  "updatedAt": "2026-10-25T10:32:03.872Z",
+  "expiresAt": "2026-10-26T10:32:03.872Z",
+  "nonce": "98bce0ac2f91ab1c7fcf0ea26e394ee6",
   "payload": {
-    "wsUrl": "wss://cigarettes-congressional-empirical-gender.trycloudflare.com",
-    "httpUrl": "https://cigarettes-congressional-empirical-gender.trycloudflare.com",
-    "issuedAt": "2026-10-25T10:21:34.418Z",
-    "expiresAt": "2026-10-26T10:21:34.418Z",
-    "nonce": "b1a05759e0372217798c0f87edcd8f52"
+    "wsUrl": "wss://illustrated-careers-baking-knit.trycloudflare.com",
+    "httpUrl": "https://illustrated-careers-baking-knit.trycloudflare.com",
+    "issuedAt": "2026-10-25T10:32:03.872Z",
+    "expiresAt": "2026-10-26T10:32:03.872Z",
+    "nonce": "98bce0ac2f91ab1c7fcf0ea26e394ee6"
   },
-  "signature": "Y4YTval1Sqwcu5wEvEFjbJF8+GeFmtPDNAV7G7kza7XbuNK8D/+lX2VRpMxI9uhghQxCTEqlZJ12syILkgDEJw==",
+  "signature": "Xn3YL7IeQ0JEakB023DJL3PHTjII/P2GZvKP6qOrdFwMz9+yxT1pHRxWqVuy4SeXSkcnvGwh3+SyhQmG5mddGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

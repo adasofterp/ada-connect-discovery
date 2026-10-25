@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ratios-rna-latex-towards.trycloudflare.com",
-  "httpUrl": "https://ratios-rna-latex-towards.trycloudflare.com",
-  "updatedAt": "2026-10-25T20:08:26.548Z",
-  "expiresAt": "2026-10-26T20:08:26.548Z",
-  "nonce": "03a5e10598e563b0faa2de9d6ae95cc7",
+  "wsUrl": "wss://unwrap-spencer-paying-timing.trycloudflare.com",
+  "httpUrl": "https://unwrap-spencer-paying-timing.trycloudflare.com",
+  "updatedAt": "2026-10-25T20:18:51.430Z",
+  "expiresAt": "2026-10-26T20:18:51.430Z",
+  "nonce": "58324e84a28c4682c5efcfa8cabc1cfe",
   "payload": {
-    "wsUrl": "wss://ratios-rna-latex-towards.trycloudflare.com",
-    "httpUrl": "https://ratios-rna-latex-towards.trycloudflare.com",
-    "issuedAt": "2026-10-25T20:08:26.548Z",
-    "expiresAt": "2026-10-26T20:08:26.548Z",
-    "nonce": "03a5e10598e563b0faa2de9d6ae95cc7"
+    "wsUrl": "wss://unwrap-spencer-paying-timing.trycloudflare.com",
+    "httpUrl": "https://unwrap-spencer-paying-timing.trycloudflare.com",
+    "issuedAt": "2026-10-25T20:18:51.430Z",
+    "expiresAt": "2026-10-26T20:18:51.430Z",
+    "nonce": "58324e84a28c4682c5efcfa8cabc1cfe"
   },
-  "signature": "oVhZUDUbhWosmo4niTeXt/9FcwHOXn9xrx3GYJBkmbs3cnrdtgSlRFyRei8XcWHFg6UQgZJjZ/WNqFcn1ECn0w==",
+  "signature": "gTmroXxBdPMx+mexr4ih+P+RKwEza+Gbw+YxI89J8kK/F+082GS3237ATmOU4/MvRkJ+fih6ATtUhQDdmh+v5w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

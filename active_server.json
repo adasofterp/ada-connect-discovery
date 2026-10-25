@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://strip-northern-else-percentage.trycloudflare.com",
-  "httpUrl": "https://strip-northern-else-percentage.trycloudflare.com",
-  "updatedAt": "2026-10-25T11:22:05.633Z",
-  "expiresAt": "2026-10-26T11:22:05.633Z",
-  "nonce": "43c765ea79972a93093409ffa35cf4d9",
+  "wsUrl": "wss://faq-night-unique-aud.trycloudflare.com",
+  "httpUrl": "https://faq-night-unique-aud.trycloudflare.com",
+  "updatedAt": "2026-10-25T11:42:56.761Z",
+  "expiresAt": "2026-10-26T11:42:56.761Z",
+  "nonce": "8d394250278fea7fbefdd6346a84eca2",
   "payload": {
-    "wsUrl": "wss://strip-northern-else-percentage.trycloudflare.com",
-    "httpUrl": "https://strip-northern-else-percentage.trycloudflare.com",
-    "issuedAt": "2026-10-25T11:22:05.633Z",
-    "expiresAt": "2026-10-26T11:22:05.633Z",
-    "nonce": "43c765ea79972a93093409ffa35cf4d9"
+    "wsUrl": "wss://faq-night-unique-aud.trycloudflare.com",
+    "httpUrl": "https://faq-night-unique-aud.trycloudflare.com",
+    "issuedAt": "2026-10-25T11:42:56.761Z",
+    "expiresAt": "2026-10-26T11:42:56.761Z",
+    "nonce": "8d394250278fea7fbefdd6346a84eca2"
   },
-  "signature": "48lp/RWk1gAhT9AVm9J6DWvmrBjT90ihv0kzf51X/l/DMVWKt0o+A9kzrvneu3+FJObUucuuz8OCnHIjFIigmg==",
+  "signature": "LmxhrHUjxNfqzE59xzkZGuPk9Zjp0cRRqdTk7rj0XFBwjpQ0g0b8w5UPMnDFQ2rzCHnXBxKZq55TlcVREJYMXw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

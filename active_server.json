@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://luck-enterprises-artists-leaf.trycloudflare.com",
-  "httpUrl": "https://luck-enterprises-artists-leaf.trycloudflare.com",
-  "updatedAt": "2026-10-25T16:22:11.788Z",
-  "expiresAt": "2026-10-26T16:22:11.788Z",
-  "nonce": "84417699be5787d2badc225bab6efc35",
+  "wsUrl": "wss://humanitarian-quotations-terminals-theta.trycloudflare.com",
+  "httpUrl": "https://humanitarian-quotations-terminals-theta.trycloudflare.com",
+  "updatedAt": "2026-10-25T16:32:35.324Z",
+  "expiresAt": "2026-10-26T16:32:35.324Z",
+  "nonce": "4e4874dd846db83c2c7302bfdf1cb5a4",
   "payload": {
-    "wsUrl": "wss://luck-enterprises-artists-leaf.trycloudflare.com",
-    "httpUrl": "https://luck-enterprises-artists-leaf.trycloudflare.com",
-    "issuedAt": "2026-10-25T16:22:11.788Z",
-    "expiresAt": "2026-10-26T16:22:11.788Z",
-    "nonce": "84417699be5787d2badc225bab6efc35"
+    "wsUrl": "wss://humanitarian-quotations-terminals-theta.trycloudflare.com",
+    "httpUrl": "https://humanitarian-quotations-terminals-theta.trycloudflare.com",
+    "issuedAt": "2026-10-25T16:32:35.324Z",
+    "expiresAt": "2026-10-26T16:32:35.324Z",
+    "nonce": "4e4874dd846db83c2c7302bfdf1cb5a4"
   },
-  "signature": "pq+WlUASNtvFcM/ryuQHhvSJVndNnuhymKzSfzzUwXz1lr8SoUgjbAtQNz9BdE4PmPrgYdVfFrxBDUd1zLyPCQ==",
+  "signature": "zXUApooiCf6tdiWaagKIrz824gIF9LT5lbuyNfqsLyl2Jy8S2ZBuD9y9OXe5GT+1Xl4EACyecAyLgv0GAbkfxA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

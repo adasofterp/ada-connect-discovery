@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://compact-land-plugin-gbp.trycloudflare.com",
-  "httpUrl": "https://compact-land-plugin-gbp.trycloudflare.com",
-  "updatedAt": "2026-10-25T22:50:39.909Z",
-  "expiresAt": "2026-10-26T22:50:39.909Z",
-  "nonce": "43d006a17da2ae29eef8bcc4d4750511",
+  "wsUrl": "wss://neighbor-alone-bra-feed.trycloudflare.com",
+  "httpUrl": "https://neighbor-alone-bra-feed.trycloudflare.com",
+  "updatedAt": "2026-10-25T23:01:05.631Z",
+  "expiresAt": "2026-10-26T23:01:05.631Z",
+  "nonce": "ec8ae04e187420c0448db5ce02584221",
   "payload": {
-    "wsUrl": "wss://compact-land-plugin-gbp.trycloudflare.com",
-    "httpUrl": "https://compact-land-plugin-gbp.trycloudflare.com",
-    "issuedAt": "2026-10-25T22:50:39.909Z",
-    "expiresAt": "2026-10-26T22:50:39.909Z",
-    "nonce": "43d006a17da2ae29eef8bcc4d4750511"
+    "wsUrl": "wss://neighbor-alone-bra-feed.trycloudflare.com",
+    "httpUrl": "https://neighbor-alone-bra-feed.trycloudflare.com",
+    "issuedAt": "2026-10-25T23:01:05.631Z",
+    "expiresAt": "2026-10-26T23:01:05.631Z",
+    "nonce": "ec8ae04e187420c0448db5ce02584221"
   },
-  "signature": "sQirIm8KfxoSE4hopdSKAlzlPcn8odpIzwo/AHls8eauIFA9c++XxNoKQSNOcoxuX9zWPNxrn2+UCLqFaUUE3w==",
+  "signature": "mYj7BHk+dpxfiiZaeFYdgNAU6jKMYRTfyBuEy5SWeDDWstgBe7So2FX8DDg3PyXYcs+/vgQ9NZfAMkSCHbhIqw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

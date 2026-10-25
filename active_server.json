@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://quoted-factory-lewis-arthur.trycloudflare.com",
-  "httpUrl": "https://quoted-factory-lewis-arthur.trycloudflare.com",
-  "updatedAt": "2026-10-25T13:55:52.005Z",
-  "expiresAt": "2026-10-26T13:55:52.005Z",
-  "nonce": "32c49010e51ff01b5142dc90c2447f57",
+  "wsUrl": "wss://enhancements-duty-inches-prices.trycloudflare.com",
+  "httpUrl": "https://enhancements-duty-inches-prices.trycloudflare.com",
+  "updatedAt": "2026-10-25T14:15:10.086Z",
+  "expiresAt": "2026-10-26T14:15:10.086Z",
+  "nonce": "654cda05c2ee524625cbbf3a508c389d",
   "payload": {
-    "wsUrl": "wss://quoted-factory-lewis-arthur.trycloudflare.com",
-    "httpUrl": "https://quoted-factory-lewis-arthur.trycloudflare.com",
-    "issuedAt": "2026-10-25T13:55:52.005Z",
-    "expiresAt": "2026-10-26T13:55:52.005Z",
-    "nonce": "32c49010e51ff01b5142dc90c2447f57"
+    "wsUrl": "wss://enhancements-duty-inches-prices.trycloudflare.com",
+    "httpUrl": "https://enhancements-duty-inches-prices.trycloudflare.com",
+    "issuedAt": "2026-10-25T14:15:10.086Z",
+    "expiresAt": "2026-10-26T14:15:10.086Z",
+    "nonce": "654cda05c2ee524625cbbf3a508c389d"
   },
-  "signature": "oIi6tKpiyxTSCg7ZptcjFwwhjJdE5/9KJkeLFpkljHCWv2rgVVD++VC1BLbW1nKL6GJ1jO5u4x/zQ90ZKqjCgA==",
+  "signature": "2SLbY98CA2Lb1yyGyXR0MUzxNisqseyY0YtbGoCl4r2/+ybyOGkdmt41h6MM+Dwan+APPCc5F6CR4AYwEWoSnw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

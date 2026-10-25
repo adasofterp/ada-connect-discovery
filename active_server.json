@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://techrepublic-framed-advice-planners.trycloudflare.com",
-  "httpUrl": "https://techrepublic-framed-advice-planners.trycloudflare.com",
-  "updatedAt": "2026-10-24T23:59:22.309Z",
-  "expiresAt": "2026-10-25T23:59:22.309Z",
-  "nonce": "eaf7c2c1d953918f5dfcd8b41d250ae2",
+  "wsUrl": "wss://knew-database-preventing-berry.trycloudflare.com",
+  "httpUrl": "https://knew-database-preventing-berry.trycloudflare.com",
+  "updatedAt": "2026-10-25T00:09:47.054Z",
+  "expiresAt": "2026-10-26T00:09:47.054Z",
+  "nonce": "2682f124bcffe1b9cb2a8033445c5532",
   "payload": {
-    "wsUrl": "wss://techrepublic-framed-advice-planners.trycloudflare.com",
-    "httpUrl": "https://techrepublic-framed-advice-planners.trycloudflare.com",
-    "issuedAt": "2026-10-24T23:59:22.309Z",
-    "expiresAt": "2026-10-25T23:59:22.309Z",
-    "nonce": "eaf7c2c1d953918f5dfcd8b41d250ae2"
+    "wsUrl": "wss://knew-database-preventing-berry.trycloudflare.com",
+    "httpUrl": "https://knew-database-preventing-berry.trycloudflare.com",
+    "issuedAt": "2026-10-25T00:09:47.054Z",
+    "expiresAt": "2026-10-26T00:09:47.054Z",
+    "nonce": "2682f124bcffe1b9cb2a8033445c5532"
   },
-  "signature": "z3hh6HO4Q/sstt8Vz+hzhUsnkBbE7U1BOQNyZecfLp/KCo+mBnYVvD4QzmHnChGBq/KvZJqbAcAgwx9ZiW8QrA==",
+  "signature": "vH5OqdAGSynDePHkIP3mEPbHhay3gmp/XF0dd+fpsyPAVCLH+p3CEqexUIkIuC7ll+0KPWZzTN4uA5/gAOKVsA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

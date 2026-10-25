@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://enhancements-duty-inches-prices.trycloudflare.com",
-  "httpUrl": "https://enhancements-duty-inches-prices.trycloudflare.com",
-  "updatedAt": "2026-10-25T14:15:10.086Z",
-  "expiresAt": "2026-10-26T14:15:10.086Z",
-  "nonce": "654cda05c2ee524625cbbf3a508c389d",
+  "wsUrl": "wss://providence-occupations-author-modification.trycloudflare.com",
+  "httpUrl": "https://providence-occupations-author-modification.trycloudflare.com",
+  "updatedAt": "2026-10-25T14:30:44.311Z",
+  "expiresAt": "2026-10-26T14:30:44.311Z",
+  "nonce": "e922db80807f63331bd9cc67d85f9736",
   "payload": {
-    "wsUrl": "wss://enhancements-duty-inches-prices.trycloudflare.com",
-    "httpUrl": "https://enhancements-duty-inches-prices.trycloudflare.com",
-    "issuedAt": "2026-10-25T14:15:10.086Z",
-    "expiresAt": "2026-10-26T14:15:10.086Z",
-    "nonce": "654cda05c2ee524625cbbf3a508c389d"
+    "wsUrl": "wss://providence-occupations-author-modification.trycloudflare.com",
+    "httpUrl": "https://providence-occupations-author-modification.trycloudflare.com",
+    "issuedAt": "2026-10-25T14:30:44.311Z",
+    "expiresAt": "2026-10-26T14:30:44.311Z",
+    "nonce": "e922db80807f63331bd9cc67d85f9736"
   },
-  "signature": "2SLbY98CA2Lb1yyGyXR0MUzxNisqseyY0YtbGoCl4r2/+ybyOGkdmt41h6MM+Dwan+APPCc5F6CR4AYwEWoSnw==",
+  "signature": "Kr7hOw841RShnc7KgHQlyv8168OSCVzIs7AT00bwCsSGyYWJ/ZlLBId6rvr7MDD+OVBw1pDccpAr3xSiAfNAWQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

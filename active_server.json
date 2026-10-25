@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://declined-apart-medications-jill.trycloudflare.com",
-  "httpUrl": "https://declined-apart-medications-jill.trycloudflare.com",
-  "updatedAt": "2026-10-25T08:40:21.288Z",
-  "expiresAt": "2026-10-26T08:40:21.288Z",
-  "nonce": "45842ba7291376e92f401390d46fb7ca",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-25T09:10:04.597Z",
+  "expiresAt": "2026-10-26T09:10:04.597Z",
+  "nonce": "f0b22b03fd759a0842064b43b0b23527",
   "payload": {
-    "wsUrl": "wss://declined-apart-medications-jill.trycloudflare.com",
-    "httpUrl": "https://declined-apart-medications-jill.trycloudflare.com",
-    "issuedAt": "2026-10-25T08:40:21.288Z",
-    "expiresAt": "2026-10-26T08:40:21.288Z",
-    "nonce": "45842ba7291376e92f401390d46fb7ca"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-25T09:10:04.597Z",
+    "expiresAt": "2026-10-26T09:10:04.597Z",
+    "nonce": "f0b22b03fd759a0842064b43b0b23527"
   },
-  "signature": "8p31H2U7krC17qG7XEqO83NvTdrcGXTAHRGNPuoNKI/WEMRxe3qfxYuLxWnYmIjrJu6GlIIe3xShZivxzPh19Q==",
+  "signature": "fjOdtr1R8ecfA1fwoK7YksxEC7cG6CZhinyk9xgD8k6Eufhfiy3mX8cRjQXAcXfJ3J1BzWy12mohUk9o7f2O/Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

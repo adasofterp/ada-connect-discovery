@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://that-compression-based-samba.trycloudflare.com",
-  "httpUrl": "https://that-compression-based-samba.trycloudflare.com",
-  "updatedAt": "2026-10-25T20:39:41.809Z",
-  "expiresAt": "2026-10-26T20:39:41.809Z",
-  "nonce": "a2f89e79e39f1f9e8793e0bb0c4e891d",
+  "wsUrl": "wss://peter-css-embassy-void.trycloudflare.com",
+  "httpUrl": "https://peter-css-embassy-void.trycloudflare.com",
+  "updatedAt": "2026-10-25T20:48:37.884Z",
+  "expiresAt": "2026-10-26T20:48:37.884Z",
+  "nonce": "c0e0939ba771f252e26ae9eac69c8eff",
   "payload": {
-    "wsUrl": "wss://that-compression-based-samba.trycloudflare.com",
-    "httpUrl": "https://that-compression-based-samba.trycloudflare.com",
-    "issuedAt": "2026-10-25T20:39:41.809Z",
-    "expiresAt": "2026-10-26T20:39:41.809Z",
-    "nonce": "a2f89e79e39f1f9e8793e0bb0c4e891d"
+    "wsUrl": "wss://peter-css-embassy-void.trycloudflare.com",
+    "httpUrl": "https://peter-css-embassy-void.trycloudflare.com",
+    "issuedAt": "2026-10-25T20:48:37.884Z",
+    "expiresAt": "2026-10-26T20:48:37.884Z",
+    "nonce": "c0e0939ba771f252e26ae9eac69c8eff"
   },
-  "signature": "cSw5AJn5v855SsjTSwZzFbuhK2U7YIuBzceZjax5lNGrOPgwB3V3utowpTs1ZHFbnR68rBQJeWRtPfagFmF3+Q==",
+  "signature": "xx3aSFOZcABx5ceGAI8cUlAVqoFRSF/iKqBaDFT+8A+84nQ+RkYAMeJUcCL3kReiQcC+2QCtd9nWPF7l6Up36g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

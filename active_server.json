@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bicycle-symptoms-proven-diverse.trycloudflare.com",
-  "httpUrl": "https://bicycle-symptoms-proven-diverse.trycloudflare.com",
-  "updatedAt": "2026-10-25T22:00:01.842Z",
-  "expiresAt": "2026-10-26T22:00:01.842Z",
-  "nonce": "1a5a10872781cccf10ed4eb97396c172",
+  "wsUrl": "wss://recommendations-extreme-metadata-industry.trycloudflare.com",
+  "httpUrl": "https://recommendations-extreme-metadata-industry.trycloudflare.com",
+  "updatedAt": "2026-10-25T22:10:28.401Z",
+  "expiresAt": "2026-10-26T22:10:28.401Z",
+  "nonce": "be09994984b4fc1a23042467a014846f",
   "payload": {
-    "wsUrl": "wss://bicycle-symptoms-proven-diverse.trycloudflare.com",
-    "httpUrl": "https://bicycle-symptoms-proven-diverse.trycloudflare.com",
-    "issuedAt": "2026-10-25T22:00:01.842Z",
-    "expiresAt": "2026-10-26T22:00:01.842Z",
-    "nonce": "1a5a10872781cccf10ed4eb97396c172"
+    "wsUrl": "wss://recommendations-extreme-metadata-industry.trycloudflare.com",
+    "httpUrl": "https://recommendations-extreme-metadata-industry.trycloudflare.com",
+    "issuedAt": "2026-10-25T22:10:28.401Z",
+    "expiresAt": "2026-10-26T22:10:28.401Z",
+    "nonce": "be09994984b4fc1a23042467a014846f"
   },
-  "signature": "VOJjpoVcjQ9RZs1owGElFVH0h3vVpsoMkZC2SL9yWVTMaogJjGSrjgFY0usD/MKBh2oka67DL3SGA7JlYGhVUA==",
+  "signature": "4vlEFdP5qD+V3VlaSkV+NEhLFfjZ9ZWHv58LZgZcmBwjis9ILy3ng5XBIGRnmiJ4miCbKhGMLVg6nUlqQl25Yw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

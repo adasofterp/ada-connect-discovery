@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://catalogue-beth-thrown-namespace.trycloudflare.com",
-  "httpUrl": "https://catalogue-beth-thrown-namespace.trycloudflare.com",
-  "updatedAt": "2026-10-25T11:11:38.124Z",
-  "expiresAt": "2026-10-26T11:11:38.124Z",
-  "nonce": "895bb89e235af058f24aeccf346c41e9",
+  "wsUrl": "wss://strip-northern-else-percentage.trycloudflare.com",
+  "httpUrl": "https://strip-northern-else-percentage.trycloudflare.com",
+  "updatedAt": "2026-10-25T11:22:05.633Z",
+  "expiresAt": "2026-10-26T11:22:05.633Z",
+  "nonce": "43c765ea79972a93093409ffa35cf4d9",
   "payload": {
-    "wsUrl": "wss://catalogue-beth-thrown-namespace.trycloudflare.com",
-    "httpUrl": "https://catalogue-beth-thrown-namespace.trycloudflare.com",
-    "issuedAt": "2026-10-25T11:11:38.124Z",
-    "expiresAt": "2026-10-26T11:11:38.124Z",
-    "nonce": "895bb89e235af058f24aeccf346c41e9"
+    "wsUrl": "wss://strip-northern-else-percentage.trycloudflare.com",
+    "httpUrl": "https://strip-northern-else-percentage.trycloudflare.com",
+    "issuedAt": "2026-10-25T11:22:05.633Z",
+    "expiresAt": "2026-10-26T11:22:05.633Z",
+    "nonce": "43c765ea79972a93093409ffa35cf4d9"
   },
-  "signature": "LQ1M8+KPBmS21JqIwU7DswTka14j4pbSoTiSu7/Pq44xiw/+iVS8gIlHHTAZhrajnyjbQ1ub8MWrIMwgyG0Zzg==",
+  "signature": "48lp/RWk1gAhT9AVm9J6DWvmrBjT90ihv0kzf51X/l/DMVWKt0o+A9kzrvneu3+FJObUucuuz8OCnHIjFIigmg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

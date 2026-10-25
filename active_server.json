@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://loud-tend-president-mississippi.trycloudflare.com",
-  "httpUrl": "https://loud-tend-president-mississippi.trycloudflare.com",
-  "updatedAt": "2026-10-25T20:59:04.841Z",
-  "expiresAt": "2026-10-26T20:59:04.841Z",
-  "nonce": "9bdad996c46c9d000fff0eeadc99e753",
+  "wsUrl": "wss://mass-alone-debate-refined.trycloudflare.com",
+  "httpUrl": "https://mass-alone-debate-refined.trycloudflare.com",
+  "updatedAt": "2026-10-25T21:09:27.566Z",
+  "expiresAt": "2026-10-26T21:09:27.566Z",
+  "nonce": "411f52960324255c92dd2db50507396a",
   "payload": {
-    "wsUrl": "wss://loud-tend-president-mississippi.trycloudflare.com",
-    "httpUrl": "https://loud-tend-president-mississippi.trycloudflare.com",
-    "issuedAt": "2026-10-25T20:59:04.841Z",
-    "expiresAt": "2026-10-26T20:59:04.841Z",
-    "nonce": "9bdad996c46c9d000fff0eeadc99e753"
+    "wsUrl": "wss://mass-alone-debate-refined.trycloudflare.com",
+    "httpUrl": "https://mass-alone-debate-refined.trycloudflare.com",
+    "issuedAt": "2026-10-25T21:09:27.566Z",
+    "expiresAt": "2026-10-26T21:09:27.566Z",
+    "nonce": "411f52960324255c92dd2db50507396a"
   },
-  "signature": "Si2X3h62JOUWKexJ17GOZLbkIq4gmrjhiudDhzyaZNkwz7swTHr/O/cudnXhU5AlUS75AOuLgJ85dc5iOBIOKg==",
+  "signature": "Gq7H4G33M9SwNpYTZLkjepefDXi2/nhrXcoRNVe6m00ALaNWxXL33ySIsBuHyHTVHdvXyoR2pt3qo7WqGDVzuw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

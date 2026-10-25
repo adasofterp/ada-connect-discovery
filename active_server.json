@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://newcastle-rover-reads-peer.trycloudflare.com",
-  "httpUrl": "https://newcastle-rover-reads-peer.trycloudflare.com",
-  "updatedAt": "2026-10-25T03:48:02.235Z",
-  "expiresAt": "2026-10-26T03:48:02.235Z",
-  "nonce": "6dc00bb3e36d04233c60c38c59498e94",
+  "wsUrl": "wss://favour-constraints-eau-reid.trycloudflare.com",
+  "httpUrl": "https://favour-constraints-eau-reid.trycloudflare.com",
+  "updatedAt": "2026-10-25T03:58:28.676Z",
+  "expiresAt": "2026-10-26T03:58:28.676Z",
+  "nonce": "f673bda372572c3bc0b717a606c5cf89",
   "payload": {
-    "wsUrl": "wss://newcastle-rover-reads-peer.trycloudflare.com",
-    "httpUrl": "https://newcastle-rover-reads-peer.trycloudflare.com",
-    "issuedAt": "2026-10-25T03:48:02.235Z",
-    "expiresAt": "2026-10-26T03:48:02.235Z",
-    "nonce": "6dc00bb3e36d04233c60c38c59498e94"
+    "wsUrl": "wss://favour-constraints-eau-reid.trycloudflare.com",
+    "httpUrl": "https://favour-constraints-eau-reid.trycloudflare.com",
+    "issuedAt": "2026-10-25T03:58:28.676Z",
+    "expiresAt": "2026-10-26T03:58:28.676Z",
+    "nonce": "f673bda372572c3bc0b717a606c5cf89"
   },
-  "signature": "tO4vdeGexWxizsYTD9oJ0Rl9mb9ASQ9dylKzxMCWB/6MTNzMvV5SyGZCWyW9ZKmDzpuyUJMQXODfTaaHPlWqSQ==",
+  "signature": "CZb8JhXWxOYl3h6Y8pSfbHOlU0a8SPCEluxQ0MIzL9luWHbrEkQZuOxIWoVEMSWsEkxqKjXzcVXhrumk6M3T4w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

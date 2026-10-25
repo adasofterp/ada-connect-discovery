@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://roots-release-futures-fountain.trycloudflare.com",
-  "httpUrl": "https://roots-release-futures-fountain.trycloudflare.com",
-  "updatedAt": "2026-10-25T14:58:51.886Z",
-  "expiresAt": "2026-10-26T14:58:51.886Z",
-  "nonce": "3952466959f0086a0ea41a9ef1114c00",
+  "wsUrl": "wss://copies-olympus-mysimon-prospect.trycloudflare.com",
+  "httpUrl": "https://copies-olympus-mysimon-prospect.trycloudflare.com",
+  "updatedAt": "2026-10-25T15:10:58.944Z",
+  "expiresAt": "2026-10-26T15:10:58.944Z",
+  "nonce": "11fe8987d288d76255ad2812af16ac5a",
   "payload": {
-    "wsUrl": "wss://roots-release-futures-fountain.trycloudflare.com",
-    "httpUrl": "https://roots-release-futures-fountain.trycloudflare.com",
-    "issuedAt": "2026-10-25T14:58:51.886Z",
-    "expiresAt": "2026-10-26T14:58:51.886Z",
-    "nonce": "3952466959f0086a0ea41a9ef1114c00"
+    "wsUrl": "wss://copies-olympus-mysimon-prospect.trycloudflare.com",
+    "httpUrl": "https://copies-olympus-mysimon-prospect.trycloudflare.com",
+    "issuedAt": "2026-10-25T15:10:58.944Z",
+    "expiresAt": "2026-10-26T15:10:58.944Z",
+    "nonce": "11fe8987d288d76255ad2812af16ac5a"
   },
-  "signature": "ZB3mruJ5bkykHmCzu7KSv7Ue4PkKVl8QBNse2rm7kRdUnygx/mflmbbKHH3S2jf7AIoPDmexMKdJ7YLuC9QpBw==",
+  "signature": "HmAyziJwxtwDDxab9+fJSZ0IAS7DIoWQPNt0LQbu51cJfr+OchDwdffO6198fl+YYs6A5Pux78MgaviIHkT9vQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

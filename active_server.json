@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://carter-kills-species-color.trycloudflare.com",
-  "httpUrl": "https://carter-kills-species-color.trycloudflare.com",
-  "updatedAt": "2026-10-25T10:52:52.573Z",
-  "expiresAt": "2026-10-26T10:52:52.573Z",
-  "nonce": "3c80fafd646d283057f67255228b86c2",
+  "wsUrl": "wss://jill-satisfactory-recorders-partnerships.trycloudflare.com",
+  "httpUrl": "https://jill-satisfactory-recorders-partnerships.trycloudflare.com",
+  "updatedAt": "2026-10-25T11:03:19.966Z",
+  "expiresAt": "2026-10-26T11:03:19.966Z",
+  "nonce": "870d2ff332c2e6db8ebac7886e566b35",
   "payload": {
-    "wsUrl": "wss://carter-kills-species-color.trycloudflare.com",
-    "httpUrl": "https://carter-kills-species-color.trycloudflare.com",
-    "issuedAt": "2026-10-25T10:52:52.573Z",
-    "expiresAt": "2026-10-26T10:52:52.573Z",
-    "nonce": "3c80fafd646d283057f67255228b86c2"
+    "wsUrl": "wss://jill-satisfactory-recorders-partnerships.trycloudflare.com",
+    "httpUrl": "https://jill-satisfactory-recorders-partnerships.trycloudflare.com",
+    "issuedAt": "2026-10-25T11:03:19.966Z",
+    "expiresAt": "2026-10-26T11:03:19.966Z",
+    "nonce": "870d2ff332c2e6db8ebac7886e566b35"
   },
-  "signature": "WX9aFtCQf4cqVEQboQPtLNLi10V8BdfjHFdIaiVFdTKtqbF5D0ul2V1qwneqKbDQ3SG+/0ZEy3m7ygwWb8BgRw==",
+  "signature": "cVAEcMIFm8XpG3ZwVFc75fZfWqrDuAeahrTpZ/iSBz2PPqxQnXZuFakL0G1PG7mm6+4putIyAx8zMvVNXWnAvw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

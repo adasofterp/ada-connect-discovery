@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://two-interpreted-insider-solution.trycloudflare.com",
-  "httpUrl": "https://two-interpreted-insider-solution.trycloudflare.com",
-  "updatedAt": "2026-10-25T12:54:47.709Z",
-  "expiresAt": "2026-10-26T12:54:47.709Z",
-  "nonce": "9bdf0562cd10670f7f40baeee85d88d0",
+  "wsUrl": "wss://pam-vocational-urgent-salvation.trycloudflare.com",
+  "httpUrl": "https://pam-vocational-urgent-salvation.trycloudflare.com",
+  "updatedAt": "2026-10-25T13:05:13.321Z",
+  "expiresAt": "2026-10-26T13:05:13.321Z",
+  "nonce": "43328735ba11e51dca9fac024d11cd84",
   "payload": {
-    "wsUrl": "wss://two-interpreted-insider-solution.trycloudflare.com",
-    "httpUrl": "https://two-interpreted-insider-solution.trycloudflare.com",
-    "issuedAt": "2026-10-25T12:54:47.709Z",
-    "expiresAt": "2026-10-26T12:54:47.709Z",
-    "nonce": "9bdf0562cd10670f7f40baeee85d88d0"
+    "wsUrl": "wss://pam-vocational-urgent-salvation.trycloudflare.com",
+    "httpUrl": "https://pam-vocational-urgent-salvation.trycloudflare.com",
+    "issuedAt": "2026-10-25T13:05:13.321Z",
+    "expiresAt": "2026-10-26T13:05:13.321Z",
+    "nonce": "43328735ba11e51dca9fac024d11cd84"
   },
-  "signature": "+o3jS8V93riRkBjtf3IvdmRcaQoW8kZzGMTHnrG++5zHuu0Xq+gf3gd+OIEwHJYsVimPK0u6FgLjFpPnwIFw5A==",
+  "signature": "hsw866359JAWlBgeeqVGPWqLfS7gOTJ8WM2ogEuLr9HGzUn+J8C+SsPjMUpVSbKA/Drxa2OJEuZkGUvIkGQB0Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://copies-olympus-mysimon-prospect.trycloudflare.com",
-  "httpUrl": "https://copies-olympus-mysimon-prospect.trycloudflare.com",
-  "updatedAt": "2026-10-25T15:10:58.944Z",
-  "expiresAt": "2026-10-26T15:10:58.944Z",
-  "nonce": "11fe8987d288d76255ad2812af16ac5a",
+  "wsUrl": "wss://colleagues-cbs-wake-albums.trycloudflare.com",
+  "httpUrl": "https://colleagues-cbs-wake-albums.trycloudflare.com",
+  "updatedAt": "2026-10-25T15:21:22.120Z",
+  "expiresAt": "2026-10-26T15:21:22.120Z",
+  "nonce": "390a444ad885d63a6f7a7df506b9cb96",
   "payload": {
-    "wsUrl": "wss://copies-olympus-mysimon-prospect.trycloudflare.com",
-    "httpUrl": "https://copies-olympus-mysimon-prospect.trycloudflare.com",
-    "issuedAt": "2026-10-25T15:10:58.944Z",
-    "expiresAt": "2026-10-26T15:10:58.944Z",
-    "nonce": "11fe8987d288d76255ad2812af16ac5a"
+    "wsUrl": "wss://colleagues-cbs-wake-albums.trycloudflare.com",
+    "httpUrl": "https://colleagues-cbs-wake-albums.trycloudflare.com",
+    "issuedAt": "2026-10-25T15:21:22.120Z",
+    "expiresAt": "2026-10-26T15:21:22.120Z",
+    "nonce": "390a444ad885d63a6f7a7df506b9cb96"
   },
-  "signature": "HmAyziJwxtwDDxab9+fJSZ0IAS7DIoWQPNt0LQbu51cJfr+OchDwdffO6198fl+YYs6A5Pux78MgaviIHkT9vQ==",
+  "signature": "aGXWheFrUGSeEecpeA6yaET7eiwVHvhZ1uUXajqZObsZvO+Bk1C4t9c4QcriadaFsWi/PGClfVGmi1Oc2rbcww==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

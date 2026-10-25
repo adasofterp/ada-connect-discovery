@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://neighbor-alone-bra-feed.trycloudflare.com",
-  "httpUrl": "https://neighbor-alone-bra-feed.trycloudflare.com",
-  "updatedAt": "2026-10-25T23:01:05.631Z",
-  "expiresAt": "2026-10-26T23:01:05.631Z",
-  "nonce": "ec8ae04e187420c0448db5ce02584221",
+  "wsUrl": "wss://grants-november-affairs-infections.trycloudflare.com",
+  "httpUrl": "https://grants-november-affairs-infections.trycloudflare.com",
+  "updatedAt": "2026-10-25T23:11:31.804Z",
+  "expiresAt": "2026-10-26T23:11:31.804Z",
+  "nonce": "7b110842baf5b9f00525e7701048cc6b",
   "payload": {
-    "wsUrl": "wss://neighbor-alone-bra-feed.trycloudflare.com",
-    "httpUrl": "https://neighbor-alone-bra-feed.trycloudflare.com",
-    "issuedAt": "2026-10-25T23:01:05.631Z",
-    "expiresAt": "2026-10-26T23:01:05.631Z",
-    "nonce": "ec8ae04e187420c0448db5ce02584221"
+    "wsUrl": "wss://grants-november-affairs-infections.trycloudflare.com",
+    "httpUrl": "https://grants-november-affairs-infections.trycloudflare.com",
+    "issuedAt": "2026-10-25T23:11:31.804Z",
+    "expiresAt": "2026-10-26T23:11:31.804Z",
+    "nonce": "7b110842baf5b9f00525e7701048cc6b"
   },
-  "signature": "mYj7BHk+dpxfiiZaeFYdgNAU6jKMYRTfyBuEy5SWeDDWstgBe7So2FX8DDg3PyXYcs+/vgQ9NZfAMkSCHbhIqw==",
+  "signature": "DykwW/hf7ssuM9gUDS7Nox8f7qZC54M8abyoR/oVBnRxDNdE8NfEASAoEh2Ve33IUb9VxvmnWHYRWwnZ212b0Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

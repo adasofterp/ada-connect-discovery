@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://structure-precision-spokesman-article.trycloudflare.com",
-  "httpUrl": "https://structure-precision-spokesman-article.trycloudflare.com",
-  "updatedAt": "2026-10-25T03:37:36.466Z",
-  "expiresAt": "2026-10-26T03:37:36.466Z",
-  "nonce": "b4758624ce39932efa5dbd866d102a64",
+  "wsUrl": "wss://newcastle-rover-reads-peer.trycloudflare.com",
+  "httpUrl": "https://newcastle-rover-reads-peer.trycloudflare.com",
+  "updatedAt": "2026-10-25T03:48:02.235Z",
+  "expiresAt": "2026-10-26T03:48:02.235Z",
+  "nonce": "6dc00bb3e36d04233c60c38c59498e94",
   "payload": {
-    "wsUrl": "wss://structure-precision-spokesman-article.trycloudflare.com",
-    "httpUrl": "https://structure-precision-spokesman-article.trycloudflare.com",
-    "issuedAt": "2026-10-25T03:37:36.466Z",
-    "expiresAt": "2026-10-26T03:37:36.466Z",
-    "nonce": "b4758624ce39932efa5dbd866d102a64"
+    "wsUrl": "wss://newcastle-rover-reads-peer.trycloudflare.com",
+    "httpUrl": "https://newcastle-rover-reads-peer.trycloudflare.com",
+    "issuedAt": "2026-10-25T03:48:02.235Z",
+    "expiresAt": "2026-10-26T03:48:02.235Z",
+    "nonce": "6dc00bb3e36d04233c60c38c59498e94"
   },
-  "signature": "xYIiAeakryouiUB498UtkbxN+/g5Oyinfdjv7oc63/ymo10kwG/8ZrBKLPfsGa1khtx5We87/j84x0+lvKo03g==",
+  "signature": "tO4vdeGexWxizsYTD9oJ0Rl9mb9ASQ9dylKzxMCWB/6MTNzMvV5SyGZCWyW9ZKmDzpuyUJMQXODfTaaHPlWqSQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

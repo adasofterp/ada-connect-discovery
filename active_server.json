@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://colleagues-cbs-wake-albums.trycloudflare.com",
-  "httpUrl": "https://colleagues-cbs-wake-albums.trycloudflare.com",
-  "updatedAt": "2026-10-25T15:21:22.120Z",
-  "expiresAt": "2026-10-26T15:21:22.120Z",
-  "nonce": "390a444ad885d63a6f7a7df506b9cb96",
+  "wsUrl": "wss://tions-pichunter-commissioner-manually.trycloudflare.com",
+  "httpUrl": "https://tions-pichunter-commissioner-manually.trycloudflare.com",
+  "updatedAt": "2026-10-25T15:42:10.520Z",
+  "expiresAt": "2026-10-26T15:42:10.520Z",
+  "nonce": "ea20a2bb6c991fd226b6605610a7d968",
   "payload": {
-    "wsUrl": "wss://colleagues-cbs-wake-albums.trycloudflare.com",
-    "httpUrl": "https://colleagues-cbs-wake-albums.trycloudflare.com",
-    "issuedAt": "2026-10-25T15:21:22.120Z",
-    "expiresAt": "2026-10-26T15:21:22.120Z",
-    "nonce": "390a444ad885d63a6f7a7df506b9cb96"
+    "wsUrl": "wss://tions-pichunter-commissioner-manually.trycloudflare.com",
+    "httpUrl": "https://tions-pichunter-commissioner-manually.trycloudflare.com",
+    "issuedAt": "2026-10-25T15:42:10.520Z",
+    "expiresAt": "2026-10-26T15:42:10.520Z",
+    "nonce": "ea20a2bb6c991fd226b6605610a7d968"
   },
-  "signature": "aGXWheFrUGSeEecpeA6yaET7eiwVHvhZ1uUXajqZObsZvO+Bk1C4t9c4QcriadaFsWi/PGClfVGmi1Oc2rbcww==",
+  "signature": "9HUp4MNPw7tW03k0x3GvprL33jV0l08C4gaBQUfv9GgCGwHrPnMOohahrxAQyBBkDc2muwqIpjmVI/RyyfG1tQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

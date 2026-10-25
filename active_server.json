@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://trainer-ricky-facility-peas.trycloudflare.com",
-  "httpUrl": "https://trainer-ricky-facility-peas.trycloudflare.com",
-  "updatedAt": "2026-10-25T21:30:16.569Z",
-  "expiresAt": "2026-10-26T21:30:16.569Z",
-  "nonce": "8d9580a4064a224273352b20c2e385c0",
+  "wsUrl": "wss://premises-predictions-hist-confirmed.trycloudflare.com",
+  "httpUrl": "https://premises-predictions-hist-confirmed.trycloudflare.com",
+  "updatedAt": "2026-10-25T21:40:42.155Z",
+  "expiresAt": "2026-10-26T21:40:42.155Z",
+  "nonce": "77f02fa9c67d23b4b0b386dc718cabe8",
   "payload": {
-    "wsUrl": "wss://trainer-ricky-facility-peas.trycloudflare.com",
-    "httpUrl": "https://trainer-ricky-facility-peas.trycloudflare.com",
-    "issuedAt": "2026-10-25T21:30:16.569Z",
-    "expiresAt": "2026-10-26T21:30:16.569Z",
-    "nonce": "8d9580a4064a224273352b20c2e385c0"
+    "wsUrl": "wss://premises-predictions-hist-confirmed.trycloudflare.com",
+    "httpUrl": "https://premises-predictions-hist-confirmed.trycloudflare.com",
+    "issuedAt": "2026-10-25T21:40:42.155Z",
+    "expiresAt": "2026-10-26T21:40:42.155Z",
+    "nonce": "77f02fa9c67d23b4b0b386dc718cabe8"
   },
-  "signature": "ri/AGEGUGT3UXNtiPJJ+JkWFkYJCR43hv+SHW5iAEl1xhYFEzEv/6uTYR0unk9Wm2xA6Ireq7vMfi7iwnGlM/g==",
+  "signature": "KESzngQ3xigjjgLr7P2mreegUhqVcsKpTwBAxepZFEO0yojh/14Tx+gGxqX9eD8V4h11+iTdiPv1VoyMX5xlTQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

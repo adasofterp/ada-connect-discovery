@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://favour-constraints-eau-reid.trycloudflare.com",
-  "httpUrl": "https://favour-constraints-eau-reid.trycloudflare.com",
-  "updatedAt": "2026-10-25T03:58:28.676Z",
-  "expiresAt": "2026-10-26T03:58:28.676Z",
-  "nonce": "f673bda372572c3bc0b717a606c5cf89",
+  "wsUrl": "wss://hartford-suits-combined-eternal.trycloudflare.com",
+  "httpUrl": "https://hartford-suits-combined-eternal.trycloudflare.com",
+  "updatedAt": "2026-10-25T04:08:54.933Z",
+  "expiresAt": "2026-10-26T04:08:54.933Z",
+  "nonce": "a79d3589b0cc264e225af1552c7bb464",
   "payload": {
-    "wsUrl": "wss://favour-constraints-eau-reid.trycloudflare.com",
-    "httpUrl": "https://favour-constraints-eau-reid.trycloudflare.com",
-    "issuedAt": "2026-10-25T03:58:28.676Z",
-    "expiresAt": "2026-10-26T03:58:28.676Z",
-    "nonce": "f673bda372572c3bc0b717a606c5cf89"
+    "wsUrl": "wss://hartford-suits-combined-eternal.trycloudflare.com",
+    "httpUrl": "https://hartford-suits-combined-eternal.trycloudflare.com",
+    "issuedAt": "2026-10-25T04:08:54.933Z",
+    "expiresAt": "2026-10-26T04:08:54.933Z",
+    "nonce": "a79d3589b0cc264e225af1552c7bb464"
   },
-  "signature": "CZb8JhXWxOYl3h6Y8pSfbHOlU0a8SPCEluxQ0MIzL9luWHbrEkQZuOxIWoVEMSWsEkxqKjXzcVXhrumk6M3T4w==",
+  "signature": "oLZz2jxuvMX3cJcEwMLBbzXSzCj2mQJo/yYZnmqsL6f25D65AzZhSgA5CJ4b0tpxC3kSK6J3AQw4nhlnG4L04g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

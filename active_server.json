@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://computers-patch-foreign-sequences.trycloudflare.com",
-  "httpUrl": "https://computers-patch-foreign-sequences.trycloudflare.com",
-  "updatedAt": "2026-10-25T22:41:41.549Z",
-  "expiresAt": "2026-10-26T22:41:41.549Z",
-  "nonce": "066fd44923bb6347e29ffc0e1a1b51d1",
+  "wsUrl": "wss://compact-land-plugin-gbp.trycloudflare.com",
+  "httpUrl": "https://compact-land-plugin-gbp.trycloudflare.com",
+  "updatedAt": "2026-10-25T22:50:39.909Z",
+  "expiresAt": "2026-10-26T22:50:39.909Z",
+  "nonce": "43d006a17da2ae29eef8bcc4d4750511",
   "payload": {
-    "wsUrl": "wss://computers-patch-foreign-sequences.trycloudflare.com",
-    "httpUrl": "https://computers-patch-foreign-sequences.trycloudflare.com",
-    "issuedAt": "2026-10-25T22:41:41.549Z",
-    "expiresAt": "2026-10-26T22:41:41.549Z",
-    "nonce": "066fd44923bb6347e29ffc0e1a1b51d1"
+    "wsUrl": "wss://compact-land-plugin-gbp.trycloudflare.com",
+    "httpUrl": "https://compact-land-plugin-gbp.trycloudflare.com",
+    "issuedAt": "2026-10-25T22:50:39.909Z",
+    "expiresAt": "2026-10-26T22:50:39.909Z",
+    "nonce": "43d006a17da2ae29eef8bcc4d4750511"
   },
-  "signature": "bb/SsNsGZlFDEr5FHw7wXSx0jZ//D2nom5uhHeKgNNdSefSF+uHvnCKwvBfH96m+/osBG2jHIqqtPaK9WkgQIg==",
+  "signature": "sQirIm8KfxoSE4hopdSKAlzlPcn8odpIzwo/AHls8eauIFA9c++XxNoKQSNOcoxuX9zWPNxrn2+UCLqFaUUE3w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

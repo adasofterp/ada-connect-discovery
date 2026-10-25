@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pole-milan-appreciate-nut.trycloudflare.com",
-  "httpUrl": "https://pole-milan-appreciate-nut.trycloudflare.com",
-  "updatedAt": "2026-10-25T12:33:59.246Z",
-  "expiresAt": "2026-10-26T12:33:59.246Z",
-  "nonce": "0544548c04b76e24c259c6790587f516",
+  "wsUrl": "wss://two-interpreted-insider-solution.trycloudflare.com",
+  "httpUrl": "https://two-interpreted-insider-solution.trycloudflare.com",
+  "updatedAt": "2026-10-25T12:54:47.709Z",
+  "expiresAt": "2026-10-26T12:54:47.709Z",
+  "nonce": "9bdf0562cd10670f7f40baeee85d88d0",
   "payload": {
-    "wsUrl": "wss://pole-milan-appreciate-nut.trycloudflare.com",
-    "httpUrl": "https://pole-milan-appreciate-nut.trycloudflare.com",
-    "issuedAt": "2026-10-25T12:33:59.246Z",
-    "expiresAt": "2026-10-26T12:33:59.246Z",
-    "nonce": "0544548c04b76e24c259c6790587f516"
+    "wsUrl": "wss://two-interpreted-insider-solution.trycloudflare.com",
+    "httpUrl": "https://two-interpreted-insider-solution.trycloudflare.com",
+    "issuedAt": "2026-10-25T12:54:47.709Z",
+    "expiresAt": "2026-10-26T12:54:47.709Z",
+    "nonce": "9bdf0562cd10670f7f40baeee85d88d0"
   },
-  "signature": "NtJmjHYkqr194O0HaEU2G61lhAWuzFrqv0pNxO3bsM7gY7yrIt35WINr6ooE8ngQBD9QpgO9iKEbe6xtZW5lfg==",
+  "signature": "+o3jS8V93riRkBjtf3IvdmRcaQoW8kZzGMTHnrG++5zHuu0Xq+gf3gd+OIEwHJYsVimPK0u6FgLjFpPnwIFw5A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

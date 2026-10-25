@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://different-soil-analyze-committee.trycloudflare.com",
-  "httpUrl": "https://different-soil-analyze-committee.trycloudflare.com",
-  "updatedAt": "2026-10-25T00:30:34.662Z",
-  "expiresAt": "2026-10-26T00:30:34.662Z",
-  "nonce": "f668d7a02363e90f341430bec68bcd94",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-25T01:01:39.369Z",
+  "expiresAt": "2026-10-26T01:01:39.369Z",
+  "nonce": "dbdccabbd3db790eebcb38d232507d37",
   "payload": {
-    "wsUrl": "wss://different-soil-analyze-committee.trycloudflare.com",
-    "httpUrl": "https://different-soil-analyze-committee.trycloudflare.com",
-    "issuedAt": "2026-10-25T00:30:34.662Z",
-    "expiresAt": "2026-10-26T00:30:34.662Z",
-    "nonce": "f668d7a02363e90f341430bec68bcd94"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-25T01:01:39.369Z",
+    "expiresAt": "2026-10-26T01:01:39.369Z",
+    "nonce": "dbdccabbd3db790eebcb38d232507d37"
   },
-  "signature": "sTq/w7A/BxWM3PiqlZrTOcJwJ8KXPkCKmgDjpHqYt0WYI8Q/5LMzkVCUm6624AefA0C8nWQ5rpMXmSdH2cSmug==",
+  "signature": "lKXUPgMs2WNMLCV3peqe+RSRiviIZKc60GJtEYF7P4oUlNbe0mDMVHnIscXrGTa+1lC96eW6Zl6oHklhVFQ1RQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

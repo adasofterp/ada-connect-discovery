@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://exams-norm-women-mid.trycloudflare.com",
-  "httpUrl": "https://exams-norm-women-mid.trycloudflare.com",
-  "updatedAt": "2026-10-25T03:16:44.219Z",
-  "expiresAt": "2026-10-26T03:16:44.219Z",
-  "nonce": "b4889a8b3c3a3eb2b2826436f34c08f6",
+  "wsUrl": "wss://structure-precision-spokesman-article.trycloudflare.com",
+  "httpUrl": "https://structure-precision-spokesman-article.trycloudflare.com",
+  "updatedAt": "2026-10-25T03:37:36.466Z",
+  "expiresAt": "2026-10-26T03:37:36.466Z",
+  "nonce": "b4758624ce39932efa5dbd866d102a64",
   "payload": {
-    "wsUrl": "wss://exams-norm-women-mid.trycloudflare.com",
-    "httpUrl": "https://exams-norm-women-mid.trycloudflare.com",
-    "issuedAt": "2026-10-25T03:16:44.219Z",
-    "expiresAt": "2026-10-26T03:16:44.219Z",
-    "nonce": "b4889a8b3c3a3eb2b2826436f34c08f6"
+    "wsUrl": "wss://structure-precision-spokesman-article.trycloudflare.com",
+    "httpUrl": "https://structure-precision-spokesman-article.trycloudflare.com",
+    "issuedAt": "2026-10-25T03:37:36.466Z",
+    "expiresAt": "2026-10-26T03:37:36.466Z",
+    "nonce": "b4758624ce39932efa5dbd866d102a64"
   },
-  "signature": "5jRdfetwmd2H7Yt0jxjgpRfag/CWeC0UHgp8EmxMucZ2KmdS4x3cMF/kg2//fuGCz4J2AdbOIvGTraC856iZMg==",
+  "signature": "xYIiAeakryouiUB498UtkbxN+/g5Oyinfdjv7oc63/ymo10kwG/8ZrBKLPfsGa1khtx5We87/j84x0+lvKo03g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

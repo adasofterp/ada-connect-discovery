@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://faq-night-unique-aud.trycloudflare.com",
-  "httpUrl": "https://faq-night-unique-aud.trycloudflare.com",
-  "updatedAt": "2026-10-25T11:42:56.761Z",
-  "expiresAt": "2026-10-26T11:42:56.761Z",
-  "nonce": "8d394250278fea7fbefdd6346a84eca2",
+  "wsUrl": "wss://kentucky-machine-victor-engineer.trycloudflare.com",
+  "httpUrl": "https://kentucky-machine-victor-engineer.trycloudflare.com",
+  "updatedAt": "2026-10-25T11:53:23.349Z",
+  "expiresAt": "2026-10-26T11:53:23.349Z",
+  "nonce": "623abf7fad3c5fff2c7fe49e3522b6d3",
   "payload": {
-    "wsUrl": "wss://faq-night-unique-aud.trycloudflare.com",
-    "httpUrl": "https://faq-night-unique-aud.trycloudflare.com",
-    "issuedAt": "2026-10-25T11:42:56.761Z",
-    "expiresAt": "2026-10-26T11:42:56.761Z",
-    "nonce": "8d394250278fea7fbefdd6346a84eca2"
+    "wsUrl": "wss://kentucky-machine-victor-engineer.trycloudflare.com",
+    "httpUrl": "https://kentucky-machine-victor-engineer.trycloudflare.com",
+    "issuedAt": "2026-10-25T11:53:23.349Z",
+    "expiresAt": "2026-10-26T11:53:23.349Z",
+    "nonce": "623abf7fad3c5fff2c7fe49e3522b6d3"
   },
-  "signature": "LmxhrHUjxNfqzE59xzkZGuPk9Zjp0cRRqdTk7rj0XFBwjpQ0g0b8w5UPMnDFQ2rzCHnXBxKZq55TlcVREJYMXw==",
+  "signature": "WDtRrVmgsTfeb+F0+TMucsWEk2KG784X1EuFGfyz7eFu2YqOHLVfp0RXg2XX8DOYayPTZ8Air7uV7P2ztL5XkQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

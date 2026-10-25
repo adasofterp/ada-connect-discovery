@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://stuffed-ali-rates-dosage.trycloudflare.com",
-  "httpUrl": "https://stuffed-ali-rates-dosage.trycloudflare.com",
-  "updatedAt": "2026-10-25T12:03:47.387Z",
-  "expiresAt": "2026-10-26T12:03:47.387Z",
-  "nonce": "37d88b38586a2afbed7a819700d1c6d2",
+  "wsUrl": "wss://johns-effort-eos-hints.trycloudflare.com",
+  "httpUrl": "https://johns-effort-eos-hints.trycloudflare.com",
+  "updatedAt": "2026-10-25T12:13:10.777Z",
+  "expiresAt": "2026-10-26T12:13:10.777Z",
+  "nonce": "811989920462061ecf4d7c2224e4ede4",
   "payload": {
-    "wsUrl": "wss://stuffed-ali-rates-dosage.trycloudflare.com",
-    "httpUrl": "https://stuffed-ali-rates-dosage.trycloudflare.com",
-    "issuedAt": "2026-10-25T12:03:47.387Z",
-    "expiresAt": "2026-10-26T12:03:47.387Z",
-    "nonce": "37d88b38586a2afbed7a819700d1c6d2"
+    "wsUrl": "wss://johns-effort-eos-hints.trycloudflare.com",
+    "httpUrl": "https://johns-effort-eos-hints.trycloudflare.com",
+    "issuedAt": "2026-10-25T12:13:10.777Z",
+    "expiresAt": "2026-10-26T12:13:10.777Z",
+    "nonce": "811989920462061ecf4d7c2224e4ede4"
   },
-  "signature": "sv6TBEFnAG+IW8pYIUqcH9kTlaOGFmSeemQDeQhJ7CTjexpd+y3DHTy9TKAu987/MJXVrtJ+g6+IxntC6RfyPw==",
+  "signature": "aanfBnfJUhm85T68l25PRvBYqSPBeOCSjhbq8ASSkYYdg0a7rqHn64+kt4RoI/2eZnpaCJsZ1l1oF3HEEiPeMQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://humanitarian-quotations-terminals-theta.trycloudflare.com",
-  "httpUrl": "https://humanitarian-quotations-terminals-theta.trycloudflare.com",
-  "updatedAt": "2026-10-25T16:32:35.324Z",
-  "expiresAt": "2026-10-26T16:32:35.324Z",
-  "nonce": "4e4874dd846db83c2c7302bfdf1cb5a4",
+  "wsUrl": "wss://traditions-freedom-specialists-ranks.trycloudflare.com",
+  "httpUrl": "https://traditions-freedom-specialists-ranks.trycloudflare.com",
+  "updatedAt": "2026-10-25T16:42:59.846Z",
+  "expiresAt": "2026-10-26T16:42:59.846Z",
+  "nonce": "487063051d1ef1528648975bf694b596",
   "payload": {
-    "wsUrl": "wss://humanitarian-quotations-terminals-theta.trycloudflare.com",
-    "httpUrl": "https://humanitarian-quotations-terminals-theta.trycloudflare.com",
-    "issuedAt": "2026-10-25T16:32:35.324Z",
-    "expiresAt": "2026-10-26T16:32:35.324Z",
-    "nonce": "4e4874dd846db83c2c7302bfdf1cb5a4"
+    "wsUrl": "wss://traditions-freedom-specialists-ranks.trycloudflare.com",
+    "httpUrl": "https://traditions-freedom-specialists-ranks.trycloudflare.com",
+    "issuedAt": "2026-10-25T16:42:59.846Z",
+    "expiresAt": "2026-10-26T16:42:59.846Z",
+    "nonce": "487063051d1ef1528648975bf694b596"
   },
-  "signature": "zXUApooiCf6tdiWaagKIrz824gIF9LT5lbuyNfqsLyl2Jy8S2ZBuD9y9OXe5GT+1Xl4EACyecAyLgv0GAbkfxA==",
+  "signature": "+45Iwfu9LUEddaucrNTMWaIlM8D6g5ugV4swdFDgtiojyjUE5BFjl211EJG5xROL+wR93x4WmqAOp3dNnyt34w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

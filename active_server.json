@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lauderdale-differ-from-car.trycloudflare.com",
-  "httpUrl": "https://lauderdale-differ-from-car.trycloudflare.com",
-  "updatedAt": "2026-10-25T09:51:53.497Z",
-  "expiresAt": "2026-10-26T09:51:53.497Z",
-  "nonce": "bcbc8ebf98562471bf4eaa29e1c6859a",
+  "wsUrl": "wss://trinity-november-rogers-collectible.trycloudflare.com",
+  "httpUrl": "https://trinity-november-rogers-collectible.trycloudflare.com",
+  "updatedAt": "2026-10-25T10:02:18.139Z",
+  "expiresAt": "2026-10-26T10:02:18.139Z",
+  "nonce": "48d96293d9df4037391e19fa3c67cd0d",
   "payload": {
-    "wsUrl": "wss://lauderdale-differ-from-car.trycloudflare.com",
-    "httpUrl": "https://lauderdale-differ-from-car.trycloudflare.com",
-    "issuedAt": "2026-10-25T09:51:53.497Z",
-    "expiresAt": "2026-10-26T09:51:53.497Z",
-    "nonce": "bcbc8ebf98562471bf4eaa29e1c6859a"
+    "wsUrl": "wss://trinity-november-rogers-collectible.trycloudflare.com",
+    "httpUrl": "https://trinity-november-rogers-collectible.trycloudflare.com",
+    "issuedAt": "2026-10-25T10:02:18.139Z",
+    "expiresAt": "2026-10-26T10:02:18.139Z",
+    "nonce": "48d96293d9df4037391e19fa3c67cd0d"
   },
-  "signature": "fe/1t8+4mBKcm1D28NMfvr650FTwtGRJC6Evb0GrVr9uSpjOt4dF1j7dQ0tFtoDaKev0uKHr5zBCWgq7AsUtAA==",
+  "signature": "FFmOTnpEjE8MtYOKfdcHjvD2zvJgI1bu5Dct4yu1XUzv5GaMTxaRKflgGtMo32SuQIHIKnNyFkRwgzhyU+3Zeg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

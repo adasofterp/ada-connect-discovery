@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://excel-conservative-appliance-affair.trycloudflare.com",
-  "httpUrl": "https://excel-conservative-appliance-affair.trycloudflare.com",
-  "updatedAt": "2026-10-25T06:17:39.978Z",
-  "expiresAt": "2026-10-26T06:17:39.978Z",
-  "nonce": "f3c30a5e262ec92d5d1c69acf04158e9",
+  "wsUrl": "wss://interviews-manitoba-yields-speaks.trycloudflare.com",
+  "httpUrl": "https://interviews-manitoba-yields-speaks.trycloudflare.com",
+  "updatedAt": "2026-10-25T06:48:57.237Z",
+  "expiresAt": "2026-10-26T06:48:57.237Z",
+  "nonce": "91773e094a8554cd30195970adb32e69",
   "payload": {
-    "wsUrl": "wss://excel-conservative-appliance-affair.trycloudflare.com",
-    "httpUrl": "https://excel-conservative-appliance-affair.trycloudflare.com",
-    "issuedAt": "2026-10-25T06:17:39.978Z",
-    "expiresAt": "2026-10-26T06:17:39.978Z",
-    "nonce": "f3c30a5e262ec92d5d1c69acf04158e9"
+    "wsUrl": "wss://interviews-manitoba-yields-speaks.trycloudflare.com",
+    "httpUrl": "https://interviews-manitoba-yields-speaks.trycloudflare.com",
+    "issuedAt": "2026-10-25T06:48:57.237Z",
+    "expiresAt": "2026-10-26T06:48:57.237Z",
+    "nonce": "91773e094a8554cd30195970adb32e69"
   },
-  "signature": "yGvbFX+9aq9cmGEaRlMPenyVVgtYeQrzloyIMhWlWgI6k8fRSa3fO7GvIYpaPSHXCW8Th4a2nocHB/qhmHURnA==",
+  "signature": "wYQ9CaSWDB+0Rdh55Ab+jNTq7k5f7tDI8tuI+wPcfFXR1jJhxb97AEkN3XGRCQ8leim+0yKLflRBQ7gn3NsB+A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

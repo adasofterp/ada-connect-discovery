@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://arabic-highway-lifestyle-provider.trycloudflare.com",
-  "httpUrl": "https://arabic-highway-lifestyle-provider.trycloudflare.com",
-  "updatedAt": "2026-10-25T07:58:45.516Z",
-  "expiresAt": "2026-10-26T07:58:45.516Z",
-  "nonce": "24f24910c5bd40b56121db625f10d544",
+  "wsUrl": "wss://lanes-following-trim-tournaments.trycloudflare.com",
+  "httpUrl": "https://lanes-following-trim-tournaments.trycloudflare.com",
+  "updatedAt": "2026-10-25T08:09:08.984Z",
+  "expiresAt": "2026-10-26T08:09:08.984Z",
+  "nonce": "8da75ec28d0401962b61ffd0b8e53e22",
   "payload": {
-    "wsUrl": "wss://arabic-highway-lifestyle-provider.trycloudflare.com",
-    "httpUrl": "https://arabic-highway-lifestyle-provider.trycloudflare.com",
-    "issuedAt": "2026-10-25T07:58:45.516Z",
-    "expiresAt": "2026-10-26T07:58:45.516Z",
-    "nonce": "24f24910c5bd40b56121db625f10d544"
+    "wsUrl": "wss://lanes-following-trim-tournaments.trycloudflare.com",
+    "httpUrl": "https://lanes-following-trim-tournaments.trycloudflare.com",
+    "issuedAt": "2026-10-25T08:09:08.984Z",
+    "expiresAt": "2026-10-26T08:09:08.984Z",
+    "nonce": "8da75ec28d0401962b61ffd0b8e53e22"
   },
-  "signature": "scTpszEe+2nw6V457wDL4oTEQFADGDwy0gf7kGdHgRE474sg27aBeNjwdo/iBHhD+fz+tl6sO3EkbfVBmUMNvg==",
+  "signature": "aSvDcDoB9feG9yip7Eq5JBpvCmID40kpK0s/5++h8x6jpkFEHMrYnIxbV15uaBXmWCC0qWDy1vi0se3HTMJIcQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://worm-highways-gap-not.trycloudflare.com",
-  "httpUrl": "https://worm-highways-gap-not.trycloudflare.com",
-  "updatedAt": "2026-10-26T01:11:38.671Z",
-  "expiresAt": "2026-10-27T01:11:38.671Z",
-  "nonce": "dde52dc7ff4b34555703c49d94f4da57",
+  "wsUrl": "wss://whats-sample-discovered-areas.trycloudflare.com",
+  "httpUrl": "https://whats-sample-discovered-areas.trycloudflare.com",
+  "updatedAt": "2026-10-26T01:22:02.731Z",
+  "expiresAt": "2026-10-27T01:22:02.731Z",
+  "nonce": "499f762a8c08af53e407828359208f74",
   "payload": {
-    "wsUrl": "wss://worm-highways-gap-not.trycloudflare.com",
-    "httpUrl": "https://worm-highways-gap-not.trycloudflare.com",
-    "issuedAt": "2026-10-26T01:11:38.671Z",
-    "expiresAt": "2026-10-27T01:11:38.671Z",
-    "nonce": "dde52dc7ff4b34555703c49d94f4da57"
+    "wsUrl": "wss://whats-sample-discovered-areas.trycloudflare.com",
+    "httpUrl": "https://whats-sample-discovered-areas.trycloudflare.com",
+    "issuedAt": "2026-10-26T01:22:02.731Z",
+    "expiresAt": "2026-10-27T01:22:02.731Z",
+    "nonce": "499f762a8c08af53e407828359208f74"
   },
-  "signature": "8dC3Kzs3Ce7UzQsw2syqeglwqR8K1YS6HI9hH/z2mybW0yHK6vreErbLAU6lhJP6fyQXkGEVvM54Co3gdMtGUg==",
+  "signature": "kiExwAfg+j7IAV8xJlAr36FITpO/gYzvsnUNg5QqrBP7PPAX1phle4FeSzbo6RNRGJxvRbWOm10q5489LTue3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://recordings-representative-telecommunications-algebra.trycloudflare.com",
-  "httpUrl": "https://recordings-representative-telecommunications-algebra.trycloudflare.com",
-  "updatedAt": "2026-10-26T03:53:02.188Z",
-  "expiresAt": "2026-10-27T03:53:02.188Z",
-  "nonce": "59d802704b903935b4788f0bd4ca910b",
+  "wsUrl": "wss://printers-occupied-blink-offerings.trycloudflare.com",
+  "httpUrl": "https://printers-occupied-blink-offerings.trycloudflare.com",
+  "updatedAt": "2026-10-26T04:03:32.587Z",
+  "expiresAt": "2026-10-27T04:03:32.587Z",
+  "nonce": "9025c77845863d3a15bbc80008c0ff58",
   "payload": {
-    "wsUrl": "wss://recordings-representative-telecommunications-algebra.trycloudflare.com",
-    "httpUrl": "https://recordings-representative-telecommunications-algebra.trycloudflare.com",
-    "issuedAt": "2026-10-26T03:53:02.188Z",
-    "expiresAt": "2026-10-27T03:53:02.188Z",
-    "nonce": "59d802704b903935b4788f0bd4ca910b"
+    "wsUrl": "wss://printers-occupied-blink-offerings.trycloudflare.com",
+    "httpUrl": "https://printers-occupied-blink-offerings.trycloudflare.com",
+    "issuedAt": "2026-10-26T04:03:32.587Z",
+    "expiresAt": "2026-10-27T04:03:32.587Z",
+    "nonce": "9025c77845863d3a15bbc80008c0ff58"
   },
-  "signature": "k+yYjO7OGvsFRcWIaHvOkUiffcTGj8E9aM9wbgv7hnonepZRNeMoIJJzVRr0tyZ1n/6WbHe5HV/iIUK/a0X3yw==",
+  "signature": "n/R/JUxJvdSb7NmNSmSsiRlR87c+i72T/AY+Zssjkm79fboh5VzfuZMPNp8y/lAVpW/StUx3SuIEDbOndnRxwA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

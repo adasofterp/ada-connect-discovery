@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reuters-worlds-floors-distributor.trycloudflare.com",
-  "httpUrl": "https://reuters-worlds-floors-distributor.trycloudflare.com",
-  "updatedAt": "2026-10-26T23:44:21.636Z",
-  "expiresAt": "2026-10-27T23:44:21.636Z",
-  "nonce": "daf36d0eccfa70a6a8ad2d937c2d9ffc",
+  "wsUrl": "wss://mozilla-detect-whenever-varied.trycloudflare.com",
+  "httpUrl": "https://mozilla-detect-whenever-varied.trycloudflare.com",
+  "updatedAt": "2026-10-26T23:54:45.767Z",
+  "expiresAt": "2026-10-27T23:54:45.767Z",
+  "nonce": "e015878a22b45993bf608a0a675711cb",
   "payload": {
-    "wsUrl": "wss://reuters-worlds-floors-distributor.trycloudflare.com",
-    "httpUrl": "https://reuters-worlds-floors-distributor.trycloudflare.com",
-    "issuedAt": "2026-10-26T23:44:21.636Z",
-    "expiresAt": "2026-10-27T23:44:21.636Z",
-    "nonce": "daf36d0eccfa70a6a8ad2d937c2d9ffc"
+    "wsUrl": "wss://mozilla-detect-whenever-varied.trycloudflare.com",
+    "httpUrl": "https://mozilla-detect-whenever-varied.trycloudflare.com",
+    "issuedAt": "2026-10-26T23:54:45.767Z",
+    "expiresAt": "2026-10-27T23:54:45.767Z",
+    "nonce": "e015878a22b45993bf608a0a675711cb"
   },
-  "signature": "IAxAcYu+Oh8lRMvzMVpfC6e5qdK3EYvR/LVLhL0gAHSfSBxo86XSNyc1/7uBYnL5/X9PcrDjjceYaYng9UWvlw==",
+  "signature": "BAEFKF61I1jnNXcpuMfc7SBKsbi1uR/q3BKBH6+SvBDTKYMIo4yJGWox6jSe/cD1f7EH7iDgerwwPYZJxjH9mA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

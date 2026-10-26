@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://burton-guarantees-essex-mile.trycloudflare.com",
-  "httpUrl": "https://burton-guarantees-essex-mile.trycloudflare.com",
-  "updatedAt": "2026-10-26T01:32:23.529Z",
-  "expiresAt": "2026-10-27T01:32:23.529Z",
-  "nonce": "96151e9725909b0a246b3653fb709d37",
+  "wsUrl": "wss://connections-picks-guide-stand.trycloudflare.com",
+  "httpUrl": "https://connections-picks-guide-stand.trycloudflare.com",
+  "updatedAt": "2026-10-26T01:42:50.933Z",
+  "expiresAt": "2026-10-27T01:42:50.933Z",
+  "nonce": "8704f470f65b6a9e86c3a6cc97c15376",
   "payload": {
-    "wsUrl": "wss://burton-guarantees-essex-mile.trycloudflare.com",
-    "httpUrl": "https://burton-guarantees-essex-mile.trycloudflare.com",
-    "issuedAt": "2026-10-26T01:32:23.529Z",
-    "expiresAt": "2026-10-27T01:32:23.529Z",
-    "nonce": "96151e9725909b0a246b3653fb709d37"
+    "wsUrl": "wss://connections-picks-guide-stand.trycloudflare.com",
+    "httpUrl": "https://connections-picks-guide-stand.trycloudflare.com",
+    "issuedAt": "2026-10-26T01:42:50.933Z",
+    "expiresAt": "2026-10-27T01:42:50.933Z",
+    "nonce": "8704f470f65b6a9e86c3a6cc97c15376"
   },
-  "signature": "NmINPOCzvhcRvwepiGIV4RrqNCP2DRVDikRNVmA11eBYOEW9byGvwleBwPAGrVWboClXg6v2ZCX+2uIDjq7nbg==",
+  "signature": "KsbruKLHt3jqZxIIbSSEzPfFfr4WWiDcp2u2kayH2R+kkcAATfOsOaM0iD2yLEt4qzJiiqHfAELra0p13p1hPA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

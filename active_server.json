@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://humor-antibodies-changelog-light.trycloudflare.com",
-  "httpUrl": "https://humor-antibodies-changelog-light.trycloudflare.com",
-  "updatedAt": "2026-10-26T23:13:04.686Z",
-  "expiresAt": "2026-10-27T23:13:04.686Z",
-  "nonce": "6c958774a455c42da3647e67acba9faf",
+  "wsUrl": "wss://politics-bring-brothers-technologies.trycloudflare.com",
+  "httpUrl": "https://politics-bring-brothers-technologies.trycloudflare.com",
+  "updatedAt": "2026-10-26T23:23:32.756Z",
+  "expiresAt": "2026-10-27T23:23:32.756Z",
+  "nonce": "887f1ecf9d35fbf0e2724965d44869fd",
   "payload": {
-    "wsUrl": "wss://humor-antibodies-changelog-light.trycloudflare.com",
-    "httpUrl": "https://humor-antibodies-changelog-light.trycloudflare.com",
-    "issuedAt": "2026-10-26T23:13:04.686Z",
-    "expiresAt": "2026-10-27T23:13:04.686Z",
-    "nonce": "6c958774a455c42da3647e67acba9faf"
+    "wsUrl": "wss://politics-bring-brothers-technologies.trycloudflare.com",
+    "httpUrl": "https://politics-bring-brothers-technologies.trycloudflare.com",
+    "issuedAt": "2026-10-26T23:23:32.756Z",
+    "expiresAt": "2026-10-27T23:23:32.756Z",
+    "nonce": "887f1ecf9d35fbf0e2724965d44869fd"
   },
-  "signature": "66z5e91a6fzKYV+rqgxbpiNpAkZnQxjzizdkjiWUYwDtO6ZYEOA/I/LeAtVwkBpXLDUPzI2oU7/Jr1EId3KHUQ==",
+  "signature": "nwfIaHVp4XAbqCnrLilDFmsBkFbffIwcYbgZBZan7hksbUnxnY9ePBVUpDhejTDgVOG0T9knjA2nwUMf8iYFUw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

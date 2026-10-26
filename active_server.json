@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lighting-cindy-poor-lecture.trycloudflare.com",
-  "httpUrl": "https://lighting-cindy-poor-lecture.trycloudflare.com",
-  "updatedAt": "2026-10-26T03:00:52.041Z",
-  "expiresAt": "2026-10-27T03:00:52.041Z",
-  "nonce": "755c2d0437552712db0415ec897cd05d",
+  "wsUrl": "wss://reviewed-judy-morgan-agree.trycloudflare.com",
+  "httpUrl": "https://reviewed-judy-morgan-agree.trycloudflare.com",
+  "updatedAt": "2026-10-26T03:11:18.674Z",
+  "expiresAt": "2026-10-27T03:11:18.674Z",
+  "nonce": "2fe7be94bf3a6672df05d81c980cadd4",
   "payload": {
-    "wsUrl": "wss://lighting-cindy-poor-lecture.trycloudflare.com",
-    "httpUrl": "https://lighting-cindy-poor-lecture.trycloudflare.com",
-    "issuedAt": "2026-10-26T03:00:52.041Z",
-    "expiresAt": "2026-10-27T03:00:52.041Z",
-    "nonce": "755c2d0437552712db0415ec897cd05d"
+    "wsUrl": "wss://reviewed-judy-morgan-agree.trycloudflare.com",
+    "httpUrl": "https://reviewed-judy-morgan-agree.trycloudflare.com",
+    "issuedAt": "2026-10-26T03:11:18.674Z",
+    "expiresAt": "2026-10-27T03:11:18.674Z",
+    "nonce": "2fe7be94bf3a6672df05d81c980cadd4"
   },
-  "signature": "W3/0pLoyYOYTtnIjAASIXThkeeZbLq6mRjbim2AWMCD6ufkFWmX+XI4xbNmQRWDCl5tLgvPWbJHGPU03ESJ2+A==",
+  "signature": "gyQkgsUYhPqZ0mMZnTJ8ujTV4WGuTNuqhg7f6Bwcs/wiAKkq65d+nlq7JjnhRXOJLYpTuzINovupg3+FNZokWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

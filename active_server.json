@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://conservative-nick-exercise-armor.trycloudflare.com",
-  "httpUrl": "https://conservative-nick-exercise-armor.trycloudflare.com",
-  "updatedAt": "2026-10-26T15:42:41.332Z",
-  "expiresAt": "2026-10-27T15:42:41.332Z",
-  "nonce": "667d9b3680f84f84ec56924967980d53",
+  "wsUrl": "wss://edges-occur-mug-hung.trycloudflare.com",
+  "httpUrl": "https://edges-occur-mug-hung.trycloudflare.com",
+  "updatedAt": "2026-10-26T16:46:46.121Z",
+  "expiresAt": "2026-10-27T16:46:46.121Z",
+  "nonce": "a5725087f5c47c86c228405117667396",
   "payload": {
-    "wsUrl": "wss://conservative-nick-exercise-armor.trycloudflare.com",
-    "httpUrl": "https://conservative-nick-exercise-armor.trycloudflare.com",
-    "issuedAt": "2026-10-26T15:42:41.332Z",
-    "expiresAt": "2026-10-27T15:42:41.332Z",
-    "nonce": "667d9b3680f84f84ec56924967980d53"
+    "wsUrl": "wss://edges-occur-mug-hung.trycloudflare.com",
+    "httpUrl": "https://edges-occur-mug-hung.trycloudflare.com",
+    "issuedAt": "2026-10-26T16:46:46.121Z",
+    "expiresAt": "2026-10-27T16:46:46.121Z",
+    "nonce": "a5725087f5c47c86c228405117667396"
   },
-  "signature": "yJQCmlF7Z672/ZN7ThO8vFpXeqdZgnou717uy1rvtc6eoNd3kGS04sR6BoyK/PeE7uQM3USnpghA/fzFfZNRDg==",
+  "signature": "Jh2zSUBxhCRWoCTjglxYdCfAvUxXquQCvVOV8vsAwTYuj1DO3D9bkoTnQj7GGwUyzWkL1LTZEM5SFejP2IYHsw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

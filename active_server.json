@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://extraordinary-belkin-notre-gregory.trycloudflare.com",
-  "httpUrl": "https://extraordinary-belkin-notre-gregory.trycloudflare.com",
-  "updatedAt": "2026-10-26T03:32:09.858Z",
-  "expiresAt": "2026-10-27T03:32:09.858Z",
-  "nonce": "c902c331423d57be8fc3bd369f93d591",
+  "wsUrl": "wss://pasta-fleece-dietary-header.trycloudflare.com",
+  "httpUrl": "https://pasta-fleece-dietary-header.trycloudflare.com",
+  "updatedAt": "2026-10-26T03:42:34.294Z",
+  "expiresAt": "2026-10-27T03:42:34.294Z",
+  "nonce": "0369cfc01d517015cb5b47f6c5bd3b8b",
   "payload": {
-    "wsUrl": "wss://extraordinary-belkin-notre-gregory.trycloudflare.com",
-    "httpUrl": "https://extraordinary-belkin-notre-gregory.trycloudflare.com",
-    "issuedAt": "2026-10-26T03:32:09.858Z",
-    "expiresAt": "2026-10-27T03:32:09.858Z",
-    "nonce": "c902c331423d57be8fc3bd369f93d591"
+    "wsUrl": "wss://pasta-fleece-dietary-header.trycloudflare.com",
+    "httpUrl": "https://pasta-fleece-dietary-header.trycloudflare.com",
+    "issuedAt": "2026-10-26T03:42:34.294Z",
+    "expiresAt": "2026-10-27T03:42:34.294Z",
+    "nonce": "0369cfc01d517015cb5b47f6c5bd3b8b"
   },
-  "signature": "P11LOg0NGBGQpqbTyTZCiwcvFMsr/7zp83ObxQkr2tG74kwVVrWUqoEGj7Dm6AYYV6Upp//81TZMsTM9MYgVGw==",
+  "signature": "psC8nYWZsL6CbjWvG8tOq/0Bc62X+/1nEDPTCFZ3CREnhGIBKO9gYV5RvwXvJIWvnPm6Ov+YVeCJKoz5YF9K5A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://attempting-marble-clearly-owen.trycloudflare.com",
-  "httpUrl": "https://attempting-marble-clearly-owen.trycloudflare.com",
-  "updatedAt": "2026-10-26T00:09:11.862Z",
-  "expiresAt": "2026-10-27T00:09:11.862Z",
-  "nonce": "0b04e71dd94c6a84dd2888dff8971aeb",
+  "wsUrl": "wss://currencies-memphis-legitimate-chevy.trycloudflare.com",
+  "httpUrl": "https://currencies-memphis-legitimate-chevy.trycloudflare.com",
+  "updatedAt": "2026-10-26T00:30:00.691Z",
+  "expiresAt": "2026-10-27T00:30:00.691Z",
+  "nonce": "52c8358fc1a6b489b372cc3488332e65",
   "payload": {
-    "wsUrl": "wss://attempting-marble-clearly-owen.trycloudflare.com",
-    "httpUrl": "https://attempting-marble-clearly-owen.trycloudflare.com",
-    "issuedAt": "2026-10-26T00:09:11.862Z",
-    "expiresAt": "2026-10-27T00:09:11.862Z",
-    "nonce": "0b04e71dd94c6a84dd2888dff8971aeb"
+    "wsUrl": "wss://currencies-memphis-legitimate-chevy.trycloudflare.com",
+    "httpUrl": "https://currencies-memphis-legitimate-chevy.trycloudflare.com",
+    "issuedAt": "2026-10-26T00:30:00.691Z",
+    "expiresAt": "2026-10-27T00:30:00.691Z",
+    "nonce": "52c8358fc1a6b489b372cc3488332e65"
   },
-  "signature": "aIAKbDntf2jmBhmJPX8OQSWEmvB+HFWbIxGcIQWYSOnHiIxjI+EnRGg1CuM+K7EZnFkEkRISL5803qe5ax9+bQ==",
+  "signature": "3K3w++gvjsc49glZjKRQ54Br/KzVgxbvLwXs4hpWlmTgIT+conAyGKLPGhcQV7xSxyEh2thCzWaq5b4dWytfrw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

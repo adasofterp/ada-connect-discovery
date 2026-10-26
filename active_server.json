@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://tube-baseball-cope-extraction.trycloudflare.com",
-  "httpUrl": "https://tube-baseball-cope-extraction.trycloudflare.com",
-  "updatedAt": "2026-10-26T06:20:38.479Z",
-  "expiresAt": "2026-10-27T06:20:38.479Z",
-  "nonce": "f82681e5f04606af35feaaa8c59a93c8",
+  "wsUrl": "wss://maternity-white-state-others.trycloudflare.com",
+  "httpUrl": "https://maternity-white-state-others.trycloudflare.com",
+  "updatedAt": "2026-10-26T12:46:20.643Z",
+  "expiresAt": "2026-10-27T12:46:20.643Z",
+  "nonce": "b15aca40245cd51c2bfcc617425c7140",
   "payload": {
-    "wsUrl": "wss://tube-baseball-cope-extraction.trycloudflare.com",
-    "httpUrl": "https://tube-baseball-cope-extraction.trycloudflare.com",
-    "issuedAt": "2026-10-26T06:20:38.479Z",
-    "expiresAt": "2026-10-27T06:20:38.479Z",
-    "nonce": "f82681e5f04606af35feaaa8c59a93c8"
+    "wsUrl": "wss://maternity-white-state-others.trycloudflare.com",
+    "httpUrl": "https://maternity-white-state-others.trycloudflare.com",
+    "issuedAt": "2026-10-26T12:46:20.643Z",
+    "expiresAt": "2026-10-27T12:46:20.643Z",
+    "nonce": "b15aca40245cd51c2bfcc617425c7140"
   },
-  "signature": "YH56P+0Q95O+X4YpgkRAxXm3UqFaSnsTZ1Iz1ZdQACXCFhc20YCFRW3Xp3htgffS6siRIfVonW55Kf/VujE4/Q==",
+  "signature": "17e9plJELb11FNVquQDDviWJumuPtShRXO8gHXGc+jPOreD9abC9YR0w0GiTb8KMNFZWmmHkvkdVnc0wCW/6Gg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reviewed-judy-morgan-agree.trycloudflare.com",
-  "httpUrl": "https://reviewed-judy-morgan-agree.trycloudflare.com",
-  "updatedAt": "2026-10-26T03:11:18.674Z",
-  "expiresAt": "2026-10-27T03:11:18.674Z",
-  "nonce": "2fe7be94bf3a6672df05d81c980cadd4",
+  "wsUrl": "wss://extraordinary-belkin-notre-gregory.trycloudflare.com",
+  "httpUrl": "https://extraordinary-belkin-notre-gregory.trycloudflare.com",
+  "updatedAt": "2026-10-26T03:32:09.858Z",
+  "expiresAt": "2026-10-27T03:32:09.858Z",
+  "nonce": "c902c331423d57be8fc3bd369f93d591",
   "payload": {
-    "wsUrl": "wss://reviewed-judy-morgan-agree.trycloudflare.com",
-    "httpUrl": "https://reviewed-judy-morgan-agree.trycloudflare.com",
-    "issuedAt": "2026-10-26T03:11:18.674Z",
-    "expiresAt": "2026-10-27T03:11:18.674Z",
-    "nonce": "2fe7be94bf3a6672df05d81c980cadd4"
+    "wsUrl": "wss://extraordinary-belkin-notre-gregory.trycloudflare.com",
+    "httpUrl": "https://extraordinary-belkin-notre-gregory.trycloudflare.com",
+    "issuedAt": "2026-10-26T03:32:09.858Z",
+    "expiresAt": "2026-10-27T03:32:09.858Z",
+    "nonce": "c902c331423d57be8fc3bd369f93d591"
   },
-  "signature": "gyQkgsUYhPqZ0mMZnTJ8ujTV4WGuTNuqhg7f6Bwcs/wiAKkq65d+nlq7JjnhRXOJLYpTuzINovupg3+FNZokWw==",
+  "signature": "P11LOg0NGBGQpqbTyTZCiwcvFMsr/7zp83ObxQkr2tG74kwVVrWUqoEGj7Dm6AYYV6Upp//81TZMsTM9MYgVGw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

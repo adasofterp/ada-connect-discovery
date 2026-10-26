@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://maternity-white-state-others.trycloudflare.com",
-  "httpUrl": "https://maternity-white-state-others.trycloudflare.com",
-  "updatedAt": "2026-10-26T12:46:20.643Z",
-  "expiresAt": "2026-10-27T12:46:20.643Z",
-  "nonce": "b15aca40245cd51c2bfcc617425c7140",
+  "wsUrl": "wss://shorts-los-radius-shopzilla.trycloudflare.com",
+  "httpUrl": "https://shorts-los-radius-shopzilla.trycloudflare.com",
+  "updatedAt": "2026-10-26T13:00:39.590Z",
+  "expiresAt": "2026-10-27T13:00:39.590Z",
+  "nonce": "cd528e8c382063b1a4c1178ad27b03ce",
   "payload": {
-    "wsUrl": "wss://maternity-white-state-others.trycloudflare.com",
-    "httpUrl": "https://maternity-white-state-others.trycloudflare.com",
-    "issuedAt": "2026-10-26T12:46:20.643Z",
-    "expiresAt": "2026-10-27T12:46:20.643Z",
-    "nonce": "b15aca40245cd51c2bfcc617425c7140"
+    "wsUrl": "wss://shorts-los-radius-shopzilla.trycloudflare.com",
+    "httpUrl": "https://shorts-los-radius-shopzilla.trycloudflare.com",
+    "issuedAt": "2026-10-26T13:00:39.590Z",
+    "expiresAt": "2026-10-27T13:00:39.590Z",
+    "nonce": "cd528e8c382063b1a4c1178ad27b03ce"
   },
-  "signature": "17e9plJELb11FNVquQDDviWJumuPtShRXO8gHXGc+jPOreD9abC9YR0w0GiTb8KMNFZWmmHkvkdVnc0wCW/6Gg==",
+  "signature": "Jx7kxN2PlJH+cPY4VAti8R1cA3KfZmfk97P8GcZgMYUs+wAWuIRTmRo48sZnXKKv2FFbsbWtzdmupaKKxIOq9Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

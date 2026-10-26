@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://robinson-your-thank-abc.trycloudflare.com",
-  "httpUrl": "https://robinson-your-thank-abc.trycloudflare.com",
-  "updatedAt": "2026-10-26T05:44:52.129Z",
-  "expiresAt": "2026-10-27T05:44:52.129Z",
-  "nonce": "d5dfcda5c2f1a69519b339ac79d78330",
+  "wsUrl": "wss://webcams-ceramic-she-playstation.trycloudflare.com",
+  "httpUrl": "https://webcams-ceramic-she-playstation.trycloudflare.com",
+  "updatedAt": "2026-10-26T06:01:37.855Z",
+  "expiresAt": "2026-10-27T06:01:37.855Z",
+  "nonce": "13556f4c821fb18c1c34dae794610375",
   "payload": {
-    "wsUrl": "wss://robinson-your-thank-abc.trycloudflare.com",
-    "httpUrl": "https://robinson-your-thank-abc.trycloudflare.com",
-    "issuedAt": "2026-10-26T05:44:52.129Z",
-    "expiresAt": "2026-10-27T05:44:52.129Z",
-    "nonce": "d5dfcda5c2f1a69519b339ac79d78330"
+    "wsUrl": "wss://webcams-ceramic-she-playstation.trycloudflare.com",
+    "httpUrl": "https://webcams-ceramic-she-playstation.trycloudflare.com",
+    "issuedAt": "2026-10-26T06:01:37.855Z",
+    "expiresAt": "2026-10-27T06:01:37.855Z",
+    "nonce": "13556f4c821fb18c1c34dae794610375"
   },
-  "signature": "8x7LxyvVtC2Tz3T0fzClpLjA+jvxWJ6aOUIyFMRctg+4M/DMTzbHip6alIalktXz8CVtaBFjgABlXxdzlHSc2A==",
+  "signature": "f9KVbeUEO0VYDup7Ki1M6BPDBxa9Kl1ff/sFoQZ8+stcAlCq2TF5xtqdcXzOntEe8ZhEk1fasUF7KEW4Dv48Lg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

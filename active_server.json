@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://republican-laughing-provider-campbell.trycloudflare.com",
-  "httpUrl": "https://republican-laughing-provider-campbell.trycloudflare.com",
-  "updatedAt": "2026-10-26T21:32:35.663Z",
-  "expiresAt": "2026-10-27T21:32:35.663Z",
-  "nonce": "9e25957dde76a8a6644d0e3165cdf62c",
+  "wsUrl": "wss://tunnel-verde-markets-bike.trycloudflare.com",
+  "httpUrl": "https://tunnel-verde-markets-bike.trycloudflare.com",
+  "updatedAt": "2026-10-26T22:03:54.405Z",
+  "expiresAt": "2026-10-27T22:03:54.405Z",
+  "nonce": "dbe24aa32392f105ec79d73d88b31e8b",
   "payload": {
-    "wsUrl": "wss://republican-laughing-provider-campbell.trycloudflare.com",
-    "httpUrl": "https://republican-laughing-provider-campbell.trycloudflare.com",
-    "issuedAt": "2026-10-26T21:32:35.663Z",
-    "expiresAt": "2026-10-27T21:32:35.663Z",
-    "nonce": "9e25957dde76a8a6644d0e3165cdf62c"
+    "wsUrl": "wss://tunnel-verde-markets-bike.trycloudflare.com",
+    "httpUrl": "https://tunnel-verde-markets-bike.trycloudflare.com",
+    "issuedAt": "2026-10-26T22:03:54.405Z",
+    "expiresAt": "2026-10-27T22:03:54.405Z",
+    "nonce": "dbe24aa32392f105ec79d73d88b31e8b"
   },
-  "signature": "epfnRt3rPp23EwRBxAEYrKYyT0TZDLVvXVTY+JA8DxRiGM0eNtPnyMm1poXLLpzjl3cCxrlOl9ozgLhoOLFEig==",
+  "signature": "SXqxa1b6Jt2/vudzrAHiZ4HD1C/DEFE2JCF457egX/GuWBuPgU6opczAkFYB5NFuxHSX+BaLwINN4Lq5TCYnlg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

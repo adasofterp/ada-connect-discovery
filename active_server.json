@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://randy-cfr-dressing-registry.trycloudflare.com",
-  "httpUrl": "https://randy-cfr-dressing-registry.trycloudflare.com",
-  "updatedAt": "2026-10-26T13:17:02.299Z",
-  "expiresAt": "2026-10-27T13:17:02.299Z",
-  "nonce": "0b407925beff5cf1426598bc8f883f0e",
+  "wsUrl": "wss://associate-persons-father-involvement.trycloudflare.com",
+  "httpUrl": "https://associate-persons-father-involvement.trycloudflare.com",
+  "updatedAt": "2026-10-26T13:53:37.603Z",
+  "expiresAt": "2026-10-27T13:53:37.603Z",
+  "nonce": "de15956b54c7eb3032741bb8f8e195d2",
   "payload": {
-    "wsUrl": "wss://randy-cfr-dressing-registry.trycloudflare.com",
-    "httpUrl": "https://randy-cfr-dressing-registry.trycloudflare.com",
-    "issuedAt": "2026-10-26T13:17:02.299Z",
-    "expiresAt": "2026-10-27T13:17:02.299Z",
-    "nonce": "0b407925beff5cf1426598bc8f883f0e"
+    "wsUrl": "wss://associate-persons-father-involvement.trycloudflare.com",
+    "httpUrl": "https://associate-persons-father-involvement.trycloudflare.com",
+    "issuedAt": "2026-10-26T13:53:37.603Z",
+    "expiresAt": "2026-10-27T13:53:37.603Z",
+    "nonce": "de15956b54c7eb3032741bb8f8e195d2"
   },
-  "signature": "CBeczIdpAluOmrCb1z3m1W51Q8yNZmBkCCAY7CI/bok45GE8baWGpBzGJG847+CsfYGUaPH2gTPWcA1S+JptGw==",
+  "signature": "qoeAk0zDsocW+LmAxrgLOVJb/CRTUOHMkV3oNaz5RaWWLnL06bCuBnFgVbFZixsTAsxS3sZff0lmJT1GT9HLjA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

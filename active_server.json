@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reader-sensors-owned-plain.trycloudflare.com",
-  "httpUrl": "https://reader-sensors-owned-plain.trycloudflare.com",
-  "updatedAt": "2026-10-26T18:43:43.845Z",
-  "expiresAt": "2026-10-27T18:43:43.845Z",
-  "nonce": "cdda74474b8feb64ae962fd502910405",
+  "wsUrl": "wss://republican-laughing-provider-campbell.trycloudflare.com",
+  "httpUrl": "https://republican-laughing-provider-campbell.trycloudflare.com",
+  "updatedAt": "2026-10-26T21:32:35.663Z",
+  "expiresAt": "2026-10-27T21:32:35.663Z",
+  "nonce": "9e25957dde76a8a6644d0e3165cdf62c",
   "payload": {
-    "wsUrl": "wss://reader-sensors-owned-plain.trycloudflare.com",
-    "httpUrl": "https://reader-sensors-owned-plain.trycloudflare.com",
-    "issuedAt": "2026-10-26T18:43:43.845Z",
-    "expiresAt": "2026-10-27T18:43:43.845Z",
-    "nonce": "cdda74474b8feb64ae962fd502910405"
+    "wsUrl": "wss://republican-laughing-provider-campbell.trycloudflare.com",
+    "httpUrl": "https://republican-laughing-provider-campbell.trycloudflare.com",
+    "issuedAt": "2026-10-26T21:32:35.663Z",
+    "expiresAt": "2026-10-27T21:32:35.663Z",
+    "nonce": "9e25957dde76a8a6644d0e3165cdf62c"
   },
-  "signature": "zi/zjpNmKC8KhlYQ3h1KAkXtu8gg3lOTLYbwgVOMoaK6BOC6pg5DdkI/LgbaSLNC79AJ3Crq8YIS7hlNWg659g==",
+  "signature": "epfnRt3rPp23EwRBxAEYrKYyT0TZDLVvXVTY+JA8DxRiGM0eNtPnyMm1poXLLpzjl3cCxrlOl9ozgLhoOLFEig==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

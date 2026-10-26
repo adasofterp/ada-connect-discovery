@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://conservation-vocals-third-banners.trycloudflare.com",
-  "httpUrl": "https://conservation-vocals-third-banners.trycloudflare.com",
-  "updatedAt": "2026-10-26T02:14:03.916Z",
-  "expiresAt": "2026-10-27T02:14:03.916Z",
-  "nonce": "da66d6a4a2ff0158349c14e3a17da472",
+  "wsUrl": "wss://calendar-cache-ashley-little.trycloudflare.com",
+  "httpUrl": "https://calendar-cache-ashley-little.trycloudflare.com",
+  "updatedAt": "2026-10-26T02:24:28.407Z",
+  "expiresAt": "2026-10-27T02:24:28.407Z",
+  "nonce": "db76494e9c4e93b9bddb9dfcbb9a47fb",
   "payload": {
-    "wsUrl": "wss://conservation-vocals-third-banners.trycloudflare.com",
-    "httpUrl": "https://conservation-vocals-third-banners.trycloudflare.com",
-    "issuedAt": "2026-10-26T02:14:03.916Z",
-    "expiresAt": "2026-10-27T02:14:03.916Z",
-    "nonce": "da66d6a4a2ff0158349c14e3a17da472"
+    "wsUrl": "wss://calendar-cache-ashley-little.trycloudflare.com",
+    "httpUrl": "https://calendar-cache-ashley-little.trycloudflare.com",
+    "issuedAt": "2026-10-26T02:24:28.407Z",
+    "expiresAt": "2026-10-27T02:24:28.407Z",
+    "nonce": "db76494e9c4e93b9bddb9dfcbb9a47fb"
   },
-  "signature": "Wj2DI/PuAYlm3ks4iT5kncIM9uVI2d66HAeCBFzSRxvE25uDXOG6xtTo3iV7/T/BHVb507PtbCJadZWwVrMr7w==",
+  "signature": "z+pj+C68b4a/9m1l3WAmaL0Qskc3wjSQhvViL5mh3hYpwmZ19bP/I0iFKqL5NEo7sCmrI30eoaYpS4X5vYP7zg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

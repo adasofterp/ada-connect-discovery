@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://brussels-stuff-champagne-blocks.trycloudflare.com",
-  "httpUrl": "https://brussels-stuff-champagne-blocks.trycloudflare.com",
-  "updatedAt": "2026-10-26T23:33:55.721Z",
-  "expiresAt": "2026-10-27T23:33:55.721Z",
-  "nonce": "d66b172b03e7b1ffd7409d15ff5a8ad6",
+  "wsUrl": "wss://reuters-worlds-floors-distributor.trycloudflare.com",
+  "httpUrl": "https://reuters-worlds-floors-distributor.trycloudflare.com",
+  "updatedAt": "2026-10-26T23:44:21.636Z",
+  "expiresAt": "2026-10-27T23:44:21.636Z",
+  "nonce": "daf36d0eccfa70a6a8ad2d937c2d9ffc",
   "payload": {
-    "wsUrl": "wss://brussels-stuff-champagne-blocks.trycloudflare.com",
-    "httpUrl": "https://brussels-stuff-champagne-blocks.trycloudflare.com",
-    "issuedAt": "2026-10-26T23:33:55.721Z",
-    "expiresAt": "2026-10-27T23:33:55.721Z",
-    "nonce": "d66b172b03e7b1ffd7409d15ff5a8ad6"
+    "wsUrl": "wss://reuters-worlds-floors-distributor.trycloudflare.com",
+    "httpUrl": "https://reuters-worlds-floors-distributor.trycloudflare.com",
+    "issuedAt": "2026-10-26T23:44:21.636Z",
+    "expiresAt": "2026-10-27T23:44:21.636Z",
+    "nonce": "daf36d0eccfa70a6a8ad2d937c2d9ffc"
   },
-  "signature": "xrfen1i+SjrngTcHytOih8l3NaAxHfY+TFmv13ZW2LGk66oWgAY5xm4TnPzRlP8CwWnfnPmCN7BYZY/fgWeNwA==",
+  "signature": "IAxAcYu+Oh8lRMvzMVpfC6e5qdK3EYvR/LVLhL0gAHSfSBxo86XSNyc1/7uBYnL5/X9PcrDjjceYaYng9UWvlw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

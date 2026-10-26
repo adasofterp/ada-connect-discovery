@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://educators-month-compact-ink.trycloudflare.com",
-  "httpUrl": "https://educators-month-compact-ink.trycloudflare.com",
-  "updatedAt": "2026-10-26T22:54:01.895Z",
-  "expiresAt": "2026-10-27T22:54:01.895Z",
-  "nonce": "b4aac33af3414b4fe7871110de2b633c",
+  "wsUrl": "wss://vip-southwest-explained-dom.trycloudflare.com",
+  "httpUrl": "https://vip-southwest-explained-dom.trycloudflare.com",
+  "updatedAt": "2026-10-26T23:04:32.545Z",
+  "expiresAt": "2026-10-27T23:04:32.545Z",
+  "nonce": "e68a43fbfce4ec1397bf985607cdb2b0",
   "payload": {
-    "wsUrl": "wss://educators-month-compact-ink.trycloudflare.com",
-    "httpUrl": "https://educators-month-compact-ink.trycloudflare.com",
-    "issuedAt": "2026-10-26T22:54:01.895Z",
-    "expiresAt": "2026-10-27T22:54:01.895Z",
-    "nonce": "b4aac33af3414b4fe7871110de2b633c"
+    "wsUrl": "wss://vip-southwest-explained-dom.trycloudflare.com",
+    "httpUrl": "https://vip-southwest-explained-dom.trycloudflare.com",
+    "issuedAt": "2026-10-26T23:04:32.545Z",
+    "expiresAt": "2026-10-27T23:04:32.545Z",
+    "nonce": "e68a43fbfce4ec1397bf985607cdb2b0"
   },
-  "signature": "87NCjyeD73Elc27xaKy8o9oGQzqHnG2pj6L8urA1GZw3esdtliDjcrLRhtHYh6Js7eeCzWMti8+4f/5E11P9Gg==",
+  "signature": "Ps+vnz+hy0TqsdtGcboIFSMq3v3DdN3M+WsHlcThAfTgCg08G1bQRqlbVbDyFNhj6PwoXD47NpTwgdMDmycswQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

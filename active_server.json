@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://calendar-cache-ashley-little.trycloudflare.com",
-  "httpUrl": "https://calendar-cache-ashley-little.trycloudflare.com",
-  "updatedAt": "2026-10-26T02:24:28.407Z",
-  "expiresAt": "2026-10-27T02:24:28.407Z",
-  "nonce": "db76494e9c4e93b9bddb9dfcbb9a47fb",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-26T02:45:13.927Z",
+  "expiresAt": "2026-10-27T02:45:13.927Z",
+  "nonce": "5117bf85a7c5c90903116fa0d5516149",
   "payload": {
-    "wsUrl": "wss://calendar-cache-ashley-little.trycloudflare.com",
-    "httpUrl": "https://calendar-cache-ashley-little.trycloudflare.com",
-    "issuedAt": "2026-10-26T02:24:28.407Z",
-    "expiresAt": "2026-10-27T02:24:28.407Z",
-    "nonce": "db76494e9c4e93b9bddb9dfcbb9a47fb"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-26T02:45:13.927Z",
+    "expiresAt": "2026-10-27T02:45:13.927Z",
+    "nonce": "5117bf85a7c5c90903116fa0d5516149"
   },
-  "signature": "z+pj+C68b4a/9m1l3WAmaL0Qskc3wjSQhvViL5mh3hYpwmZ19bP/I0iFKqL5NEo7sCmrI30eoaYpS4X5vYP7zg==",
+  "signature": "xQmcKuz+PKbiv7m8ty8W6czlONpqm/KUoQfFwzGwvtYJFv90HBWOd78RuiGJDEVZqpulap4BlpAj3m2o8tDZfw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

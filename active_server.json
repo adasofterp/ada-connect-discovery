@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nice-pre-differ-definitely.trycloudflare.com",
-  "httpUrl": "https://nice-pre-differ-definitely.trycloudflare.com",
-  "updatedAt": "2026-10-26T04:34:48.223Z",
-  "expiresAt": "2026-10-27T04:34:48.223Z",
-  "nonce": "63465cd203a1b2fa61bfbbdf61f0c7be",
+  "wsUrl": "wss://replace-vault-shipments-votes.trycloudflare.com",
+  "httpUrl": "https://replace-vault-shipments-votes.trycloudflare.com",
+  "updatedAt": "2026-10-26T04:55:46.996Z",
+  "expiresAt": "2026-10-27T04:55:46.996Z",
+  "nonce": "f6cdbfb3cb5ffb7a94d8d23632337a97",
   "payload": {
-    "wsUrl": "wss://nice-pre-differ-definitely.trycloudflare.com",
-    "httpUrl": "https://nice-pre-differ-definitely.trycloudflare.com",
-    "issuedAt": "2026-10-26T04:34:48.223Z",
-    "expiresAt": "2026-10-27T04:34:48.223Z",
-    "nonce": "63465cd203a1b2fa61bfbbdf61f0c7be"
+    "wsUrl": "wss://replace-vault-shipments-votes.trycloudflare.com",
+    "httpUrl": "https://replace-vault-shipments-votes.trycloudflare.com",
+    "issuedAt": "2026-10-26T04:55:46.996Z",
+    "expiresAt": "2026-10-27T04:55:46.996Z",
+    "nonce": "f6cdbfb3cb5ffb7a94d8d23632337a97"
   },
-  "signature": "439rdv6hdLHKEaTZkByQfXca7GUkKHJLjFK7waYDpJ0KN1JxxRz92mSftkJlPQoFB8fBuMYiJcUjCHZdkVSE3w==",
+  "signature": "AVCJ7xau2OlC8OOOyBlnTH0CH2fyjOMK0d475J7L8YMpuwPnUTvFhUbotoy0r4jMSk3Dtqtu2tM8YFHhaSGxhQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

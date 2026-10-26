@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://generating-entering-club-sequence.trycloudflare.com",
-  "httpUrl": "https://generating-entering-club-sequence.trycloudflare.com",
-  "updatedAt": "2026-10-26T00:50:49.576Z",
-  "expiresAt": "2026-10-27T00:50:49.576Z",
-  "nonce": "505fa507b23670cf5dfae0ba48cf3817",
+  "wsUrl": "wss://columbus-enrolled-produces-restaurants.trycloudflare.com",
+  "httpUrl": "https://columbus-enrolled-produces-restaurants.trycloudflare.com",
+  "updatedAt": "2026-10-26T01:01:12.643Z",
+  "expiresAt": "2026-10-27T01:01:12.643Z",
+  "nonce": "a1e36e6c3faaa9272390b323ce8b81a7",
   "payload": {
-    "wsUrl": "wss://generating-entering-club-sequence.trycloudflare.com",
-    "httpUrl": "https://generating-entering-club-sequence.trycloudflare.com",
-    "issuedAt": "2026-10-26T00:50:49.576Z",
-    "expiresAt": "2026-10-27T00:50:49.576Z",
-    "nonce": "505fa507b23670cf5dfae0ba48cf3817"
+    "wsUrl": "wss://columbus-enrolled-produces-restaurants.trycloudflare.com",
+    "httpUrl": "https://columbus-enrolled-produces-restaurants.trycloudflare.com",
+    "issuedAt": "2026-10-26T01:01:12.643Z",
+    "expiresAt": "2026-10-27T01:01:12.643Z",
+    "nonce": "a1e36e6c3faaa9272390b323ce8b81a7"
   },
-  "signature": "yvKdtGMtdzE2l7S6ojtpvle/uxFqoq78VkbEEAP03lO0Y55eXd2dA1QHApRpmp0SyKoZFEC8JGob57J7PuMAlQ==",
+  "signature": "OEvZRhq1Wg7DDsH6ub+eIb36FtQ+VrG4slqBA53c3pgXq3zIRdgu/BWyvN4Eu+Hyt/tbkSQp9L66sZ+M5WIm9w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pasta-fleece-dietary-header.trycloudflare.com",
-  "httpUrl": "https://pasta-fleece-dietary-header.trycloudflare.com",
-  "updatedAt": "2026-10-26T03:42:34.294Z",
-  "expiresAt": "2026-10-27T03:42:34.294Z",
-  "nonce": "0369cfc01d517015cb5b47f6c5bd3b8b",
+  "wsUrl": "wss://recordings-representative-telecommunications-algebra.trycloudflare.com",
+  "httpUrl": "https://recordings-representative-telecommunications-algebra.trycloudflare.com",
+  "updatedAt": "2026-10-26T03:53:02.188Z",
+  "expiresAt": "2026-10-27T03:53:02.188Z",
+  "nonce": "59d802704b903935b4788f0bd4ca910b",
   "payload": {
-    "wsUrl": "wss://pasta-fleece-dietary-header.trycloudflare.com",
-    "httpUrl": "https://pasta-fleece-dietary-header.trycloudflare.com",
-    "issuedAt": "2026-10-26T03:42:34.294Z",
-    "expiresAt": "2026-10-27T03:42:34.294Z",
-    "nonce": "0369cfc01d517015cb5b47f6c5bd3b8b"
+    "wsUrl": "wss://recordings-representative-telecommunications-algebra.trycloudflare.com",
+    "httpUrl": "https://recordings-representative-telecommunications-algebra.trycloudflare.com",
+    "issuedAt": "2026-10-26T03:53:02.188Z",
+    "expiresAt": "2026-10-27T03:53:02.188Z",
+    "nonce": "59d802704b903935b4788f0bd4ca910b"
   },
-  "signature": "psC8nYWZsL6CbjWvG8tOq/0Bc62X+/1nEDPTCFZ3CREnhGIBKO9gYV5RvwXvJIWvnPm6Ov+YVeCJKoz5YF9K5A==",
+  "signature": "k+yYjO7OGvsFRcWIaHvOkUiffcTGj8E9aM9wbgv7hnonepZRNeMoIJJzVRr0tyZ1n/6WbHe5HV/iIUK/a0X3yw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

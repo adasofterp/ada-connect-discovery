@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shorts-los-radius-shopzilla.trycloudflare.com",
-  "httpUrl": "https://shorts-los-radius-shopzilla.trycloudflare.com",
-  "updatedAt": "2026-10-26T13:00:39.590Z",
-  "expiresAt": "2026-10-27T13:00:39.590Z",
-  "nonce": "cd528e8c382063b1a4c1178ad27b03ce",
+  "wsUrl": "wss://randy-cfr-dressing-registry.trycloudflare.com",
+  "httpUrl": "https://randy-cfr-dressing-registry.trycloudflare.com",
+  "updatedAt": "2026-10-26T13:17:02.299Z",
+  "expiresAt": "2026-10-27T13:17:02.299Z",
+  "nonce": "0b407925beff5cf1426598bc8f883f0e",
   "payload": {
-    "wsUrl": "wss://shorts-los-radius-shopzilla.trycloudflare.com",
-    "httpUrl": "https://shorts-los-radius-shopzilla.trycloudflare.com",
-    "issuedAt": "2026-10-26T13:00:39.590Z",
-    "expiresAt": "2026-10-27T13:00:39.590Z",
-    "nonce": "cd528e8c382063b1a4c1178ad27b03ce"
+    "wsUrl": "wss://randy-cfr-dressing-registry.trycloudflare.com",
+    "httpUrl": "https://randy-cfr-dressing-registry.trycloudflare.com",
+    "issuedAt": "2026-10-26T13:17:02.299Z",
+    "expiresAt": "2026-10-27T13:17:02.299Z",
+    "nonce": "0b407925beff5cf1426598bc8f883f0e"
   },
-  "signature": "Jx7kxN2PlJH+cPY4VAti8R1cA3KfZmfk97P8GcZgMYUs+wAWuIRTmRo48sZnXKKv2FFbsbWtzdmupaKKxIOq9Q==",
+  "signature": "CBeczIdpAluOmrCb1z3m1W51Q8yNZmBkCCAY7CI/bok45GE8baWGpBzGJG847+CsfYGUaPH2gTPWcA1S+JptGw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

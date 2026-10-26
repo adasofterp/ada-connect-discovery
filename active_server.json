@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://appreciation-attachments-fur-removal.trycloudflare.com",
-  "httpUrl": "https://appreciation-attachments-fur-removal.trycloudflare.com",
-  "updatedAt": "2026-10-26T02:03:40.008Z",
-  "expiresAt": "2026-10-27T02:03:40.008Z",
-  "nonce": "9593261ab1a1716965032bbca1b4a715",
+  "wsUrl": "wss://conservation-vocals-third-banners.trycloudflare.com",
+  "httpUrl": "https://conservation-vocals-third-banners.trycloudflare.com",
+  "updatedAt": "2026-10-26T02:14:03.916Z",
+  "expiresAt": "2026-10-27T02:14:03.916Z",
+  "nonce": "da66d6a4a2ff0158349c14e3a17da472",
   "payload": {
-    "wsUrl": "wss://appreciation-attachments-fur-removal.trycloudflare.com",
-    "httpUrl": "https://appreciation-attachments-fur-removal.trycloudflare.com",
-    "issuedAt": "2026-10-26T02:03:40.008Z",
-    "expiresAt": "2026-10-27T02:03:40.008Z",
-    "nonce": "9593261ab1a1716965032bbca1b4a715"
+    "wsUrl": "wss://conservation-vocals-third-banners.trycloudflare.com",
+    "httpUrl": "https://conservation-vocals-third-banners.trycloudflare.com",
+    "issuedAt": "2026-10-26T02:14:03.916Z",
+    "expiresAt": "2026-10-27T02:14:03.916Z",
+    "nonce": "da66d6a4a2ff0158349c14e3a17da472"
   },
-  "signature": "BGvSzWTT3wuq642sO/FlJpg6+adZ8Mk5rVLsuVxDrE88vqluTkyy/gX9oI2qhJgiNPjPfhGed0jx5f39jRkntA==",
+  "signature": "Wj2DI/PuAYlm3ks4iT5kncIM9uVI2d66HAeCBFzSRxvE25uDXOG6xtTo3iV7/T/BHVb507PtbCJadZWwVrMr7w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://demo-chubby-coupons-wake.trycloudflare.com",
-  "httpUrl": "https://demo-chubby-coupons-wake.trycloudflare.com",
-  "updatedAt": "2026-10-26T18:04:50.696Z",
-  "expiresAt": "2026-10-27T18:04:50.696Z",
-  "nonce": "0e0ffa2f271a2c38869aeac7fd4c9cf2",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-26T18:22:25.416Z",
+  "expiresAt": "2026-10-27T18:22:25.416Z",
+  "nonce": "0ae4e3be8971d1d224fbb41a4f5109e9",
   "payload": {
-    "wsUrl": "wss://demo-chubby-coupons-wake.trycloudflare.com",
-    "httpUrl": "https://demo-chubby-coupons-wake.trycloudflare.com",
-    "issuedAt": "2026-10-26T18:04:50.696Z",
-    "expiresAt": "2026-10-27T18:04:50.696Z",
-    "nonce": "0e0ffa2f271a2c38869aeac7fd4c9cf2"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-26T18:22:25.416Z",
+    "expiresAt": "2026-10-27T18:22:25.416Z",
+    "nonce": "0ae4e3be8971d1d224fbb41a4f5109e9"
   },
-  "signature": "Lz/nwKnjeamltLQYuMGnC0Ru8Z/jK19RWFHcoLE2CN5Zd22jZu1TyRyF1UcUNxObyI/EtXwGKBIvWc/aE9C/hA==",
+  "signature": "2D9191dhxQCfoqfedKbZ/vAB8X1BFqEGMRa40LgiNWmz6aTjdTfpJAjnIpsNcw3bNwqjQiQFpWUxWMkq6Ymv+A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://clearing-hunt-martin-immune.trycloudflare.com",
-  "httpUrl": "https://clearing-hunt-martin-immune.trycloudflare.com",
-  "updatedAt": "2026-10-26T04:24:25.143Z",
-  "expiresAt": "2026-10-27T04:24:25.143Z",
-  "nonce": "87852973f02731f69ac58e853d8df947",
+  "wsUrl": "wss://nice-pre-differ-definitely.trycloudflare.com",
+  "httpUrl": "https://nice-pre-differ-definitely.trycloudflare.com",
+  "updatedAt": "2026-10-26T04:34:48.223Z",
+  "expiresAt": "2026-10-27T04:34:48.223Z",
+  "nonce": "63465cd203a1b2fa61bfbbdf61f0c7be",
   "payload": {
-    "wsUrl": "wss://clearing-hunt-martin-immune.trycloudflare.com",
-    "httpUrl": "https://clearing-hunt-martin-immune.trycloudflare.com",
-    "issuedAt": "2026-10-26T04:24:25.143Z",
-    "expiresAt": "2026-10-27T04:24:25.143Z",
-    "nonce": "87852973f02731f69ac58e853d8df947"
+    "wsUrl": "wss://nice-pre-differ-definitely.trycloudflare.com",
+    "httpUrl": "https://nice-pre-differ-definitely.trycloudflare.com",
+    "issuedAt": "2026-10-26T04:34:48.223Z",
+    "expiresAt": "2026-10-27T04:34:48.223Z",
+    "nonce": "63465cd203a1b2fa61bfbbdf61f0c7be"
   },
-  "signature": "hVXnD6BbgpEalB1AqOEAznFyfOuGvsKhuWSOCOUtTZuZPKl3F5b+SC6rRWW4tT+MRp6JfoYR0CLNWxSgTTOWFQ==",
+  "signature": "439rdv6hdLHKEaTZkByQfXca7GUkKHJLjFK7waYDpJ0KN1JxxRz92mSftkJlPQoFB8fBuMYiJcUjCHZdkVSE3w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

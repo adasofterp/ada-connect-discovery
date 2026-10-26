@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://associate-persons-father-involvement.trycloudflare.com",
-  "httpUrl": "https://associate-persons-father-involvement.trycloudflare.com",
-  "updatedAt": "2026-10-26T13:53:37.603Z",
-  "expiresAt": "2026-10-27T13:53:37.603Z",
-  "nonce": "de15956b54c7eb3032741bb8f8e195d2",
+  "wsUrl": "wss://conservative-nick-exercise-armor.trycloudflare.com",
+  "httpUrl": "https://conservative-nick-exercise-armor.trycloudflare.com",
+  "updatedAt": "2026-10-26T15:42:41.332Z",
+  "expiresAt": "2026-10-27T15:42:41.332Z",
+  "nonce": "667d9b3680f84f84ec56924967980d53",
   "payload": {
-    "wsUrl": "wss://associate-persons-father-involvement.trycloudflare.com",
-    "httpUrl": "https://associate-persons-father-involvement.trycloudflare.com",
-    "issuedAt": "2026-10-26T13:53:37.603Z",
-    "expiresAt": "2026-10-27T13:53:37.603Z",
-    "nonce": "de15956b54c7eb3032741bb8f8e195d2"
+    "wsUrl": "wss://conservative-nick-exercise-armor.trycloudflare.com",
+    "httpUrl": "https://conservative-nick-exercise-armor.trycloudflare.com",
+    "issuedAt": "2026-10-26T15:42:41.332Z",
+    "expiresAt": "2026-10-27T15:42:41.332Z",
+    "nonce": "667d9b3680f84f84ec56924967980d53"
   },
-  "signature": "qoeAk0zDsocW+LmAxrgLOVJb/CRTUOHMkV3oNaz5RaWWLnL06bCuBnFgVbFZixsTAsxS3sZff0lmJT1GT9HLjA==",
+  "signature": "yJQCmlF7Z672/ZN7ThO8vFpXeqdZgnou717uy1rvtc6eoNd3kGS04sR6BoyK/PeE7uQM3USnpghA/fzFfZNRDg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

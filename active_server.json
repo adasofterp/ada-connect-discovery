@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://webcams-ceramic-she-playstation.trycloudflare.com",
-  "httpUrl": "https://webcams-ceramic-she-playstation.trycloudflare.com",
-  "updatedAt": "2026-10-26T06:01:37.855Z",
-  "expiresAt": "2026-10-27T06:01:37.855Z",
-  "nonce": "13556f4c821fb18c1c34dae794610375",
+  "wsUrl": "wss://tobacco-lodging-tyler-venture.trycloudflare.com",
+  "httpUrl": "https://tobacco-lodging-tyler-venture.trycloudflare.com",
+  "updatedAt": "2026-10-26T06:18:00.978Z",
+  "expiresAt": "2026-10-27T06:18:00.978Z",
+  "nonce": "0b7173ebc093444d8a455ec05176cfd4",
   "payload": {
-    "wsUrl": "wss://webcams-ceramic-she-playstation.trycloudflare.com",
-    "httpUrl": "https://webcams-ceramic-she-playstation.trycloudflare.com",
-    "issuedAt": "2026-10-26T06:01:37.855Z",
-    "expiresAt": "2026-10-27T06:01:37.855Z",
-    "nonce": "13556f4c821fb18c1c34dae794610375"
+    "wsUrl": "wss://tobacco-lodging-tyler-venture.trycloudflare.com",
+    "httpUrl": "https://tobacco-lodging-tyler-venture.trycloudflare.com",
+    "issuedAt": "2026-10-26T06:18:00.978Z",
+    "expiresAt": "2026-10-27T06:18:00.978Z",
+    "nonce": "0b7173ebc093444d8a455ec05176cfd4"
   },
-  "signature": "f9KVbeUEO0VYDup7Ki1M6BPDBxa9Kl1ff/sFoQZ8+stcAlCq2TF5xtqdcXzOntEe8ZhEk1fasUF7KEW4Dv48Lg==",
+  "signature": "TU9+irMrJGpklCfkYnGyxbF1vOjDy6tRATzo+psl/+bSohjj6kKj+rScobfFIVI8B+23ToUruStR5/5+IiG0Pg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

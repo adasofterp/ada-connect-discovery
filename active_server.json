@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-26T02:45:13.927Z",
-  "expiresAt": "2026-10-27T02:45:13.927Z",
-  "nonce": "5117bf85a7c5c90903116fa0d5516149",
+  "wsUrl": "wss://lighting-cindy-poor-lecture.trycloudflare.com",
+  "httpUrl": "https://lighting-cindy-poor-lecture.trycloudflare.com",
+  "updatedAt": "2026-10-26T03:00:52.041Z",
+  "expiresAt": "2026-10-27T03:00:52.041Z",
+  "nonce": "755c2d0437552712db0415ec897cd05d",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-26T02:45:13.927Z",
-    "expiresAt": "2026-10-27T02:45:13.927Z",
-    "nonce": "5117bf85a7c5c90903116fa0d5516149"
+    "wsUrl": "wss://lighting-cindy-poor-lecture.trycloudflare.com",
+    "httpUrl": "https://lighting-cindy-poor-lecture.trycloudflare.com",
+    "issuedAt": "2026-10-26T03:00:52.041Z",
+    "expiresAt": "2026-10-27T03:00:52.041Z",
+    "nonce": "755c2d0437552712db0415ec897cd05d"
   },
-  "signature": "xQmcKuz+PKbiv7m8ty8W6czlONpqm/KUoQfFwzGwvtYJFv90HBWOd78RuiGJDEVZqpulap4BlpAj3m2o8tDZfw==",
+  "signature": "W3/0pLoyYOYTtnIjAASIXThkeeZbLq6mRjbim2AWMCD6ufkFWmX+XI4xbNmQRWDCl5tLgvPWbJHGPU03ESJ2+A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

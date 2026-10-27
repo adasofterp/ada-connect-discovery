@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://essentials-cardiovascular-decade-raises.trycloudflare.com",
-  "httpUrl": "https://essentials-cardiovascular-decade-raises.trycloudflare.com",
-  "updatedAt": "2026-10-27T04:44:11.050Z",
-  "expiresAt": "2026-10-28T04:44:11.050Z",
-  "nonce": "b79c5ff240fb7a53d777a28746a471fc",
+  "wsUrl": "wss://producers-modern-monte-photos.trycloudflare.com",
+  "httpUrl": "https://producers-modern-monte-photos.trycloudflare.com",
+  "updatedAt": "2026-10-27T04:54:35.078Z",
+  "expiresAt": "2026-10-28T04:54:35.078Z",
+  "nonce": "b8396c244b480a0dd97805f03bd32d94",
   "payload": {
-    "wsUrl": "wss://essentials-cardiovascular-decade-raises.trycloudflare.com",
-    "httpUrl": "https://essentials-cardiovascular-decade-raises.trycloudflare.com",
-    "issuedAt": "2026-10-27T04:44:11.050Z",
-    "expiresAt": "2026-10-28T04:44:11.050Z",
-    "nonce": "b79c5ff240fb7a53d777a28746a471fc"
+    "wsUrl": "wss://producers-modern-monte-photos.trycloudflare.com",
+    "httpUrl": "https://producers-modern-monte-photos.trycloudflare.com",
+    "issuedAt": "2026-10-27T04:54:35.078Z",
+    "expiresAt": "2026-10-28T04:54:35.078Z",
+    "nonce": "b8396c244b480a0dd97805f03bd32d94"
   },
-  "signature": "YGP5qaI+iQbd+Oj/pfuy6jscdF+wDbsJ9E+F+YRVEfOofBj57PgxTFQ72cM+gNjaZKukjtXtWnDhkFjkdegOSg==",
+  "signature": "3B1iqZ8bkgv6pNoeoIebbHV0BSzDYjh/WeVkI/g4SCZe85O10dJUkuUh4siZGDl6vWbtv78fB1FyMzoCq1cbsg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

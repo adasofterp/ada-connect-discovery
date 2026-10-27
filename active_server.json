@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://scout-textbooks-doctor-light.trycloudflare.com",
-  "httpUrl": "https://scout-textbooks-doctor-light.trycloudflare.com",
-  "updatedAt": "2026-10-27T01:15:08.342Z",
-  "expiresAt": "2026-10-28T01:15:08.342Z",
-  "nonce": "3bc3af20306bae1833601b4b201f944d",
+  "wsUrl": "wss://vocal-prot-hiv-using.trycloudflare.com",
+  "httpUrl": "https://vocal-prot-hiv-using.trycloudflare.com",
+  "updatedAt": "2026-10-27T01:25:30.403Z",
+  "expiresAt": "2026-10-28T01:25:30.403Z",
+  "nonce": "e16141577748e64c53ca496ec89663e5",
   "payload": {
-    "wsUrl": "wss://scout-textbooks-doctor-light.trycloudflare.com",
-    "httpUrl": "https://scout-textbooks-doctor-light.trycloudflare.com",
-    "issuedAt": "2026-10-27T01:15:08.342Z",
-    "expiresAt": "2026-10-28T01:15:08.342Z",
-    "nonce": "3bc3af20306bae1833601b4b201f944d"
+    "wsUrl": "wss://vocal-prot-hiv-using.trycloudflare.com",
+    "httpUrl": "https://vocal-prot-hiv-using.trycloudflare.com",
+    "issuedAt": "2026-10-27T01:25:30.403Z",
+    "expiresAt": "2026-10-28T01:25:30.403Z",
+    "nonce": "e16141577748e64c53ca496ec89663e5"
   },
-  "signature": "3VRJDj9PtFZlRGkuAdTtBwirPi0klO+hvIof9YwXlLJsRYT5NR7F/9SPT29csKKDRnvikhzwHNJW+Gr0YzSZkw==",
+  "signature": "kr6wy8G62bREUaaz6CuuXVhhXYwx42YHKfF6WS/ba8JPKJVX8luaLQe4jhlkaBEfKMTL1SQhnzN7dE38Pgab2g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

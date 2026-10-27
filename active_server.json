@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://version-restoration-stan-backing.trycloudflare.com",
-  "httpUrl": "https://version-restoration-stan-backing.trycloudflare.com",
-  "updatedAt": "2026-10-27T06:19:14.425Z",
-  "expiresAt": "2026-10-28T06:19:14.425Z",
-  "nonce": "c7e987dbca11a4177ee7902683a7ee38",
+  "wsUrl": "wss://walls-reflects-securities-planet.trycloudflare.com",
+  "httpUrl": "https://walls-reflects-securities-planet.trycloudflare.com",
+  "updatedAt": "2026-10-27T06:32:39.248Z",
+  "expiresAt": "2026-10-28T06:32:39.248Z",
+  "nonce": "6aea96eb5b59a8c572f329d0c68723e4",
   "payload": {
-    "wsUrl": "wss://version-restoration-stan-backing.trycloudflare.com",
-    "httpUrl": "https://version-restoration-stan-backing.trycloudflare.com",
-    "issuedAt": "2026-10-27T06:19:14.425Z",
-    "expiresAt": "2026-10-28T06:19:14.425Z",
-    "nonce": "c7e987dbca11a4177ee7902683a7ee38"
+    "wsUrl": "wss://walls-reflects-securities-planet.trycloudflare.com",
+    "httpUrl": "https://walls-reflects-securities-planet.trycloudflare.com",
+    "issuedAt": "2026-10-27T06:32:39.248Z",
+    "expiresAt": "2026-10-28T06:32:39.248Z",
+    "nonce": "6aea96eb5b59a8c572f329d0c68723e4"
   },
-  "signature": "4/0LROm6RyEKYdPjl7UkNwoRBiIIhonzHM4k9ZZ8Afsmzzm1daT0kccpG7CceIUTptLh/rpbZ0N1ZTr02XyDQA==",
+  "signature": "7VVDrwpOc/6gSCc9U2yfx9SYmS/+xepbfWE81YdkbTW0CA+hbbStmsfPk/VUW2iEThqv2XopuFLf40UnCMKQ6w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

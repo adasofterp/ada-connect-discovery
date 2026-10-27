@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://producers-modern-monte-photos.trycloudflare.com",
-  "httpUrl": "https://producers-modern-monte-photos.trycloudflare.com",
-  "updatedAt": "2026-10-27T04:54:35.078Z",
-  "expiresAt": "2026-10-28T04:54:35.078Z",
-  "nonce": "b8396c244b480a0dd97805f03bd32d94",
+  "wsUrl": "wss://astronomy-relationship-void-strategies.trycloudflare.com",
+  "httpUrl": "https://astronomy-relationship-void-strategies.trycloudflare.com",
+  "updatedAt": "2026-10-27T05:15:23.089Z",
+  "expiresAt": "2026-10-28T05:15:23.089Z",
+  "nonce": "0bdbba577a92251c8c5a1607cc09f03d",
   "payload": {
-    "wsUrl": "wss://producers-modern-monte-photos.trycloudflare.com",
-    "httpUrl": "https://producers-modern-monte-photos.trycloudflare.com",
-    "issuedAt": "2026-10-27T04:54:35.078Z",
-    "expiresAt": "2026-10-28T04:54:35.078Z",
-    "nonce": "b8396c244b480a0dd97805f03bd32d94"
+    "wsUrl": "wss://astronomy-relationship-void-strategies.trycloudflare.com",
+    "httpUrl": "https://astronomy-relationship-void-strategies.trycloudflare.com",
+    "issuedAt": "2026-10-27T05:15:23.089Z",
+    "expiresAt": "2026-10-28T05:15:23.089Z",
+    "nonce": "0bdbba577a92251c8c5a1607cc09f03d"
   },
-  "signature": "3B1iqZ8bkgv6pNoeoIebbHV0BSzDYjh/WeVkI/g4SCZe85O10dJUkuUh4siZGDl6vWbtv78fB1FyMzoCq1cbsg==",
+  "signature": "5fbYwLiXcdlkjelFZX7vORch915KupGRKT8S8iMjSxlPIJ/qYv0qrvtfOJ6eMdnb9albkcw78bLO7vhsOFUSaA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

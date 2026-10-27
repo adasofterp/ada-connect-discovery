@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://attended-save-sciences-tube.trycloudflare.com",
-  "httpUrl": "https://attended-save-sciences-tube.trycloudflare.com",
-  "updatedAt": "2026-10-27T00:45:20.492Z",
-  "expiresAt": "2026-10-28T00:45:20.492Z",
-  "nonce": "a55f0a3e9c22ee811e9321c5bfe52247",
+  "wsUrl": "wss://prints-particular-basically-machines.trycloudflare.com",
+  "httpUrl": "https://prints-particular-basically-machines.trycloudflare.com",
+  "updatedAt": "2026-10-27T00:55:43.884Z",
+  "expiresAt": "2026-10-28T00:55:43.884Z",
+  "nonce": "58fdc86279fe5d5e3b4fcbaf8aa061be",
   "payload": {
-    "wsUrl": "wss://attended-save-sciences-tube.trycloudflare.com",
-    "httpUrl": "https://attended-save-sciences-tube.trycloudflare.com",
-    "issuedAt": "2026-10-27T00:45:20.492Z",
-    "expiresAt": "2026-10-28T00:45:20.492Z",
-    "nonce": "a55f0a3e9c22ee811e9321c5bfe52247"
+    "wsUrl": "wss://prints-particular-basically-machines.trycloudflare.com",
+    "httpUrl": "https://prints-particular-basically-machines.trycloudflare.com",
+    "issuedAt": "2026-10-27T00:55:43.884Z",
+    "expiresAt": "2026-10-28T00:55:43.884Z",
+    "nonce": "58fdc86279fe5d5e3b4fcbaf8aa061be"
   },
-  "signature": "LemKufWhE+6aH5W1N8f0GRE0XPrrQSWLniG7bCcVz5DCEkxi0tVbww3yOcPvXzaCsR0Oh475D+HWM59pWUL9IQ==",
+  "signature": "23UDI1EATBp+YZ3ujQhACi8uCl3d8xxi3F7mOSGEmzLptS/jlfOvLZ4a86qrSWqlPH1eHcWBcJlW+N2cKXgw8w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

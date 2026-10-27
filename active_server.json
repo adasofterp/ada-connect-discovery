@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://exhibit-profit-sponsors-bottles.trycloudflare.com",
-  "httpUrl": "https://exhibit-profit-sponsors-bottles.trycloudflare.com",
-  "updatedAt": "2026-10-27T12:49:51.704Z",
-  "expiresAt": "2026-10-28T12:49:51.704Z",
-  "nonce": "7d8bcf30c92a186ca074882a06ceeb79",
+  "wsUrl": "wss://knock-estates-ceo-trust.trycloudflare.com",
+  "httpUrl": "https://knock-estates-ceo-trust.trycloudflare.com",
+  "updatedAt": "2026-10-27T14:14:00.642Z",
+  "expiresAt": "2026-10-28T14:14:00.642Z",
+  "nonce": "7f14b5a06f0e0ed71820d42b354e1d00",
   "payload": {
-    "wsUrl": "wss://exhibit-profit-sponsors-bottles.trycloudflare.com",
-    "httpUrl": "https://exhibit-profit-sponsors-bottles.trycloudflare.com",
-    "issuedAt": "2026-10-27T12:49:51.704Z",
-    "expiresAt": "2026-10-28T12:49:51.704Z",
-    "nonce": "7d8bcf30c92a186ca074882a06ceeb79"
+    "wsUrl": "wss://knock-estates-ceo-trust.trycloudflare.com",
+    "httpUrl": "https://knock-estates-ceo-trust.trycloudflare.com",
+    "issuedAt": "2026-10-27T14:14:00.642Z",
+    "expiresAt": "2026-10-28T14:14:00.642Z",
+    "nonce": "7f14b5a06f0e0ed71820d42b354e1d00"
   },
-  "signature": "G+9XZiuSVKG2B0AWnAagMMDP2Z9SVqZxCq4g/MUpto9r2s1rlDegsiDsHNA8auG0poE6EzV2Ug4RNsf8Sao81A==",
+  "signature": "Dnz87BTtDcntYztELZAUFbed589E0aaXfgAV10tcmS8ZZJEYDBhwN0xKgQOwP/y3BCGZ999XCn/gY4QwcSI9hw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://prints-particular-basically-machines.trycloudflare.com",
-  "httpUrl": "https://prints-particular-basically-machines.trycloudflare.com",
-  "updatedAt": "2026-10-27T00:55:43.884Z",
-  "expiresAt": "2026-10-28T00:55:43.884Z",
-  "nonce": "58fdc86279fe5d5e3b4fcbaf8aa061be",
+  "wsUrl": "wss://deal-router-epa-tunes.trycloudflare.com",
+  "httpUrl": "https://deal-router-epa-tunes.trycloudflare.com",
+  "updatedAt": "2026-10-27T01:06:06.604Z",
+  "expiresAt": "2026-10-28T01:06:06.604Z",
+  "nonce": "2e344602dc51c1838324dfde32b09e03",
   "payload": {
-    "wsUrl": "wss://prints-particular-basically-machines.trycloudflare.com",
-    "httpUrl": "https://prints-particular-basically-machines.trycloudflare.com",
-    "issuedAt": "2026-10-27T00:55:43.884Z",
-    "expiresAt": "2026-10-28T00:55:43.884Z",
-    "nonce": "58fdc86279fe5d5e3b4fcbaf8aa061be"
+    "wsUrl": "wss://deal-router-epa-tunes.trycloudflare.com",
+    "httpUrl": "https://deal-router-epa-tunes.trycloudflare.com",
+    "issuedAt": "2026-10-27T01:06:06.604Z",
+    "expiresAt": "2026-10-28T01:06:06.604Z",
+    "nonce": "2e344602dc51c1838324dfde32b09e03"
   },
-  "signature": "23UDI1EATBp+YZ3ujQhACi8uCl3d8xxi3F7mOSGEmzLptS/jlfOvLZ4a86qrSWqlPH1eHcWBcJlW+N2cKXgw8w==",
+  "signature": "vya0JtBB5o1z4IgBVsDmJLjFD5dGpmqix/32iKeFDm/2nKL4kEeynSRamhEa13hhbCA887KqyN7awVXz7M2rTg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

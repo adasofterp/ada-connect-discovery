@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://poultry-beverly-thats-hourly.trycloudflare.com",
-  "httpUrl": "https://poultry-beverly-thats-hourly.trycloudflare.com",
-  "updatedAt": "2026-10-27T00:34:55.717Z",
-  "expiresAt": "2026-10-28T00:34:55.717Z",
-  "nonce": "f70b6f042e8e0f6874504a16f0dace99",
+  "wsUrl": "wss://attended-save-sciences-tube.trycloudflare.com",
+  "httpUrl": "https://attended-save-sciences-tube.trycloudflare.com",
+  "updatedAt": "2026-10-27T00:45:20.492Z",
+  "expiresAt": "2026-10-28T00:45:20.492Z",
+  "nonce": "a55f0a3e9c22ee811e9321c5bfe52247",
   "payload": {
-    "wsUrl": "wss://poultry-beverly-thats-hourly.trycloudflare.com",
-    "httpUrl": "https://poultry-beverly-thats-hourly.trycloudflare.com",
-    "issuedAt": "2026-10-27T00:34:55.717Z",
-    "expiresAt": "2026-10-28T00:34:55.717Z",
-    "nonce": "f70b6f042e8e0f6874504a16f0dace99"
+    "wsUrl": "wss://attended-save-sciences-tube.trycloudflare.com",
+    "httpUrl": "https://attended-save-sciences-tube.trycloudflare.com",
+    "issuedAt": "2026-10-27T00:45:20.492Z",
+    "expiresAt": "2026-10-28T00:45:20.492Z",
+    "nonce": "a55f0a3e9c22ee811e9321c5bfe52247"
   },
-  "signature": "VW8tJu/Nr8B6zdPoGYX4RS7LfU4/SEskpyPBhw1fHRQ8QE905a6q/QhSm6HOJOH0NT7QDOiaaGEqiR/0cOlqdA==",
+  "signature": "LemKufWhE+6aH5W1N8f0GRE0XPrrQSWLniG7bCcVz5DCEkxi0tVbww3yOcPvXzaCsR0Oh475D+HWM59pWUL9IQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

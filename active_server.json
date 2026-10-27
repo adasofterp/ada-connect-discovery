@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://method-potentially-cumulative-males.trycloudflare.com",
-  "httpUrl": "https://method-potentially-cumulative-males.trycloudflare.com",
-  "updatedAt": "2026-10-27T00:05:08.961Z",
-  "expiresAt": "2026-10-28T00:05:08.961Z",
-  "nonce": "ce6d13eb0f2616e88a9721fd144e88ff",
+  "wsUrl": "wss://gateway-directly-market-commit.trycloudflare.com",
+  "httpUrl": "https://gateway-directly-market-commit.trycloudflare.com",
+  "updatedAt": "2026-10-27T00:14:05.802Z",
+  "expiresAt": "2026-10-28T00:14:05.802Z",
+  "nonce": "203b2807c4f1f3d7d927cf3f2ba84916",
   "payload": {
-    "wsUrl": "wss://method-potentially-cumulative-males.trycloudflare.com",
-    "httpUrl": "https://method-potentially-cumulative-males.trycloudflare.com",
-    "issuedAt": "2026-10-27T00:05:08.961Z",
-    "expiresAt": "2026-10-28T00:05:08.961Z",
-    "nonce": "ce6d13eb0f2616e88a9721fd144e88ff"
+    "wsUrl": "wss://gateway-directly-market-commit.trycloudflare.com",
+    "httpUrl": "https://gateway-directly-market-commit.trycloudflare.com",
+    "issuedAt": "2026-10-27T00:14:05.802Z",
+    "expiresAt": "2026-10-28T00:14:05.802Z",
+    "nonce": "203b2807c4f1f3d7d927cf3f2ba84916"
   },
-  "signature": "ktb6OZw4BcdwCDtl1gpAW7b7wFGzvr2lgmHdD+wK7v/p1pu2ecMd4aoH3yuxjEh7QNanMfPqcCq/jz8o4uxJ2w==",
+  "signature": "DOhx18YilZ9n8LUOEx7xbmCb6Ssd4curXG50YnwVogGYiMF7aJM/ziM32Wkv5qAWuHN8tQLhpFSJknqkKbMQ/A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://constitutes-ntsc-bars-ghz.trycloudflare.com",
-  "httpUrl": "https://constitutes-ntsc-bars-ghz.trycloudflare.com",
-  "updatedAt": "2026-10-27T01:35:53.624Z",
-  "expiresAt": "2026-10-28T01:35:53.624Z",
-  "nonce": "5bba5c9ba697669ef1722453657f56c6",
+  "wsUrl": "wss://queens-database-acoustic-producing.trycloudflare.com",
+  "httpUrl": "https://queens-database-acoustic-producing.trycloudflare.com",
+  "updatedAt": "2026-10-27T01:56:42.405Z",
+  "expiresAt": "2026-10-28T01:56:42.406Z",
+  "nonce": "7feb0213bac5dc19608d757ca347f945",
   "payload": {
-    "wsUrl": "wss://constitutes-ntsc-bars-ghz.trycloudflare.com",
-    "httpUrl": "https://constitutes-ntsc-bars-ghz.trycloudflare.com",
-    "issuedAt": "2026-10-27T01:35:53.624Z",
-    "expiresAt": "2026-10-28T01:35:53.624Z",
-    "nonce": "5bba5c9ba697669ef1722453657f56c6"
+    "wsUrl": "wss://queens-database-acoustic-producing.trycloudflare.com",
+    "httpUrl": "https://queens-database-acoustic-producing.trycloudflare.com",
+    "issuedAt": "2026-10-27T01:56:42.405Z",
+    "expiresAt": "2026-10-28T01:56:42.406Z",
+    "nonce": "7feb0213bac5dc19608d757ca347f945"
   },
-  "signature": "jfglYDicU966XNfrk1DDLgmT4axUDa7H04IUChKsChu4uCmm24eN73UdjoAkktFiM/qw+XXQEuSFwa33TfbTEQ==",
+  "signature": "MdR2uRVbOY0lRSrD+lBAtuEnVjAuXWRh7at4OAkUR9lKErqySxkSiJQKayK74vhju1KTlwrjFiNnFP/M6ViofA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

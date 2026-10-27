@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://parents-roland-bald-pole.trycloudflare.com",
-  "httpUrl": "https://parents-roland-bald-pole.trycloudflare.com",
-  "updatedAt": "2026-10-27T00:24:31.442Z",
-  "expiresAt": "2026-10-28T00:24:31.442Z",
-  "nonce": "15ac3e56e9390693089220c016693039",
+  "wsUrl": "wss://poultry-beverly-thats-hourly.trycloudflare.com",
+  "httpUrl": "https://poultry-beverly-thats-hourly.trycloudflare.com",
+  "updatedAt": "2026-10-27T00:34:55.717Z",
+  "expiresAt": "2026-10-28T00:34:55.717Z",
+  "nonce": "f70b6f042e8e0f6874504a16f0dace99",
   "payload": {
-    "wsUrl": "wss://parents-roland-bald-pole.trycloudflare.com",
-    "httpUrl": "https://parents-roland-bald-pole.trycloudflare.com",
-    "issuedAt": "2026-10-27T00:24:31.442Z",
-    "expiresAt": "2026-10-28T00:24:31.442Z",
-    "nonce": "15ac3e56e9390693089220c016693039"
+    "wsUrl": "wss://poultry-beverly-thats-hourly.trycloudflare.com",
+    "httpUrl": "https://poultry-beverly-thats-hourly.trycloudflare.com",
+    "issuedAt": "2026-10-27T00:34:55.717Z",
+    "expiresAt": "2026-10-28T00:34:55.717Z",
+    "nonce": "f70b6f042e8e0f6874504a16f0dace99"
   },
-  "signature": "wOY0k5tyDhmXgjmiskuhmInAnRhgNHvyWuVjvfzJS8tAaQTECMzTTK1So4hYPP9uBny2jU+Se6g9iNrVoU75gg==",
+  "signature": "VW8tJu/Nr8B6zdPoGYX4RS7LfU4/SEskpyPBhw1fHRQ8QE905a6q/QhSm6HOJOH0NT7QDOiaaGEqiR/0cOlqdA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

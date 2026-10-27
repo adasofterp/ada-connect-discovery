@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://astronomy-relationship-void-strategies.trycloudflare.com",
-  "httpUrl": "https://astronomy-relationship-void-strategies.trycloudflare.com",
-  "updatedAt": "2026-10-27T05:15:23.089Z",
-  "expiresAt": "2026-10-28T05:15:23.089Z",
-  "nonce": "0bdbba577a92251c8c5a1607cc09f03d",
+  "wsUrl": "wss://order-opens-unlock-ranging.trycloudflare.com",
+  "httpUrl": "https://order-opens-unlock-ranging.trycloudflare.com",
+  "updatedAt": "2026-10-27T05:37:56.619Z",
+  "expiresAt": "2026-10-28T05:37:56.619Z",
+  "nonce": "1cdddce1eb9aa978de74e297b57254aa",
   "payload": {
-    "wsUrl": "wss://astronomy-relationship-void-strategies.trycloudflare.com",
-    "httpUrl": "https://astronomy-relationship-void-strategies.trycloudflare.com",
-    "issuedAt": "2026-10-27T05:15:23.089Z",
-    "expiresAt": "2026-10-28T05:15:23.089Z",
-    "nonce": "0bdbba577a92251c8c5a1607cc09f03d"
+    "wsUrl": "wss://order-opens-unlock-ranging.trycloudflare.com",
+    "httpUrl": "https://order-opens-unlock-ranging.trycloudflare.com",
+    "issuedAt": "2026-10-27T05:37:56.619Z",
+    "expiresAt": "2026-10-28T05:37:56.619Z",
+    "nonce": "1cdddce1eb9aa978de74e297b57254aa"
   },
-  "signature": "5fbYwLiXcdlkjelFZX7vORch915KupGRKT8S8iMjSxlPIJ/qYv0qrvtfOJ6eMdnb9albkcw78bLO7vhsOFUSaA==",
+  "signature": "MHA9TQKEpS1uTpab+W96bTack+OtTpgHGIPeRS9caW4G/ze7FxDZE9YUfi7oWhmwGzavp2dqLf8Cr25OinVQHw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

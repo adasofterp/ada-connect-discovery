@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://something-provinces-organizing-kirk.trycloudflare.com",
-  "httpUrl": "https://something-provinces-organizing-kirk.trycloudflare.com",
-  "updatedAt": "2026-10-27T12:25:11.931Z",
-  "expiresAt": "2026-10-28T12:25:11.931Z",
-  "nonce": "a2600b1023474eaea957461a5e4d4c13",
+  "wsUrl": "wss://situated-hartford-tanks-chose.trycloudflare.com",
+  "httpUrl": "https://situated-hartford-tanks-chose.trycloudflare.com",
+  "updatedAt": "2026-10-27T12:41:34.201Z",
+  "expiresAt": "2026-10-28T12:41:34.201Z",
+  "nonce": "647f23d543bd3ed82896b2b95be61321",
   "payload": {
-    "wsUrl": "wss://something-provinces-organizing-kirk.trycloudflare.com",
-    "httpUrl": "https://something-provinces-organizing-kirk.trycloudflare.com",
-    "issuedAt": "2026-10-27T12:25:11.931Z",
-    "expiresAt": "2026-10-28T12:25:11.931Z",
-    "nonce": "a2600b1023474eaea957461a5e4d4c13"
+    "wsUrl": "wss://situated-hartford-tanks-chose.trycloudflare.com",
+    "httpUrl": "https://situated-hartford-tanks-chose.trycloudflare.com",
+    "issuedAt": "2026-10-27T12:41:34.201Z",
+    "expiresAt": "2026-10-28T12:41:34.201Z",
+    "nonce": "647f23d543bd3ed82896b2b95be61321"
   },
-  "signature": "kcqH/v/bfXRHPo7CNF32vG/YC2nPoc3SMuvGEPeLug5Gkq+zzSgjuRmpuuYyLl00QO2+FGfDT7ESagPqqPraNA==",
+  "signature": "NsPoDb8XMkZoqq05IwdjlbEsbu0hLP84wOBnMDVF3T5tp+lu/fvFv59IzgEn4XRxBfQBWa5tSFBnZtvrOmF7gw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://situated-hartford-tanks-chose.trycloudflare.com",
-  "httpUrl": "https://situated-hartford-tanks-chose.trycloudflare.com",
-  "updatedAt": "2026-10-27T12:41:34.201Z",
-  "expiresAt": "2026-10-28T12:41:34.201Z",
-  "nonce": "647f23d543bd3ed82896b2b95be61321",
+  "wsUrl": "wss://exhibit-profit-sponsors-bottles.trycloudflare.com",
+  "httpUrl": "https://exhibit-profit-sponsors-bottles.trycloudflare.com",
+  "updatedAt": "2026-10-27T12:49:51.704Z",
+  "expiresAt": "2026-10-28T12:49:51.704Z",
+  "nonce": "7d8bcf30c92a186ca074882a06ceeb79",
   "payload": {
-    "wsUrl": "wss://situated-hartford-tanks-chose.trycloudflare.com",
-    "httpUrl": "https://situated-hartford-tanks-chose.trycloudflare.com",
-    "issuedAt": "2026-10-27T12:41:34.201Z",
-    "expiresAt": "2026-10-28T12:41:34.201Z",
-    "nonce": "647f23d543bd3ed82896b2b95be61321"
+    "wsUrl": "wss://exhibit-profit-sponsors-bottles.trycloudflare.com",
+    "httpUrl": "https://exhibit-profit-sponsors-bottles.trycloudflare.com",
+    "issuedAt": "2026-10-27T12:49:51.704Z",
+    "expiresAt": "2026-10-28T12:49:51.704Z",
+    "nonce": "7d8bcf30c92a186ca074882a06ceeb79"
   },
-  "signature": "NsPoDb8XMkZoqq05IwdjlbEsbu0hLP84wOBnMDVF3T5tp+lu/fvFv59IzgEn4XRxBfQBWa5tSFBnZtvrOmF7gw==",
+  "signature": "G+9XZiuSVKG2B0AWnAagMMDP2Z9SVqZxCq4g/MUpto9r2s1rlDegsiDsHNA8auG0poE6EzV2Ug4RNsf8Sao81A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

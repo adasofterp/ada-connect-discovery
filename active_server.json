@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://otherwise-maryland-internet-extract.trycloudflare.com",
-  "httpUrl": "https://otherwise-maryland-internet-extract.trycloudflare.com",
-  "updatedAt": "2026-10-27T23:13:21.886Z",
-  "expiresAt": "2026-10-28T23:13:21.886Z",
-  "nonce": "df94f96f1d5af296257d90c95b701733",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-27T23:28:42.606Z",
+  "expiresAt": "2026-10-28T23:28:42.606Z",
+  "nonce": "f0ee15ffa07458a8f952ce57b976d8c1",
   "payload": {
-    "wsUrl": "wss://otherwise-maryland-internet-extract.trycloudflare.com",
-    "httpUrl": "https://otherwise-maryland-internet-extract.trycloudflare.com",
-    "issuedAt": "2026-10-27T23:13:21.886Z",
-    "expiresAt": "2026-10-28T23:13:21.886Z",
-    "nonce": "df94f96f1d5af296257d90c95b701733"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-27T23:28:42.606Z",
+    "expiresAt": "2026-10-28T23:28:42.606Z",
+    "nonce": "f0ee15ffa07458a8f952ce57b976d8c1"
   },
-  "signature": "x1fXVelXqC5fE7A/RK2XN/19RK0dQKy1YI/Am+KcQXiAg5E5DIZxYRrT3/Tn8QXNkeoW5HIVYTc4e180VgRrZA==",
+  "signature": "FY+kHo7BXyw0DH1CLdAL0oOk0+2Rb1Gyf3CIPF6xp8j2Ru2Xmix+vBFyaDWO91O7StUeU+0vZDFIsLX0SOdOEQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

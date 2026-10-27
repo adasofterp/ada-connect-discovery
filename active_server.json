@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://gateway-directly-market-commit.trycloudflare.com",
-  "httpUrl": "https://gateway-directly-market-commit.trycloudflare.com",
-  "updatedAt": "2026-10-27T00:14:05.802Z",
-  "expiresAt": "2026-10-28T00:14:05.802Z",
-  "nonce": "203b2807c4f1f3d7d927cf3f2ba84916",
+  "wsUrl": "wss://parents-roland-bald-pole.trycloudflare.com",
+  "httpUrl": "https://parents-roland-bald-pole.trycloudflare.com",
+  "updatedAt": "2026-10-27T00:24:31.442Z",
+  "expiresAt": "2026-10-28T00:24:31.442Z",
+  "nonce": "15ac3e56e9390693089220c016693039",
   "payload": {
-    "wsUrl": "wss://gateway-directly-market-commit.trycloudflare.com",
-    "httpUrl": "https://gateway-directly-market-commit.trycloudflare.com",
-    "issuedAt": "2026-10-27T00:14:05.802Z",
-    "expiresAt": "2026-10-28T00:14:05.802Z",
-    "nonce": "203b2807c4f1f3d7d927cf3f2ba84916"
+    "wsUrl": "wss://parents-roland-bald-pole.trycloudflare.com",
+    "httpUrl": "https://parents-roland-bald-pole.trycloudflare.com",
+    "issuedAt": "2026-10-27T00:24:31.442Z",
+    "expiresAt": "2026-10-28T00:24:31.442Z",
+    "nonce": "15ac3e56e9390693089220c016693039"
   },
-  "signature": "DOhx18YilZ9n8LUOEx7xbmCb6Ssd4curXG50YnwVogGYiMF7aJM/ziM32Wkv5qAWuHN8tQLhpFSJknqkKbMQ/A==",
+  "signature": "wOY0k5tyDhmXgjmiskuhmInAnRhgNHvyWuVjvfzJS8tAaQTECMzTTK1So4hYPP9uBny2jU+Se6g9iNrVoU75gg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

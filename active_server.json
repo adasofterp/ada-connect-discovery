@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://liberal-cattle-trader-residential.trycloudflare.com",
-  "httpUrl": "https://liberal-cattle-trader-residential.trycloudflare.com",
-  "updatedAt": "2026-10-27T04:14:23.324Z",
-  "expiresAt": "2026-10-28T04:14:23.324Z",
-  "nonce": "002b83a5caf19fee8d9d58811208f87a",
+  "wsUrl": "wss://guitar-charts-mediterranean-lighting.trycloudflare.com",
+  "httpUrl": "https://guitar-charts-mediterranean-lighting.trycloudflare.com",
+  "updatedAt": "2026-10-27T04:23:22.626Z",
+  "expiresAt": "2026-10-28T04:23:22.626Z",
+  "nonce": "ea3d5b9bba4e7dfc993d42c7cb595732",
   "payload": {
-    "wsUrl": "wss://liberal-cattle-trader-residential.trycloudflare.com",
-    "httpUrl": "https://liberal-cattle-trader-residential.trycloudflare.com",
-    "issuedAt": "2026-10-27T04:14:23.324Z",
-    "expiresAt": "2026-10-28T04:14:23.324Z",
-    "nonce": "002b83a5caf19fee8d9d58811208f87a"
+    "wsUrl": "wss://guitar-charts-mediterranean-lighting.trycloudflare.com",
+    "httpUrl": "https://guitar-charts-mediterranean-lighting.trycloudflare.com",
+    "issuedAt": "2026-10-27T04:23:22.626Z",
+    "expiresAt": "2026-10-28T04:23:22.626Z",
+    "nonce": "ea3d5b9bba4e7dfc993d42c7cb595732"
   },
-  "signature": "MmBlozGIye8Sek1TIyR5goxZkCilsG8NS6RmVvWFQueuDAscLeXJurzt1iwIIPwFQYReET2gSjZFd+ncTtKF8A==",
+  "signature": "ysk9tUq8fOpttdIYhKlBxTZW3Z/OLOJbNKX35MUAQPVODC8TufihTUtSoSHSrBmOJmKAvO10j9o8iL9Ef+Dabg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

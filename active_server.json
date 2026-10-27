@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://mariah-britannica-wholesale-expect.trycloudflare.com",
-  "httpUrl": "https://mariah-britannica-wholesale-expect.trycloudflare.com",
-  "updatedAt": "2026-10-27T03:53:34.634Z",
-  "expiresAt": "2026-10-28T03:53:34.634Z",
-  "nonce": "b461c2866fdec088028041810f381f4b",
+  "wsUrl": "wss://printer-kits-switches-includes.trycloudflare.com",
+  "httpUrl": "https://printer-kits-switches-includes.trycloudflare.com",
+  "updatedAt": "2026-10-27T04:04:00.488Z",
+  "expiresAt": "2026-10-28T04:04:00.488Z",
+  "nonce": "21ec18606e9837df9a49d1e95e866ebc",
   "payload": {
-    "wsUrl": "wss://mariah-britannica-wholesale-expect.trycloudflare.com",
-    "httpUrl": "https://mariah-britannica-wholesale-expect.trycloudflare.com",
-    "issuedAt": "2026-10-27T03:53:34.634Z",
-    "expiresAt": "2026-10-28T03:53:34.634Z",
-    "nonce": "b461c2866fdec088028041810f381f4b"
+    "wsUrl": "wss://printer-kits-switches-includes.trycloudflare.com",
+    "httpUrl": "https://printer-kits-switches-includes.trycloudflare.com",
+    "issuedAt": "2026-10-27T04:04:00.488Z",
+    "expiresAt": "2026-10-28T04:04:00.488Z",
+    "nonce": "21ec18606e9837df9a49d1e95e866ebc"
   },
-  "signature": "eMqFiqmVkX03HHgYo6rQufO6ERvw+YavpzWztaTYAv66AolVK+Z5iUP9AXWfDp0/xlkopDTpu77mKSCXc9p67g==",
+  "signature": "X/4pLTE6LtLEe5epFGRpTJNty9y6H0sB073tzTnAaqM1q42WX2Z4tbSxvzfoQ+yesBUOR3PRJ4A/7SjrE7KAXQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sapphire-potatoes-editors-else.trycloudflare.com",
-  "httpUrl": "https://sapphire-potatoes-editors-else.trycloudflare.com",
-  "updatedAt": "2026-10-27T03:22:19.715Z",
-  "expiresAt": "2026-10-28T03:22:19.715Z",
-  "nonce": "12e1d06fcfb5fec25ef90e775b6649b5",
+  "wsUrl": "wss://mariah-britannica-wholesale-expect.trycloudflare.com",
+  "httpUrl": "https://mariah-britannica-wholesale-expect.trycloudflare.com",
+  "updatedAt": "2026-10-27T03:53:34.634Z",
+  "expiresAt": "2026-10-28T03:53:34.634Z",
+  "nonce": "b461c2866fdec088028041810f381f4b",
   "payload": {
-    "wsUrl": "wss://sapphire-potatoes-editors-else.trycloudflare.com",
-    "httpUrl": "https://sapphire-potatoes-editors-else.trycloudflare.com",
-    "issuedAt": "2026-10-27T03:22:19.715Z",
-    "expiresAt": "2026-10-28T03:22:19.715Z",
-    "nonce": "12e1d06fcfb5fec25ef90e775b6649b5"
+    "wsUrl": "wss://mariah-britannica-wholesale-expect.trycloudflare.com",
+    "httpUrl": "https://mariah-britannica-wholesale-expect.trycloudflare.com",
+    "issuedAt": "2026-10-27T03:53:34.634Z",
+    "expiresAt": "2026-10-28T03:53:34.634Z",
+    "nonce": "b461c2866fdec088028041810f381f4b"
   },
-  "signature": "3fKqbe6nSoYVYrRjdmQ6oQNdwArtCaX6sJuyRtniJV8LbfQcjhxqV+qjN97XsMqxOsQ8G/IRdSobMFjB4efnhw==",
+  "signature": "eMqFiqmVkX03HHgYo6rQufO6ERvw+YavpzWztaTYAv66AolVK+Z5iUP9AXWfDp0/xlkopDTpu77mKSCXc9p67g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

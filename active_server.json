@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-27T02:47:15.217Z",
-  "expiresAt": "2026-10-28T02:47:15.217Z",
-  "nonce": "f89e9bd9b5b5f6adb29d91c8c53e6e3d",
+  "wsUrl": "wss://sapphire-potatoes-editors-else.trycloudflare.com",
+  "httpUrl": "https://sapphire-potatoes-editors-else.trycloudflare.com",
+  "updatedAt": "2026-10-27T03:22:19.715Z",
+  "expiresAt": "2026-10-28T03:22:19.715Z",
+  "nonce": "12e1d06fcfb5fec25ef90e775b6649b5",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-27T02:47:15.217Z",
-    "expiresAt": "2026-10-28T02:47:15.217Z",
-    "nonce": "f89e9bd9b5b5f6adb29d91c8c53e6e3d"
+    "wsUrl": "wss://sapphire-potatoes-editors-else.trycloudflare.com",
+    "httpUrl": "https://sapphire-potatoes-editors-else.trycloudflare.com",
+    "issuedAt": "2026-10-27T03:22:19.715Z",
+    "expiresAt": "2026-10-28T03:22:19.715Z",
+    "nonce": "12e1d06fcfb5fec25ef90e775b6649b5"
   },
-  "signature": "iLRZL+1UyEbjR4ive6PpcNnrx0e23PjXAHp35QUK3eWUBmmCiTq5WMsTrJhPW6BAEkgTamLmhtCWZnxhDvXh1g==",
+  "signature": "3fKqbe6nSoYVYrRjdmQ6oQNdwArtCaX6sJuyRtniJV8LbfQcjhxqV+qjN97XsMqxOsQ8G/IRdSobMFjB4efnhw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

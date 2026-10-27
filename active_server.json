@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://order-opens-unlock-ranging.trycloudflare.com",
-  "httpUrl": "https://order-opens-unlock-ranging.trycloudflare.com",
-  "updatedAt": "2026-10-27T05:37:56.619Z",
-  "expiresAt": "2026-10-28T05:37:56.619Z",
-  "nonce": "1cdddce1eb9aa978de74e297b57254aa",
+  "wsUrl": "wss://andrea-adjustments-automobiles-fall.trycloudflare.com",
+  "httpUrl": "https://andrea-adjustments-automobiles-fall.trycloudflare.com",
+  "updatedAt": "2026-10-27T06:02:50.005Z",
+  "expiresAt": "2026-10-28T06:02:50.005Z",
+  "nonce": "66614764fd7ac858bad7780834e627a5",
   "payload": {
-    "wsUrl": "wss://order-opens-unlock-ranging.trycloudflare.com",
-    "httpUrl": "https://order-opens-unlock-ranging.trycloudflare.com",
-    "issuedAt": "2026-10-27T05:37:56.619Z",
-    "expiresAt": "2026-10-28T05:37:56.619Z",
-    "nonce": "1cdddce1eb9aa978de74e297b57254aa"
+    "wsUrl": "wss://andrea-adjustments-automobiles-fall.trycloudflare.com",
+    "httpUrl": "https://andrea-adjustments-automobiles-fall.trycloudflare.com",
+    "issuedAt": "2026-10-27T06:02:50.005Z",
+    "expiresAt": "2026-10-28T06:02:50.005Z",
+    "nonce": "66614764fd7ac858bad7780834e627a5"
   },
-  "signature": "MHA9TQKEpS1uTpab+W96bTack+OtTpgHGIPeRS9caW4G/ze7FxDZE9YUfi7oWhmwGzavp2dqLf8Cr25OinVQHw==",
+  "signature": "pxcGZ8LSG814hAGEvX5ntDvr70/wIdKh7LlPx8YSkMGyGlPC3kkllRBrpC9MWmkVS/EA1MLOlm3BCctSSkX9CA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

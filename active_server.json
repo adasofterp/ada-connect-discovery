@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://andrea-adjustments-automobiles-fall.trycloudflare.com",
-  "httpUrl": "https://andrea-adjustments-automobiles-fall.trycloudflare.com",
-  "updatedAt": "2026-10-27T06:02:50.005Z",
-  "expiresAt": "2026-10-28T06:02:50.005Z",
-  "nonce": "66614764fd7ac858bad7780834e627a5",
+  "wsUrl": "wss://version-restoration-stan-backing.trycloudflare.com",
+  "httpUrl": "https://version-restoration-stan-backing.trycloudflare.com",
+  "updatedAt": "2026-10-27T06:19:14.425Z",
+  "expiresAt": "2026-10-28T06:19:14.425Z",
+  "nonce": "c7e987dbca11a4177ee7902683a7ee38",
   "payload": {
-    "wsUrl": "wss://andrea-adjustments-automobiles-fall.trycloudflare.com",
-    "httpUrl": "https://andrea-adjustments-automobiles-fall.trycloudflare.com",
-    "issuedAt": "2026-10-27T06:02:50.005Z",
-    "expiresAt": "2026-10-28T06:02:50.005Z",
-    "nonce": "66614764fd7ac858bad7780834e627a5"
+    "wsUrl": "wss://version-restoration-stan-backing.trycloudflare.com",
+    "httpUrl": "https://version-restoration-stan-backing.trycloudflare.com",
+    "issuedAt": "2026-10-27T06:19:14.425Z",
+    "expiresAt": "2026-10-28T06:19:14.425Z",
+    "nonce": "c7e987dbca11a4177ee7902683a7ee38"
   },
-  "signature": "pxcGZ8LSG814hAGEvX5ntDvr70/wIdKh7LlPx8YSkMGyGlPC3kkllRBrpC9MWmkVS/EA1MLOlm3BCctSSkX9CA==",
+  "signature": "4/0LROm6RyEKYdPjl7UkNwoRBiIIhonzHM4k9ZZ8Afsmzzm1daT0kccpG7CceIUTptLh/rpbZ0N1ZTr02XyDQA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

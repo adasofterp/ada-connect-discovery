@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://teens-salvador-politics-hydraulic.trycloudflare.com",
-  "httpUrl": "https://teens-salvador-politics-hydraulic.trycloudflare.com",
-  "updatedAt": "2026-10-27T08:16:29.762Z",
-  "expiresAt": "2026-10-28T08:16:29.762Z",
-  "nonce": "ee424382b08cdb467e8c83e6f16d7f31",
+  "wsUrl": "wss://tell-disabled-replied-buy.trycloudflare.com",
+  "httpUrl": "https://tell-disabled-replied-buy.trycloudflare.com",
+  "updatedAt": "2026-10-27T11:11:15.446Z",
+  "expiresAt": "2026-10-28T11:11:15.446Z",
+  "nonce": "fc48dca80397e04ac48bfaf07fcde301",
   "payload": {
-    "wsUrl": "wss://teens-salvador-politics-hydraulic.trycloudflare.com",
-    "httpUrl": "https://teens-salvador-politics-hydraulic.trycloudflare.com",
-    "issuedAt": "2026-10-27T08:16:29.762Z",
-    "expiresAt": "2026-10-28T08:16:29.762Z",
-    "nonce": "ee424382b08cdb467e8c83e6f16d7f31"
+    "wsUrl": "wss://tell-disabled-replied-buy.trycloudflare.com",
+    "httpUrl": "https://tell-disabled-replied-buy.trycloudflare.com",
+    "issuedAt": "2026-10-27T11:11:15.446Z",
+    "expiresAt": "2026-10-28T11:11:15.446Z",
+    "nonce": "fc48dca80397e04ac48bfaf07fcde301"
   },
-  "signature": "v6SDNABjw6qIdZiStsEBl3hqAxtlhBxVDb/XxBbcexXIFNhNoF1vHuD0iC8DwsgpIcCxX7PevVEvaJ+aSXxTHg==",
+  "signature": "t8T8jaUWDv21BNs2F9FNIMVN6Q/1BbtAerRFxy9w9vCD1cvmlFqIlMNN+3BbBYqNz4ETgOHQhHs6jCItDDUQbw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

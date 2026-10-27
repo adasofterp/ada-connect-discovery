@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-27T12:25:03.486Z",
-  "expiresAt": "2026-10-28T12:25:03.487Z",
-  "nonce": "7d549e12ffd580317e90898f8ebd9c6e",
+  "wsUrl": "wss://something-provinces-organizing-kirk.trycloudflare.com",
+  "httpUrl": "https://something-provinces-organizing-kirk.trycloudflare.com",
+  "updatedAt": "2026-10-27T12:25:11.931Z",
+  "expiresAt": "2026-10-28T12:25:11.931Z",
+  "nonce": "a2600b1023474eaea957461a5e4d4c13",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-27T12:25:03.486Z",
-    "expiresAt": "2026-10-28T12:25:03.487Z",
-    "nonce": "7d549e12ffd580317e90898f8ebd9c6e"
+    "wsUrl": "wss://something-provinces-organizing-kirk.trycloudflare.com",
+    "httpUrl": "https://something-provinces-organizing-kirk.trycloudflare.com",
+    "issuedAt": "2026-10-27T12:25:11.931Z",
+    "expiresAt": "2026-10-28T12:25:11.931Z",
+    "nonce": "a2600b1023474eaea957461a5e4d4c13"
   },
-  "signature": "bn6JW3V5fX84eKNLq/plhTYYOMwNgETI7++o6r+41ZkbyXHEAPdDXlTYK7MUaf3ouX4MScu7ZfaF08S+Hwkfcw==",
+  "signature": "kcqH/v/bfXRHPo7CNF32vG/YC2nPoc3SMuvGEPeLug5Gkq+zzSgjuRmpuuYyLl00QO2+FGfDT7ESagPqqPraNA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

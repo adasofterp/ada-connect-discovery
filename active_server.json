@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://knock-estates-ceo-trust.trycloudflare.com",
-  "httpUrl": "https://knock-estates-ceo-trust.trycloudflare.com",
-  "updatedAt": "2026-10-27T14:14:00.642Z",
-  "expiresAt": "2026-10-28T14:14:00.642Z",
-  "nonce": "7f14b5a06f0e0ed71820d42b354e1d00",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-27T23:12:56.082Z",
+  "expiresAt": "2026-10-28T23:12:56.082Z",
+  "nonce": "68c85544a7453f89919e0582142b0702",
   "payload": {
-    "wsUrl": "wss://knock-estates-ceo-trust.trycloudflare.com",
-    "httpUrl": "https://knock-estates-ceo-trust.trycloudflare.com",
-    "issuedAt": "2026-10-27T14:14:00.642Z",
-    "expiresAt": "2026-10-28T14:14:00.642Z",
-    "nonce": "7f14b5a06f0e0ed71820d42b354e1d00"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-27T23:12:56.082Z",
+    "expiresAt": "2026-10-28T23:12:56.082Z",
+    "nonce": "68c85544a7453f89919e0582142b0702"
   },
-  "signature": "Dnz87BTtDcntYztELZAUFbed589E0aaXfgAV10tcmS8ZZJEYDBhwN0xKgQOwP/y3BCGZ999XCn/gY4QwcSI9hw==",
+  "signature": "EM5EuI8z/mwUGDPpkmLCHTKZ7N8qB9N3PeLM3S2eSeIm+vNryAa6/CQSZx2pk5Ik4ox4yTprYEM773UnlVGnJg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

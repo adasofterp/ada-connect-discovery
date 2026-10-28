@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://und-parcel-phentermine-situations.trycloudflare.com",
-  "httpUrl": "https://und-parcel-phentermine-situations.trycloudflare.com",
-  "updatedAt": "2026-10-28T05:47:50.120Z",
-  "expiresAt": "2026-10-29T05:47:50.120Z",
-  "nonce": "f8dad381e9f84b55fa8236a9c40c79e5",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-28T06:12:47.908Z",
+  "expiresAt": "2026-10-29T06:12:47.908Z",
+  "nonce": "9cb5d9622a8b1aeb504fedb91d1a3f29",
   "payload": {
-    "wsUrl": "wss://und-parcel-phentermine-situations.trycloudflare.com",
-    "httpUrl": "https://und-parcel-phentermine-situations.trycloudflare.com",
-    "issuedAt": "2026-10-28T05:47:50.120Z",
-    "expiresAt": "2026-10-29T05:47:50.120Z",
-    "nonce": "f8dad381e9f84b55fa8236a9c40c79e5"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-28T06:12:47.908Z",
+    "expiresAt": "2026-10-29T06:12:47.908Z",
+    "nonce": "9cb5d9622a8b1aeb504fedb91d1a3f29"
   },
-  "signature": "2AzuSWoUMn9btKif7gE4q1FVS+u+tQrM3ckoKxBvlrdoMpycnJEiFV4maOWr1XVW2zS/pfNX/nJlg55dVppi0w==",
+  "signature": "nj2D+uSX60m/bQ1wA6snPHhEpW7hMbvqkrE9MeBmUb86LBfPsrunOLOFsnaXVzTfARTW37PXnLYUNekiU4QQFg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

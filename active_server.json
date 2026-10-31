@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://indianapolis-stranger-move-pda.trycloudflare.com",
-  "httpUrl": "https://indianapolis-stranger-move-pda.trycloudflare.com",
-  "updatedAt": "2026-10-31T10:12:39.613Z",
-  "expiresAt": "2026-11-01T10:12:39.613Z",
-  "nonce": "2f77ce791543f7fa74c6955401acc386",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-10-31T10:39:17.207Z",
+  "expiresAt": "2026-11-01T10:39:17.207Z",
+  "nonce": "449d118979fba8286cfa13ad6c3a6127",
   "payload": {
-    "wsUrl": "wss://indianapolis-stranger-move-pda.trycloudflare.com",
-    "httpUrl": "https://indianapolis-stranger-move-pda.trycloudflare.com",
-    "issuedAt": "2026-10-31T10:12:39.613Z",
-    "expiresAt": "2026-11-01T10:12:39.613Z",
-    "nonce": "2f77ce791543f7fa74c6955401acc386"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-10-31T10:39:17.207Z",
+    "expiresAt": "2026-11-01T10:39:17.207Z",
+    "nonce": "449d118979fba8286cfa13ad6c3a6127"
   },
-  "signature": "WYAQq5UAoZfNAZbwQBCDV0AgB5FHsqJKOrZKClrDk86SYN7djeqwLoSjH7mMN7RwI/+MsRoMTYOGEn6reV63Qw==",
+  "signature": "3ku2icULp6k9w6KdZFqPEXVR4bOoaRDnJRp1oq07yavt/+OetFmxJcKh/FfzskM81JczNk8fB8Nyy5BywjijHQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

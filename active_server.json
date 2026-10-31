@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://celebrity-dried-aaron-encourages.trycloudflare.com",
-  "httpUrl": "https://celebrity-dried-aaron-encourages.trycloudflare.com",
-  "updatedAt": "2026-10-31T22:08:16.203Z",
-  "expiresAt": "2026-11-01T22:08:16.203Z",
-  "nonce": "c79a610f4bd5a0afdd85e200b1505031",
+  "wsUrl": "wss://shadows-biz-consultancy-sheffield.trycloudflare.com",
+  "httpUrl": "https://shadows-biz-consultancy-sheffield.trycloudflare.com",
+  "updatedAt": "2026-10-31T22:18:39.063Z",
+  "expiresAt": "2026-11-01T22:18:39.063Z",
+  "nonce": "5c1eb8344c876a99aed23c4a52c5736e",
   "payload": {
-    "wsUrl": "wss://celebrity-dried-aaron-encourages.trycloudflare.com",
-    "httpUrl": "https://celebrity-dried-aaron-encourages.trycloudflare.com",
-    "issuedAt": "2026-10-31T22:08:16.203Z",
-    "expiresAt": "2026-11-01T22:08:16.203Z",
-    "nonce": "c79a610f4bd5a0afdd85e200b1505031"
+    "wsUrl": "wss://shadows-biz-consultancy-sheffield.trycloudflare.com",
+    "httpUrl": "https://shadows-biz-consultancy-sheffield.trycloudflare.com",
+    "issuedAt": "2026-10-31T22:18:39.063Z",
+    "expiresAt": "2026-11-01T22:18:39.063Z",
+    "nonce": "5c1eb8344c876a99aed23c4a52c5736e"
   },
-  "signature": "z6387AFw0HL0jmjauyUAklgxbJ4xpWBUO9nfzfV1K5HvcukNy4WnvR5jt3jOeRpQ3yKzTsey6MNMeQbZ5wtyVA==",
+  "signature": "E/w4GdoBxrqmTXrNzY7SqQEdiOuz6ljJUT0pUbtBSfWeTJFYjHFYI4AQzvBkuAulbbuj7GL80mLbOfdjtERYhg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://calculated-shelter-chapters-compliant.trycloudflare.com",
-  "httpUrl": "https://calculated-shelter-chapters-compliant.trycloudflare.com",
-  "updatedAt": "2026-10-31T20:46:27.248Z",
-  "expiresAt": "2026-11-01T20:46:27.248Z",
-  "nonce": "b79d35aee9c5e6c135290dbeaff98212",
+  "wsUrl": "wss://ccd-doors-outreach-prediction.trycloudflare.com",
+  "httpUrl": "https://ccd-doors-outreach-prediction.trycloudflare.com",
+  "updatedAt": "2026-10-31T20:56:50.539Z",
+  "expiresAt": "2026-11-01T20:56:50.539Z",
+  "nonce": "bd450ea20fa134acb6785abacb91bb6b",
   "payload": {
-    "wsUrl": "wss://calculated-shelter-chapters-compliant.trycloudflare.com",
-    "httpUrl": "https://calculated-shelter-chapters-compliant.trycloudflare.com",
-    "issuedAt": "2026-10-31T20:46:27.248Z",
-    "expiresAt": "2026-11-01T20:46:27.248Z",
-    "nonce": "b79d35aee9c5e6c135290dbeaff98212"
+    "wsUrl": "wss://ccd-doors-outreach-prediction.trycloudflare.com",
+    "httpUrl": "https://ccd-doors-outreach-prediction.trycloudflare.com",
+    "issuedAt": "2026-10-31T20:56:50.539Z",
+    "expiresAt": "2026-11-01T20:56:50.539Z",
+    "nonce": "bd450ea20fa134acb6785abacb91bb6b"
   },
-  "signature": "M+4a44CedXP4jbI4aEzawHamBlJJo4B4Ofsjs3w4L18SawhjtQKu3x4T+r+Nce4XbYw6m8RiadCSHaK3j0F2Lg==",
+  "signature": "sHCLTQjeuwfvBEi2Lh/RDoQdaplmyOyUtahTh64y/+yck1ZUM26zFpt2YQ/HHJdB2ZKk4oOxcz50BWF2na+/TA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

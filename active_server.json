@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://staying-must-monitors-nation.trycloudflare.com",
-  "httpUrl": "https://staying-must-monitors-nation.trycloudflare.com",
-  "updatedAt": "2026-10-31T10:56:18.403Z",
-  "expiresAt": "2026-11-01T10:56:18.403Z",
-  "nonce": "aa2507aaafa88d103befcd5a769f8afd",
+  "wsUrl": "wss://kde-newly-while-musical.trycloudflare.com",
+  "httpUrl": "https://kde-newly-while-musical.trycloudflare.com",
+  "updatedAt": "2026-10-31T11:12:40.030Z",
+  "expiresAt": "2026-11-01T11:12:40.030Z",
+  "nonce": "0b7e0372a964845bdb5ac1d7f6c613df",
   "payload": {
-    "wsUrl": "wss://staying-must-monitors-nation.trycloudflare.com",
-    "httpUrl": "https://staying-must-monitors-nation.trycloudflare.com",
-    "issuedAt": "2026-10-31T10:56:18.403Z",
-    "expiresAt": "2026-11-01T10:56:18.403Z",
-    "nonce": "aa2507aaafa88d103befcd5a769f8afd"
+    "wsUrl": "wss://kde-newly-while-musical.trycloudflare.com",
+    "httpUrl": "https://kde-newly-while-musical.trycloudflare.com",
+    "issuedAt": "2026-10-31T11:12:40.030Z",
+    "expiresAt": "2026-11-01T11:12:40.030Z",
+    "nonce": "0b7e0372a964845bdb5ac1d7f6c613df"
   },
-  "signature": "qDU1UYRWpC3ljU49SXW+vkaYICToNI2FKxfDLR1SWFyEy5XFPx3O2Xd9f0veKafP163mJg+N7lYWslHhpWsP0A==",
+  "signature": "cZBB5rTOv4/Y6rvbF260meeue+MfVlJk8XdMyGsk1G1klqIKwWW7cUCTZz2HiRbuuCbhoz2OjmS6pWXuGQtndQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

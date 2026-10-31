@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
-  "httpUrl": "https://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
-  "updatedAt": "2026-10-31T21:17:37.330Z",
-  "expiresAt": "2026-11-01T21:17:37.330Z",
-  "nonce": "92a2196b22348ea51c2c6c96f85fe87a",
+  "wsUrl": "wss://plug-varied-payments-pig.trycloudflare.com",
+  "httpUrl": "https://plug-varied-payments-pig.trycloudflare.com",
+  "updatedAt": "2026-10-31T21:28:01.895Z",
+  "expiresAt": "2026-11-01T21:28:01.895Z",
+  "nonce": "9c2518e79c15768c63d1cd3885f7dc75",
   "payload": {
-    "wsUrl": "wss://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
-    "httpUrl": "https://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
-    "issuedAt": "2026-10-31T21:17:37.330Z",
-    "expiresAt": "2026-11-01T21:17:37.330Z",
-    "nonce": "92a2196b22348ea51c2c6c96f85fe87a"
+    "wsUrl": "wss://plug-varied-payments-pig.trycloudflare.com",
+    "httpUrl": "https://plug-varied-payments-pig.trycloudflare.com",
+    "issuedAt": "2026-10-31T21:28:01.895Z",
+    "expiresAt": "2026-11-01T21:28:01.895Z",
+    "nonce": "9c2518e79c15768c63d1cd3885f7dc75"
   },
-  "signature": "uMz3jHUW0XkxMFC9rAKTDZJHtXKxAJjZyUwlgzAtLFzwNl0brrMQMqzomrrDif2eIRs9QqzBlsAwdtqyq6I2pg==",
+  "signature": "UBymfNxJLUlQqI9QsyFxEs1wWy2b/J9IaRse2NPnFEDZWYiB5JybfAURYK/uVnpqYKpWltTWq0I3YJRyxXmpUQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

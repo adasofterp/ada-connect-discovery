@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-31T10:39:17.207Z",
-  "expiresAt": "2026-11-01T10:39:17.207Z",
-  "nonce": "449d118979fba8286cfa13ad6c3a6127",
+  "wsUrl": "wss://payments-another-pads-compound.trycloudflare.com",
+  "httpUrl": "https://payments-another-pads-compound.trycloudflare.com",
+  "updatedAt": "2026-10-31T10:39:25.845Z",
+  "expiresAt": "2026-11-01T10:39:25.845Z",
+  "nonce": "c98ecf4ef790e2bb1a4ad3c9104c48b7",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-31T10:39:17.207Z",
-    "expiresAt": "2026-11-01T10:39:17.207Z",
-    "nonce": "449d118979fba8286cfa13ad6c3a6127"
+    "wsUrl": "wss://payments-another-pads-compound.trycloudflare.com",
+    "httpUrl": "https://payments-another-pads-compound.trycloudflare.com",
+    "issuedAt": "2026-10-31T10:39:25.845Z",
+    "expiresAt": "2026-11-01T10:39:25.845Z",
+    "nonce": "c98ecf4ef790e2bb1a4ad3c9104c48b7"
   },
-  "signature": "3ku2icULp6k9w6KdZFqPEXVR4bOoaRDnJRp1oq07yavt/+OetFmxJcKh/FfzskM81JczNk8fB8Nyy5BywjijHQ==",
+  "signature": "WWOmhIpMKW603l3hL8IyvsR4CQOQrW1qiH/+40OsE0y/fOHPz252/9H1uguAktNAg8y44Z1RQpzxdedfdS4noQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

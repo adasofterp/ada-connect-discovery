@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ccd-doors-outreach-prediction.trycloudflare.com",
-  "httpUrl": "https://ccd-doors-outreach-prediction.trycloudflare.com",
-  "updatedAt": "2026-10-31T20:56:50.539Z",
-  "expiresAt": "2026-11-01T20:56:50.539Z",
-  "nonce": "bd450ea20fa134acb6785abacb91bb6b",
+  "wsUrl": "wss://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
+  "httpUrl": "https://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
+  "updatedAt": "2026-10-31T21:17:37.330Z",
+  "expiresAt": "2026-11-01T21:17:37.330Z",
+  "nonce": "92a2196b22348ea51c2c6c96f85fe87a",
   "payload": {
-    "wsUrl": "wss://ccd-doors-outreach-prediction.trycloudflare.com",
-    "httpUrl": "https://ccd-doors-outreach-prediction.trycloudflare.com",
-    "issuedAt": "2026-10-31T20:56:50.539Z",
-    "expiresAt": "2026-11-01T20:56:50.539Z",
-    "nonce": "bd450ea20fa134acb6785abacb91bb6b"
+    "wsUrl": "wss://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
+    "httpUrl": "https://polyphonic-issn-cylinder-jewelry.trycloudflare.com",
+    "issuedAt": "2026-10-31T21:17:37.330Z",
+    "expiresAt": "2026-11-01T21:17:37.330Z",
+    "nonce": "92a2196b22348ea51c2c6c96f85fe87a"
   },
-  "signature": "sHCLTQjeuwfvBEi2Lh/RDoQdaplmyOyUtahTh64y/+yck1ZUM26zFpt2YQ/HHJdB2ZKk4oOxcz50BWF2na+/TA==",
+  "signature": "uMz3jHUW0XkxMFC9rAKTDZJHtXKxAJjZyUwlgzAtLFzwNl0brrMQMqzomrrDif2eIRs9QqzBlsAwdtqyq6I2pg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

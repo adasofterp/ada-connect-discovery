@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shadows-biz-consultancy-sheffield.trycloudflare.com",
-  "httpUrl": "https://shadows-biz-consultancy-sheffield.trycloudflare.com",
-  "updatedAt": "2026-10-31T22:18:39.063Z",
-  "expiresAt": "2026-11-01T22:18:39.063Z",
-  "nonce": "5c1eb8344c876a99aed23c4a52c5736e",
+  "wsUrl": "wss://happens-count-division-peaceful.trycloudflare.com",
+  "httpUrl": "https://happens-count-division-peaceful.trycloudflare.com",
+  "updatedAt": "2026-10-31T22:29:04.344Z",
+  "expiresAt": "2026-11-01T22:29:04.344Z",
+  "nonce": "fe300e5ff8228ac6dc52b508e11d7b8c",
   "payload": {
-    "wsUrl": "wss://shadows-biz-consultancy-sheffield.trycloudflare.com",
-    "httpUrl": "https://shadows-biz-consultancy-sheffield.trycloudflare.com",
-    "issuedAt": "2026-10-31T22:18:39.063Z",
-    "expiresAt": "2026-11-01T22:18:39.063Z",
-    "nonce": "5c1eb8344c876a99aed23c4a52c5736e"
+    "wsUrl": "wss://happens-count-division-peaceful.trycloudflare.com",
+    "httpUrl": "https://happens-count-division-peaceful.trycloudflare.com",
+    "issuedAt": "2026-10-31T22:29:04.344Z",
+    "expiresAt": "2026-11-01T22:29:04.344Z",
+    "nonce": "fe300e5ff8228ac6dc52b508e11d7b8c"
   },
-  "signature": "E/w4GdoBxrqmTXrNzY7SqQEdiOuz6ljJUT0pUbtBSfWeTJFYjHFYI4AQzvBkuAulbbuj7GL80mLbOfdjtERYhg==",
+  "signature": "gyQ6xIL/s2nj1zCU1xyEjHVQHT1OqbSPVBPIM2LF6HfdzOnSQ8v0UhmZ04szQ4T9g/IyMFQc8dR2bP9Vh0yofw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

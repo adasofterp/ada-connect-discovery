@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://kde-newly-while-musical.trycloudflare.com",
-  "httpUrl": "https://kde-newly-while-musical.trycloudflare.com",
-  "updatedAt": "2026-10-31T11:12:40.030Z",
-  "expiresAt": "2026-11-01T11:12:40.030Z",
-  "nonce": "0b7e0372a964845bdb5ac1d7f6c613df",
+  "wsUrl": "wss://characterized-portraits-dan-patrol.trycloudflare.com",
+  "httpUrl": "https://characterized-portraits-dan-patrol.trycloudflare.com",
+  "updatedAt": "2026-10-31T11:22:24.439Z",
+  "expiresAt": "2026-11-01T11:22:24.439Z",
+  "nonce": "400015de2f364107eb5ad456c6f5fa34",
   "payload": {
-    "wsUrl": "wss://kde-newly-while-musical.trycloudflare.com",
-    "httpUrl": "https://kde-newly-while-musical.trycloudflare.com",
-    "issuedAt": "2026-10-31T11:12:40.030Z",
-    "expiresAt": "2026-11-01T11:12:40.030Z",
-    "nonce": "0b7e0372a964845bdb5ac1d7f6c613df"
+    "wsUrl": "wss://characterized-portraits-dan-patrol.trycloudflare.com",
+    "httpUrl": "https://characterized-portraits-dan-patrol.trycloudflare.com",
+    "issuedAt": "2026-10-31T11:22:24.439Z",
+    "expiresAt": "2026-11-01T11:22:24.439Z",
+    "nonce": "400015de2f364107eb5ad456c6f5fa34"
   },
-  "signature": "cZBB5rTOv4/Y6rvbF260meeue+MfVlJk8XdMyGsk1G1klqIKwWW7cUCTZz2HiRbuuCbhoz2OjmS6pWXuGQtndQ==",
+  "signature": "rnT6sX1l4Vjy/ZRHmgq/CVkwC4mtwJAqW143HyGEQsHatgilrY1j82GeZO8dYnvQ+edZPOQExMCI1OusRzZHlw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

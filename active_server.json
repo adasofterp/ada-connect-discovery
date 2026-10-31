@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lang-trainer-convention-glucose.trycloudflare.com",
-  "httpUrl": "https://lang-trainer-convention-glucose.trycloudflare.com",
-  "updatedAt": "2026-10-31T19:45:27.056Z",
-  "expiresAt": "2026-11-01T19:45:27.056Z",
-  "nonce": "d9c4b23b9ee3e1bab284c7371a551eb4",
+  "wsUrl": "wss://arg-mileage-professional-commitments.trycloudflare.com",
+  "httpUrl": "https://arg-mileage-professional-commitments.trycloudflare.com",
+  "updatedAt": "2026-10-31T19:55:53.886Z",
+  "expiresAt": "2026-11-01T19:55:53.886Z",
+  "nonce": "3db45789be3d5101ff558fcd2e7dacf9",
   "payload": {
-    "wsUrl": "wss://lang-trainer-convention-glucose.trycloudflare.com",
-    "httpUrl": "https://lang-trainer-convention-glucose.trycloudflare.com",
-    "issuedAt": "2026-10-31T19:45:27.056Z",
-    "expiresAt": "2026-11-01T19:45:27.056Z",
-    "nonce": "d9c4b23b9ee3e1bab284c7371a551eb4"
+    "wsUrl": "wss://arg-mileage-professional-commitments.trycloudflare.com",
+    "httpUrl": "https://arg-mileage-professional-commitments.trycloudflare.com",
+    "issuedAt": "2026-10-31T19:55:53.886Z",
+    "expiresAt": "2026-11-01T19:55:53.886Z",
+    "nonce": "3db45789be3d5101ff558fcd2e7dacf9"
   },
-  "signature": "qaapGrP1VMH5Y5K3mPtfQUHSqQbf+F1BWfBl1VKz8S3MaYqEOYKBepEFKMvyWslxOBsagktQisq2RWDEsfF/BA==",
+  "signature": "u6x+zuCqylr/LfmTbloZD+4i4KL7zxZSH4bScxuiJm/LFRPeDQSpZq81yaAtgua0TBjsrjcvX+vgM+MwW1+8Pg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

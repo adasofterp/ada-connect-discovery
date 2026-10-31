@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-10-31T19:21:34.181Z",
-  "expiresAt": "2026-11-01T19:21:34.181Z",
-  "nonce": "0fac2576af2668e0b2286a4dd1193b68",
+  "wsUrl": "wss://andreas-davidson-amazing-settled.trycloudflare.com",
+  "httpUrl": "https://andreas-davidson-amazing-settled.trycloudflare.com",
+  "updatedAt": "2026-10-31T19:26:46.244Z",
+  "expiresAt": "2026-11-01T19:26:46.244Z",
+  "nonce": "66d986bce2dfa3a6307851b64c43eaf6",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-10-31T19:21:34.181Z",
-    "expiresAt": "2026-11-01T19:21:34.181Z",
-    "nonce": "0fac2576af2668e0b2286a4dd1193b68"
+    "wsUrl": "wss://andreas-davidson-amazing-settled.trycloudflare.com",
+    "httpUrl": "https://andreas-davidson-amazing-settled.trycloudflare.com",
+    "issuedAt": "2026-10-31T19:26:46.244Z",
+    "expiresAt": "2026-11-01T19:26:46.244Z",
+    "nonce": "66d986bce2dfa3a6307851b64c43eaf6"
   },
-  "signature": "/nmLkRszNmw6/xdhI9ntARc6Z4GehXLnva3XVWrDYYqmNx9b9lCbSZRss0/8ttxeZx/9K6hGQWdmk6WuhsUEsw==",
+  "signature": "pI+AJdy7oilrrvHt2BeT3We25BpVOu50Es8UzOaPBUNcDrTPTSHWfO69ToJKRT9aifrPT1TpzLEQvx8Lc23nSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

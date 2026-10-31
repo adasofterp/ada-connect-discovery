@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://usd-regarded-deeper-accounts.trycloudflare.com",
-  "httpUrl": "https://usd-regarded-deeper-accounts.trycloudflare.com",
-  "updatedAt": "2026-10-31T19:37:11.630Z",
-  "expiresAt": "2026-11-01T19:37:11.630Z",
-  "nonce": "287e6a6d48e7077bf23b463366789a60",
+  "wsUrl": "wss://lang-trainer-convention-glucose.trycloudflare.com",
+  "httpUrl": "https://lang-trainer-convention-glucose.trycloudflare.com",
+  "updatedAt": "2026-10-31T19:45:27.056Z",
+  "expiresAt": "2026-11-01T19:45:27.056Z",
+  "nonce": "d9c4b23b9ee3e1bab284c7371a551eb4",
   "payload": {
-    "wsUrl": "wss://usd-regarded-deeper-accounts.trycloudflare.com",
-    "httpUrl": "https://usd-regarded-deeper-accounts.trycloudflare.com",
-    "issuedAt": "2026-10-31T19:37:11.630Z",
-    "expiresAt": "2026-11-01T19:37:11.630Z",
-    "nonce": "287e6a6d48e7077bf23b463366789a60"
+    "wsUrl": "wss://lang-trainer-convention-glucose.trycloudflare.com",
+    "httpUrl": "https://lang-trainer-convention-glucose.trycloudflare.com",
+    "issuedAt": "2026-10-31T19:45:27.056Z",
+    "expiresAt": "2026-11-01T19:45:27.056Z",
+    "nonce": "d9c4b23b9ee3e1bab284c7371a551eb4"
   },
-  "signature": "WaYY2LEibiKQAgBWArHlHe4BCqXLOBkZe636EWHyVR4aX+DiKPPQPTUEOtkoGexYj3xkReGR3rJjlWjdTY1Jyg==",
+  "signature": "qaapGrP1VMH5Y5K3mPtfQUHSqQbf+F1BWfBl1VKz8S3MaYqEOYKBepEFKMvyWslxOBsagktQisq2RWDEsfF/BA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

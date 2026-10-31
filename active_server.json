@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://payments-another-pads-compound.trycloudflare.com",
-  "httpUrl": "https://payments-another-pads-compound.trycloudflare.com",
-  "updatedAt": "2026-10-31T10:39:25.845Z",
-  "expiresAt": "2026-11-01T10:39:25.845Z",
-  "nonce": "c98ecf4ef790e2bb1a4ad3c9104c48b7",
+  "wsUrl": "wss://staying-must-monitors-nation.trycloudflare.com",
+  "httpUrl": "https://staying-must-monitors-nation.trycloudflare.com",
+  "updatedAt": "2026-10-31T10:56:18.403Z",
+  "expiresAt": "2026-11-01T10:56:18.403Z",
+  "nonce": "aa2507aaafa88d103befcd5a769f8afd",
   "payload": {
-    "wsUrl": "wss://payments-another-pads-compound.trycloudflare.com",
-    "httpUrl": "https://payments-another-pads-compound.trycloudflare.com",
-    "issuedAt": "2026-10-31T10:39:25.845Z",
-    "expiresAt": "2026-11-01T10:39:25.845Z",
-    "nonce": "c98ecf4ef790e2bb1a4ad3c9104c48b7"
+    "wsUrl": "wss://staying-must-monitors-nation.trycloudflare.com",
+    "httpUrl": "https://staying-must-monitors-nation.trycloudflare.com",
+    "issuedAt": "2026-10-31T10:56:18.403Z",
+    "expiresAt": "2026-11-01T10:56:18.403Z",
+    "nonce": "aa2507aaafa88d103befcd5a769f8afd"
   },
-  "signature": "WWOmhIpMKW603l3hL8IyvsR4CQOQrW1qiH/+40OsE0y/fOHPz252/9H1uguAktNAg8y44Z1RQpzxdedfdS4noQ==",
+  "signature": "qDU1UYRWpC3ljU49SXW+vkaYICToNI2FKxfDLR1SWFyEy5XFPx3O2Xd9f0veKafP163mJg+N7lYWslHhpWsP0A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

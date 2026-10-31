@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://plug-varied-payments-pig.trycloudflare.com",
-  "httpUrl": "https://plug-varied-payments-pig.trycloudflare.com",
-  "updatedAt": "2026-10-31T21:28:01.895Z",
-  "expiresAt": "2026-11-01T21:28:01.895Z",
-  "nonce": "9c2518e79c15768c63d1cd3885f7dc75",
+  "wsUrl": "wss://leading-tsunami-definitions-produces.trycloudflare.com",
+  "httpUrl": "https://leading-tsunami-definitions-produces.trycloudflare.com",
+  "updatedAt": "2026-10-31T21:38:22.805Z",
+  "expiresAt": "2026-11-01T21:38:22.805Z",
+  "nonce": "b0feb0a8c01011c881cdd28267a9fa32",
   "payload": {
-    "wsUrl": "wss://plug-varied-payments-pig.trycloudflare.com",
-    "httpUrl": "https://plug-varied-payments-pig.trycloudflare.com",
-    "issuedAt": "2026-10-31T21:28:01.895Z",
-    "expiresAt": "2026-11-01T21:28:01.895Z",
-    "nonce": "9c2518e79c15768c63d1cd3885f7dc75"
+    "wsUrl": "wss://leading-tsunami-definitions-produces.trycloudflare.com",
+    "httpUrl": "https://leading-tsunami-definitions-produces.trycloudflare.com",
+    "issuedAt": "2026-10-31T21:38:22.805Z",
+    "expiresAt": "2026-11-01T21:38:22.805Z",
+    "nonce": "b0feb0a8c01011c881cdd28267a9fa32"
   },
-  "signature": "UBymfNxJLUlQqI9QsyFxEs1wWy2b/J9IaRse2NPnFEDZWYiB5JybfAURYK/uVnpqYKpWltTWq0I3YJRyxXmpUQ==",
+  "signature": "Tl0TtOdg49mJ5f/igTaIRkiHZu3xaiqQk/J9ThM8qupD4p7xzTZv6REqPGiSIBNK14UG4mGK0IN0H9nFYTlwLQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://autumn-inquiries-inn-affiliation.trycloudflare.com",
-  "httpUrl": "https://autumn-inquiries-inn-affiliation.trycloudflare.com",
-  "updatedAt": "2026-10-31T07:38:24.138Z",
-  "expiresAt": "2026-11-01T07:38:24.138Z",
-  "nonce": "7428f88029d88ec63a29df4633e88e17",
+  "wsUrl": "wss://indianapolis-stranger-move-pda.trycloudflare.com",
+  "httpUrl": "https://indianapolis-stranger-move-pda.trycloudflare.com",
+  "updatedAt": "2026-10-31T10:12:39.613Z",
+  "expiresAt": "2026-11-01T10:12:39.613Z",
+  "nonce": "2f77ce791543f7fa74c6955401acc386",
   "payload": {
-    "wsUrl": "wss://autumn-inquiries-inn-affiliation.trycloudflare.com",
-    "httpUrl": "https://autumn-inquiries-inn-affiliation.trycloudflare.com",
-    "issuedAt": "2026-10-31T07:38:24.138Z",
-    "expiresAt": "2026-11-01T07:38:24.138Z",
-    "nonce": "7428f88029d88ec63a29df4633e88e17"
+    "wsUrl": "wss://indianapolis-stranger-move-pda.trycloudflare.com",
+    "httpUrl": "https://indianapolis-stranger-move-pda.trycloudflare.com",
+    "issuedAt": "2026-10-31T10:12:39.613Z",
+    "expiresAt": "2026-11-01T10:12:39.613Z",
+    "nonce": "2f77ce791543f7fa74c6955401acc386"
   },
-  "signature": "KNZ0Rb39iqx8z3J7ijWE9YyvBL9dB15VaIDZW9PXYh7qQxhmMXP08u8AgZaHY6o5MxKkK056JvPzckiUdJRqqg==",
+  "signature": "WYAQq5UAoZfNAZbwQBCDV0AgB5FHsqJKOrZKClrDk86SYN7djeqwLoSjH7mMN7RwI/+MsRoMTYOGEn6reV63Qw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

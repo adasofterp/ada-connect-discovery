@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://alive-officially-mail-winston.trycloudflare.com",
-  "httpUrl": "https://alive-officially-mail-winston.trycloudflare.com",
-  "updatedAt": "2026-10-31T23:41:57.733Z",
-  "expiresAt": "2026-11-01T23:41:57.733Z",
-  "nonce": "1172078693d0abbdc749720bc998cbbf",
+  "wsUrl": "wss://clear-larry-teenage-cons.trycloudflare.com",
+  "httpUrl": "https://clear-larry-teenage-cons.trycloudflare.com",
+  "updatedAt": "2026-10-31T23:52:21.109Z",
+  "expiresAt": "2026-11-01T23:52:21.109Z",
+  "nonce": "7734d34b0fa3cb1fece65e71700d3921",
   "payload": {
-    "wsUrl": "wss://alive-officially-mail-winston.trycloudflare.com",
-    "httpUrl": "https://alive-officially-mail-winston.trycloudflare.com",
-    "issuedAt": "2026-10-31T23:41:57.733Z",
-    "expiresAt": "2026-11-01T23:41:57.733Z",
-    "nonce": "1172078693d0abbdc749720bc998cbbf"
+    "wsUrl": "wss://clear-larry-teenage-cons.trycloudflare.com",
+    "httpUrl": "https://clear-larry-teenage-cons.trycloudflare.com",
+    "issuedAt": "2026-10-31T23:52:21.109Z",
+    "expiresAt": "2026-11-01T23:52:21.109Z",
+    "nonce": "7734d34b0fa3cb1fece65e71700d3921"
   },
-  "signature": "BOIlNWE1r5NO+aEIg/V3BfP0xyI40nuJfmobJyuKq2KE27CQKmUftKSLadBqkXbmONIyphfno4kvPTA1OwjOOg==",
+  "signature": "c9dhFVT31+fN/QOky0q2qDRSg6xnWErYa6fyjhsbfGobZe68Eyuck6ijS/tvBbm1Jlv+bgxiAYMV5OyE8fJ1DA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

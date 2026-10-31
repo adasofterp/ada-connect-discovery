@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://superintendent-undo-excel-tree.trycloudflare.com",
-  "httpUrl": "https://superintendent-undo-excel-tree.trycloudflare.com",
-  "updatedAt": "2026-10-31T20:06:14.206Z",
-  "expiresAt": "2026-11-01T20:06:14.206Z",
-  "nonce": "b9432c5a5dc0d228dbd3f2e786291a48",
+  "wsUrl": "wss://mean-strings-updated-rail.trycloudflare.com",
+  "httpUrl": "https://mean-strings-updated-rail.trycloudflare.com",
+  "updatedAt": "2026-10-31T20:26:57.993Z",
+  "expiresAt": "2026-11-01T20:26:57.993Z",
+  "nonce": "5f3f8c43d82413a8610eb2c35d405e3e",
   "payload": {
-    "wsUrl": "wss://superintendent-undo-excel-tree.trycloudflare.com",
-    "httpUrl": "https://superintendent-undo-excel-tree.trycloudflare.com",
-    "issuedAt": "2026-10-31T20:06:14.206Z",
-    "expiresAt": "2026-11-01T20:06:14.206Z",
-    "nonce": "b9432c5a5dc0d228dbd3f2e786291a48"
+    "wsUrl": "wss://mean-strings-updated-rail.trycloudflare.com",
+    "httpUrl": "https://mean-strings-updated-rail.trycloudflare.com",
+    "issuedAt": "2026-10-31T20:26:57.993Z",
+    "expiresAt": "2026-11-01T20:26:57.993Z",
+    "nonce": "5f3f8c43d82413a8610eb2c35d405e3e"
   },
-  "signature": "hVaLMOojRzXdiipFjotWaNsGeU1XkaykjqBXw6rshz2UaOEyQH/+0w2Taknp7SNgs6PxkZ6YEMac5EqVPudJNQ==",
+  "signature": "jZBN+NZjeY3fRhYGhUJaJABh4rb0R89YpFkYbAohyJ+0j2goPhjuzFLgmynip0E1dxnqKtEhG3TLXnf9DmAaxA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

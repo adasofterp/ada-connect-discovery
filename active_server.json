@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://logged-cement-daily-persistent.trycloudflare.com",
-  "httpUrl": "https://logged-cement-daily-persistent.trycloudflare.com",
-  "updatedAt": "2026-11-01T18:25:35.030Z",
-  "expiresAt": "2026-11-02T18:25:35.030Z",
-  "nonce": "7fa24a4a6e2851524b0b87268c72e4f9",
+  "wsUrl": "wss://rooms-notification-winning-featured.trycloudflare.com",
+  "httpUrl": "https://rooms-notification-winning-featured.trycloudflare.com",
+  "updatedAt": "2026-11-01T18:26:00.419Z",
+  "expiresAt": "2026-11-02T18:26:00.419Z",
+  "nonce": "140e10d0ccbde3a5db95867ef753c275",
   "payload": {
-    "wsUrl": "wss://logged-cement-daily-persistent.trycloudflare.com",
-    "httpUrl": "https://logged-cement-daily-persistent.trycloudflare.com",
-    "issuedAt": "2026-11-01T18:25:35.030Z",
-    "expiresAt": "2026-11-02T18:25:35.030Z",
-    "nonce": "7fa24a4a6e2851524b0b87268c72e4f9"
+    "wsUrl": "wss://rooms-notification-winning-featured.trycloudflare.com",
+    "httpUrl": "https://rooms-notification-winning-featured.trycloudflare.com",
+    "issuedAt": "2026-11-01T18:26:00.419Z",
+    "expiresAt": "2026-11-02T18:26:00.419Z",
+    "nonce": "140e10d0ccbde3a5db95867ef753c275"
   },
-  "signature": "NM6Rrv9v8jt7KYmUyH6bpQBXmVrCmcbzjwFOw8j0d0im/G2ekq86OltWB6HLWue+aAuANIuMVrAjlLoQcoW2CA==",
+  "signature": "cIGXJXLZ5WbGsHvG+ZDK9sssvv0WVCi+M/WOVIoWVNFt06YgEcadUaQ6s62qgUIaZgXDjzamom1rfoNM5crmDA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

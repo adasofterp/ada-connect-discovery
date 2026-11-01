@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://optical-assuming-define-library.trycloudflare.com",
-  "httpUrl": "https://optical-assuming-define-library.trycloudflare.com",
-  "updatedAt": "2026-11-01T23:19:47.326Z",
-  "expiresAt": "2026-11-02T23:19:47.326Z",
-  "nonce": "7983ac249e54080fdfac764b464a8604",
+  "wsUrl": "wss://jon-omaha-grounds-cash.trycloudflare.com",
+  "httpUrl": "https://jon-omaha-grounds-cash.trycloudflare.com",
+  "updatedAt": "2026-11-01T23:40:35.220Z",
+  "expiresAt": "2026-11-02T23:40:35.220Z",
+  "nonce": "d5dafe016808698844e37b81525e4c0d",
   "payload": {
-    "wsUrl": "wss://optical-assuming-define-library.trycloudflare.com",
-    "httpUrl": "https://optical-assuming-define-library.trycloudflare.com",
-    "issuedAt": "2026-11-01T23:19:47.326Z",
-    "expiresAt": "2026-11-02T23:19:47.326Z",
-    "nonce": "7983ac249e54080fdfac764b464a8604"
+    "wsUrl": "wss://jon-omaha-grounds-cash.trycloudflare.com",
+    "httpUrl": "https://jon-omaha-grounds-cash.trycloudflare.com",
+    "issuedAt": "2026-11-01T23:40:35.220Z",
+    "expiresAt": "2026-11-02T23:40:35.220Z",
+    "nonce": "d5dafe016808698844e37b81525e4c0d"
   },
-  "signature": "Iz7Ymjqybe+2/bYC+Nyc8FPS7s7eZxaAavXFnJ2IAnIz2XiFtt4SZ/c2DOsmrYIt4E+As+DcKZKaX2spqsLD4g==",
+  "signature": "kydTZbyClqeQgKffTf06oBQq+hpkSuarlH3RU24zsRhMkEpyjYX1kbBp6/YDRSV8CoNh/FoYzR5hfT2euQBhSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

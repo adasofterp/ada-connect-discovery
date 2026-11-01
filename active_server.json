@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://conceptual-farmers-friend-picnic.trycloudflare.com",
-  "httpUrl": "https://conceptual-farmers-friend-picnic.trycloudflare.com",
-  "updatedAt": "2026-11-01T02:59:42.387Z",
-  "expiresAt": "2026-11-02T02:59:42.387Z",
-  "nonce": "6ac71ee573bf65d84bf1721e54725119",
+  "wsUrl": "wss://wait-barnes-rides-stars.trycloudflare.com",
+  "httpUrl": "https://wait-barnes-rides-stars.trycloudflare.com",
+  "updatedAt": "2026-11-01T03:47:47.725Z",
+  "expiresAt": "2026-11-02T03:47:47.725Z",
+  "nonce": "7fe74b1c0f4c39828a99d4c6df74aab0",
   "payload": {
-    "wsUrl": "wss://conceptual-farmers-friend-picnic.trycloudflare.com",
-    "httpUrl": "https://conceptual-farmers-friend-picnic.trycloudflare.com",
-    "issuedAt": "2026-11-01T02:59:42.387Z",
-    "expiresAt": "2026-11-02T02:59:42.387Z",
-    "nonce": "6ac71ee573bf65d84bf1721e54725119"
+    "wsUrl": "wss://wait-barnes-rides-stars.trycloudflare.com",
+    "httpUrl": "https://wait-barnes-rides-stars.trycloudflare.com",
+    "issuedAt": "2026-11-01T03:47:47.725Z",
+    "expiresAt": "2026-11-02T03:47:47.725Z",
+    "nonce": "7fe74b1c0f4c39828a99d4c6df74aab0"
   },
-  "signature": "qqK5XmgYYK1laaLE7JDGnIqOa9tCemXNS7jPICA/odCAPD3wgmDW3BrHa4Z6e4bHGENx0mOQZVdurhLju7sjxg==",
+  "signature": "+Bm7Jddujll2eF5m4pYlyabPBGyDRoaUaag5DpHnxSIlu/Qn31NPYqL6mf2G9r35kWaFt9h2WUTrAVXN+pkECA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

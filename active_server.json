@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://functional-jewish-dating-qty.trycloudflare.com",
-  "httpUrl": "https://functional-jewish-dating-qty.trycloudflare.com",
-  "updatedAt": "2026-11-01T08:35:19.848Z",
-  "expiresAt": "2026-11-02T08:35:19.848Z",
-  "nonce": "9362d8ab33133fe917564825944d1a2c",
+  "wsUrl": "wss://debug-rewards-exceptions-invoice.trycloudflare.com",
+  "httpUrl": "https://debug-rewards-exceptions-invoice.trycloudflare.com",
+  "updatedAt": "2026-11-01T09:42:32.904Z",
+  "expiresAt": "2026-11-02T09:42:32.904Z",
+  "nonce": "32ad7e13102f29a80455d4b9905ca309",
   "payload": {
-    "wsUrl": "wss://functional-jewish-dating-qty.trycloudflare.com",
-    "httpUrl": "https://functional-jewish-dating-qty.trycloudflare.com",
-    "issuedAt": "2026-11-01T08:35:19.848Z",
-    "expiresAt": "2026-11-02T08:35:19.848Z",
-    "nonce": "9362d8ab33133fe917564825944d1a2c"
+    "wsUrl": "wss://debug-rewards-exceptions-invoice.trycloudflare.com",
+    "httpUrl": "https://debug-rewards-exceptions-invoice.trycloudflare.com",
+    "issuedAt": "2026-11-01T09:42:32.904Z",
+    "expiresAt": "2026-11-02T09:42:32.904Z",
+    "nonce": "32ad7e13102f29a80455d4b9905ca309"
   },
-  "signature": "0WpBV6CLmmMn3RRW7y4us7NtU7X81/jpUFTKGJnV7fl/y9Re9ZcoCYegRHLlc132USPfM1dVvKufQ/TLwDGUyg==",
+  "signature": "fBrOxbnXOeL6TifwREI8+NpHITbAucExxi0WUg/i4NoJkh3+BbUOY1dunQEGqHQGgGp/bOSGAK0b6dvRBrJiwg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

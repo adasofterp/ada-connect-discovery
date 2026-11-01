@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-01T18:25:26.332Z",
-  "expiresAt": "2026-11-02T18:25:26.333Z",
-  "nonce": "3a7b902d24a74ce915258c1567e8490c",
+  "wsUrl": "wss://logged-cement-daily-persistent.trycloudflare.com",
+  "httpUrl": "https://logged-cement-daily-persistent.trycloudflare.com",
+  "updatedAt": "2026-11-01T18:25:35.030Z",
+  "expiresAt": "2026-11-02T18:25:35.030Z",
+  "nonce": "7fa24a4a6e2851524b0b87268c72e4f9",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-01T18:25:26.332Z",
-    "expiresAt": "2026-11-02T18:25:26.333Z",
-    "nonce": "3a7b902d24a74ce915258c1567e8490c"
+    "wsUrl": "wss://logged-cement-daily-persistent.trycloudflare.com",
+    "httpUrl": "https://logged-cement-daily-persistent.trycloudflare.com",
+    "issuedAt": "2026-11-01T18:25:35.030Z",
+    "expiresAt": "2026-11-02T18:25:35.030Z",
+    "nonce": "7fa24a4a6e2851524b0b87268c72e4f9"
   },
-  "signature": "34xlC47RCu1NoPZriLFnNHNJ329xDDG4lhNdjRXy76EZN0ykDAKHIWLzxdy14HNsQCaOFDkmORSw3JHCoLDYNA==",
+  "signature": "NM6Rrv9v8jt7KYmUyH6bpQBXmVrCmcbzjwFOw8j0d0im/G2ekq86OltWB6HLWue+aAuANIuMVrAjlLoQcoW2CA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

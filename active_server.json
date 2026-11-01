@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://encouraging-civilian-element-traveller.trycloudflare.com",
-  "httpUrl": "https://encouraging-civilian-element-traveller.trycloudflare.com",
-  "updatedAt": "2026-11-01T06:07:16.287Z",
-  "expiresAt": "2026-11-02T06:07:16.287Z",
-  "nonce": "4b243f8615022a18b10688affa2dc803",
+  "wsUrl": "wss://continent-married-carriers-implied.trycloudflare.com",
+  "httpUrl": "https://continent-married-carriers-implied.trycloudflare.com",
+  "updatedAt": "2026-11-01T06:38:26.012Z",
+  "expiresAt": "2026-11-02T06:38:26.012Z",
+  "nonce": "2758c0a52f44bde35f5540affd22b39b",
   "payload": {
-    "wsUrl": "wss://encouraging-civilian-element-traveller.trycloudflare.com",
-    "httpUrl": "https://encouraging-civilian-element-traveller.trycloudflare.com",
-    "issuedAt": "2026-11-01T06:07:16.287Z",
-    "expiresAt": "2026-11-02T06:07:16.287Z",
-    "nonce": "4b243f8615022a18b10688affa2dc803"
+    "wsUrl": "wss://continent-married-carriers-implied.trycloudflare.com",
+    "httpUrl": "https://continent-married-carriers-implied.trycloudflare.com",
+    "issuedAt": "2026-11-01T06:38:26.012Z",
+    "expiresAt": "2026-11-02T06:38:26.012Z",
+    "nonce": "2758c0a52f44bde35f5540affd22b39b"
   },
-  "signature": "d6tKWe98dJjD8hJQHztBkr0Tk5+pmQ4qVBvgoSTp7Iiyw99bCJ1m0WfdMK+a7mKN1XUid1xw8ecfdeHet6G8xA==",
+  "signature": "ChToTePOC4Zb7aSJsJxPk/QnWGz0h23TQLKTkAcA77fZu4IT1A6JP1nOwm024aQxFaZbAvxQLG7JxeIIlr+F4g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

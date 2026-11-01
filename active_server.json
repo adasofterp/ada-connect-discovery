@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://discs-merit-hood-killing.trycloudflare.com",
-  "httpUrl": "https://discs-merit-hood-killing.trycloudflare.com",
-  "updatedAt": "2026-11-01T17:50:32.574Z",
-  "expiresAt": "2026-11-02T17:50:32.574Z",
-  "nonce": "c88055999a2f9184e652c4adc88fd952",
+  "wsUrl": "wss://livestock-phys-pipes-gather.trycloudflare.com",
+  "httpUrl": "https://livestock-phys-pipes-gather.trycloudflare.com",
+  "updatedAt": "2026-11-01T18:06:57.286Z",
+  "expiresAt": "2026-11-02T18:06:57.286Z",
+  "nonce": "a6284af7674dd0aef39291e4e64034bf",
   "payload": {
-    "wsUrl": "wss://discs-merit-hood-killing.trycloudflare.com",
-    "httpUrl": "https://discs-merit-hood-killing.trycloudflare.com",
-    "issuedAt": "2026-11-01T17:50:32.574Z",
-    "expiresAt": "2026-11-02T17:50:32.574Z",
-    "nonce": "c88055999a2f9184e652c4adc88fd952"
+    "wsUrl": "wss://livestock-phys-pipes-gather.trycloudflare.com",
+    "httpUrl": "https://livestock-phys-pipes-gather.trycloudflare.com",
+    "issuedAt": "2026-11-01T18:06:57.286Z",
+    "expiresAt": "2026-11-02T18:06:57.286Z",
+    "nonce": "a6284af7674dd0aef39291e4e64034bf"
   },
-  "signature": "KpcoWNmGtwX0TPfX3VKaNJ+IV8wnanf9vho/9lnno4onjxKh2X1/mOyXaWfOyWEZVHq90CRwUMoubVQBJo2IlA==",
+  "signature": "jgxi+D+xXeDqX10su2TvjS3ansmL9s85UoAJ8/LgJvy6bvFGa7AIfgPF+0Iddm8dq2lWYUsXIscSw4GwQviWXQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

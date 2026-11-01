@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://therapeutic-cms-becomes-systems.trycloudflare.com",
-  "httpUrl": "https://therapeutic-cms-becomes-systems.trycloudflare.com",
-  "updatedAt": "2026-11-01T02:49:20.513Z",
-  "expiresAt": "2026-11-02T02:49:20.513Z",
-  "nonce": "774492223b76df3865cc209841ccce9c",
+  "wsUrl": "wss://conceptual-farmers-friend-picnic.trycloudflare.com",
+  "httpUrl": "https://conceptual-farmers-friend-picnic.trycloudflare.com",
+  "updatedAt": "2026-11-01T02:59:42.387Z",
+  "expiresAt": "2026-11-02T02:59:42.387Z",
+  "nonce": "6ac71ee573bf65d84bf1721e54725119",
   "payload": {
-    "wsUrl": "wss://therapeutic-cms-becomes-systems.trycloudflare.com",
-    "httpUrl": "https://therapeutic-cms-becomes-systems.trycloudflare.com",
-    "issuedAt": "2026-11-01T02:49:20.513Z",
-    "expiresAt": "2026-11-02T02:49:20.513Z",
-    "nonce": "774492223b76df3865cc209841ccce9c"
+    "wsUrl": "wss://conceptual-farmers-friend-picnic.trycloudflare.com",
+    "httpUrl": "https://conceptual-farmers-friend-picnic.trycloudflare.com",
+    "issuedAt": "2026-11-01T02:59:42.387Z",
+    "expiresAt": "2026-11-02T02:59:42.387Z",
+    "nonce": "6ac71ee573bf65d84bf1721e54725119"
   },
-  "signature": "67/Ql3Fi/9wrbmC42dPq2b09Z61MPgdTeS3mkLwX+biEPzEKyz4etQex6wiPSWPy28WTaAM3mtytrYdA0n9Jkg==",
+  "signature": "qqK5XmgYYK1laaLE7JDGnIqOa9tCemXNS7jPICA/odCAPD3wgmDW3BrHa4Z6e4bHGENx0mOQZVdurhLju7sjxg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

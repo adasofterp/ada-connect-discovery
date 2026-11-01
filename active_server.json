@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rooms-notification-winning-featured.trycloudflare.com",
-  "httpUrl": "https://rooms-notification-winning-featured.trycloudflare.com",
-  "updatedAt": "2026-11-01T18:26:00.419Z",
-  "expiresAt": "2026-11-02T18:26:00.419Z",
-  "nonce": "140e10d0ccbde3a5db95867ef753c275",
+  "wsUrl": "wss://herbs-funk-victoria-proc.trycloudflare.com",
+  "httpUrl": "https://herbs-funk-victoria-proc.trycloudflare.com",
+  "updatedAt": "2026-11-01T21:28:49.263Z",
+  "expiresAt": "2026-11-02T21:28:49.263Z",
+  "nonce": "be53eb86579cdd90629f54512a310af4",
   "payload": {
-    "wsUrl": "wss://rooms-notification-winning-featured.trycloudflare.com",
-    "httpUrl": "https://rooms-notification-winning-featured.trycloudflare.com",
-    "issuedAt": "2026-11-01T18:26:00.419Z",
-    "expiresAt": "2026-11-02T18:26:00.419Z",
-    "nonce": "140e10d0ccbde3a5db95867ef753c275"
+    "wsUrl": "wss://herbs-funk-victoria-proc.trycloudflare.com",
+    "httpUrl": "https://herbs-funk-victoria-proc.trycloudflare.com",
+    "issuedAt": "2026-11-01T21:28:49.263Z",
+    "expiresAt": "2026-11-02T21:28:49.263Z",
+    "nonce": "be53eb86579cdd90629f54512a310af4"
   },
-  "signature": "cIGXJXLZ5WbGsHvG+ZDK9sssvv0WVCi+M/WOVIoWVNFt06YgEcadUaQ6s62qgUIaZgXDjzamom1rfoNM5crmDA==",
+  "signature": "hwDSJyJnVNr51yM90Lk51emRe1EEI9E15yppXhDWjX2Lxay5v2Ve7TepAH9OVwwWR5dqT7AijTrCu9zRf4CwiA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://downloads-homepage-watching-creating.trycloudflare.com",
-  "httpUrl": "https://downloads-homepage-watching-creating.trycloudflare.com",
-  "updatedAt": "2026-11-01T04:31:52.897Z",
-  "expiresAt": "2026-11-02T04:31:52.897Z",
-  "nonce": "bb1f69272e00ad2489bd10237c356c85",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-01T04:43:30.530Z",
+  "expiresAt": "2026-11-02T04:43:30.530Z",
+  "nonce": "eafa372114a5b825a52449603bb36748",
   "payload": {
-    "wsUrl": "wss://downloads-homepage-watching-creating.trycloudflare.com",
-    "httpUrl": "https://downloads-homepage-watching-creating.trycloudflare.com",
-    "issuedAt": "2026-11-01T04:31:52.897Z",
-    "expiresAt": "2026-11-02T04:31:52.897Z",
-    "nonce": "bb1f69272e00ad2489bd10237c356c85"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-01T04:43:30.530Z",
+    "expiresAt": "2026-11-02T04:43:30.530Z",
+    "nonce": "eafa372114a5b825a52449603bb36748"
   },
-  "signature": "jwoyi4NnpR+8nwUt2Gh9l7q2X6Lgp+2xa4cq/whqgkbHUvIgM/Q16wNOGVllrV2vy1FlEO19i3EbNoUDL2Nkfw==",
+  "signature": "33poUWe0kChycJdelK6rgBNAGPmNdH0BkwFXNkB4bZ/1jr9Nd3RZkW/Bwv0ggwo+HYA2Cq9Ma5npf505UBXgnw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

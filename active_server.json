@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://punk-compromise-scotland-due.trycloudflare.com",
-  "httpUrl": "https://punk-compromise-scotland-due.trycloudflare.com",
-  "updatedAt": "2026-11-01T16:20:34.913Z",
-  "expiresAt": "2026-11-02T16:20:34.913Z",
-  "nonce": "d17c12419f6f6ded1d3596220d9fcd7a",
+  "wsUrl": "wss://railroad-communication-pack-shoes.trycloudflare.com",
+  "httpUrl": "https://railroad-communication-pack-shoes.trycloudflare.com",
+  "updatedAt": "2026-11-01T17:17:35.113Z",
+  "expiresAt": "2026-11-02T17:17:35.113Z",
+  "nonce": "43c69ef086a1a71c7a44db784ed9c3a9",
   "payload": {
-    "wsUrl": "wss://punk-compromise-scotland-due.trycloudflare.com",
-    "httpUrl": "https://punk-compromise-scotland-due.trycloudflare.com",
-    "issuedAt": "2026-11-01T16:20:34.913Z",
-    "expiresAt": "2026-11-02T16:20:34.913Z",
-    "nonce": "d17c12419f6f6ded1d3596220d9fcd7a"
+    "wsUrl": "wss://railroad-communication-pack-shoes.trycloudflare.com",
+    "httpUrl": "https://railroad-communication-pack-shoes.trycloudflare.com",
+    "issuedAt": "2026-11-01T17:17:35.113Z",
+    "expiresAt": "2026-11-02T17:17:35.113Z",
+    "nonce": "43c69ef086a1a71c7a44db784ed9c3a9"
   },
-  "signature": "A/3Hc2Le57uO3GvhIU9i/JZWMvjB6G89pPUOYmIvgBH+ZeDCexdR+W2aOU8jL+EdFibYOorQKGFi5irEzEQ7vQ==",
+  "signature": "X2BV6LYVuOHieJL0sn/dsuFKPyOaxEfaZJ9inpQ06j5zdQjZdJc4NHCbcD13QIxiqraT8dE0mPtiQkSYBdqtgw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

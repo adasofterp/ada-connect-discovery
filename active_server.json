@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://unsubscribe-summit-kurt-quantities.trycloudflare.com",
-  "httpUrl": "https://unsubscribe-summit-kurt-quantities.trycloudflare.com",
-  "updatedAt": "2026-11-01T05:20:04.587Z",
-  "expiresAt": "2026-11-02T05:20:04.587Z",
-  "nonce": "d72137e0c2d9d014e9466773cc61fb30",
+  "wsUrl": "wss://item-hopkins-cited-concern.trycloudflare.com",
+  "httpUrl": "https://item-hopkins-cited-concern.trycloudflare.com",
+  "updatedAt": "2026-11-01T05:56:49.184Z",
+  "expiresAt": "2026-11-02T05:56:49.184Z",
+  "nonce": "0b45f69e571343fd2cf38407f10acc24",
   "payload": {
-    "wsUrl": "wss://unsubscribe-summit-kurt-quantities.trycloudflare.com",
-    "httpUrl": "https://unsubscribe-summit-kurt-quantities.trycloudflare.com",
-    "issuedAt": "2026-11-01T05:20:04.587Z",
-    "expiresAt": "2026-11-02T05:20:04.587Z",
-    "nonce": "d72137e0c2d9d014e9466773cc61fb30"
+    "wsUrl": "wss://item-hopkins-cited-concern.trycloudflare.com",
+    "httpUrl": "https://item-hopkins-cited-concern.trycloudflare.com",
+    "issuedAt": "2026-11-01T05:56:49.184Z",
+    "expiresAt": "2026-11-02T05:56:49.184Z",
+    "nonce": "0b45f69e571343fd2cf38407f10acc24"
   },
-  "signature": "OzXt2TwfqwQJtosdx3IJ5ItQD5YHxuxx6jnaBb+Jf/e+ELTmmYuIt46F20sj1sTZ3vaCZZ3zTeZJ6mZXXXKYFw==",
+  "signature": "Xa8ZHteiHO/1ZwviemneIH9W3d3O9JZHbg4jQzuvirJU5hkyiv1iYQ6rW7mqxLqOSH3zSyvP1q4BPrPoULGBjw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

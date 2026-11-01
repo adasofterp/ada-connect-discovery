@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://mins-fin-sector-page.trycloudflare.com",
-  "httpUrl": "https://mins-fin-sector-page.trycloudflare.com",
-  "updatedAt": "2026-11-01T02:02:21.392Z",
-  "expiresAt": "2026-11-02T02:02:21.392Z",
-  "nonce": "7290ff40037622b28d9ff73bcb9d0940",
+  "wsUrl": "wss://instances-early-penguin-shop.trycloudflare.com",
+  "httpUrl": "https://instances-early-penguin-shop.trycloudflare.com",
+  "updatedAt": "2026-11-01T02:18:05.563Z",
+  "expiresAt": "2026-11-02T02:18:05.563Z",
+  "nonce": "36ef131b610060cbcccadb88bd541d94",
   "payload": {
-    "wsUrl": "wss://mins-fin-sector-page.trycloudflare.com",
-    "httpUrl": "https://mins-fin-sector-page.trycloudflare.com",
-    "issuedAt": "2026-11-01T02:02:21.392Z",
-    "expiresAt": "2026-11-02T02:02:21.392Z",
-    "nonce": "7290ff40037622b28d9ff73bcb9d0940"
+    "wsUrl": "wss://instances-early-penguin-shop.trycloudflare.com",
+    "httpUrl": "https://instances-early-penguin-shop.trycloudflare.com",
+    "issuedAt": "2026-11-01T02:18:05.563Z",
+    "expiresAt": "2026-11-02T02:18:05.563Z",
+    "nonce": "36ef131b610060cbcccadb88bd541d94"
   },
-  "signature": "dmsC2YdfWgvf0em86d6y1LTmuULpfA9FrcTU4LsjEye7am9qsRpbfnPyrjt8F1qq+FnBhSuioUUEd6YpdjUhAA==",
+  "signature": "/IuFj1PP3MXDMmsNT4sV6Ub7ZcMeuP5gr/rHUdr1Roi3gRNOi/67YkOcWWZwq+69lYwgVmLDbdfDRMBO4u6+Ig==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://railroad-communication-pack-shoes.trycloudflare.com",
-  "httpUrl": "https://railroad-communication-pack-shoes.trycloudflare.com",
-  "updatedAt": "2026-11-01T17:17:35.113Z",
-  "expiresAt": "2026-11-02T17:17:35.113Z",
-  "nonce": "43c69ef086a1a71c7a44db784ed9c3a9",
+  "wsUrl": "wss://deutsche-test-smile-water.trycloudflare.com",
+  "httpUrl": "https://deutsche-test-smile-water.trycloudflare.com",
+  "updatedAt": "2026-11-01T17:34:09.068Z",
+  "expiresAt": "2026-11-02T17:34:09.068Z",
+  "nonce": "8087d50a5afa0bafd3bdd90e425672e0",
   "payload": {
-    "wsUrl": "wss://railroad-communication-pack-shoes.trycloudflare.com",
-    "httpUrl": "https://railroad-communication-pack-shoes.trycloudflare.com",
-    "issuedAt": "2026-11-01T17:17:35.113Z",
-    "expiresAt": "2026-11-02T17:17:35.113Z",
-    "nonce": "43c69ef086a1a71c7a44db784ed9c3a9"
+    "wsUrl": "wss://deutsche-test-smile-water.trycloudflare.com",
+    "httpUrl": "https://deutsche-test-smile-water.trycloudflare.com",
+    "issuedAt": "2026-11-01T17:34:09.068Z",
+    "expiresAt": "2026-11-02T17:34:09.068Z",
+    "nonce": "8087d50a5afa0bafd3bdd90e425672e0"
   },
-  "signature": "X2BV6LYVuOHieJL0sn/dsuFKPyOaxEfaZJ9inpQ06j5zdQjZdJc4NHCbcD13QIxiqraT8dE0mPtiQkSYBdqtgw==",
+  "signature": "SxhZZWr3PNs12gaY+F1XHZhd44Tv+KPSeKcbpg6uZMA/XMeTX+xM02K4kKbWZ/gn/61L9U5UepLX6EdoV/dCrw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

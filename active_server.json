@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sen-editorial-structure-storm.trycloudflare.com",
-  "httpUrl": "https://sen-editorial-structure-storm.trycloudflare.com",
-  "updatedAt": "2026-11-01T00:13:09.345Z",
-  "expiresAt": "2026-11-02T00:13:09.345Z",
-  "nonce": "fb80844634975381276169179a95f42c",
+  "wsUrl": "wss://regional-educational-creative-job.trycloudflare.com",
+  "httpUrl": "https://regional-educational-creative-job.trycloudflare.com",
+  "updatedAt": "2026-11-01T00:54:44.443Z",
+  "expiresAt": "2026-11-02T00:54:44.443Z",
+  "nonce": "4b40446d6bab6941c467efc14ef0c05f",
   "payload": {
-    "wsUrl": "wss://sen-editorial-structure-storm.trycloudflare.com",
-    "httpUrl": "https://sen-editorial-structure-storm.trycloudflare.com",
-    "issuedAt": "2026-11-01T00:13:09.345Z",
-    "expiresAt": "2026-11-02T00:13:09.345Z",
-    "nonce": "fb80844634975381276169179a95f42c"
+    "wsUrl": "wss://regional-educational-creative-job.trycloudflare.com",
+    "httpUrl": "https://regional-educational-creative-job.trycloudflare.com",
+    "issuedAt": "2026-11-01T00:54:44.443Z",
+    "expiresAt": "2026-11-02T00:54:44.443Z",
+    "nonce": "4b40446d6bab6941c467efc14ef0c05f"
   },
-  "signature": "t1SKDBYfZdRwY5cdp4tZYun165/31edYqzSBmXNgAxl1re09xGVPZ7wZ5VC9gaTn8Fq+8LaLEwhxcliqe501/Q==",
+  "signature": "clWds9nOknli4yXZxPNv4IeP19JpEENblUUNZoTJxkJH7+UpVA3Y0CqkYr6ftaYVbddRy5XAYKUf7/cmH7Zoxw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

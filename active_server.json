@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://herbs-funk-victoria-proc.trycloudflare.com",
-  "httpUrl": "https://herbs-funk-victoria-proc.trycloudflare.com",
-  "updatedAt": "2026-11-01T21:28:49.263Z",
-  "expiresAt": "2026-11-02T21:28:49.263Z",
-  "nonce": "be53eb86579cdd90629f54512a310af4",
+  "wsUrl": "wss://tomorrow-lightbox-reproduce-mass.trycloudflare.com",
+  "httpUrl": "https://tomorrow-lightbox-reproduce-mass.trycloudflare.com",
+  "updatedAt": "2026-11-01T21:39:13.030Z",
+  "expiresAt": "2026-11-02T21:39:13.030Z",
+  "nonce": "382beeb1aa18ca0fc4a2ed7004feeb1b",
   "payload": {
-    "wsUrl": "wss://herbs-funk-victoria-proc.trycloudflare.com",
-    "httpUrl": "https://herbs-funk-victoria-proc.trycloudflare.com",
-    "issuedAt": "2026-11-01T21:28:49.263Z",
-    "expiresAt": "2026-11-02T21:28:49.263Z",
-    "nonce": "be53eb86579cdd90629f54512a310af4"
+    "wsUrl": "wss://tomorrow-lightbox-reproduce-mass.trycloudflare.com",
+    "httpUrl": "https://tomorrow-lightbox-reproduce-mass.trycloudflare.com",
+    "issuedAt": "2026-11-01T21:39:13.030Z",
+    "expiresAt": "2026-11-02T21:39:13.030Z",
+    "nonce": "382beeb1aa18ca0fc4a2ed7004feeb1b"
   },
-  "signature": "hwDSJyJnVNr51yM90Lk51emRe1EEI9E15yppXhDWjX2Lxay5v2Ve7TepAH9OVwwWR5dqT7AijTrCu9zRf4CwiA==",
+  "signature": "XttgJ3NQ9jZpFln6JvO7+S0+PFNW0xa5iFJ5PhpheTmRsQYtMaRnAke5aajiSIoNsejRLql92zIUM1P/TXZzqw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

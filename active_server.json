@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bedrooms-combined-treasures-roman.trycloudflare.com",
-  "httpUrl": "https://bedrooms-combined-treasures-roman.trycloudflare.com",
-  "updatedAt": "2026-11-01T22:50:02.062Z",
-  "expiresAt": "2026-11-02T22:50:02.062Z",
-  "nonce": "a81ff9aef3844a879800e56259c8a420",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-01T23:05:48.194Z",
+  "expiresAt": "2026-11-02T23:05:48.194Z",
+  "nonce": "31bea4becf9398606268621d3017e107",
   "payload": {
-    "wsUrl": "wss://bedrooms-combined-treasures-roman.trycloudflare.com",
-    "httpUrl": "https://bedrooms-combined-treasures-roman.trycloudflare.com",
-    "issuedAt": "2026-11-01T22:50:02.062Z",
-    "expiresAt": "2026-11-02T22:50:02.062Z",
-    "nonce": "a81ff9aef3844a879800e56259c8a420"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-01T23:05:48.194Z",
+    "expiresAt": "2026-11-02T23:05:48.194Z",
+    "nonce": "31bea4becf9398606268621d3017e107"
   },
-  "signature": "s5JrIT/T/QBG47Z94cUvLVWGT44iULLDVGqnX2LQAowqGShNS0/ukhbm8UfybaZnSRQUzzg8zJpzR8lK61PrkA==",
+  "signature": "akHZTBnjKJHzSNPONxAtvkHRPpMMtTpyLZITW98tT7dMxf36vleMp2fgW0cxqs6N0dUe3ey6VlHql2gMsQTnoA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://wait-barnes-rides-stars.trycloudflare.com",
-  "httpUrl": "https://wait-barnes-rides-stars.trycloudflare.com",
-  "updatedAt": "2026-11-01T03:47:47.725Z",
-  "expiresAt": "2026-11-02T03:47:47.725Z",
-  "nonce": "7fe74b1c0f4c39828a99d4c6df74aab0",
+  "wsUrl": "wss://short-bargain-worth-pittsburgh.trycloudflare.com",
+  "httpUrl": "https://short-bargain-worth-pittsburgh.trycloudflare.com",
+  "updatedAt": "2026-11-01T03:55:32.431Z",
+  "expiresAt": "2026-11-02T03:55:32.431Z",
+  "nonce": "68e43d870cc3449afd83407d354c7383",
   "payload": {
-    "wsUrl": "wss://wait-barnes-rides-stars.trycloudflare.com",
-    "httpUrl": "https://wait-barnes-rides-stars.trycloudflare.com",
-    "issuedAt": "2026-11-01T03:47:47.725Z",
-    "expiresAt": "2026-11-02T03:47:47.725Z",
-    "nonce": "7fe74b1c0f4c39828a99d4c6df74aab0"
+    "wsUrl": "wss://short-bargain-worth-pittsburgh.trycloudflare.com",
+    "httpUrl": "https://short-bargain-worth-pittsburgh.trycloudflare.com",
+    "issuedAt": "2026-11-01T03:55:32.431Z",
+    "expiresAt": "2026-11-02T03:55:32.431Z",
+    "nonce": "68e43d870cc3449afd83407d354c7383"
   },
-  "signature": "+Bm7Jddujll2eF5m4pYlyabPBGyDRoaUaag5DpHnxSIlu/Qn31NPYqL6mf2G9r35kWaFt9h2WUTrAVXN+pkECA==",
+  "signature": "6KPOPF3ZzEmw/QvNFATqfV1OevWoyu9aR2WM8JwqLjd4RCtlDks2TPpJFFr9h5LjoNYwgLp7Nvifwd83OzYrCw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

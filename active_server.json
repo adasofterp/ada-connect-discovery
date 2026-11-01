@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://livestock-phys-pipes-gather.trycloudflare.com",
-  "httpUrl": "https://livestock-phys-pipes-gather.trycloudflare.com",
-  "updatedAt": "2026-11-01T18:06:57.286Z",
-  "expiresAt": "2026-11-02T18:06:57.286Z",
-  "nonce": "a6284af7674dd0aef39291e4e64034bf",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-01T18:25:26.332Z",
+  "expiresAt": "2026-11-02T18:25:26.333Z",
+  "nonce": "3a7b902d24a74ce915258c1567e8490c",
   "payload": {
-    "wsUrl": "wss://livestock-phys-pipes-gather.trycloudflare.com",
-    "httpUrl": "https://livestock-phys-pipes-gather.trycloudflare.com",
-    "issuedAt": "2026-11-01T18:06:57.286Z",
-    "expiresAt": "2026-11-02T18:06:57.286Z",
-    "nonce": "a6284af7674dd0aef39291e4e64034bf"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-01T18:25:26.332Z",
+    "expiresAt": "2026-11-02T18:25:26.333Z",
+    "nonce": "3a7b902d24a74ce915258c1567e8490c"
   },
-  "signature": "jgxi+D+xXeDqX10su2TvjS3ansmL9s85UoAJ8/LgJvy6bvFGa7AIfgPF+0Iddm8dq2lWYUsXIscSw4GwQviWXQ==",
+  "signature": "34xlC47RCu1NoPZriLFnNHNJ329xDDG4lhNdjRXy76EZN0ykDAKHIWLzxdy14HNsQCaOFDkmORSw3JHCoLDYNA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

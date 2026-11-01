@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://berry-annotated-pound-anti.trycloudflare.com",
-  "httpUrl": "https://berry-annotated-pound-anti.trycloudflare.com",
-  "updatedAt": "2026-11-01T01:05:08.876Z",
-  "expiresAt": "2026-11-02T01:05:08.876Z",
-  "nonce": "75d40ca434b3dc5f32bd8ba13f0894f7",
+  "wsUrl": "wss://ottawa-lie-relatives-urgent.trycloudflare.com",
+  "httpUrl": "https://ottawa-lie-relatives-urgent.trycloudflare.com",
+  "updatedAt": "2026-11-01T01:15:32.590Z",
+  "expiresAt": "2026-11-02T01:15:32.590Z",
+  "nonce": "48446909ba2e28b86d380b931ce68b33",
   "payload": {
-    "wsUrl": "wss://berry-annotated-pound-anti.trycloudflare.com",
-    "httpUrl": "https://berry-annotated-pound-anti.trycloudflare.com",
-    "issuedAt": "2026-11-01T01:05:08.876Z",
-    "expiresAt": "2026-11-02T01:05:08.876Z",
-    "nonce": "75d40ca434b3dc5f32bd8ba13f0894f7"
+    "wsUrl": "wss://ottawa-lie-relatives-urgent.trycloudflare.com",
+    "httpUrl": "https://ottawa-lie-relatives-urgent.trycloudflare.com",
+    "issuedAt": "2026-11-01T01:15:32.590Z",
+    "expiresAt": "2026-11-02T01:15:32.590Z",
+    "nonce": "48446909ba2e28b86d380b931ce68b33"
   },
-  "signature": "mHLijgBWDNLqz15aNOQLYgLzaBmCmdRWAVSbf9hShZWdj2P+ix2XrlyOJUv6Zp4LoryqM+pn2BKi1OsLA4NVmA==",
+  "signature": "ooHVARDFzhHaSpCdQFgDWxN5fZIX4fB6ZIvvUo9OEd7K7nKZ800ouvikNi4b/NR9YjqJc2QiWH98789006GRhA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

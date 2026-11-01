@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-01T10:08:37.189Z",
-  "expiresAt": "2026-11-02T10:08:37.189Z",
-  "nonce": "c97b9b3d36cdbbea18ea365ab0b8f0f3",
+  "wsUrl": "wss://punk-compromise-scotland-due.trycloudflare.com",
+  "httpUrl": "https://punk-compromise-scotland-due.trycloudflare.com",
+  "updatedAt": "2026-11-01T16:20:34.913Z",
+  "expiresAt": "2026-11-02T16:20:34.913Z",
+  "nonce": "d17c12419f6f6ded1d3596220d9fcd7a",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-01T10:08:37.189Z",
-    "expiresAt": "2026-11-02T10:08:37.189Z",
-    "nonce": "c97b9b3d36cdbbea18ea365ab0b8f0f3"
+    "wsUrl": "wss://punk-compromise-scotland-due.trycloudflare.com",
+    "httpUrl": "https://punk-compromise-scotland-due.trycloudflare.com",
+    "issuedAt": "2026-11-01T16:20:34.913Z",
+    "expiresAt": "2026-11-02T16:20:34.913Z",
+    "nonce": "d17c12419f6f6ded1d3596220d9fcd7a"
   },
-  "signature": "8SY8xUZxf3/0PYSwSCPQ/rDJaKWWe5C/XHM1ZNxQ3EWqbsTUp5gPXQWwjNqVIUthWGSY05VnusmPjl6PiHE/OA==",
+  "signature": "A/3Hc2Le57uO3GvhIU9i/JZWMvjB6G89pPUOYmIvgBH+ZeDCexdR+W2aOU8jL+EdFibYOorQKGFi5irEzEQ7vQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

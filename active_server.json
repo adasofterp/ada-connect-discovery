@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://formation-find-noon-guest.trycloudflare.com",
-  "httpUrl": "https://formation-find-noon-guest.trycloudflare.com",
-  "updatedAt": "2026-11-01T06:45:34.476Z",
-  "expiresAt": "2026-11-02T06:45:34.476Z",
-  "nonce": "81c6b1c723105692166e1eacb2dd3119",
+  "wsUrl": "wss://reaches-auditor-reservation-crew.trycloudflare.com",
+  "httpUrl": "https://reaches-auditor-reservation-crew.trycloudflare.com",
+  "updatedAt": "2026-11-01T06:56:00.399Z",
+  "expiresAt": "2026-11-02T06:56:00.399Z",
+  "nonce": "3e22ac2aa664e13506ed39d67bd02ca3",
   "payload": {
-    "wsUrl": "wss://formation-find-noon-guest.trycloudflare.com",
-    "httpUrl": "https://formation-find-noon-guest.trycloudflare.com",
-    "issuedAt": "2026-11-01T06:45:34.476Z",
-    "expiresAt": "2026-11-02T06:45:34.476Z",
-    "nonce": "81c6b1c723105692166e1eacb2dd3119"
+    "wsUrl": "wss://reaches-auditor-reservation-crew.trycloudflare.com",
+    "httpUrl": "https://reaches-auditor-reservation-crew.trycloudflare.com",
+    "issuedAt": "2026-11-01T06:56:00.399Z",
+    "expiresAt": "2026-11-02T06:56:00.399Z",
+    "nonce": "3e22ac2aa664e13506ed39d67bd02ca3"
   },
-  "signature": "jpGAsEsaU4MziEbYxoEP0CfPH+Djy3Ra85hUdrPOpx93GKLN9fd2JaOtIlCjgfn+vGqPSrYIEHWpL3Phsa53HQ==",
+  "signature": "X9yzqR4Y2qhGiPDZBwnN8jPz4terEAxPnZp3BEKsMDmnLByhCiVPAGPfk5syyQlyu1/tIhQwTjI1hxGaKgcnSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

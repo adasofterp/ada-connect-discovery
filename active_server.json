@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://instances-early-penguin-shop.trycloudflare.com",
-  "httpUrl": "https://instances-early-penguin-shop.trycloudflare.com",
-  "updatedAt": "2026-11-01T02:18:05.563Z",
-  "expiresAt": "2026-11-02T02:18:05.563Z",
-  "nonce": "36ef131b610060cbcccadb88bd541d94",
+  "wsUrl": "wss://therapeutic-cms-becomes-systems.trycloudflare.com",
+  "httpUrl": "https://therapeutic-cms-becomes-systems.trycloudflare.com",
+  "updatedAt": "2026-11-01T02:49:20.513Z",
+  "expiresAt": "2026-11-02T02:49:20.513Z",
+  "nonce": "774492223b76df3865cc209841ccce9c",
   "payload": {
-    "wsUrl": "wss://instances-early-penguin-shop.trycloudflare.com",
-    "httpUrl": "https://instances-early-penguin-shop.trycloudflare.com",
-    "issuedAt": "2026-11-01T02:18:05.563Z",
-    "expiresAt": "2026-11-02T02:18:05.563Z",
-    "nonce": "36ef131b610060cbcccadb88bd541d94"
+    "wsUrl": "wss://therapeutic-cms-becomes-systems.trycloudflare.com",
+    "httpUrl": "https://therapeutic-cms-becomes-systems.trycloudflare.com",
+    "issuedAt": "2026-11-01T02:49:20.513Z",
+    "expiresAt": "2026-11-02T02:49:20.513Z",
+    "nonce": "774492223b76df3865cc209841ccce9c"
   },
-  "signature": "/IuFj1PP3MXDMmsNT4sV6Ub7ZcMeuP5gr/rHUdr1Roi3gRNOi/67YkOcWWZwq+69lYwgVmLDbdfDRMBO4u6+Ig==",
+  "signature": "67/Ql3Fi/9wrbmC42dPq2b09Z61MPgdTeS3mkLwX+biEPzEKyz4etQex6wiPSWPy28WTaAM3mtytrYdA0n9Jkg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

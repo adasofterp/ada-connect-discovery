@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://arrived-pixel-led-nickel.trycloudflare.com",
-  "httpUrl": "https://arrived-pixel-led-nickel.trycloudflare.com",
-  "updatedAt": "2026-11-01T05:09:39.611Z",
-  "expiresAt": "2026-11-02T05:09:39.611Z",
-  "nonce": "bbead8ff0a0992f5e24cefb9427c7515",
+  "wsUrl": "wss://unsubscribe-summit-kurt-quantities.trycloudflare.com",
+  "httpUrl": "https://unsubscribe-summit-kurt-quantities.trycloudflare.com",
+  "updatedAt": "2026-11-01T05:20:04.587Z",
+  "expiresAt": "2026-11-02T05:20:04.587Z",
+  "nonce": "d72137e0c2d9d014e9466773cc61fb30",
   "payload": {
-    "wsUrl": "wss://arrived-pixel-led-nickel.trycloudflare.com",
-    "httpUrl": "https://arrived-pixel-led-nickel.trycloudflare.com",
-    "issuedAt": "2026-11-01T05:09:39.611Z",
-    "expiresAt": "2026-11-02T05:09:39.611Z",
-    "nonce": "bbead8ff0a0992f5e24cefb9427c7515"
+    "wsUrl": "wss://unsubscribe-summit-kurt-quantities.trycloudflare.com",
+    "httpUrl": "https://unsubscribe-summit-kurt-quantities.trycloudflare.com",
+    "issuedAt": "2026-11-01T05:20:04.587Z",
+    "expiresAt": "2026-11-02T05:20:04.587Z",
+    "nonce": "d72137e0c2d9d014e9466773cc61fb30"
   },
-  "signature": "l+RZraDCNtrJXzhjLiXVIW/9NtmfhEDXw9Frb5z5FemeioRdMpNSWUjF/tuM1O6jiJgpMonN2rTFj6rkOMOJ+A==",
+  "signature": "OzXt2TwfqwQJtosdx3IJ5ItQD5YHxuxx6jnaBb+Jf/e+ELTmmYuIt46F20sj1sTZ3vaCZZ3zTeZJ6mZXXXKYFw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

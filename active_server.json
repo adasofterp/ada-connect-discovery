@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://fired-epinions-unit-cake.trycloudflare.com",
-  "httpUrl": "https://fired-epinions-unit-cake.trycloudflare.com",
-  "updatedAt": "2026-11-01T04:05:56.800Z",
-  "expiresAt": "2026-11-02T04:05:56.800Z",
-  "nonce": "a1a9880957368912a1972a60c66226c3",
+  "wsUrl": "wss://downloads-homepage-watching-creating.trycloudflare.com",
+  "httpUrl": "https://downloads-homepage-watching-creating.trycloudflare.com",
+  "updatedAt": "2026-11-01T04:31:52.897Z",
+  "expiresAt": "2026-11-02T04:31:52.897Z",
+  "nonce": "bb1f69272e00ad2489bd10237c356c85",
   "payload": {
-    "wsUrl": "wss://fired-epinions-unit-cake.trycloudflare.com",
-    "httpUrl": "https://fired-epinions-unit-cake.trycloudflare.com",
-    "issuedAt": "2026-11-01T04:05:56.800Z",
-    "expiresAt": "2026-11-02T04:05:56.800Z",
-    "nonce": "a1a9880957368912a1972a60c66226c3"
+    "wsUrl": "wss://downloads-homepage-watching-creating.trycloudflare.com",
+    "httpUrl": "https://downloads-homepage-watching-creating.trycloudflare.com",
+    "issuedAt": "2026-11-01T04:31:52.897Z",
+    "expiresAt": "2026-11-02T04:31:52.897Z",
+    "nonce": "bb1f69272e00ad2489bd10237c356c85"
   },
-  "signature": "41mtR1zaxiQ10l1HgsH+bNRh9WHNYjO30hdK1ZTFYA7eta1ruNJYDa35po0MewWOKgHU2Mr28FHSzNtL5drCXw==",
+  "signature": "jwoyi4NnpR+8nwUt2Gh9l7q2X6Lgp+2xa4cq/whqgkbHUvIgM/Q16wNOGVllrV2vy1FlEO19i3EbNoUDL2Nkfw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

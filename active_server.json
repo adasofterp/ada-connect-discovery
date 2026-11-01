@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://deutsche-test-smile-water.trycloudflare.com",
-  "httpUrl": "https://deutsche-test-smile-water.trycloudflare.com",
-  "updatedAt": "2026-11-01T17:34:09.068Z",
-  "expiresAt": "2026-11-02T17:34:09.068Z",
-  "nonce": "8087d50a5afa0bafd3bdd90e425672e0",
+  "wsUrl": "wss://discs-merit-hood-killing.trycloudflare.com",
+  "httpUrl": "https://discs-merit-hood-killing.trycloudflare.com",
+  "updatedAt": "2026-11-01T17:50:32.574Z",
+  "expiresAt": "2026-11-02T17:50:32.574Z",
+  "nonce": "c88055999a2f9184e652c4adc88fd952",
   "payload": {
-    "wsUrl": "wss://deutsche-test-smile-water.trycloudflare.com",
-    "httpUrl": "https://deutsche-test-smile-water.trycloudflare.com",
-    "issuedAt": "2026-11-01T17:34:09.068Z",
-    "expiresAt": "2026-11-02T17:34:09.068Z",
-    "nonce": "8087d50a5afa0bafd3bdd90e425672e0"
+    "wsUrl": "wss://discs-merit-hood-killing.trycloudflare.com",
+    "httpUrl": "https://discs-merit-hood-killing.trycloudflare.com",
+    "issuedAt": "2026-11-01T17:50:32.574Z",
+    "expiresAt": "2026-11-02T17:50:32.574Z",
+    "nonce": "c88055999a2f9184e652c4adc88fd952"
   },
-  "signature": "SxhZZWr3PNs12gaY+F1XHZhd44Tv+KPSeKcbpg6uZMA/XMeTX+xM02K4kKbWZ/gn/61L9U5UepLX6EdoV/dCrw==",
+  "signature": "KpcoWNmGtwX0TPfX3VKaNJ+IV8wnanf9vho/9lnno4onjxKh2X1/mOyXaWfOyWEZVHq90CRwUMoubVQBJo2IlA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

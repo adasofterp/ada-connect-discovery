@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://argument-drives-domains-instances.trycloudflare.com",
-  "httpUrl": "https://argument-drives-domains-instances.trycloudflare.com",
-  "updatedAt": "2026-11-01T23:11:02.502Z",
-  "expiresAt": "2026-11-02T23:11:02.502Z",
-  "nonce": "73d89f401d6f16cd4181fa8fb197ebaa",
+  "wsUrl": "wss://optical-assuming-define-library.trycloudflare.com",
+  "httpUrl": "https://optical-assuming-define-library.trycloudflare.com",
+  "updatedAt": "2026-11-01T23:19:47.326Z",
+  "expiresAt": "2026-11-02T23:19:47.326Z",
+  "nonce": "7983ac249e54080fdfac764b464a8604",
   "payload": {
-    "wsUrl": "wss://argument-drives-domains-instances.trycloudflare.com",
-    "httpUrl": "https://argument-drives-domains-instances.trycloudflare.com",
-    "issuedAt": "2026-11-01T23:11:02.502Z",
-    "expiresAt": "2026-11-02T23:11:02.502Z",
-    "nonce": "73d89f401d6f16cd4181fa8fb197ebaa"
+    "wsUrl": "wss://optical-assuming-define-library.trycloudflare.com",
+    "httpUrl": "https://optical-assuming-define-library.trycloudflare.com",
+    "issuedAt": "2026-11-01T23:19:47.326Z",
+    "expiresAt": "2026-11-02T23:19:47.326Z",
+    "nonce": "7983ac249e54080fdfac764b464a8604"
   },
-  "signature": "pMlmiqMpD5RBR68YAePxdm8GTX+J5j9vhH/dBntBedS+b/9j8W2wXednUBf/JO06sTtPKmkgjauDRsFwBIDyTA==",
+  "signature": "Iz7Ymjqybe+2/bYC+Nyc8FPS7s7eZxaAavXFnJ2IAnIz2XiFtt4SZ/c2DOsmrYIt4E+As+DcKZKaX2spqsLD4g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://davis-ownership-definition-keith.trycloudflare.com",
-  "httpUrl": "https://davis-ownership-definition-keith.trycloudflare.com",
-  "updatedAt": "2026-11-02T22:34:08.407Z",
-  "expiresAt": "2026-11-03T22:34:08.407Z",
-  "nonce": "32e1ffe0fadb0969844b350d91e6de7d",
+  "wsUrl": "wss://creation-prison-rough-nuke.trycloudflare.com",
+  "httpUrl": "https://creation-prison-rough-nuke.trycloudflare.com",
+  "updatedAt": "2026-11-02T23:09:02.664Z",
+  "expiresAt": "2026-11-03T23:09:02.664Z",
+  "nonce": "af1eb607f5fc15b3ef57b98c5c4d24ef",
   "payload": {
-    "wsUrl": "wss://davis-ownership-definition-keith.trycloudflare.com",
-    "httpUrl": "https://davis-ownership-definition-keith.trycloudflare.com",
-    "issuedAt": "2026-11-02T22:34:08.407Z",
-    "expiresAt": "2026-11-03T22:34:08.407Z",
-    "nonce": "32e1ffe0fadb0969844b350d91e6de7d"
+    "wsUrl": "wss://creation-prison-rough-nuke.trycloudflare.com",
+    "httpUrl": "https://creation-prison-rough-nuke.trycloudflare.com",
+    "issuedAt": "2026-11-02T23:09:02.664Z",
+    "expiresAt": "2026-11-03T23:09:02.664Z",
+    "nonce": "af1eb607f5fc15b3ef57b98c5c4d24ef"
   },
-  "signature": "otc45603kNf1Uybt7Xm1A4Mbz0k+CgVnKejbnMIij0UVUUuk7AtNMqTn5dO8dizp4wAYNjdavmyENCD9bCvtjw==",
+  "signature": "SYB6h0PXrvszF6nzHncefVzsrXEcp/YfgrId00JKXmccBVTLZl4igkjCFjiNHNmOgmcUtG8n+Zvn8xtXCBPjKg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

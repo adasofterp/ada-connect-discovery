@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://applying-fisheries-drops-expert.trycloudflare.com",
-  "httpUrl": "https://applying-fisheries-drops-expert.trycloudflare.com",
-  "updatedAt": "2026-11-02T00:42:50.815Z",
-  "expiresAt": "2026-11-03T00:42:50.815Z",
-  "nonce": "8c48e12e919c80e44775db16ed68cfde",
+  "wsUrl": "wss://growth-creations-flying-orientation.trycloudflare.com",
+  "httpUrl": "https://growth-creations-flying-orientation.trycloudflare.com",
+  "updatedAt": "2026-11-02T01:13:59.857Z",
+  "expiresAt": "2026-11-03T01:13:59.857Z",
+  "nonce": "901165db0d5a39fdef3ee54dbcf46495",
   "payload": {
-    "wsUrl": "wss://applying-fisheries-drops-expert.trycloudflare.com",
-    "httpUrl": "https://applying-fisheries-drops-expert.trycloudflare.com",
-    "issuedAt": "2026-11-02T00:42:50.815Z",
-    "expiresAt": "2026-11-03T00:42:50.815Z",
-    "nonce": "8c48e12e919c80e44775db16ed68cfde"
+    "wsUrl": "wss://growth-creations-flying-orientation.trycloudflare.com",
+    "httpUrl": "https://growth-creations-flying-orientation.trycloudflare.com",
+    "issuedAt": "2026-11-02T01:13:59.857Z",
+    "expiresAt": "2026-11-03T01:13:59.857Z",
+    "nonce": "901165db0d5a39fdef3ee54dbcf46495"
   },
-  "signature": "ocQ/vQqlJ9roZLyYayr7pyINM5G6FUM8ck0q2WxRDcXHwMVKDqMS0l/ebHQnouotHqgbd1gPeeufbViqqeP4Hw==",
+  "signature": "bpUvPkWSiuIx+Aj7L2H+JkdMa5Ic/jViKv9im6iK9hfqJiLi+yfMtizXMbskMAEg6D/yySgsMNlvPDB1hTBB6A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

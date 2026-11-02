@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://yukon-relations-runs-jump.trycloudflare.com",
-  "httpUrl": "https://yukon-relations-runs-jump.trycloudflare.com",
-  "updatedAt": "2026-11-02T00:22:04.065Z",
-  "expiresAt": "2026-11-03T00:22:04.065Z",
-  "nonce": "aba691e53e2a908e1c43ab441ceaeeca",
+  "wsUrl": "wss://applying-fisheries-drops-expert.trycloudflare.com",
+  "httpUrl": "https://applying-fisheries-drops-expert.trycloudflare.com",
+  "updatedAt": "2026-11-02T00:42:50.815Z",
+  "expiresAt": "2026-11-03T00:42:50.815Z",
+  "nonce": "8c48e12e919c80e44775db16ed68cfde",
   "payload": {
-    "wsUrl": "wss://yukon-relations-runs-jump.trycloudflare.com",
-    "httpUrl": "https://yukon-relations-runs-jump.trycloudflare.com",
-    "issuedAt": "2026-11-02T00:22:04.065Z",
-    "expiresAt": "2026-11-03T00:22:04.065Z",
-    "nonce": "aba691e53e2a908e1c43ab441ceaeeca"
+    "wsUrl": "wss://applying-fisheries-drops-expert.trycloudflare.com",
+    "httpUrl": "https://applying-fisheries-drops-expert.trycloudflare.com",
+    "issuedAt": "2026-11-02T00:42:50.815Z",
+    "expiresAt": "2026-11-03T00:42:50.815Z",
+    "nonce": "8c48e12e919c80e44775db16ed68cfde"
   },
-  "signature": "5A4+ZpNoZlwTpgjDVJAtX5GE5DMauH7ZaOllsFhlJbHFTeRnuBWUDXUaMO7HY8NY23ox69lO2QXRACv1gHAVYA==",
+  "signature": "ocQ/vQqlJ9roZLyYayr7pyINM5G6FUM8ck0q2WxRDcXHwMVKDqMS0l/ebHQnouotHqgbd1gPeeufbViqqeP4Hw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

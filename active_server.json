@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://journalist-real-mlb-proof.trycloudflare.com",
-  "httpUrl": "https://journalist-real-mlb-proof.trycloudflare.com",
-  "updatedAt": "2026-11-02T16:42:24.471Z",
-  "expiresAt": "2026-11-03T16:42:24.471Z",
-  "nonce": "0305d343287096e116a3f3327d146b3b",
+  "wsUrl": "wss://abroad-statewide-montreal-functionality.trycloudflare.com",
+  "httpUrl": "https://abroad-statewide-montreal-functionality.trycloudflare.com",
+  "updatedAt": "2026-11-02T16:52:48.645Z",
+  "expiresAt": "2026-11-03T16:52:48.645Z",
+  "nonce": "d7ec421138583168fb6ab138fc077a98",
   "payload": {
-    "wsUrl": "wss://journalist-real-mlb-proof.trycloudflare.com",
-    "httpUrl": "https://journalist-real-mlb-proof.trycloudflare.com",
-    "issuedAt": "2026-11-02T16:42:24.471Z",
-    "expiresAt": "2026-11-03T16:42:24.471Z",
-    "nonce": "0305d343287096e116a3f3327d146b3b"
+    "wsUrl": "wss://abroad-statewide-montreal-functionality.trycloudflare.com",
+    "httpUrl": "https://abroad-statewide-montreal-functionality.trycloudflare.com",
+    "issuedAt": "2026-11-02T16:52:48.645Z",
+    "expiresAt": "2026-11-03T16:52:48.645Z",
+    "nonce": "d7ec421138583168fb6ab138fc077a98"
   },
-  "signature": "fFfnVIkuY+JNZJZnKPN9EgWd9srnS97WgwoF/sR5NTIq8pOeesAibwTs3CrdydyKgE/al0x4sZpZnsXoDrDPYw==",
+  "signature": "8rtepKrwmwCxw7OsIzPmn77jgodrlZOI8RnMhLFui0Qm88/i6d/U7twjaC4uDclYSdxtSaenoVUgxoLHkVx3wg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

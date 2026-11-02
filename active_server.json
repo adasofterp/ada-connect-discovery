@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bibliographic-assignments-hung-bikes.trycloudflare.com",
-  "httpUrl": "https://bibliographic-assignments-hung-bikes.trycloudflare.com",
-  "updatedAt": "2026-11-02T06:22:16.959Z",
-  "expiresAt": "2026-11-03T06:22:16.959Z",
-  "nonce": "5564a960ec994ae2150afd4d9abf449d",
+  "wsUrl": "wss://humidity-athletics-sandy-sort.trycloudflare.com",
+  "httpUrl": "https://humidity-athletics-sandy-sort.trycloudflare.com",
+  "updatedAt": "2026-11-02T06:32:39.142Z",
+  "expiresAt": "2026-11-03T06:32:39.142Z",
+  "nonce": "abe4b8eef188aabde3910bbbc13609ed",
   "payload": {
-    "wsUrl": "wss://bibliographic-assignments-hung-bikes.trycloudflare.com",
-    "httpUrl": "https://bibliographic-assignments-hung-bikes.trycloudflare.com",
-    "issuedAt": "2026-11-02T06:22:16.959Z",
-    "expiresAt": "2026-11-03T06:22:16.959Z",
-    "nonce": "5564a960ec994ae2150afd4d9abf449d"
+    "wsUrl": "wss://humidity-athletics-sandy-sort.trycloudflare.com",
+    "httpUrl": "https://humidity-athletics-sandy-sort.trycloudflare.com",
+    "issuedAt": "2026-11-02T06:32:39.142Z",
+    "expiresAt": "2026-11-03T06:32:39.142Z",
+    "nonce": "abe4b8eef188aabde3910bbbc13609ed"
   },
-  "signature": "w3piYoH1t1Q377smaVA1CADgM6WN3vbI4+tMudG/7SYBaQMlbR05IeHKX1kMgo3kXiUflSYeysTgomac+zFooA==",
+  "signature": "IrZPHQ6chh3JpFtduBd583DplDtsVB2PtzavNyOlqK3SbebHbcKLrTDQdvPve5sDJ1JTcl/8t19C0RBI1dLTSA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

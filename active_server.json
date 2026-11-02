@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://designation-contained-church-exit.trycloudflare.com",
-  "httpUrl": "https://designation-contained-church-exit.trycloudflare.com",
-  "updatedAt": "2026-11-02T06:42:58.498Z",
-  "expiresAt": "2026-11-03T06:42:58.498Z",
-  "nonce": "8becc3d5821d36ab52c82b35011bbaa7",
+  "wsUrl": "wss://threatened-plugins-advertiser-marc.trycloudflare.com",
+  "httpUrl": "https://threatened-plugins-advertiser-marc.trycloudflare.com",
+  "updatedAt": "2026-11-02T06:53:19.259Z",
+  "expiresAt": "2026-11-03T06:53:19.259Z",
+  "nonce": "f15f60f1f0f21b25232f36df2baa2bbb",
   "payload": {
-    "wsUrl": "wss://designation-contained-church-exit.trycloudflare.com",
-    "httpUrl": "https://designation-contained-church-exit.trycloudflare.com",
-    "issuedAt": "2026-11-02T06:42:58.498Z",
-    "expiresAt": "2026-11-03T06:42:58.498Z",
-    "nonce": "8becc3d5821d36ab52c82b35011bbaa7"
+    "wsUrl": "wss://threatened-plugins-advertiser-marc.trycloudflare.com",
+    "httpUrl": "https://threatened-plugins-advertiser-marc.trycloudflare.com",
+    "issuedAt": "2026-11-02T06:53:19.259Z",
+    "expiresAt": "2026-11-03T06:53:19.259Z",
+    "nonce": "f15f60f1f0f21b25232f36df2baa2bbb"
   },
-  "signature": "Ik4Wftu2RtanPQ9fK+xVDuYwuNOZIDzvAoxJGAUIKxbX2uUyCWb/buO4VE1gL+lA60Z51fKoSs0VsOz8As6A6A==",
+  "signature": "hjrWhxE/pl7vMaVKtLpn58lt0Z8DjKnHJAeQTqWsDrZw8a6aadcFmvW4z4nRrYPN2nVLmwQuIdMKbn9ZKPJqFA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

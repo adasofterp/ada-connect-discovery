@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://growth-creations-flying-orientation.trycloudflare.com",
-  "httpUrl": "https://growth-creations-flying-orientation.trycloudflare.com",
-  "updatedAt": "2026-11-02T01:13:59.857Z",
-  "expiresAt": "2026-11-03T01:13:59.857Z",
-  "nonce": "901165db0d5a39fdef3ee54dbcf46495",
+  "wsUrl": "wss://sailing-hay-experimental-screenshots.trycloudflare.com",
+  "httpUrl": "https://sailing-hay-experimental-screenshots.trycloudflare.com",
+  "updatedAt": "2026-11-02T01:34:51.917Z",
+  "expiresAt": "2026-11-03T01:34:51.917Z",
+  "nonce": "80f0cc45bb7bb217fea08663731c9851",
   "payload": {
-    "wsUrl": "wss://growth-creations-flying-orientation.trycloudflare.com",
-    "httpUrl": "https://growth-creations-flying-orientation.trycloudflare.com",
-    "issuedAt": "2026-11-02T01:13:59.857Z",
-    "expiresAt": "2026-11-03T01:13:59.857Z",
-    "nonce": "901165db0d5a39fdef3ee54dbcf46495"
+    "wsUrl": "wss://sailing-hay-experimental-screenshots.trycloudflare.com",
+    "httpUrl": "https://sailing-hay-experimental-screenshots.trycloudflare.com",
+    "issuedAt": "2026-11-02T01:34:51.917Z",
+    "expiresAt": "2026-11-03T01:34:51.917Z",
+    "nonce": "80f0cc45bb7bb217fea08663731c9851"
   },
-  "signature": "bpUvPkWSiuIx+Aj7L2H+JkdMa5Ic/jViKv9im6iK9hfqJiLi+yfMtizXMbskMAEg6D/yySgsMNlvPDB1hTBB6A==",
+  "signature": "FvkuPIO63ILUAexBAWuhYb8r95vv2rfBPd9Co/396NRZwTQJqsXqQNpumaYXjfTOuN3hqOnRZ8e00E5PJdFsIQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

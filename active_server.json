@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://equation-perception-viii-theory.trycloudflare.com",
-  "httpUrl": "https://equation-perception-viii-theory.trycloudflare.com",
-  "updatedAt": "2026-11-02T17:36:55.306Z",
-  "expiresAt": "2026-11-03T17:36:55.306Z",
-  "nonce": "e7ec2004d034f6a822df2da0bbddc882",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-02T20:17:11.867Z",
+  "expiresAt": "2026-11-03T20:17:11.867Z",
+  "nonce": "85cbebc27f5bd3c0b4d9a26aae279f54",
   "payload": {
-    "wsUrl": "wss://equation-perception-viii-theory.trycloudflare.com",
-    "httpUrl": "https://equation-perception-viii-theory.trycloudflare.com",
-    "issuedAt": "2026-11-02T17:36:55.306Z",
-    "expiresAt": "2026-11-03T17:36:55.306Z",
-    "nonce": "e7ec2004d034f6a822df2da0bbddc882"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-02T20:17:11.867Z",
+    "expiresAt": "2026-11-03T20:17:11.867Z",
+    "nonce": "85cbebc27f5bd3c0b4d9a26aae279f54"
   },
-  "signature": "dLlbXt9jTD8DFOlZDRiJdB4IDYiJlB0ewq4y63yXbBCBn9IvcCGHngclbjbxVndetMZfBkLdgpEComG1zyNM2A==",
+  "signature": "szvDkuZq6+mWGlQuNIOs5qAOVfL2BDTc4c1s71iOdb+WEERe2ByHSJ+88mBat7xthLEVRum9U3VKhLPlF5Vg5w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

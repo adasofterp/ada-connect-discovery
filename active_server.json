@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://abroad-statewide-montreal-functionality.trycloudflare.com",
-  "httpUrl": "https://abroad-statewide-montreal-functionality.trycloudflare.com",
-  "updatedAt": "2026-11-02T16:52:48.645Z",
-  "expiresAt": "2026-11-03T16:52:48.645Z",
-  "nonce": "d7ec421138583168fb6ab138fc077a98",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-02T17:13:32.821Z",
+  "expiresAt": "2026-11-03T17:13:32.821Z",
+  "nonce": "c3117c87009c62898b565bb9a74462e0",
   "payload": {
-    "wsUrl": "wss://abroad-statewide-montreal-functionality.trycloudflare.com",
-    "httpUrl": "https://abroad-statewide-montreal-functionality.trycloudflare.com",
-    "issuedAt": "2026-11-02T16:52:48.645Z",
-    "expiresAt": "2026-11-03T16:52:48.645Z",
-    "nonce": "d7ec421138583168fb6ab138fc077a98"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-02T17:13:32.821Z",
+    "expiresAt": "2026-11-03T17:13:32.821Z",
+    "nonce": "c3117c87009c62898b565bb9a74462e0"
   },
-  "signature": "8rtepKrwmwCxw7OsIzPmn77jgodrlZOI8RnMhLFui0Qm88/i6d/U7twjaC4uDclYSdxtSaenoVUgxoLHkVx3wg==",
+  "signature": "9CXdcsfBENmPYxNg5pNv6F8GnWfSAkuxuBZTdVqyOUs6Pxfz8TZctjZfcI1dpigtHbMBaxhBgcaRW3TNu+FhGw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

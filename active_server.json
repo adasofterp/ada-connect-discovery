@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cherry-hopes-bottles-finger.trycloudflare.com",
-  "httpUrl": "https://cherry-hopes-bottles-finger.trycloudflare.com",
-  "updatedAt": "2026-11-02T11:27:38.848Z",
-  "expiresAt": "2026-11-03T11:27:38.848Z",
-  "nonce": "396549e71e985861a3457a32988d1026",
+  "wsUrl": "wss://executed-manufacturing-patch-messages.trycloudflare.com",
+  "httpUrl": "https://executed-manufacturing-patch-messages.trycloudflare.com",
+  "updatedAt": "2026-11-02T13:12:10.533Z",
+  "expiresAt": "2026-11-03T13:12:10.533Z",
+  "nonce": "33bc315b2881390654c90502bec64724",
   "payload": {
-    "wsUrl": "wss://cherry-hopes-bottles-finger.trycloudflare.com",
-    "httpUrl": "https://cherry-hopes-bottles-finger.trycloudflare.com",
-    "issuedAt": "2026-11-02T11:27:38.848Z",
-    "expiresAt": "2026-11-03T11:27:38.848Z",
-    "nonce": "396549e71e985861a3457a32988d1026"
+    "wsUrl": "wss://executed-manufacturing-patch-messages.trycloudflare.com",
+    "httpUrl": "https://executed-manufacturing-patch-messages.trycloudflare.com",
+    "issuedAt": "2026-11-02T13:12:10.533Z",
+    "expiresAt": "2026-11-03T13:12:10.533Z",
+    "nonce": "33bc315b2881390654c90502bec64724"
   },
-  "signature": "O9yy0NqsJNXnpXVrto5KDMmrqZPLkk0bgFSaRXvO8V7mgbZNEmvY5UmCJ4HVVX9wjGhJLnVWyixQI8GymBMVDA==",
+  "signature": "GKwbsPF8+Q1mdad5Uwwp4ntceVK5aRyc6ad01dSCbK1P0DP3PgXlWFx6cOf2IB8wyCbR9zIZP0gGQwE4L6P6kg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

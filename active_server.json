@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://simpson-grounds-corrected-occasion.trycloudflare.com",
-  "httpUrl": "https://simpson-grounds-corrected-occasion.trycloudflare.com",
-  "updatedAt": "2026-11-02T02:42:33.947Z",
-  "expiresAt": "2026-11-03T02:42:33.947Z",
-  "nonce": "a641b7bf972e217f5983d5c4b5e24bf7",
+  "wsUrl": "wss://tabs-overview-brought-potential.trycloudflare.com",
+  "httpUrl": "https://tabs-overview-brought-potential.trycloudflare.com",
+  "updatedAt": "2026-11-02T02:52:56.889Z",
+  "expiresAt": "2026-11-03T02:52:56.889Z",
+  "nonce": "ff4b3f266a5fe82802e199c76e0984f6",
   "payload": {
-    "wsUrl": "wss://simpson-grounds-corrected-occasion.trycloudflare.com",
-    "httpUrl": "https://simpson-grounds-corrected-occasion.trycloudflare.com",
-    "issuedAt": "2026-11-02T02:42:33.947Z",
-    "expiresAt": "2026-11-03T02:42:33.947Z",
-    "nonce": "a641b7bf972e217f5983d5c4b5e24bf7"
+    "wsUrl": "wss://tabs-overview-brought-potential.trycloudflare.com",
+    "httpUrl": "https://tabs-overview-brought-potential.trycloudflare.com",
+    "issuedAt": "2026-11-02T02:52:56.889Z",
+    "expiresAt": "2026-11-03T02:52:56.889Z",
+    "nonce": "ff4b3f266a5fe82802e199c76e0984f6"
   },
-  "signature": "prfY7oFPgZQGTbU0fk3li11uuK0niaSZ7eOW9iNLfZK/8NWSADL5TPAMWPQKfQ8WQS0FyBSpWnzP9o0QYj66kg==",
+  "signature": "4l3OPlnjS1qCeS7jXX34tbcGb20/acRjKFhyXMu1zsTh9RjzRPLYprgawCQsE7w3p1R4Dj7QBtriZMh8DXddkw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

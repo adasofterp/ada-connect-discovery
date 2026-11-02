@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://frost-sterling-moderator-moderate.trycloudflare.com",
-  "httpUrl": "https://frost-sterling-moderator-moderate.trycloudflare.com",
-  "updatedAt": "2026-11-02T20:51:49.304Z",
-  "expiresAt": "2026-11-03T20:51:49.304Z",
-  "nonce": "048aa459bd7934853b1c7d93d20839c2",
+  "wsUrl": "wss://blogs-city-colorado-gulf.trycloudflare.com",
+  "httpUrl": "https://blogs-city-colorado-gulf.trycloudflare.com",
+  "updatedAt": "2026-11-02T21:21:21.467Z",
+  "expiresAt": "2026-11-03T21:21:21.467Z",
+  "nonce": "9c6ff929608a1312b010577823b588d9",
   "payload": {
-    "wsUrl": "wss://frost-sterling-moderator-moderate.trycloudflare.com",
-    "httpUrl": "https://frost-sterling-moderator-moderate.trycloudflare.com",
-    "issuedAt": "2026-11-02T20:51:49.304Z",
-    "expiresAt": "2026-11-03T20:51:49.304Z",
-    "nonce": "048aa459bd7934853b1c7d93d20839c2"
+    "wsUrl": "wss://blogs-city-colorado-gulf.trycloudflare.com",
+    "httpUrl": "https://blogs-city-colorado-gulf.trycloudflare.com",
+    "issuedAt": "2026-11-02T21:21:21.467Z",
+    "expiresAt": "2026-11-03T21:21:21.467Z",
+    "nonce": "9c6ff929608a1312b010577823b588d9"
   },
-  "signature": "4pTCWR8ymd4SkH+vTy1tbSR4EpR2khcb6WwlFIe70ZkcfhuOTwfcyc4gUIJWQ8WesmAzOv2wpDz1CtLYm4KnJw==",
+  "signature": "ItRvDFeIfxHppmtBCSPL3HqhPkMT68xjBC+wBz6iT4DL3mY38PFNTO98shHrN21GEo1BA6Q9mRzb0lpTD1HuXg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

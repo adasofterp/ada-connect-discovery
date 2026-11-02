@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://century-adds-milan-gallery.trycloudflare.com",
-  "httpUrl": "https://century-adds-milan-gallery.trycloudflare.com",
-  "updatedAt": "2026-11-02T22:23:45.094Z",
-  "expiresAt": "2026-11-03T22:23:45.094Z",
-  "nonce": "b998f978d9698c210a3393163ec613aa",
+  "wsUrl": "wss://davis-ownership-definition-keith.trycloudflare.com",
+  "httpUrl": "https://davis-ownership-definition-keith.trycloudflare.com",
+  "updatedAt": "2026-11-02T22:34:08.407Z",
+  "expiresAt": "2026-11-03T22:34:08.407Z",
+  "nonce": "32e1ffe0fadb0969844b350d91e6de7d",
   "payload": {
-    "wsUrl": "wss://century-adds-milan-gallery.trycloudflare.com",
-    "httpUrl": "https://century-adds-milan-gallery.trycloudflare.com",
-    "issuedAt": "2026-11-02T22:23:45.094Z",
-    "expiresAt": "2026-11-03T22:23:45.094Z",
-    "nonce": "b998f978d9698c210a3393163ec613aa"
+    "wsUrl": "wss://davis-ownership-definition-keith.trycloudflare.com",
+    "httpUrl": "https://davis-ownership-definition-keith.trycloudflare.com",
+    "issuedAt": "2026-11-02T22:34:08.407Z",
+    "expiresAt": "2026-11-03T22:34:08.407Z",
+    "nonce": "32e1ffe0fadb0969844b350d91e6de7d"
   },
-  "signature": "aFc5ePXrsAzLK3tkw6IUIl74gDKjpFHIhnJftVZZkBaOI6h3LI/TT07BKNmc8AerBf5kLsObIw1YrIYhlKbiGQ==",
+  "signature": "otc45603kNf1Uybt7Xm1A4Mbz0k+CgVnKejbnMIij0UVUUuk7AtNMqTn5dO8dizp4wAYNjdavmyENCD9bCvtjw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

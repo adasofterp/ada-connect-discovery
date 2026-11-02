@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://beautifully-conclude-samples-beginners.trycloudflare.com",
-  "httpUrl": "https://beautifully-conclude-samples-beginners.trycloudflare.com",
-  "updatedAt": "2026-11-02T08:06:44.969Z",
-  "expiresAt": "2026-11-03T08:06:44.969Z",
-  "nonce": "583f96a2ff88dfe886bc301d91f31861",
+  "wsUrl": "wss://positions-ohio-grateful-analysts.trycloudflare.com",
+  "httpUrl": "https://positions-ohio-grateful-analysts.trycloudflare.com",
+  "updatedAt": "2026-11-02T08:13:55.265Z",
+  "expiresAt": "2026-11-03T08:13:55.265Z",
+  "nonce": "e44214c4bc6ab6a4c71578024f413d7d",
   "payload": {
-    "wsUrl": "wss://beautifully-conclude-samples-beginners.trycloudflare.com",
-    "httpUrl": "https://beautifully-conclude-samples-beginners.trycloudflare.com",
-    "issuedAt": "2026-11-02T08:06:44.969Z",
-    "expiresAt": "2026-11-03T08:06:44.969Z",
-    "nonce": "583f96a2ff88dfe886bc301d91f31861"
+    "wsUrl": "wss://positions-ohio-grateful-analysts.trycloudflare.com",
+    "httpUrl": "https://positions-ohio-grateful-analysts.trycloudflare.com",
+    "issuedAt": "2026-11-02T08:13:55.265Z",
+    "expiresAt": "2026-11-03T08:13:55.265Z",
+    "nonce": "e44214c4bc6ab6a4c71578024f413d7d"
   },
-  "signature": "OUciZWi34ubgUXimdHMlVIRYwD4IqRtTk24zmUdWeBZ4wyXNuvWEO2SrzfxltDv5sjKSVq5ZtlkS/TlDwIauWw==",
+  "signature": "dvLKGUy4mQBOqMh95yWMaXrsHbD+ZWFabtPJ7UF3ACUd06khXALLHVQFJDGoKeftxYifkosg8UlMVOpXI2urUw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

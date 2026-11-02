@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://threatened-plugins-advertiser-marc.trycloudflare.com",
-  "httpUrl": "https://threatened-plugins-advertiser-marc.trycloudflare.com",
-  "updatedAt": "2026-11-02T06:53:19.259Z",
-  "expiresAt": "2026-11-03T06:53:19.259Z",
-  "nonce": "f15f60f1f0f21b25232f36df2baa2bbb",
+  "wsUrl": "wss://surgeons-potatoes-heater-inkjet.trycloudflare.com",
+  "httpUrl": "https://surgeons-potatoes-heater-inkjet.trycloudflare.com",
+  "updatedAt": "2026-11-02T07:08:45.553Z",
+  "expiresAt": "2026-11-03T07:08:45.553Z",
+  "nonce": "3e728b1a8889335e037afb98376c394c",
   "payload": {
-    "wsUrl": "wss://threatened-plugins-advertiser-marc.trycloudflare.com",
-    "httpUrl": "https://threatened-plugins-advertiser-marc.trycloudflare.com",
-    "issuedAt": "2026-11-02T06:53:19.259Z",
-    "expiresAt": "2026-11-03T06:53:19.259Z",
-    "nonce": "f15f60f1f0f21b25232f36df2baa2bbb"
+    "wsUrl": "wss://surgeons-potatoes-heater-inkjet.trycloudflare.com",
+    "httpUrl": "https://surgeons-potatoes-heater-inkjet.trycloudflare.com",
+    "issuedAt": "2026-11-02T07:08:45.553Z",
+    "expiresAt": "2026-11-03T07:08:45.553Z",
+    "nonce": "3e728b1a8889335e037afb98376c394c"
   },
-  "signature": "hjrWhxE/pl7vMaVKtLpn58lt0Z8DjKnHJAeQTqWsDrZw8a6aadcFmvW4z4nRrYPN2nVLmwQuIdMKbn9ZKPJqFA==",
+  "signature": "9QzRS7saAxSqneIXVYMIhMyOexByjhjvpJ6Yv7fKwsMU5jHRYs/PLRz3N1JAFaCsSUEg53gBPrvSpioqG9Z04g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

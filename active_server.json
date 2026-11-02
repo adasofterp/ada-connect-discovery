@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://surgeons-potatoes-heater-inkjet.trycloudflare.com",
-  "httpUrl": "https://surgeons-potatoes-heater-inkjet.trycloudflare.com",
-  "updatedAt": "2026-11-02T07:08:45.553Z",
-  "expiresAt": "2026-11-03T07:08:45.553Z",
-  "nonce": "3e728b1a8889335e037afb98376c394c",
+  "wsUrl": "wss://treasury-christine-corporations-services.trycloudflare.com",
+  "httpUrl": "https://treasury-christine-corporations-services.trycloudflare.com",
+  "updatedAt": "2026-11-02T07:23:18.208Z",
+  "expiresAt": "2026-11-03T07:23:18.208Z",
+  "nonce": "9ff3510b55cfc402666e5970de189efd",
   "payload": {
-    "wsUrl": "wss://surgeons-potatoes-heater-inkjet.trycloudflare.com",
-    "httpUrl": "https://surgeons-potatoes-heater-inkjet.trycloudflare.com",
-    "issuedAt": "2026-11-02T07:08:45.553Z",
-    "expiresAt": "2026-11-03T07:08:45.553Z",
-    "nonce": "3e728b1a8889335e037afb98376c394c"
+    "wsUrl": "wss://treasury-christine-corporations-services.trycloudflare.com",
+    "httpUrl": "https://treasury-christine-corporations-services.trycloudflare.com",
+    "issuedAt": "2026-11-02T07:23:18.208Z",
+    "expiresAt": "2026-11-03T07:23:18.208Z",
+    "nonce": "9ff3510b55cfc402666e5970de189efd"
   },
-  "signature": "9QzRS7saAxSqneIXVYMIhMyOexByjhjvpJ6Yv7fKwsMU5jHRYs/PLRz3N1JAFaCsSUEg53gBPrvSpioqG9Z04g==",
+  "signature": "tZP7L+Lu5EKj64wV5QKb/iD9Av4kh8rgqkYX6Q21kwM/wWh0rA1sBfcI2A7o/3dFV/wgTJuNihbphGtbH77pdw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

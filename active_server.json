@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://engineering-abstracts-favorite-promising.trycloudflare.com",
-  "httpUrl": "https://engineering-abstracts-favorite-promising.trycloudflare.com",
-  "updatedAt": "2026-11-02T22:13:21.002Z",
-  "expiresAt": "2026-11-03T22:13:21.002Z",
-  "nonce": "f83b9ca7f93523b58282343e8d110a0f",
+  "wsUrl": "wss://century-adds-milan-gallery.trycloudflare.com",
+  "httpUrl": "https://century-adds-milan-gallery.trycloudflare.com",
+  "updatedAt": "2026-11-02T22:23:45.094Z",
+  "expiresAt": "2026-11-03T22:23:45.094Z",
+  "nonce": "b998f978d9698c210a3393163ec613aa",
   "payload": {
-    "wsUrl": "wss://engineering-abstracts-favorite-promising.trycloudflare.com",
-    "httpUrl": "https://engineering-abstracts-favorite-promising.trycloudflare.com",
-    "issuedAt": "2026-11-02T22:13:21.002Z",
-    "expiresAt": "2026-11-03T22:13:21.002Z",
-    "nonce": "f83b9ca7f93523b58282343e8d110a0f"
+    "wsUrl": "wss://century-adds-milan-gallery.trycloudflare.com",
+    "httpUrl": "https://century-adds-milan-gallery.trycloudflare.com",
+    "issuedAt": "2026-11-02T22:23:45.094Z",
+    "expiresAt": "2026-11-03T22:23:45.094Z",
+    "nonce": "b998f978d9698c210a3393163ec613aa"
   },
-  "signature": "K1PDaYVhQLQx9+DcU/gCMjkQnQqC9D0d63PZCkefy0yrJyZ5WMOVjNmS6DXi9lFGdT6h2tpmZGYKt0MoI8T2gA==",
+  "signature": "aFc5ePXrsAzLK3tkw6IUIl74gDKjpFHIhnJftVZZkBaOI6h3LI/TT07BKNmc8AerBf5kLsObIw1YrIYhlKbiGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

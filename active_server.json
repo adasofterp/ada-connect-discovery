@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://aside-tue-valves-camp.trycloudflare.com",
-  "httpUrl": "https://aside-tue-valves-camp.trycloudflare.com",
-  "updatedAt": "2026-11-02T06:11:54.985Z",
-  "expiresAt": "2026-11-03T06:11:54.985Z",
-  "nonce": "8299765e6306baa53c43232ff193cc19",
+  "wsUrl": "wss://bibliographic-assignments-hung-bikes.trycloudflare.com",
+  "httpUrl": "https://bibliographic-assignments-hung-bikes.trycloudflare.com",
+  "updatedAt": "2026-11-02T06:22:16.959Z",
+  "expiresAt": "2026-11-03T06:22:16.959Z",
+  "nonce": "5564a960ec994ae2150afd4d9abf449d",
   "payload": {
-    "wsUrl": "wss://aside-tue-valves-camp.trycloudflare.com",
-    "httpUrl": "https://aside-tue-valves-camp.trycloudflare.com",
-    "issuedAt": "2026-11-02T06:11:54.985Z",
-    "expiresAt": "2026-11-03T06:11:54.985Z",
-    "nonce": "8299765e6306baa53c43232ff193cc19"
+    "wsUrl": "wss://bibliographic-assignments-hung-bikes.trycloudflare.com",
+    "httpUrl": "https://bibliographic-assignments-hung-bikes.trycloudflare.com",
+    "issuedAt": "2026-11-02T06:22:16.959Z",
+    "expiresAt": "2026-11-03T06:22:16.959Z",
+    "nonce": "5564a960ec994ae2150afd4d9abf449d"
   },
-  "signature": "AEUHOQQDSx0cvPGmV51YOv1Z/3gtXV0KMP5+/YVDr91cWsVHj1Vd7Aql67sN0qbG5SKYkiiCfBSG80RpPCioog==",
+  "signature": "w3piYoH1t1Q377smaVA1CADgM6WN3vbI4+tMudG/7SYBaQMlbR05IeHKX1kMgo3kXiUflSYeysTgomac+zFooA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

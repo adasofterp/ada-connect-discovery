@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://executed-manufacturing-patch-messages.trycloudflare.com",
-  "httpUrl": "https://executed-manufacturing-patch-messages.trycloudflare.com",
-  "updatedAt": "2026-11-02T13:12:10.533Z",
-  "expiresAt": "2026-11-03T13:12:10.533Z",
-  "nonce": "33bc315b2881390654c90502bec64724",
+  "wsUrl": "wss://pumps-mixer-soap-stories.trycloudflare.com",
+  "httpUrl": "https://pumps-mixer-soap-stories.trycloudflare.com",
+  "updatedAt": "2026-11-02T13:34:40.648Z",
+  "expiresAt": "2026-11-03T13:34:40.649Z",
+  "nonce": "ea249262be5451bea6f3af8aaa4c26af",
   "payload": {
-    "wsUrl": "wss://executed-manufacturing-patch-messages.trycloudflare.com",
-    "httpUrl": "https://executed-manufacturing-patch-messages.trycloudflare.com",
-    "issuedAt": "2026-11-02T13:12:10.533Z",
-    "expiresAt": "2026-11-03T13:12:10.533Z",
-    "nonce": "33bc315b2881390654c90502bec64724"
+    "wsUrl": "wss://pumps-mixer-soap-stories.trycloudflare.com",
+    "httpUrl": "https://pumps-mixer-soap-stories.trycloudflare.com",
+    "issuedAt": "2026-11-02T13:34:40.648Z",
+    "expiresAt": "2026-11-03T13:34:40.649Z",
+    "nonce": "ea249262be5451bea6f3af8aaa4c26af"
   },
-  "signature": "GKwbsPF8+Q1mdad5Uwwp4ntceVK5aRyc6ad01dSCbK1P0DP3PgXlWFx6cOf2IB8wyCbR9zIZP0gGQwE4L6P6kg==",
+  "signature": "k3SnQY4TKhy/CiPzRYU11kOb/6xde+bIh26zW+Nlsrq1HWBUI2lEAXpXZAHz1/q0EEmJ2aIQ7FCycRqOSmU0cg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

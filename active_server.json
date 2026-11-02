@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://luxury-evaluate-galleries-prospect.trycloudflare.com",
-  "httpUrl": "https://luxury-evaluate-galleries-prospect.trycloudflare.com",
-  "updatedAt": "2026-11-02T07:46:03.399Z",
-  "expiresAt": "2026-11-03T07:46:03.399Z",
-  "nonce": "fa48bf617ff1e0d0ffb7381ba4495b48",
+  "wsUrl": "wss://rules-owners-governing-receipt.trycloudflare.com",
+  "httpUrl": "https://rules-owners-governing-receipt.trycloudflare.com",
+  "updatedAt": "2026-11-02T07:56:23.928Z",
+  "expiresAt": "2026-11-03T07:56:23.928Z",
+  "nonce": "1bf48f54616f20433d345f2862d2bc17",
   "payload": {
-    "wsUrl": "wss://luxury-evaluate-galleries-prospect.trycloudflare.com",
-    "httpUrl": "https://luxury-evaluate-galleries-prospect.trycloudflare.com",
-    "issuedAt": "2026-11-02T07:46:03.399Z",
-    "expiresAt": "2026-11-03T07:46:03.399Z",
-    "nonce": "fa48bf617ff1e0d0ffb7381ba4495b48"
+    "wsUrl": "wss://rules-owners-governing-receipt.trycloudflare.com",
+    "httpUrl": "https://rules-owners-governing-receipt.trycloudflare.com",
+    "issuedAt": "2026-11-02T07:56:23.928Z",
+    "expiresAt": "2026-11-03T07:56:23.928Z",
+    "nonce": "1bf48f54616f20433d345f2862d2bc17"
   },
-  "signature": "mZzUBJ0DCroTAZe5e5+CB/xz/PHmsbRZNrawvr4Pw2rs+YRokAoO96uA56t3sdYIwkEam0+5FdhR+j4/RGO7Aw==",
+  "signature": "g2f5OqnrsKp6GcUv4Rsk07CDCDQAptCxoQd+kl2pqLNcYMzZfNuPNh+SBO8uJ8gSRSJuvYgLLaJoLR7p/aa/Lw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

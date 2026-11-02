@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-02T06:01:14.832Z",
-  "expiresAt": "2026-11-03T06:01:14.832Z",
-  "nonce": "f1bfeb25df0f50993f98b5b186e457c1",
+  "wsUrl": "wss://aside-tue-valves-camp.trycloudflare.com",
+  "httpUrl": "https://aside-tue-valves-camp.trycloudflare.com",
+  "updatedAt": "2026-11-02T06:11:54.985Z",
+  "expiresAt": "2026-11-03T06:11:54.985Z",
+  "nonce": "8299765e6306baa53c43232ff193cc19",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-02T06:01:14.832Z",
-    "expiresAt": "2026-11-03T06:01:14.832Z",
-    "nonce": "f1bfeb25df0f50993f98b5b186e457c1"
+    "wsUrl": "wss://aside-tue-valves-camp.trycloudflare.com",
+    "httpUrl": "https://aside-tue-valves-camp.trycloudflare.com",
+    "issuedAt": "2026-11-02T06:11:54.985Z",
+    "expiresAt": "2026-11-03T06:11:54.985Z",
+    "nonce": "8299765e6306baa53c43232ff193cc19"
   },
-  "signature": "Q+PPvbitenYFKjuoCtnFCvAiVw8bMFC1Hh+CiV6T0NvY3wf5Yfkmq4JQY/ATIpi2hpDeuXKEpmTqNQVJ8Paugw==",
+  "signature": "AEUHOQQDSx0cvPGmV51YOv1Z/3gtXV0KMP5+/YVDr91cWsVHj1Vd7Aql67sN0qbG5SKYkiiCfBSG80RpPCioog==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

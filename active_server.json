@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://tried-eternal-implementation-islamic.trycloudflare.com",
-  "httpUrl": "https://tried-eternal-implementation-islamic.trycloudflare.com",
-  "updatedAt": "2026-11-02T08:34:38.112Z",
-  "expiresAt": "2026-11-03T08:34:38.112Z",
-  "nonce": "032e2f8e17ed067623bbf8ab72fa2b3a",
+  "wsUrl": "wss://relocation-irc-approve-migration.trycloudflare.com",
+  "httpUrl": "https://relocation-irc-approve-migration.trycloudflare.com",
+  "updatedAt": "2026-11-02T08:42:45.015Z",
+  "expiresAt": "2026-11-03T08:42:45.015Z",
+  "nonce": "6a3997726c4da9c20dbbeb00119445ec",
   "payload": {
-    "wsUrl": "wss://tried-eternal-implementation-islamic.trycloudflare.com",
-    "httpUrl": "https://tried-eternal-implementation-islamic.trycloudflare.com",
-    "issuedAt": "2026-11-02T08:34:38.112Z",
-    "expiresAt": "2026-11-03T08:34:38.112Z",
-    "nonce": "032e2f8e17ed067623bbf8ab72fa2b3a"
+    "wsUrl": "wss://relocation-irc-approve-migration.trycloudflare.com",
+    "httpUrl": "https://relocation-irc-approve-migration.trycloudflare.com",
+    "issuedAt": "2026-11-02T08:42:45.015Z",
+    "expiresAt": "2026-11-03T08:42:45.015Z",
+    "nonce": "6a3997726c4da9c20dbbeb00119445ec"
   },
-  "signature": "tHEGgnsoF5apkwJbzh1WNi9Yszncj6FkkjwxdfBTL/DH5aNbU+n5hBLeocacZLK3B/j0Rqsti8Jvncr9tECvkw==",
+  "signature": "wX07hvl17aDdlX8KgXOLB7xRBPSj0m3jc376zmnb9TCuyqcn2gjBVJzEZDMqTJOk/YNOqheNXkbZgByKmkTCgA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

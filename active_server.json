@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://underground-eating-intellectual-lottery.trycloudflare.com",
-  "httpUrl": "https://underground-eating-intellectual-lottery.trycloudflare.com",
-  "updatedAt": "2026-11-02T02:32:07.396Z",
-  "expiresAt": "2026-11-03T02:32:07.396Z",
-  "nonce": "b9c5ac535c50bda9792de3e0ea5c406c",
+  "wsUrl": "wss://simpson-grounds-corrected-occasion.trycloudflare.com",
+  "httpUrl": "https://simpson-grounds-corrected-occasion.trycloudflare.com",
+  "updatedAt": "2026-11-02T02:42:33.947Z",
+  "expiresAt": "2026-11-03T02:42:33.947Z",
+  "nonce": "a641b7bf972e217f5983d5c4b5e24bf7",
   "payload": {
-    "wsUrl": "wss://underground-eating-intellectual-lottery.trycloudflare.com",
-    "httpUrl": "https://underground-eating-intellectual-lottery.trycloudflare.com",
-    "issuedAt": "2026-11-02T02:32:07.396Z",
-    "expiresAt": "2026-11-03T02:32:07.396Z",
-    "nonce": "b9c5ac535c50bda9792de3e0ea5c406c"
+    "wsUrl": "wss://simpson-grounds-corrected-occasion.trycloudflare.com",
+    "httpUrl": "https://simpson-grounds-corrected-occasion.trycloudflare.com",
+    "issuedAt": "2026-11-02T02:42:33.947Z",
+    "expiresAt": "2026-11-03T02:42:33.947Z",
+    "nonce": "a641b7bf972e217f5983d5c4b5e24bf7"
   },
-  "signature": "koVLcE9LYfNeNcs3ud36K9iUUBkDCKuVhsdEaqGC2/FlgGymQqiZo+yLpyAc6YoURg/NDFr4zYHN++AWAUI9WQ==",
+  "signature": "prfY7oFPgZQGTbU0fk3li11uuK0niaSZ7eOW9iNLfZK/8NWSADL5TPAMWPQKfQ8WQS0FyBSpWnzP9o0QYj66kg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

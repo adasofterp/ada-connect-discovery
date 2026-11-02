@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://humidity-athletics-sandy-sort.trycloudflare.com",
-  "httpUrl": "https://humidity-athletics-sandy-sort.trycloudflare.com",
-  "updatedAt": "2026-11-02T06:32:39.142Z",
-  "expiresAt": "2026-11-03T06:32:39.142Z",
-  "nonce": "abe4b8eef188aabde3910bbbc13609ed",
+  "wsUrl": "wss://designation-contained-church-exit.trycloudflare.com",
+  "httpUrl": "https://designation-contained-church-exit.trycloudflare.com",
+  "updatedAt": "2026-11-02T06:42:58.498Z",
+  "expiresAt": "2026-11-03T06:42:58.498Z",
+  "nonce": "8becc3d5821d36ab52c82b35011bbaa7",
   "payload": {
-    "wsUrl": "wss://humidity-athletics-sandy-sort.trycloudflare.com",
-    "httpUrl": "https://humidity-athletics-sandy-sort.trycloudflare.com",
-    "issuedAt": "2026-11-02T06:32:39.142Z",
-    "expiresAt": "2026-11-03T06:32:39.142Z",
-    "nonce": "abe4b8eef188aabde3910bbbc13609ed"
+    "wsUrl": "wss://designation-contained-church-exit.trycloudflare.com",
+    "httpUrl": "https://designation-contained-church-exit.trycloudflare.com",
+    "issuedAt": "2026-11-02T06:42:58.498Z",
+    "expiresAt": "2026-11-03T06:42:58.498Z",
+    "nonce": "8becc3d5821d36ab52c82b35011bbaa7"
   },
-  "signature": "IrZPHQ6chh3JpFtduBd583DplDtsVB2PtzavNyOlqK3SbebHbcKLrTDQdvPve5sDJ1JTcl/8t19C0RBI1dLTSA==",
+  "signature": "Ik4Wftu2RtanPQ9fK+xVDuYwuNOZIDzvAoxJGAUIKxbX2uUyCWb/buO4VE1gL+lA60Z51fKoSs0VsOz8As6A6A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

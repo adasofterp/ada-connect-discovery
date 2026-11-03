@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cove-anthropology-thrown-literary.trycloudflare.com",
-  "httpUrl": "https://cove-anthropology-thrown-literary.trycloudflare.com",
-  "updatedAt": "2026-11-03T00:27:11.809Z",
-  "expiresAt": "2026-11-04T00:27:11.809Z",
-  "nonce": "a710761c93f705bcc0c64dc594add785",
+  "wsUrl": "wss://buildings-src-commands-athletics.trycloudflare.com",
+  "httpUrl": "https://buildings-src-commands-athletics.trycloudflare.com",
+  "updatedAt": "2026-11-03T00:48:00.044Z",
+  "expiresAt": "2026-11-04T00:48:00.044Z",
+  "nonce": "37392b7178194c3af12c0ff81d6d9005",
   "payload": {
-    "wsUrl": "wss://cove-anthropology-thrown-literary.trycloudflare.com",
-    "httpUrl": "https://cove-anthropology-thrown-literary.trycloudflare.com",
-    "issuedAt": "2026-11-03T00:27:11.809Z",
-    "expiresAt": "2026-11-04T00:27:11.809Z",
-    "nonce": "a710761c93f705bcc0c64dc594add785"
+    "wsUrl": "wss://buildings-src-commands-athletics.trycloudflare.com",
+    "httpUrl": "https://buildings-src-commands-athletics.trycloudflare.com",
+    "issuedAt": "2026-11-03T00:48:00.044Z",
+    "expiresAt": "2026-11-04T00:48:00.044Z",
+    "nonce": "37392b7178194c3af12c0ff81d6d9005"
   },
-  "signature": "JRugz2zs9Ts1T0OM8PhQ7vfTWLR6dNozQf1l/8HR7ssX+NRSKa/EDvpN6NuUDdp47zgKJUR0CQxtgV1KVUZsUQ==",
+  "signature": "kjKYrsypg264SrAilrerLI/ypnxOMPd2XN7PHQcm86vyWnbxCemB+kyoo0vEqyvQ/DOKJTs9nGaFrbZ25L48Lg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

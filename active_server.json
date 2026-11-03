@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://redeem-academy-settlement-interests.trycloudflare.com",
-  "httpUrl": "https://redeem-academy-settlement-interests.trycloudflare.com",
-  "updatedAt": "2026-11-03T07:07:03.542Z",
-  "expiresAt": "2026-12-03T07:07:03.542Z",
-  "nonce": "9549c93bfdaaf3ca31f0b0978dc29110",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-03T10:28:32.978Z",
+  "expiresAt": "2026-12-03T10:28:32.978Z",
+  "nonce": "30df7b5a2a03c8b8a6115746cbadfacd",
   "payload": {
-    "wsUrl": "wss://redeem-academy-settlement-interests.trycloudflare.com",
-    "httpUrl": "https://redeem-academy-settlement-interests.trycloudflare.com",
-    "issuedAt": "2026-11-03T07:07:03.542Z",
-    "expiresAt": "2026-12-03T07:07:03.542Z",
-    "nonce": "9549c93bfdaaf3ca31f0b0978dc29110"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-03T10:28:32.978Z",
+    "expiresAt": "2026-12-03T10:28:32.978Z",
+    "nonce": "30df7b5a2a03c8b8a6115746cbadfacd"
   },
-  "signature": "WAto3I13jDZK9mYmmemxtz3W8HLPoRKP7iSBqhNzxAqIaFNEYdS+ELjJUY4XMCo8iruYuMedQYjMXmJYKLoEPg==",
+  "signature": "t7Xp9FOa6efNhkCSr6/NsS+mu56/EpnssndsVgayoPUiu6AplZdC+CGWvL09NPh+eAfNPznDrS1xcSjlDsvAVg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

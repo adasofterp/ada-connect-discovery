@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cabinets-customs-zero-alleged.trycloudflare.com",
-  "httpUrl": "https://cabinets-customs-zero-alleged.trycloudflare.com",
-  "updatedAt": "2026-11-03T06:34:37.581Z",
-  "expiresAt": "2026-11-04T06:34:37.581Z",
-  "nonce": "a53ae9cd73bf7c16da4ec59c2a79ee62",
+  "wsUrl": "wss://redeem-academy-settlement-interests.trycloudflare.com",
+  "httpUrl": "https://redeem-academy-settlement-interests.trycloudflare.com",
+  "updatedAt": "2026-11-03T07:07:03.542Z",
+  "expiresAt": "2026-12-03T07:07:03.542Z",
+  "nonce": "9549c93bfdaaf3ca31f0b0978dc29110",
   "payload": {
-    "wsUrl": "wss://cabinets-customs-zero-alleged.trycloudflare.com",
-    "httpUrl": "https://cabinets-customs-zero-alleged.trycloudflare.com",
-    "issuedAt": "2026-11-03T06:34:37.581Z",
-    "expiresAt": "2026-11-04T06:34:37.581Z",
-    "nonce": "a53ae9cd73bf7c16da4ec59c2a79ee62"
+    "wsUrl": "wss://redeem-academy-settlement-interests.trycloudflare.com",
+    "httpUrl": "https://redeem-academy-settlement-interests.trycloudflare.com",
+    "issuedAt": "2026-11-03T07:07:03.542Z",
+    "expiresAt": "2026-12-03T07:07:03.542Z",
+    "nonce": "9549c93bfdaaf3ca31f0b0978dc29110"
   },
-  "signature": "pTah8qfaCIP4AOmKhYZbh4DcxVqdU5QHoleYtI8oukknxpg31+BFmrOWuqBX0b1Ie2Bf0lWvkfdeauPc2p6hWg==",
+  "signature": "WAto3I13jDZK9mYmmemxtz3W8HLPoRKP7iSBqhNzxAqIaFNEYdS+ELjJUY4XMCo8iruYuMedQYjMXmJYKLoEPg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

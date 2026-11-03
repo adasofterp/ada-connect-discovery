@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://creation-prison-rough-nuke.trycloudflare.com",
-  "httpUrl": "https://creation-prison-rough-nuke.trycloudflare.com",
-  "updatedAt": "2026-11-02T23:09:02.664Z",
-  "expiresAt": "2026-11-03T23:09:02.664Z",
-  "nonce": "af1eb607f5fc15b3ef57b98c5c4d24ef",
+  "wsUrl": "wss://capitol-whose-lending-walking.trycloudflare.com",
+  "httpUrl": "https://capitol-whose-lending-walking.trycloudflare.com",
+  "updatedAt": "2026-11-03T00:16:43.789Z",
+  "expiresAt": "2026-11-04T00:16:43.789Z",
+  "nonce": "e9a20cc90ddd354d87c80420cec1a554",
   "payload": {
-    "wsUrl": "wss://creation-prison-rough-nuke.trycloudflare.com",
-    "httpUrl": "https://creation-prison-rough-nuke.trycloudflare.com",
-    "issuedAt": "2026-11-02T23:09:02.664Z",
-    "expiresAt": "2026-11-03T23:09:02.664Z",
-    "nonce": "af1eb607f5fc15b3ef57b98c5c4d24ef"
+    "wsUrl": "wss://capitol-whose-lending-walking.trycloudflare.com",
+    "httpUrl": "https://capitol-whose-lending-walking.trycloudflare.com",
+    "issuedAt": "2026-11-03T00:16:43.789Z",
+    "expiresAt": "2026-11-04T00:16:43.789Z",
+    "nonce": "e9a20cc90ddd354d87c80420cec1a554"
   },
-  "signature": "SYB6h0PXrvszF6nzHncefVzsrXEcp/YfgrId00JKXmccBVTLZl4igkjCFjiNHNmOgmcUtG8n+Zvn8xtXCBPjKg==",
+  "signature": "BivZ12jSLdNSIqkk7KtgGHs/SQ4h2uPcVvYiyBy6sHMPzCaxaeIqrbuZrdPltWWDKZEZD3tMjcMYbG8/VOHfCg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-03T03:17:02.951Z",
-  "expiresAt": "2026-11-04T03:17:02.951Z",
-  "nonce": "451f41b6ac3dfaee63051300fcf4ed09",
+  "wsUrl": "wss://michael-shame-isbn-animals.trycloudflare.com",
+  "httpUrl": "https://michael-shame-isbn-animals.trycloudflare.com",
+  "updatedAt": "2026-11-03T03:22:15.304Z",
+  "expiresAt": "2026-11-04T03:22:15.304Z",
+  "nonce": "cc574fb6151037624ba27e7c31401e15",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-03T03:17:02.951Z",
-    "expiresAt": "2026-11-04T03:17:02.951Z",
-    "nonce": "451f41b6ac3dfaee63051300fcf4ed09"
+    "wsUrl": "wss://michael-shame-isbn-animals.trycloudflare.com",
+    "httpUrl": "https://michael-shame-isbn-animals.trycloudflare.com",
+    "issuedAt": "2026-11-03T03:22:15.304Z",
+    "expiresAt": "2026-11-04T03:22:15.304Z",
+    "nonce": "cc574fb6151037624ba27e7c31401e15"
   },
-  "signature": "wKVZ+1s6rJh7uedp5EO7i0If7Z1jUzQdRXAyKuZTAirF/DSPs3OULnFnzYDb5xOHMQV/3AUcAgomKSpJNYvFvg==",
+  "signature": "6WDO0fOdvOi++l4QP+lwC7e2bh+69kTf2kIGEn2hHJ/ccqW7ADyqZKoGMPkCH2JV7uvtMt0vtOtlnkcznRz/aw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

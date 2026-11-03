@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sas-relaxation-frequent-ballot.trycloudflare.com",
-  "httpUrl": "https://sas-relaxation-frequent-ballot.trycloudflare.com",
-  "updatedAt": "2026-11-03T00:58:23.588Z",
-  "expiresAt": "2026-11-04T00:58:23.588Z",
-  "nonce": "185efdebf7089f51f975b3f59af2b6e7",
+  "wsUrl": "wss://dogs-draw-yale-decisions.trycloudflare.com",
+  "httpUrl": "https://dogs-draw-yale-decisions.trycloudflare.com",
+  "updatedAt": "2026-11-03T01:08:48.182Z",
+  "expiresAt": "2026-11-04T01:08:48.182Z",
+  "nonce": "de97fe5b3fca0c94bacc730046b29ebb",
   "payload": {
-    "wsUrl": "wss://sas-relaxation-frequent-ballot.trycloudflare.com",
-    "httpUrl": "https://sas-relaxation-frequent-ballot.trycloudflare.com",
-    "issuedAt": "2026-11-03T00:58:23.588Z",
-    "expiresAt": "2026-11-04T00:58:23.588Z",
-    "nonce": "185efdebf7089f51f975b3f59af2b6e7"
+    "wsUrl": "wss://dogs-draw-yale-decisions.trycloudflare.com",
+    "httpUrl": "https://dogs-draw-yale-decisions.trycloudflare.com",
+    "issuedAt": "2026-11-03T01:08:48.182Z",
+    "expiresAt": "2026-11-04T01:08:48.182Z",
+    "nonce": "de97fe5b3fca0c94bacc730046b29ebb"
   },
-  "signature": "oLnulCitcRF588Z1NRHEj+L4gCt4ko9Au+fjizPRwt85ABme/ZJLkKvyl8EouNwHDfF85gHgopRn0Exilg3vdw==",
+  "signature": "M3UBxk2SoQzBlJBp7HmOVh1ekDlNr3XPumw+530njtq4ytpYGLIPZUW3LyYx8GNljYyjWQjxs4PSeJfG2M+qfQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

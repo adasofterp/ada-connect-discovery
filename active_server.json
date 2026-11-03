@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-03T10:28:32.978Z",
-  "expiresAt": "2026-12-03T10:28:32.978Z",
-  "nonce": "30df7b5a2a03c8b8a6115746cbadfacd",
+  "wsUrl": "wss://organizing-considered-packed-bracelets.trycloudflare.com",
+  "httpUrl": "https://organizing-considered-packed-bracelets.trycloudflare.com",
+  "updatedAt": "2026-11-03T10:28:49.450Z",
+  "expiresAt": "2026-12-03T10:28:49.450Z",
+  "nonce": "b2b4a1f54e43d34d223c55fbb52c64ce",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-03T10:28:32.978Z",
-    "expiresAt": "2026-12-03T10:28:32.978Z",
-    "nonce": "30df7b5a2a03c8b8a6115746cbadfacd"
+    "wsUrl": "wss://organizing-considered-packed-bracelets.trycloudflare.com",
+    "httpUrl": "https://organizing-considered-packed-bracelets.trycloudflare.com",
+    "issuedAt": "2026-11-03T10:28:49.450Z",
+    "expiresAt": "2026-12-03T10:28:49.450Z",
+    "nonce": "b2b4a1f54e43d34d223c55fbb52c64ce"
   },
-  "signature": "t7Xp9FOa6efNhkCSr6/NsS+mu56/EpnssndsVgayoPUiu6AplZdC+CGWvL09NPh+eAfNPznDrS1xcSjlDsvAVg==",
+  "signature": "qNyEdDpRq4b7ET8WnVX3AmEjubrG55AQBjPvt6ZuTcbht/0V0IipG3iJApZL4+cOlz6PG5iZaHojMdKudrvmRA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

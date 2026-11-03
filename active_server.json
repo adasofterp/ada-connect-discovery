@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pet-heights-bright-threaded.trycloudflare.com",
-  "httpUrl": "https://pet-heights-bright-threaded.trycloudflare.com",
-  "updatedAt": "2026-11-03T04:14:25.302Z",
-  "expiresAt": "2026-11-04T04:14:25.302Z",
-  "nonce": "f0faf1fdb130ce99d99b48b51f6d6e21",
+  "wsUrl": "wss://laura-query-walk-robertson.trycloudflare.com",
+  "httpUrl": "https://laura-query-walk-robertson.trycloudflare.com",
+  "updatedAt": "2026-11-03T05:03:28.248Z",
+  "expiresAt": "2026-11-04T05:03:28.248Z",
+  "nonce": "517e99893ef3d56c3fe8dbe6649c5967",
   "payload": {
-    "wsUrl": "wss://pet-heights-bright-threaded.trycloudflare.com",
-    "httpUrl": "https://pet-heights-bright-threaded.trycloudflare.com",
-    "issuedAt": "2026-11-03T04:14:25.302Z",
-    "expiresAt": "2026-11-04T04:14:25.302Z",
-    "nonce": "f0faf1fdb130ce99d99b48b51f6d6e21"
+    "wsUrl": "wss://laura-query-walk-robertson.trycloudflare.com",
+    "httpUrl": "https://laura-query-walk-robertson.trycloudflare.com",
+    "issuedAt": "2026-11-03T05:03:28.248Z",
+    "expiresAt": "2026-11-04T05:03:28.248Z",
+    "nonce": "517e99893ef3d56c3fe8dbe6649c5967"
   },
-  "signature": "/xF9DXm59OCAfLqnz1baF9lgmu8lPlJnI2u/F4cS4Pz4ZEsYTdKo7UYqRX/yQOWenyLFhBRmxMfpcif0eN8wxw==",
+  "signature": "qmQrW6k867PqszcnLCdoq1sWTHJvIyeE22NGF7zeHRqUVBMTtX93aXZYAsCn7ZCfOZ6heHj30urdRLTB5XTNyQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

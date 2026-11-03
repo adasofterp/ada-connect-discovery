@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://accountability-stephanie-grip-mai.trycloudflare.com",
-  "httpUrl": "https://accountability-stephanie-grip-mai.trycloudflare.com",
-  "updatedAt": "2026-11-03T02:41:40.781Z",
-  "expiresAt": "2026-11-04T02:41:40.782Z",
-  "nonce": "939fd26f71effceed8d6a0e16b54bdf7",
+  "wsUrl": "wss://surfaces-blah-negotiation-softball.trycloudflare.com",
+  "httpUrl": "https://surfaces-blah-negotiation-softball.trycloudflare.com",
+  "updatedAt": "2026-11-03T02:52:10.623Z",
+  "expiresAt": "2026-11-04T02:52:10.623Z",
+  "nonce": "93be5307c12ae296445cb359268f1232",
   "payload": {
-    "wsUrl": "wss://accountability-stephanie-grip-mai.trycloudflare.com",
-    "httpUrl": "https://accountability-stephanie-grip-mai.trycloudflare.com",
-    "issuedAt": "2026-11-03T02:41:40.781Z",
-    "expiresAt": "2026-11-04T02:41:40.782Z",
-    "nonce": "939fd26f71effceed8d6a0e16b54bdf7"
+    "wsUrl": "wss://surfaces-blah-negotiation-softball.trycloudflare.com",
+    "httpUrl": "https://surfaces-blah-negotiation-softball.trycloudflare.com",
+    "issuedAt": "2026-11-03T02:52:10.623Z",
+    "expiresAt": "2026-11-04T02:52:10.623Z",
+    "nonce": "93be5307c12ae296445cb359268f1232"
   },
-  "signature": "EqVdnDFgGfYJKtfPBeWEULBHUuc+B+nwNLNadwNmJT4nt1RfPkOi7RTlafzOrcYRSU3TpDc7zNUZqv9qwNnNjA==",
+  "signature": "gyPYFR8MR2zQd8iTLAqAmPP9K+8Be8zSi1gGS5Q5R0X5dkskfrX5ECutoAOQlhlCsKi8CX2TAKBDULQhgSthxA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

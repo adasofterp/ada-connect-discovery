@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://capitol-whose-lending-walking.trycloudflare.com",
-  "httpUrl": "https://capitol-whose-lending-walking.trycloudflare.com",
-  "updatedAt": "2026-11-03T00:16:43.789Z",
-  "expiresAt": "2026-11-04T00:16:43.789Z",
-  "nonce": "e9a20cc90ddd354d87c80420cec1a554",
+  "wsUrl": "wss://cove-anthropology-thrown-literary.trycloudflare.com",
+  "httpUrl": "https://cove-anthropology-thrown-literary.trycloudflare.com",
+  "updatedAt": "2026-11-03T00:27:11.809Z",
+  "expiresAt": "2026-11-04T00:27:11.809Z",
+  "nonce": "a710761c93f705bcc0c64dc594add785",
   "payload": {
-    "wsUrl": "wss://capitol-whose-lending-walking.trycloudflare.com",
-    "httpUrl": "https://capitol-whose-lending-walking.trycloudflare.com",
-    "issuedAt": "2026-11-03T00:16:43.789Z",
-    "expiresAt": "2026-11-04T00:16:43.789Z",
-    "nonce": "e9a20cc90ddd354d87c80420cec1a554"
+    "wsUrl": "wss://cove-anthropology-thrown-literary.trycloudflare.com",
+    "httpUrl": "https://cove-anthropology-thrown-literary.trycloudflare.com",
+    "issuedAt": "2026-11-03T00:27:11.809Z",
+    "expiresAt": "2026-11-04T00:27:11.809Z",
+    "nonce": "a710761c93f705bcc0c64dc594add785"
   },
-  "signature": "BivZ12jSLdNSIqkk7KtgGHs/SQ4h2uPcVvYiyBy6sHMPzCaxaeIqrbuZrdPltWWDKZEZD3tMjcMYbG8/VOHfCg==",
+  "signature": "JRugz2zs9Ts1T0OM8PhQ7vfTWLR6dNozQf1l/8HR7ssX+NRSKa/EDvpN6NuUDdp47zgKJUR0CQxtgV1KVUZsUQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

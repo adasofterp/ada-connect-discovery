@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://buildings-src-commands-athletics.trycloudflare.com",
-  "httpUrl": "https://buildings-src-commands-athletics.trycloudflare.com",
-  "updatedAt": "2026-11-03T00:48:00.044Z",
-  "expiresAt": "2026-11-04T00:48:00.044Z",
-  "nonce": "37392b7178194c3af12c0ff81d6d9005",
+  "wsUrl": "wss://sas-relaxation-frequent-ballot.trycloudflare.com",
+  "httpUrl": "https://sas-relaxation-frequent-ballot.trycloudflare.com",
+  "updatedAt": "2026-11-03T00:58:23.588Z",
+  "expiresAt": "2026-11-04T00:58:23.588Z",
+  "nonce": "185efdebf7089f51f975b3f59af2b6e7",
   "payload": {
-    "wsUrl": "wss://buildings-src-commands-athletics.trycloudflare.com",
-    "httpUrl": "https://buildings-src-commands-athletics.trycloudflare.com",
-    "issuedAt": "2026-11-03T00:48:00.044Z",
-    "expiresAt": "2026-11-04T00:48:00.044Z",
-    "nonce": "37392b7178194c3af12c0ff81d6d9005"
+    "wsUrl": "wss://sas-relaxation-frequent-ballot.trycloudflare.com",
+    "httpUrl": "https://sas-relaxation-frequent-ballot.trycloudflare.com",
+    "issuedAt": "2026-11-03T00:58:23.588Z",
+    "expiresAt": "2026-11-04T00:58:23.588Z",
+    "nonce": "185efdebf7089f51f975b3f59af2b6e7"
   },
-  "signature": "kjKYrsypg264SrAilrerLI/ypnxOMPd2XN7PHQcm86vyWnbxCemB+kyoo0vEqyvQ/DOKJTs9nGaFrbZ25L48Lg==",
+  "signature": "oLnulCitcRF588Z1NRHEj+L4gCt4ko9Au+fjizPRwt85ABme/ZJLkKvyl8EouNwHDfF85gHgopRn0Exilg3vdw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

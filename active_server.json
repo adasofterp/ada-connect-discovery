@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://surfaces-blah-negotiation-softball.trycloudflare.com",
-  "httpUrl": "https://surfaces-blah-negotiation-softball.trycloudflare.com",
-  "updatedAt": "2026-11-03T02:52:10.623Z",
-  "expiresAt": "2026-11-04T02:52:10.623Z",
-  "nonce": "93be5307c12ae296445cb359268f1232",
+  "wsUrl": "wss://christmas-nick-lighting-complimentary.trycloudflare.com",
+  "httpUrl": "https://christmas-nick-lighting-complimentary.trycloudflare.com",
+  "updatedAt": "2026-11-03T03:02:38.883Z",
+  "expiresAt": "2026-11-04T03:02:38.883Z",
+  "nonce": "36de93c846ca45e55910f7ecf0bf0501",
   "payload": {
-    "wsUrl": "wss://surfaces-blah-negotiation-softball.trycloudflare.com",
-    "httpUrl": "https://surfaces-blah-negotiation-softball.trycloudflare.com",
-    "issuedAt": "2026-11-03T02:52:10.623Z",
-    "expiresAt": "2026-11-04T02:52:10.623Z",
-    "nonce": "93be5307c12ae296445cb359268f1232"
+    "wsUrl": "wss://christmas-nick-lighting-complimentary.trycloudflare.com",
+    "httpUrl": "https://christmas-nick-lighting-complimentary.trycloudflare.com",
+    "issuedAt": "2026-11-03T03:02:38.883Z",
+    "expiresAt": "2026-11-04T03:02:38.883Z",
+    "nonce": "36de93c846ca45e55910f7ecf0bf0501"
   },
-  "signature": "gyPYFR8MR2zQd8iTLAqAmPP9K+8Be8zSi1gGS5Q5R0X5dkskfrX5ECutoAOQlhlCsKi8CX2TAKBDULQhgSthxA==",
+  "signature": "ztITm8YDpitJJUe0Wd/nsrj1up+6e/XXAk9ddItdi82CQJmySJp8MNFzW2LBGFBl8NOuQsoBEZZgO9IPZiAEjA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

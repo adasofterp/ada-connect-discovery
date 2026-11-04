@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://barbara-lasting-liked-fork.trycloudflare.com",
-  "httpUrl": "https://barbara-lasting-liked-fork.trycloudflare.com",
-  "updatedAt": "2026-11-04T17:38:14.960Z",
-  "expiresAt": "2026-12-04T17:38:14.960Z",
-  "nonce": "c41b230076906a7d0c03bd858a788a28",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-04T18:09:25.952Z",
+  "expiresAt": "2026-12-04T18:09:25.952Z",
+  "nonce": "b99b1eaf045c7bd3255a5ee1090db659",
   "payload": {
-    "wsUrl": "wss://barbara-lasting-liked-fork.trycloudflare.com",
-    "httpUrl": "https://barbara-lasting-liked-fork.trycloudflare.com",
-    "issuedAt": "2026-11-04T17:38:14.960Z",
-    "expiresAt": "2026-12-04T17:38:14.960Z",
-    "nonce": "c41b230076906a7d0c03bd858a788a28"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-04T18:09:25.952Z",
+    "expiresAt": "2026-12-04T18:09:25.952Z",
+    "nonce": "b99b1eaf045c7bd3255a5ee1090db659"
   },
-  "signature": "ha2vD6hDpKRQM+JNheYyMN/zFn2RIyQ4DUcj1jgMyb7sT6Q3/YyZdX2HRRP7mldGfWvhHVhWZwqp1vStWJyzNw==",
+  "signature": "lepNbfbYFUsJ39ZQfFQiG9cRD0AZp9adrZhz/rmyeXguOaEsyyHtrN7xq+Rf0sWRJRMhxp/4xa52/az8Btfm3w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

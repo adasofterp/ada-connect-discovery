@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://putting-truly-mailing-executive.trycloudflare.com",
-  "httpUrl": "https://putting-truly-mailing-executive.trycloudflare.com",
-  "updatedAt": "2026-11-04T18:34:02.798Z",
-  "expiresAt": "2026-12-04T18:34:02.798Z",
-  "nonce": "6fc362429331197f63628aecb92fbf0b",
+  "wsUrl": "wss://framing-seasonal-hosted-journey.trycloudflare.com",
+  "httpUrl": "https://framing-seasonal-hosted-journey.trycloudflare.com",
+  "updatedAt": "2026-11-04T19:05:18.461Z",
+  "expiresAt": "2026-12-04T19:05:18.461Z",
+  "nonce": "f4820d93e509a5a475b5992513791a11",
   "payload": {
-    "wsUrl": "wss://putting-truly-mailing-executive.trycloudflare.com",
-    "httpUrl": "https://putting-truly-mailing-executive.trycloudflare.com",
-    "issuedAt": "2026-11-04T18:34:02.798Z",
-    "expiresAt": "2026-12-04T18:34:02.798Z",
-    "nonce": "6fc362429331197f63628aecb92fbf0b"
+    "wsUrl": "wss://framing-seasonal-hosted-journey.trycloudflare.com",
+    "httpUrl": "https://framing-seasonal-hosted-journey.trycloudflare.com",
+    "issuedAt": "2026-11-04T19:05:18.461Z",
+    "expiresAt": "2026-12-04T19:05:18.461Z",
+    "nonce": "f4820d93e509a5a475b5992513791a11"
   },
-  "signature": "qANSUHCzm+0PD8r+TRZcwwrx+8DyOcmNE0w2tmgRQsHqNVz2dgOwm8XmgKyfWyaQDN+N3y3somhxNP/B1tkp9Q==",
+  "signature": "Iuv1wzD11gcgqB2J8UaZK9ONvW9dglgHgonOK/fiLyhdrIr9acLeJSqKBdzujegrzZF+IZLxZAm1FFz0+3SaZg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

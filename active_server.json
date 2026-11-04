@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://characters-bra-exchange-sword.trycloudflare.com",
-  "httpUrl": "https://characters-bra-exchange-sword.trycloudflare.com",
-  "updatedAt": "2026-11-04T13:34:16.468Z",
-  "expiresAt": "2026-12-04T13:34:16.468Z",
-  "nonce": "de741a7517f5017d1cad9f95d2addf81",
+  "wsUrl": "wss://couples-julian-burns-upon.trycloudflare.com",
+  "httpUrl": "https://couples-julian-burns-upon.trycloudflare.com",
+  "updatedAt": "2026-11-04T15:20:36.625Z",
+  "expiresAt": "2026-12-04T15:20:36.625Z",
+  "nonce": "02f8c0b115a39aac88a7f7e6d0724733",
   "payload": {
-    "wsUrl": "wss://characters-bra-exchange-sword.trycloudflare.com",
-    "httpUrl": "https://characters-bra-exchange-sword.trycloudflare.com",
-    "issuedAt": "2026-11-04T13:34:16.468Z",
-    "expiresAt": "2026-12-04T13:34:16.468Z",
-    "nonce": "de741a7517f5017d1cad9f95d2addf81"
+    "wsUrl": "wss://couples-julian-burns-upon.trycloudflare.com",
+    "httpUrl": "https://couples-julian-burns-upon.trycloudflare.com",
+    "issuedAt": "2026-11-04T15:20:36.625Z",
+    "expiresAt": "2026-12-04T15:20:36.625Z",
+    "nonce": "02f8c0b115a39aac88a7f7e6d0724733"
   },
-  "signature": "TxpWFtJ1GiGp1j0MGbw/aXSjXIxHRA0ZN4E5sHA68UpN3SQ867oTzQ69iniNi34U3cY6Lq3gwhym0/OETFQQ0g==",
+  "signature": "H7TFB6YUHWrOvoo2vVOGXw/jQHWQuO40iInk0jJzg/Csl0vd/UTQQ129D5uBWbwloJrDMQyTKkzd0g2Y86r3fw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://organizing-considered-packed-bracelets.trycloudflare.com",
-  "httpUrl": "https://organizing-considered-packed-bracelets.trycloudflare.com",
-  "updatedAt": "2026-11-03T10:28:49.450Z",
-  "expiresAt": "2026-12-03T10:28:49.450Z",
-  "nonce": "b2b4a1f54e43d34d223c55fbb52c64ce",
+  "wsUrl": "wss://marcus-institutions-boats-bet.trycloudflare.com",
+  "httpUrl": "https://marcus-institutions-boats-bet.trycloudflare.com",
+  "updatedAt": "2026-11-04T11:00:49.922Z",
+  "expiresAt": "2026-12-04T11:00:49.922Z",
+  "nonce": "bcbc753b20cc96d546d5ee6f7e549e17",
   "payload": {
-    "wsUrl": "wss://organizing-considered-packed-bracelets.trycloudflare.com",
-    "httpUrl": "https://organizing-considered-packed-bracelets.trycloudflare.com",
-    "issuedAt": "2026-11-03T10:28:49.450Z",
-    "expiresAt": "2026-12-03T10:28:49.450Z",
-    "nonce": "b2b4a1f54e43d34d223c55fbb52c64ce"
+    "wsUrl": "wss://marcus-institutions-boats-bet.trycloudflare.com",
+    "httpUrl": "https://marcus-institutions-boats-bet.trycloudflare.com",
+    "issuedAt": "2026-11-04T11:00:49.922Z",
+    "expiresAt": "2026-12-04T11:00:49.922Z",
+    "nonce": "bcbc753b20cc96d546d5ee6f7e549e17"
   },
-  "signature": "qNyEdDpRq4b7ET8WnVX3AmEjubrG55AQBjPvt6ZuTcbht/0V0IipG3iJApZL4+cOlz6PG5iZaHojMdKudrvmRA==",
+  "signature": "EzkBLyAsIHU4lGqfDfcK6NcXTdXOov8SEigXf7BsaVj0ZPpmaBHzoWzSXAGZ6cJPJeMNw2LWO4awJDc8A+VuEg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

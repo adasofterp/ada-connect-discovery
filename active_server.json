@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://novel-maintenance-hands-zones.trycloudflare.com",
-  "httpUrl": "https://novel-maintenance-hands-zones.trycloudflare.com",
-  "updatedAt": "2026-11-04T22:32:39.631Z",
-  "expiresAt": "2026-12-04T22:32:39.631Z",
-  "nonce": "ca994a56d2d51238e8792c34c82e8ca6",
+  "wsUrl": "wss://calculations-musicians-comedy-disclosure.trycloudflare.com",
+  "httpUrl": "https://calculations-musicians-comedy-disclosure.trycloudflare.com",
+  "updatedAt": "2026-11-04T22:43:04.681Z",
+  "expiresAt": "2026-12-04T22:43:04.681Z",
+  "nonce": "5cb968734de6b62415c65393c3b530c6",
   "payload": {
-    "wsUrl": "wss://novel-maintenance-hands-zones.trycloudflare.com",
-    "httpUrl": "https://novel-maintenance-hands-zones.trycloudflare.com",
-    "issuedAt": "2026-11-04T22:32:39.631Z",
-    "expiresAt": "2026-12-04T22:32:39.631Z",
-    "nonce": "ca994a56d2d51238e8792c34c82e8ca6"
+    "wsUrl": "wss://calculations-musicians-comedy-disclosure.trycloudflare.com",
+    "httpUrl": "https://calculations-musicians-comedy-disclosure.trycloudflare.com",
+    "issuedAt": "2026-11-04T22:43:04.681Z",
+    "expiresAt": "2026-12-04T22:43:04.681Z",
+    "nonce": "5cb968734de6b62415c65393c3b530c6"
   },
-  "signature": "LoH4oDcVTVQcU2Sg0KnnV8iwaCp2z4yMC2i5qKXT0bdHWcaV33Xr1L7Uc0/q+5hSgrfkD+2cKiSqBrHorAMEPw==",
+  "signature": "LPxM6gvj9TN2t1WqJV+VJDbq1RAmeziMbjJxiGw4ve4iqjpPuahniDZbVSjykkuYGxCNvNgqivg362BVazgjPw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

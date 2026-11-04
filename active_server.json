@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://framing-seasonal-hosted-journey.trycloudflare.com",
   "httpUrl": "https://framing-seasonal-hosted-journey.trycloudflare.com",
-  "updatedAt": "2026-11-04T19:05:18.461Z",
-  "expiresAt": "2026-12-04T19:05:18.461Z",
-  "nonce": "f4820d93e509a5a475b5992513791a11",
+  "updatedAt": "2026-11-04T19:15:36.969Z",
+  "expiresAt": "2026-12-04T19:15:36.969Z",
+  "nonce": "a4189cb30e3b3c4ac452c012eaa615ad",
   "payload": {
     "wsUrl": "wss://framing-seasonal-hosted-journey.trycloudflare.com",
     "httpUrl": "https://framing-seasonal-hosted-journey.trycloudflare.com",
-    "issuedAt": "2026-11-04T19:05:18.461Z",
-    "expiresAt": "2026-12-04T19:05:18.461Z",
-    "nonce": "f4820d93e509a5a475b5992513791a11"
+    "issuedAt": "2026-11-04T19:15:36.969Z",
+    "expiresAt": "2026-12-04T19:15:36.969Z",
+    "nonce": "a4189cb30e3b3c4ac452c012eaa615ad"
   },
-  "signature": "Iuv1wzD11gcgqB2J8UaZK9ONvW9dglgHgonOK/fiLyhdrIr9acLeJSqKBdzujegrzZF+IZLxZAm1FFz0+3SaZg==",
+  "signature": "JTYzE6lvBqCHG4e6leYfxPasNgPf6PJc6PnEpRFz9XWdqtTkcclLU1NJLTXvMiHSPwgVoZl9MRKrnGBkZSMopA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

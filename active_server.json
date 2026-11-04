@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://burns-trials-penalties-ministries.trycloudflare.com",
-  "httpUrl": "https://burns-trials-penalties-ministries.trycloudflare.com",
-  "updatedAt": "2026-11-04T15:41:27.712Z",
-  "expiresAt": "2026-12-04T15:41:27.712Z",
-  "nonce": "cdc0d19935d95a07ecefaba5eda943b6",
+  "wsUrl": "wss://simultaneously-tap-convinced-revised.trycloudflare.com",
+  "httpUrl": "https://simultaneously-tap-convinced-revised.trycloudflare.com",
+  "updatedAt": "2026-11-04T15:51:55.323Z",
+  "expiresAt": "2026-12-04T15:51:55.323Z",
+  "nonce": "d6f104df027473dc7038bd7107991ddb",
   "payload": {
-    "wsUrl": "wss://burns-trials-penalties-ministries.trycloudflare.com",
-    "httpUrl": "https://burns-trials-penalties-ministries.trycloudflare.com",
-    "issuedAt": "2026-11-04T15:41:27.712Z",
-    "expiresAt": "2026-12-04T15:41:27.712Z",
-    "nonce": "cdc0d19935d95a07ecefaba5eda943b6"
+    "wsUrl": "wss://simultaneously-tap-convinced-revised.trycloudflare.com",
+    "httpUrl": "https://simultaneously-tap-convinced-revised.trycloudflare.com",
+    "issuedAt": "2026-11-04T15:51:55.323Z",
+    "expiresAt": "2026-12-04T15:51:55.323Z",
+    "nonce": "d6f104df027473dc7038bd7107991ddb"
   },
-  "signature": "nn0Rv3WXyagcsiHipxHqGwtsRC18jaAXSIYuotue8eUiWJBqc4FI7MwVfVpq96za8gvapyVs+wIQDH119xu5qg==",
+  "signature": "VcZAnYJsJjt2+rLYsVqQR+C2Km/YrsJTmKN/ruMCwVbOcM5kHjErZO3XYzGXJN/z8u3033eeZArqml7z1b8srg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

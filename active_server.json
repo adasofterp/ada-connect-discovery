@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://marcus-institutions-boats-bet.trycloudflare.com",
-  "httpUrl": "https://marcus-institutions-boats-bet.trycloudflare.com",
-  "updatedAt": "2026-11-04T11:00:49.922Z",
-  "expiresAt": "2026-12-04T11:00:49.922Z",
-  "nonce": "bcbc753b20cc96d546d5ee6f7e549e17",
+  "wsUrl": "wss://characters-bra-exchange-sword.trycloudflare.com",
+  "httpUrl": "https://characters-bra-exchange-sword.trycloudflare.com",
+  "updatedAt": "2026-11-04T13:34:16.468Z",
+  "expiresAt": "2026-12-04T13:34:16.468Z",
+  "nonce": "de741a7517f5017d1cad9f95d2addf81",
   "payload": {
-    "wsUrl": "wss://marcus-institutions-boats-bet.trycloudflare.com",
-    "httpUrl": "https://marcus-institutions-boats-bet.trycloudflare.com",
-    "issuedAt": "2026-11-04T11:00:49.922Z",
-    "expiresAt": "2026-12-04T11:00:49.922Z",
-    "nonce": "bcbc753b20cc96d546d5ee6f7e549e17"
+    "wsUrl": "wss://characters-bra-exchange-sword.trycloudflare.com",
+    "httpUrl": "https://characters-bra-exchange-sword.trycloudflare.com",
+    "issuedAt": "2026-11-04T13:34:16.468Z",
+    "expiresAt": "2026-12-04T13:34:16.468Z",
+    "nonce": "de741a7517f5017d1cad9f95d2addf81"
   },
-  "signature": "EzkBLyAsIHU4lGqfDfcK6NcXTdXOov8SEigXf7BsaVj0ZPpmaBHzoWzSXAGZ6cJPJeMNw2LWO4awJDc8A+VuEg==",
+  "signature": "TxpWFtJ1GiGp1j0MGbw/aXSjXIxHRA0ZN4E5sHA68UpN3SQ867oTzQ69iniNi34U3cY6Lq3gwhym0/OETFQQ0g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://allergy-forget-bridal-plenty.trycloudflare.com",
-  "httpUrl": "https://allergy-forget-bridal-plenty.trycloudflare.com",
-  "updatedAt": "2026-11-04T17:01:18.259Z",
-  "expiresAt": "2026-12-04T17:01:18.259Z",
-  "nonce": "cf89f73390111f2fc9e097367246fefa",
+  "wsUrl": "wss://catalog-startup-mine-transmitted.trycloudflare.com",
+  "httpUrl": "https://catalog-startup-mine-transmitted.trycloudflare.com",
+  "updatedAt": "2026-11-04T17:27:49.800Z",
+  "expiresAt": "2026-12-04T17:27:49.800Z",
+  "nonce": "4372588699bb094a6587e79eecc6c94f",
   "payload": {
-    "wsUrl": "wss://allergy-forget-bridal-plenty.trycloudflare.com",
-    "httpUrl": "https://allergy-forget-bridal-plenty.trycloudflare.com",
-    "issuedAt": "2026-11-04T17:01:18.259Z",
-    "expiresAt": "2026-12-04T17:01:18.259Z",
-    "nonce": "cf89f73390111f2fc9e097367246fefa"
+    "wsUrl": "wss://catalog-startup-mine-transmitted.trycloudflare.com",
+    "httpUrl": "https://catalog-startup-mine-transmitted.trycloudflare.com",
+    "issuedAt": "2026-11-04T17:27:49.800Z",
+    "expiresAt": "2026-12-04T17:27:49.800Z",
+    "nonce": "4372588699bb094a6587e79eecc6c94f"
   },
-  "signature": "Sf3GQOYe+erfJV8D851m9X3D5Kk5CmfYc4rKAY5+cdkP5wVWBEb49tZMNr2vHISt4bgZX58sjB7PkXRtBkRVFg==",
+  "signature": "GDfjCF/5qOMrPvbEMD911h3RzLBd2NFlLBImd20gZ17eYmCkNqZMBtdJ0W5/uQA7OuO15x6vZKkszdPV81Fjjw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

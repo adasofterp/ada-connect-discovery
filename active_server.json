@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-04T23:24:41.648Z",
-  "expiresAt": "2026-12-04T23:24:41.648Z",
-  "nonce": "7fca4e17640d30414cadd4b529417621",
+  "wsUrl": "wss://wars-leaving-beast-allowance.trycloudflare.com",
+  "httpUrl": "https://wars-leaving-beast-allowance.trycloudflare.com",
+  "updatedAt": "2026-11-04T23:40:19.186Z",
+  "expiresAt": "2026-12-04T23:40:19.186Z",
+  "nonce": "b2cbe3e53ce0b5bde10658b07232cbd1",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-04T23:24:41.648Z",
-    "expiresAt": "2026-12-04T23:24:41.648Z",
-    "nonce": "7fca4e17640d30414cadd4b529417621"
+    "wsUrl": "wss://wars-leaving-beast-allowance.trycloudflare.com",
+    "httpUrl": "https://wars-leaving-beast-allowance.trycloudflare.com",
+    "issuedAt": "2026-11-04T23:40:19.186Z",
+    "expiresAt": "2026-12-04T23:40:19.186Z",
+    "nonce": "b2cbe3e53ce0b5bde10658b07232cbd1"
   },
-  "signature": "e1P5NDVDBqJrlj3MJbc3XAKvKo6oDuqEjmK9Q0elxFsUkZIxYdYgridj/CONlgmtaUurvWcqC3vY6G4+9QrEFw==",
+  "signature": "ZhCrDc1G7Y/KPZnAA/r256tnS85CjYw+PCajNAIkxg6GaA095aR38LMOUPBNzQ50h63nYVfe59ZOarNmdC/ggw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

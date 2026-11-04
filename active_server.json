@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-04T18:28:48.863Z",
-  "expiresAt": "2026-12-04T18:28:48.863Z",
-  "nonce": "353392c6a8f0bb615d13bd47e959ba1a",
+  "wsUrl": "wss://putting-truly-mailing-executive.trycloudflare.com",
+  "httpUrl": "https://putting-truly-mailing-executive.trycloudflare.com",
+  "updatedAt": "2026-11-04T18:34:02.798Z",
+  "expiresAt": "2026-12-04T18:34:02.798Z",
+  "nonce": "6fc362429331197f63628aecb92fbf0b",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-04T18:28:48.863Z",
-    "expiresAt": "2026-12-04T18:28:48.863Z",
-    "nonce": "353392c6a8f0bb615d13bd47e959ba1a"
+    "wsUrl": "wss://putting-truly-mailing-executive.trycloudflare.com",
+    "httpUrl": "https://putting-truly-mailing-executive.trycloudflare.com",
+    "issuedAt": "2026-11-04T18:34:02.798Z",
+    "expiresAt": "2026-12-04T18:34:02.798Z",
+    "nonce": "6fc362429331197f63628aecb92fbf0b"
   },
-  "signature": "8XRe2B/guLZ+2YGvtO1A7ZQTJV/VOF/06goJUxWlK+ySMK+M+i5sJycnubtTAHtq70Lf5vWKiAJr/OXZ6wnosg==",
+  "signature": "qANSUHCzm+0PD8r+TRZcwwrx+8DyOcmNE0w2tmgRQsHqNVz2dgOwm8XmgKyfWyaQDN+N3y3somhxNP/B1tkp9Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

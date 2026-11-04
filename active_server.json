@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://couples-julian-burns-upon.trycloudflare.com",
-  "httpUrl": "https://couples-julian-burns-upon.trycloudflare.com",
-  "updatedAt": "2026-11-04T15:20:36.625Z",
-  "expiresAt": "2026-12-04T15:20:36.625Z",
-  "nonce": "02f8c0b115a39aac88a7f7e6d0724733",
+  "wsUrl": "wss://petroleum-road-projection-mods.trycloudflare.com",
+  "httpUrl": "https://petroleum-road-projection-mods.trycloudflare.com",
+  "updatedAt": "2026-11-04T15:31:03.443Z",
+  "expiresAt": "2026-12-04T15:31:03.443Z",
+  "nonce": "6932fff2755ba474a394f5a7e5ab4458",
   "payload": {
-    "wsUrl": "wss://couples-julian-burns-upon.trycloudflare.com",
-    "httpUrl": "https://couples-julian-burns-upon.trycloudflare.com",
-    "issuedAt": "2026-11-04T15:20:36.625Z",
-    "expiresAt": "2026-12-04T15:20:36.625Z",
-    "nonce": "02f8c0b115a39aac88a7f7e6d0724733"
+    "wsUrl": "wss://petroleum-road-projection-mods.trycloudflare.com",
+    "httpUrl": "https://petroleum-road-projection-mods.trycloudflare.com",
+    "issuedAt": "2026-11-04T15:31:03.443Z",
+    "expiresAt": "2026-12-04T15:31:03.443Z",
+    "nonce": "6932fff2755ba474a394f5a7e5ab4458"
   },
-  "signature": "H7TFB6YUHWrOvoo2vVOGXw/jQHWQuO40iInk0jJzg/Csl0vd/UTQQ129D5uBWbwloJrDMQyTKkzd0g2Y86r3fw==",
+  "signature": "VKf5d5Kn737ETLh4jnMlyS7ol1FJ5mcsQ/QJkulgJV1EHzau85TArip6JI2fGArXYwtWf0mBQpp0pqNgRgK1Ew==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

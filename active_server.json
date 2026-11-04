@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://petroleum-road-projection-mods.trycloudflare.com",
-  "httpUrl": "https://petroleum-road-projection-mods.trycloudflare.com",
-  "updatedAt": "2026-11-04T15:31:03.443Z",
-  "expiresAt": "2026-12-04T15:31:03.443Z",
-  "nonce": "6932fff2755ba474a394f5a7e5ab4458",
+  "wsUrl": "wss://burns-trials-penalties-ministries.trycloudflare.com",
+  "httpUrl": "https://burns-trials-penalties-ministries.trycloudflare.com",
+  "updatedAt": "2026-11-04T15:41:27.712Z",
+  "expiresAt": "2026-12-04T15:41:27.712Z",
+  "nonce": "cdc0d19935d95a07ecefaba5eda943b6",
   "payload": {
-    "wsUrl": "wss://petroleum-road-projection-mods.trycloudflare.com",
-    "httpUrl": "https://petroleum-road-projection-mods.trycloudflare.com",
-    "issuedAt": "2026-11-04T15:31:03.443Z",
-    "expiresAt": "2026-12-04T15:31:03.443Z",
-    "nonce": "6932fff2755ba474a394f5a7e5ab4458"
+    "wsUrl": "wss://burns-trials-penalties-ministries.trycloudflare.com",
+    "httpUrl": "https://burns-trials-penalties-ministries.trycloudflare.com",
+    "issuedAt": "2026-11-04T15:41:27.712Z",
+    "expiresAt": "2026-12-04T15:41:27.712Z",
+    "nonce": "cdc0d19935d95a07ecefaba5eda943b6"
   },
-  "signature": "VKf5d5Kn737ETLh4jnMlyS7ol1FJ5mcsQ/QJkulgJV1EHzau85TArip6JI2fGArXYwtWf0mBQpp0pqNgRgK1Ew==",
+  "signature": "nn0Rv3WXyagcsiHipxHqGwtsRC18jaAXSIYuotue8eUiWJBqc4FI7MwVfVpq96za8gvapyVs+wIQDH119xu5qg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

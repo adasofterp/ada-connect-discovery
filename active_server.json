@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-04T22:13:33.242Z",
-  "expiresAt": "2026-12-04T22:13:33.242Z",
-  "nonce": "20d1ceb677fdb90d1739b3ea7f72108a",
+  "wsUrl": "wss://novel-maintenance-hands-zones.trycloudflare.com",
+  "httpUrl": "https://novel-maintenance-hands-zones.trycloudflare.com",
+  "updatedAt": "2026-11-04T22:32:39.631Z",
+  "expiresAt": "2026-12-04T22:32:39.631Z",
+  "nonce": "ca994a56d2d51238e8792c34c82e8ca6",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-04T22:13:33.242Z",
-    "expiresAt": "2026-12-04T22:13:33.242Z",
-    "nonce": "20d1ceb677fdb90d1739b3ea7f72108a"
+    "wsUrl": "wss://novel-maintenance-hands-zones.trycloudflare.com",
+    "httpUrl": "https://novel-maintenance-hands-zones.trycloudflare.com",
+    "issuedAt": "2026-11-04T22:32:39.631Z",
+    "expiresAt": "2026-12-04T22:32:39.631Z",
+    "nonce": "ca994a56d2d51238e8792c34c82e8ca6"
   },
-  "signature": "+g9SO9vwG7ZG8DBZTzhNiI16ekx/LxfsydrRwp099iHGHJQTdQCjokRAI8IriWsVdkyxtKtQRKBvzZjkQCSH4Q==",
+  "signature": "LoH4oDcVTVQcU2Sg0KnnV8iwaCp2z4yMC2i5qKXT0bdHWcaV33Xr1L7Uc0/q+5hSgrfkD+2cKiSqBrHorAMEPw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

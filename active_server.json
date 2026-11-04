@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-04T16:07:34.366Z",
-  "expiresAt": "2026-12-04T16:07:34.366Z",
-  "nonce": "78de41e36efc972cd01a400d86737f29",
+  "wsUrl": "wss://content-villages-voltage-mighty.trycloudflare.com",
+  "httpUrl": "https://content-villages-voltage-mighty.trycloudflare.com",
+  "updatedAt": "2026-11-04T16:12:48.191Z",
+  "expiresAt": "2026-12-04T16:12:48.191Z",
+  "nonce": "a6466b934b6e1a4821cdf6dcd12f991e",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-04T16:07:34.366Z",
-    "expiresAt": "2026-12-04T16:07:34.366Z",
-    "nonce": "78de41e36efc972cd01a400d86737f29"
+    "wsUrl": "wss://content-villages-voltage-mighty.trycloudflare.com",
+    "httpUrl": "https://content-villages-voltage-mighty.trycloudflare.com",
+    "issuedAt": "2026-11-04T16:12:48.191Z",
+    "expiresAt": "2026-12-04T16:12:48.191Z",
+    "nonce": "a6466b934b6e1a4821cdf6dcd12f991e"
   },
-  "signature": "XVQh4cnBOiZdX1i9sIk2ny4TfBW/RnUMJGwuQjRSSaMUhWG2u0iBll7R93F+ZBfLCH/kUkuc2+URra55SH2cDw==",
+  "signature": "MnDrVNnCtBrJn8yXkPpGvS69Gt5o+mMNRYc5HAxfrbErQP8UAkjkjU3KRda51PdDxucSlddfzs3ZDrzx7KYyvQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://flexible-lonely-depend-reduce.trycloudflare.com",
-  "httpUrl": "https://flexible-lonely-depend-reduce.trycloudflare.com",
-  "updatedAt": "2026-11-04T19:45:26.987Z",
-  "expiresAt": "2026-12-04T19:45:26.987Z",
-  "nonce": "edeb0aa87f5761e4ee74fa7ed97272cc",
+  "wsUrl": "wss://sustainable-johnston-weblog-sic.trycloudflare.com",
+  "httpUrl": "https://sustainable-johnston-weblog-sic.trycloudflare.com",
+  "updatedAt": "2026-11-04T21:02:02.891Z",
+  "expiresAt": "2026-12-04T21:02:02.891Z",
+  "nonce": "3ede6b18f78e35be2b76658cc2086643",
   "payload": {
-    "wsUrl": "wss://flexible-lonely-depend-reduce.trycloudflare.com",
-    "httpUrl": "https://flexible-lonely-depend-reduce.trycloudflare.com",
-    "issuedAt": "2026-11-04T19:45:26.987Z",
-    "expiresAt": "2026-12-04T19:45:26.987Z",
-    "nonce": "edeb0aa87f5761e4ee74fa7ed97272cc"
+    "wsUrl": "wss://sustainable-johnston-weblog-sic.trycloudflare.com",
+    "httpUrl": "https://sustainable-johnston-weblog-sic.trycloudflare.com",
+    "issuedAt": "2026-11-04T21:02:02.891Z",
+    "expiresAt": "2026-12-04T21:02:02.891Z",
+    "nonce": "3ede6b18f78e35be2b76658cc2086643"
   },
-  "signature": "kgXFoIymyYXWN7k3mqr7dPgpbSImtExcpae2zl9tvavCGbrk7KBPSE3tf8DOvEe7u5LekcFk0KrnYgTBqiaQpA==",
+  "signature": "R4Tnz72nG54UQkr4pGhh7icL8M4k0Godj2JcDm2YpLx1wKpykWdnQO4xedzBQnWfVEFHAB9G7cWpJrf3nUQnbA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

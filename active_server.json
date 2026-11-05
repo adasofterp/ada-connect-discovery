@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://arch-electronics-represents-ordering.trycloudflare.com",
-  "httpUrl": "https://arch-electronics-represents-ordering.trycloudflare.com",
-  "updatedAt": "2026-11-05T03:22:38.535Z",
-  "expiresAt": "2026-12-05T03:22:38.535Z",
-  "nonce": "aeb4d00a182328d8132ffcf92d0da26e",
+  "wsUrl": "wss://uses-judgment-harbor-integrating.trycloudflare.com",
+  "httpUrl": "https://uses-judgment-harbor-integrating.trycloudflare.com",
+  "updatedAt": "2026-11-05T03:27:53.555Z",
+  "expiresAt": "2026-12-05T03:27:53.555Z",
+  "nonce": "414d98c752e14b540d69af28935df3ec",
   "payload": {
-    "wsUrl": "wss://arch-electronics-represents-ordering.trycloudflare.com",
-    "httpUrl": "https://arch-electronics-represents-ordering.trycloudflare.com",
-    "issuedAt": "2026-11-05T03:22:38.535Z",
-    "expiresAt": "2026-12-05T03:22:38.535Z",
-    "nonce": "aeb4d00a182328d8132ffcf92d0da26e"
+    "wsUrl": "wss://uses-judgment-harbor-integrating.trycloudflare.com",
+    "httpUrl": "https://uses-judgment-harbor-integrating.trycloudflare.com",
+    "issuedAt": "2026-11-05T03:27:53.555Z",
+    "expiresAt": "2026-12-05T03:27:53.555Z",
+    "nonce": "414d98c752e14b540d69af28935df3ec"
   },
-  "signature": "W+s9UAg4/Ris8HXaKsd3V38pSKJc1YQWBFXt54NSj33RLCYzBxENDUODgi6xy6BOVhfYvEGLVroeHbe6UeHVYw==",
+  "signature": "/WuF6pX2WMS6iklt0b3RjSJFM+DdZmAUOgT8C7xGH9Gtb0GhRknV25zMo86ov3rj3RIx6TgYY0m27iadZ3vw5g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

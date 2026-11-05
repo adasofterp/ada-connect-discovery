@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://retained-liz-windsor-placement.trycloudflare.com",
-  "httpUrl": "https://retained-liz-windsor-placement.trycloudflare.com",
-  "updatedAt": "2026-11-05T05:51:12.434Z",
-  "expiresAt": "2026-12-05T05:51:12.434Z",
-  "nonce": "10e220f5a473ad7c8ca4f851887814fc",
+  "wsUrl": "wss://grace-injection-designing-joseph.trycloudflare.com",
+  "httpUrl": "https://grace-injection-designing-joseph.trycloudflare.com",
+  "updatedAt": "2026-11-05T06:36:31.218Z",
+  "expiresAt": "2026-12-05T06:36:31.218Z",
+  "nonce": "cb6d28723185dfb8fe656ef87b949157",
   "payload": {
-    "wsUrl": "wss://retained-liz-windsor-placement.trycloudflare.com",
-    "httpUrl": "https://retained-liz-windsor-placement.trycloudflare.com",
-    "issuedAt": "2026-11-05T05:51:12.434Z",
-    "expiresAt": "2026-12-05T05:51:12.434Z",
-    "nonce": "10e220f5a473ad7c8ca4f851887814fc"
+    "wsUrl": "wss://grace-injection-designing-joseph.trycloudflare.com",
+    "httpUrl": "https://grace-injection-designing-joseph.trycloudflare.com",
+    "issuedAt": "2026-11-05T06:36:31.218Z",
+    "expiresAt": "2026-12-05T06:36:31.218Z",
+    "nonce": "cb6d28723185dfb8fe656ef87b949157"
   },
-  "signature": "0b4dmzaH+nLA86MASanLdXaAbcxKGFVEdWaR6xR+/IAqWhWNcPFIz60fpGgLW6gg7LmgthrHHeRHzO5GK1Z5mQ==",
+  "signature": "4A8OJ7OIqcbYn6tadhDYZWRgNutWzBE5enWQSPGbZ2X4aCJp6rgCJG2BQd1WHthiixsUll3yrvH1S8u+DTf68w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://massage-excuse-favor-burke.trycloudflare.com",
-  "httpUrl": "https://massage-excuse-favor-burke.trycloudflare.com",
-  "updatedAt": "2026-11-05T11:25:46.539Z",
-  "expiresAt": "2026-12-05T11:25:46.539Z",
-  "nonce": "188694ade36ced024c144e417027a148",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-05T11:31:06.056Z",
+  "expiresAt": "2026-12-05T11:31:06.056Z",
+  "nonce": "324a5df82de428a3db973b2fad64f004",
   "payload": {
-    "wsUrl": "wss://massage-excuse-favor-burke.trycloudflare.com",
-    "httpUrl": "https://massage-excuse-favor-burke.trycloudflare.com",
-    "issuedAt": "2026-11-05T11:25:46.539Z",
-    "expiresAt": "2026-12-05T11:25:46.539Z",
-    "nonce": "188694ade36ced024c144e417027a148"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-05T11:31:06.056Z",
+    "expiresAt": "2026-12-05T11:31:06.056Z",
+    "nonce": "324a5df82de428a3db973b2fad64f004"
   },
-  "signature": "/8aHby8HyrRurVRicgCAr64ox4Vta9KVQhaJRPmJqov3NuoGGHgOXFwq4pRA5yiL3OHZaewXBgod79IF/09dSw==",
+  "signature": "mN55AD27l5YUmm7TtugU1AWtkNTPtl0uWmHeq1TVxxIr/Sodd4iwBRWz8wZ9KqXyC2Kq+ivmgbKQJCGtlYhEXQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

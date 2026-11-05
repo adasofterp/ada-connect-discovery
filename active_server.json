@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://stories-presentations-ultra-garden.trycloudflare.com",
-  "httpUrl": "https://stories-presentations-ultra-garden.trycloudflare.com",
-  "updatedAt": "2026-11-05T21:16:27.815Z",
-  "expiresAt": "2026-12-05T21:16:27.815Z",
-  "nonce": "e133161dde7282d70e83b1da96030f24",
+  "wsUrl": "wss://polymer-cologne-seller-gnome.trycloudflare.com",
+  "httpUrl": "https://polymer-cologne-seller-gnome.trycloudflare.com",
+  "updatedAt": "2026-11-05T21:26:58.053Z",
+  "expiresAt": "2026-12-05T21:26:58.053Z",
+  "nonce": "0b72539cd16018d24bd4e6b15b135c63",
   "payload": {
-    "wsUrl": "wss://stories-presentations-ultra-garden.trycloudflare.com",
-    "httpUrl": "https://stories-presentations-ultra-garden.trycloudflare.com",
-    "issuedAt": "2026-11-05T21:16:27.815Z",
-    "expiresAt": "2026-12-05T21:16:27.815Z",
-    "nonce": "e133161dde7282d70e83b1da96030f24"
+    "wsUrl": "wss://polymer-cologne-seller-gnome.trycloudflare.com",
+    "httpUrl": "https://polymer-cologne-seller-gnome.trycloudflare.com",
+    "issuedAt": "2026-11-05T21:26:58.053Z",
+    "expiresAt": "2026-12-05T21:26:58.053Z",
+    "nonce": "0b72539cd16018d24bd4e6b15b135c63"
   },
-  "signature": "qbH5Er4jrTeNRL0VtCf2m0g/Y4i4A5wCU47yCabIHbcgP9x38kQuk2CmPMQSQ3w1+UDVBXdMP8TN7OuhxPGLGQ==",
+  "signature": "qwagQL8dalSsED4hcIhoo/y8RW1FROR6aqsfqawWRh8A5P1Nj1q6QRrhSSRpqMDpBdn35qDVP1d1qNqMl4VsCw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

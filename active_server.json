@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://establishing-witch-livestock-bringing.trycloudflare.com",
-  "httpUrl": "https://establishing-witch-livestock-bringing.trycloudflare.com",
-  "updatedAt": "2026-11-05T04:47:12.810Z",
-  "expiresAt": "2026-12-05T04:47:12.810Z",
-  "nonce": "b11206379307b37b852753cd707ca660",
+  "wsUrl": "wss://quote-wrap-recommended-calling.trycloudflare.com",
+  "httpUrl": "https://quote-wrap-recommended-calling.trycloudflare.com",
+  "updatedAt": "2026-11-05T04:57:37.451Z",
+  "expiresAt": "2026-12-05T04:57:37.451Z",
+  "nonce": "7a30e819acfa884563c53e2b13f1ba15",
   "payload": {
-    "wsUrl": "wss://establishing-witch-livestock-bringing.trycloudflare.com",
-    "httpUrl": "https://establishing-witch-livestock-bringing.trycloudflare.com",
-    "issuedAt": "2026-11-05T04:47:12.810Z",
-    "expiresAt": "2026-12-05T04:47:12.810Z",
-    "nonce": "b11206379307b37b852753cd707ca660"
+    "wsUrl": "wss://quote-wrap-recommended-calling.trycloudflare.com",
+    "httpUrl": "https://quote-wrap-recommended-calling.trycloudflare.com",
+    "issuedAt": "2026-11-05T04:57:37.451Z",
+    "expiresAt": "2026-12-05T04:57:37.451Z",
+    "nonce": "7a30e819acfa884563c53e2b13f1ba15"
   },
-  "signature": "v6OElShNp48KY9cMuhl4CM+6crFmri/IOeIQwcKay7bBZXWAd9n9hQVqv2oFlT2/Q+IvMfC/gjLc3Ma73OMg/w==",
+  "signature": "YQiX/YTjhwoBJdGCE8zMv7AwQrbEpe/rvVSi3Z9rueE48MAyYgi9g+mN50EuWbVXJ8pghnuEvvaXLHqqvADXxw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

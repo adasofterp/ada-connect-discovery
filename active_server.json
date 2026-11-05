@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://hist-calibration-girls-ipod.trycloudflare.com",
-  "httpUrl": "https://hist-calibration-girls-ipod.trycloudflare.com",
-  "updatedAt": "2026-11-05T02:35:49.498Z",
-  "expiresAt": "2026-12-05T02:35:49.498Z",
-  "nonce": "1a1f8adbdf6310f923312cdec6999c00",
+  "wsUrl": "wss://dried-david-rome-bodies.trycloudflare.com",
+  "httpUrl": "https://dried-david-rome-bodies.trycloudflare.com",
+  "updatedAt": "2026-11-05T02:46:12.393Z",
+  "expiresAt": "2026-12-05T02:46:12.393Z",
+  "nonce": "467d5dfe01d0cf59df25e062ecc0e9cf",
   "payload": {
-    "wsUrl": "wss://hist-calibration-girls-ipod.trycloudflare.com",
-    "httpUrl": "https://hist-calibration-girls-ipod.trycloudflare.com",
-    "issuedAt": "2026-11-05T02:35:49.498Z",
-    "expiresAt": "2026-12-05T02:35:49.498Z",
-    "nonce": "1a1f8adbdf6310f923312cdec6999c00"
+    "wsUrl": "wss://dried-david-rome-bodies.trycloudflare.com",
+    "httpUrl": "https://dried-david-rome-bodies.trycloudflare.com",
+    "issuedAt": "2026-11-05T02:46:12.393Z",
+    "expiresAt": "2026-12-05T02:46:12.393Z",
+    "nonce": "467d5dfe01d0cf59df25e062ecc0e9cf"
   },
-  "signature": "c5Ll9XLBDU0/OG9IDsGfiZ3F5Dp+Ru8EftwhPhK1v3XBV5rVZiEtZHNVAa5k7/AtG7r08neEtOJ2UshpwZit2A==",
+  "signature": "pMIWgZ1wTEO920cCR7UrvCCTSXEWXdqge6zobnzpPVTCK7d/IFKKDWdnXw0xR8orH98IGCRQ8R5cRSn+uyzpWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

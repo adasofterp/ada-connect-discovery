@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sri-likes-comfortable-famous.trycloudflare.com",
-  "httpUrl": "https://sri-likes-comfortable-famous.trycloudflare.com",
-  "updatedAt": "2026-11-05T18:45:10.357Z",
-  "expiresAt": "2026-12-05T18:45:10.357Z",
-  "nonce": "9d3cb776049b1c504f02717b2f9e9c23",
+  "wsUrl": "wss://blanket-purchases-destinations-freelance.trycloudflare.com",
+  "httpUrl": "https://blanket-purchases-destinations-freelance.trycloudflare.com",
+  "updatedAt": "2026-11-05T19:24:44.196Z",
+  "expiresAt": "2026-12-05T19:24:44.196Z",
+  "nonce": "731cd55fe1ea37550f00ab54bc7cfc90",
   "payload": {
-    "wsUrl": "wss://sri-likes-comfortable-famous.trycloudflare.com",
-    "httpUrl": "https://sri-likes-comfortable-famous.trycloudflare.com",
-    "issuedAt": "2026-11-05T18:45:10.357Z",
-    "expiresAt": "2026-12-05T18:45:10.357Z",
-    "nonce": "9d3cb776049b1c504f02717b2f9e9c23"
+    "wsUrl": "wss://blanket-purchases-destinations-freelance.trycloudflare.com",
+    "httpUrl": "https://blanket-purchases-destinations-freelance.trycloudflare.com",
+    "issuedAt": "2026-11-05T19:24:44.196Z",
+    "expiresAt": "2026-12-05T19:24:44.196Z",
+    "nonce": "731cd55fe1ea37550f00ab54bc7cfc90"
   },
-  "signature": "2D3oweHrkxFcH5aGUimmz3MxMAkeVwzCN4svG5RzSr7fnQhAdidaq1aq2FijE5hzObTRZ9Ap+pEwCT6ZKa/Ukg==",
+  "signature": "BWbsMjwlekWJl5eVMoWe47xDRkE/l+UJPWB/Dv77rYC6jJBo+eNw9ERBEbmi7yEa8BsTJa0kJMmKW89nzz1pZg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

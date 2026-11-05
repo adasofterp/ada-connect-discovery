@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://polymer-cologne-seller-gnome.trycloudflare.com",
-  "httpUrl": "https://polymer-cologne-seller-gnome.trycloudflare.com",
-  "updatedAt": "2026-11-05T21:26:58.053Z",
-  "expiresAt": "2026-12-05T21:26:58.053Z",
-  "nonce": "0b72539cd16018d24bd4e6b15b135c63",
+  "wsUrl": "wss://pink-twins-primarily-launch.trycloudflare.com",
+  "httpUrl": "https://pink-twins-primarily-launch.trycloudflare.com",
+  "updatedAt": "2026-11-05T21:37:27.372Z",
+  "expiresAt": "2026-12-05T21:37:27.372Z",
+  "nonce": "f4727995a2a9371e7add5fe6eb111bca",
   "payload": {
-    "wsUrl": "wss://polymer-cologne-seller-gnome.trycloudflare.com",
-    "httpUrl": "https://polymer-cologne-seller-gnome.trycloudflare.com",
-    "issuedAt": "2026-11-05T21:26:58.053Z",
-    "expiresAt": "2026-12-05T21:26:58.053Z",
-    "nonce": "0b72539cd16018d24bd4e6b15b135c63"
+    "wsUrl": "wss://pink-twins-primarily-launch.trycloudflare.com",
+    "httpUrl": "https://pink-twins-primarily-launch.trycloudflare.com",
+    "issuedAt": "2026-11-05T21:37:27.372Z",
+    "expiresAt": "2026-12-05T21:37:27.372Z",
+    "nonce": "f4727995a2a9371e7add5fe6eb111bca"
   },
-  "signature": "qwagQL8dalSsED4hcIhoo/y8RW1FROR6aqsfqawWRh8A5P1Nj1q6QRrhSSRpqMDpBdn35qDVP1d1qNqMl4VsCw==",
+  "signature": "mM8XQLio/s73nJU65/8bfyvdXx+qS2YapWND+agVpnvsDHSSXveFzqPUkNPlFddro61w3VF9Z1uQmcgBwgiOTQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

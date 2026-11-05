@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rides-exclude-explained-map.trycloudflare.com",
-  "httpUrl": "https://rides-exclude-explained-map.trycloudflare.com",
-  "updatedAt": "2026-11-05T20:39:44.171Z",
-  "expiresAt": "2026-12-05T20:39:44.171Z",
-  "nonce": "86c5050fedb9900b96c4794feaebf5a8",
+  "wsUrl": "wss://setting-unless-olympics-electrical.trycloudflare.com",
+  "httpUrl": "https://setting-unless-olympics-electrical.trycloudflare.com",
+  "updatedAt": "2026-11-05T20:56:31.063Z",
+  "expiresAt": "2026-12-05T20:56:31.063Z",
+  "nonce": "257f555cfc1a3f206ed8560cfbfb712a",
   "payload": {
-    "wsUrl": "wss://rides-exclude-explained-map.trycloudflare.com",
-    "httpUrl": "https://rides-exclude-explained-map.trycloudflare.com",
-    "issuedAt": "2026-11-05T20:39:44.171Z",
-    "expiresAt": "2026-12-05T20:39:44.171Z",
-    "nonce": "86c5050fedb9900b96c4794feaebf5a8"
+    "wsUrl": "wss://setting-unless-olympics-electrical.trycloudflare.com",
+    "httpUrl": "https://setting-unless-olympics-electrical.trycloudflare.com",
+    "issuedAt": "2026-11-05T20:56:31.063Z",
+    "expiresAt": "2026-12-05T20:56:31.063Z",
+    "nonce": "257f555cfc1a3f206ed8560cfbfb712a"
   },
-  "signature": "jUoXywuyK0k8ZAF25EpzMaFt6PaWYJWZ2BoDPciyuwbTI1OPFfC6yfeOWG9IDnG3YTTw0BGP8Ole4/eg4swuCg==",
+  "signature": "7mBVkrkMlz+T69+wcmSb+hAe/GXpSxhc7xPw4pb2GptLMsnN2pAhnf/8U5vBWEHpcR+h/pkwdPzqcEkjhdNw6Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://expertise-devices-opt-tunes.trycloudflare.com",
-  "httpUrl": "https://expertise-devices-opt-tunes.trycloudflare.com",
-  "updatedAt": "2026-11-05T21:06:07.143Z",
-  "expiresAt": "2026-12-05T21:06:07.143Z",
-  "nonce": "8237d02c2ef2b34c9ef1f40fefb6dbab",
+  "wsUrl": "wss://stories-presentations-ultra-garden.trycloudflare.com",
+  "httpUrl": "https://stories-presentations-ultra-garden.trycloudflare.com",
+  "updatedAt": "2026-11-05T21:16:27.815Z",
+  "expiresAt": "2026-12-05T21:16:27.815Z",
+  "nonce": "e133161dde7282d70e83b1da96030f24",
   "payload": {
-    "wsUrl": "wss://expertise-devices-opt-tunes.trycloudflare.com",
-    "httpUrl": "https://expertise-devices-opt-tunes.trycloudflare.com",
-    "issuedAt": "2026-11-05T21:06:07.143Z",
-    "expiresAt": "2026-12-05T21:06:07.143Z",
-    "nonce": "8237d02c2ef2b34c9ef1f40fefb6dbab"
+    "wsUrl": "wss://stories-presentations-ultra-garden.trycloudflare.com",
+    "httpUrl": "https://stories-presentations-ultra-garden.trycloudflare.com",
+    "issuedAt": "2026-11-05T21:16:27.815Z",
+    "expiresAt": "2026-12-05T21:16:27.815Z",
+    "nonce": "e133161dde7282d70e83b1da96030f24"
   },
-  "signature": "wIDnP+4BaRrYG3nnEopCdHaXuTqZ/uw/32ZNtxKyXIFJAiTfSEvjGI3aOaDV4P6hIlwZIJvVA33oYlOR5+y7og==",
+  "signature": "qbH5Er4jrTeNRL0VtCf2m0g/Y4i4A5wCU47yCabIHbcgP9x38kQuk2CmPMQSQ3w1+UDVBXdMP8TN7OuhxPGLGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

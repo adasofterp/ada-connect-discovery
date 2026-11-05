@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://counts-expertise-edgar-statutes.trycloudflare.com",
-  "httpUrl": "https://counts-expertise-edgar-statutes.trycloudflare.com",
-  "updatedAt": "2026-11-05T14:09:00.059Z",
-  "expiresAt": "2026-12-05T14:09:00.059Z",
-  "nonce": "7f1feea5445937ce3c7f6e7d4c3760e8",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-05T14:32:04.366Z",
+  "expiresAt": "2026-12-05T14:32:04.366Z",
+  "nonce": "c57b71286d24490596285fb6798a7492",
   "payload": {
-    "wsUrl": "wss://counts-expertise-edgar-statutes.trycloudflare.com",
-    "httpUrl": "https://counts-expertise-edgar-statutes.trycloudflare.com",
-    "issuedAt": "2026-11-05T14:09:00.059Z",
-    "expiresAt": "2026-12-05T14:09:00.059Z",
-    "nonce": "7f1feea5445937ce3c7f6e7d4c3760e8"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-05T14:32:04.366Z",
+    "expiresAt": "2026-12-05T14:32:04.366Z",
+    "nonce": "c57b71286d24490596285fb6798a7492"
   },
-  "signature": "fdMrDVppSKpNFfzHC+gNYB36GQBqSdLCh6HkJoITTMWnrLJaj3YOYcqGbPtMtRURGLjKF/Hiykzc9SZ4QMAGFQ==",
+  "signature": "fgJ+O5hXvsKfscTFCXbKFi1GgXja2EfDWpbOuc0MewaDEk8TTQ6qlnjB7NT0Zp5jDCs53AkURZXZF0bNTsXy3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pink-twins-primarily-launch.trycloudflare.com",
-  "httpUrl": "https://pink-twins-primarily-launch.trycloudflare.com",
-  "updatedAt": "2026-11-05T21:37:27.372Z",
-  "expiresAt": "2026-12-05T21:37:27.372Z",
-  "nonce": "f4727995a2a9371e7add5fe6eb111bca",
+  "wsUrl": "wss://undertaken-goto-answer-dodge.trycloudflare.com",
+  "httpUrl": "https://undertaken-goto-answer-dodge.trycloudflare.com",
+  "updatedAt": "2026-11-05T21:52:08.187Z",
+  "expiresAt": "2026-12-05T21:52:08.187Z",
+  "nonce": "19049145e9b5c793c7f50a59d5e3c4dc",
   "payload": {
-    "wsUrl": "wss://pink-twins-primarily-launch.trycloudflare.com",
-    "httpUrl": "https://pink-twins-primarily-launch.trycloudflare.com",
-    "issuedAt": "2026-11-05T21:37:27.372Z",
-    "expiresAt": "2026-12-05T21:37:27.372Z",
-    "nonce": "f4727995a2a9371e7add5fe6eb111bca"
+    "wsUrl": "wss://undertaken-goto-answer-dodge.trycloudflare.com",
+    "httpUrl": "https://undertaken-goto-answer-dodge.trycloudflare.com",
+    "issuedAt": "2026-11-05T21:52:08.187Z",
+    "expiresAt": "2026-12-05T21:52:08.187Z",
+    "nonce": "19049145e9b5c793c7f50a59d5e3c4dc"
   },
-  "signature": "mM8XQLio/s73nJU65/8bfyvdXx+qS2YapWND+agVpnvsDHSSXveFzqPUkNPlFddro61w3VF9Z1uQmcgBwgiOTQ==",
+  "signature": "biHZzJFSp38r+JyqJ6Q2LZKxVCbqKWzptap1s5OwHDw6sy8B3MtwpUjYvjshNha/kS6l7nn2OozGRSqSBVStvA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

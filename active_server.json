@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://grace-injection-designing-joseph.trycloudflare.com",
-  "httpUrl": "https://grace-injection-designing-joseph.trycloudflare.com",
-  "updatedAt": "2026-11-05T07:22:38.510Z",
-  "expiresAt": "2026-12-05T07:22:38.510Z",
-  "nonce": "c00d0dae1be806f219fc409a5757e6d8",
+  "wsUrl": "wss://gray-tomorrow-cables-yes.trycloudflare.com",
+  "httpUrl": "https://gray-tomorrow-cables-yes.trycloudflare.com",
+  "updatedAt": "2026-11-05T10:30:43.117Z",
+  "expiresAt": "2026-12-05T10:30:43.117Z",
+  "nonce": "ac852bf4e5a64c9c06b57f3c056076a3",
   "payload": {
-    "wsUrl": "wss://grace-injection-designing-joseph.trycloudflare.com",
-    "httpUrl": "https://grace-injection-designing-joseph.trycloudflare.com",
-    "issuedAt": "2026-11-05T07:22:38.510Z",
-    "expiresAt": "2026-12-05T07:22:38.510Z",
-    "nonce": "c00d0dae1be806f219fc409a5757e6d8"
+    "wsUrl": "wss://gray-tomorrow-cables-yes.trycloudflare.com",
+    "httpUrl": "https://gray-tomorrow-cables-yes.trycloudflare.com",
+    "issuedAt": "2026-11-05T10:30:43.117Z",
+    "expiresAt": "2026-12-05T10:30:43.117Z",
+    "nonce": "ac852bf4e5a64c9c06b57f3c056076a3"
   },
-  "signature": "DPqEzhXs+qvwyspAxh9rSgtMAREwt4qE2n9uC4LZiWPGZj4R7cLMl4t99U5EcsMDswgBbpXZ/KLLIT+l8WU4pg==",
+  "signature": "aMa24qScX2GY05Iv5cDvV9+iX3ALOcLhk7fI0tOpJfLcmmNLpxciOgnwQQZp2G2imDe400AiPlgmLvK+aSNuuw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

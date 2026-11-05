@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bikes-animals-roman-pad.trycloudflare.com",
-  "httpUrl": "https://bikes-animals-roman-pad.trycloudflare.com",
-  "updatedAt": "2026-11-05T02:06:22.500Z",
-  "expiresAt": "2026-12-05T02:06:22.500Z",
-  "nonce": "8c1abacc03c82242d63b554a126fcd28",
+  "wsUrl": "wss://hist-calibration-girls-ipod.trycloudflare.com",
+  "httpUrl": "https://hist-calibration-girls-ipod.trycloudflare.com",
+  "updatedAt": "2026-11-05T02:35:49.498Z",
+  "expiresAt": "2026-12-05T02:35:49.498Z",
+  "nonce": "1a1f8adbdf6310f923312cdec6999c00",
   "payload": {
-    "wsUrl": "wss://bikes-animals-roman-pad.trycloudflare.com",
-    "httpUrl": "https://bikes-animals-roman-pad.trycloudflare.com",
-    "issuedAt": "2026-11-05T02:06:22.500Z",
-    "expiresAt": "2026-12-05T02:06:22.500Z",
-    "nonce": "8c1abacc03c82242d63b554a126fcd28"
+    "wsUrl": "wss://hist-calibration-girls-ipod.trycloudflare.com",
+    "httpUrl": "https://hist-calibration-girls-ipod.trycloudflare.com",
+    "issuedAt": "2026-11-05T02:35:49.498Z",
+    "expiresAt": "2026-12-05T02:35:49.498Z",
+    "nonce": "1a1f8adbdf6310f923312cdec6999c00"
   },
-  "signature": "vnYc8CqAMJQ/PT5Vr9PjBy8e1bPnm+ZrP593Ks4oXLf7Q8pi8h42QUr8cQoXn/dlpDrUmLFFWDGyeptiru2Hzg==",
+  "signature": "c5Ll9XLBDU0/OG9IDsGfiZ3F5Dp+Ru8EftwhPhK1v3XBV5rVZiEtZHNVAa5k7/AtG7r08neEtOJ2UshpwZit2A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

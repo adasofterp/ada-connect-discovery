@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://uses-judgment-harbor-integrating.trycloudflare.com",
-  "httpUrl": "https://uses-judgment-harbor-integrating.trycloudflare.com",
-  "updatedAt": "2026-11-05T03:27:53.555Z",
-  "expiresAt": "2026-12-05T03:27:53.555Z",
-  "nonce": "414d98c752e14b540d69af28935df3ec",
+  "wsUrl": "wss://thin-unlock-wiki-preparing.trycloudflare.com",
+  "httpUrl": "https://thin-unlock-wiki-preparing.trycloudflare.com",
+  "updatedAt": "2026-11-05T03:59:07.577Z",
+  "expiresAt": "2026-12-05T03:59:07.577Z",
+  "nonce": "503c36b6c5495b1e0a3104ff99468bcc",
   "payload": {
-    "wsUrl": "wss://uses-judgment-harbor-integrating.trycloudflare.com",
-    "httpUrl": "https://uses-judgment-harbor-integrating.trycloudflare.com",
-    "issuedAt": "2026-11-05T03:27:53.555Z",
-    "expiresAt": "2026-12-05T03:27:53.555Z",
-    "nonce": "414d98c752e14b540d69af28935df3ec"
+    "wsUrl": "wss://thin-unlock-wiki-preparing.trycloudflare.com",
+    "httpUrl": "https://thin-unlock-wiki-preparing.trycloudflare.com",
+    "issuedAt": "2026-11-05T03:59:07.577Z",
+    "expiresAt": "2026-12-05T03:59:07.577Z",
+    "nonce": "503c36b6c5495b1e0a3104ff99468bcc"
   },
-  "signature": "/WuF6pX2WMS6iklt0b3RjSJFM+DdZmAUOgT8C7xGH9Gtb0GhRknV25zMo86ov3rj3RIx6TgYY0m27iadZ3vw5g==",
+  "signature": "FZlB/YmsbkFRn9GEbXlBksR0j9Z6ZSiZi+vVx4ZxJRtxjVVI5LT+/cax0saS+OCa7bxPHfTsJp63tcrCmRjklw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

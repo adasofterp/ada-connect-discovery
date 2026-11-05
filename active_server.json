@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://instruments-currently-anchor-asks.trycloudflare.com",
-  "httpUrl": "https://instruments-currently-anchor-asks.trycloudflare.com",
-  "updatedAt": "2026-11-04T23:50:42.208Z",
-  "expiresAt": "2026-12-04T23:50:42.208Z",
-  "nonce": "124c76c672f3bad687b1befe154b47cc",
+  "wsUrl": "wss://arguments-granny-intended-steam.trycloudflare.com",
+  "httpUrl": "https://arguments-granny-intended-steam.trycloudflare.com",
+  "updatedAt": "2026-11-05T01:19:30.382Z",
+  "expiresAt": "2026-12-05T01:19:30.382Z",
+  "nonce": "3e14f2da8a2c3de3a5f3501a78bd3693",
   "payload": {
-    "wsUrl": "wss://instruments-currently-anchor-asks.trycloudflare.com",
-    "httpUrl": "https://instruments-currently-anchor-asks.trycloudflare.com",
-    "issuedAt": "2026-11-04T23:50:42.208Z",
-    "expiresAt": "2026-12-04T23:50:42.208Z",
-    "nonce": "124c76c672f3bad687b1befe154b47cc"
+    "wsUrl": "wss://arguments-granny-intended-steam.trycloudflare.com",
+    "httpUrl": "https://arguments-granny-intended-steam.trycloudflare.com",
+    "issuedAt": "2026-11-05T01:19:30.382Z",
+    "expiresAt": "2026-12-05T01:19:30.382Z",
+    "nonce": "3e14f2da8a2c3de3a5f3501a78bd3693"
   },
-  "signature": "HwMVCj1fjZt2KJqz4Ry3GalkxO4RJBQA7YoJVpBXbaqr6LeFgUEDFEX7Ku5lf5a7o4/h9WO7GCaXrDcIxmYNoQ==",
+  "signature": "Q8HdmiFwg7Az913/j+1qiBn0x14Eg1Rl5Nz22YCQnWltz16GpmKdDWdvik1Sm1Wxzwk9XBCpmaMAmzIqJTVLSg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://gray-tomorrow-cables-yes.trycloudflare.com",
-  "httpUrl": "https://gray-tomorrow-cables-yes.trycloudflare.com",
-  "updatedAt": "2026-11-05T10:30:43.117Z",
-  "expiresAt": "2026-12-05T10:30:43.117Z",
-  "nonce": "ac852bf4e5a64c9c06b57f3c056076a3",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-05T10:59:45.350Z",
+  "expiresAt": "2026-12-05T10:59:45.350Z",
+  "nonce": "6a769b6108de8ca67ea7132cb80e966b",
   "payload": {
-    "wsUrl": "wss://gray-tomorrow-cables-yes.trycloudflare.com",
-    "httpUrl": "https://gray-tomorrow-cables-yes.trycloudflare.com",
-    "issuedAt": "2026-11-05T10:30:43.117Z",
-    "expiresAt": "2026-12-05T10:30:43.117Z",
-    "nonce": "ac852bf4e5a64c9c06b57f3c056076a3"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-05T10:59:45.350Z",
+    "expiresAt": "2026-12-05T10:59:45.350Z",
+    "nonce": "6a769b6108de8ca67ea7132cb80e966b"
   },
-  "signature": "aMa24qScX2GY05Iv5cDvV9+iX3ALOcLhk7fI0tOpJfLcmmNLpxciOgnwQQZp2G2imDe400AiPlgmLvK+aSNuuw==",
+  "signature": "EN87amNqB6yGVf1ZSyV0KVVd0SznX2HN9K/pZJMRvKZmLB5ycrXAEbY7IW33YHR+VJV/tPxzjenyC4qVLUw9Iw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

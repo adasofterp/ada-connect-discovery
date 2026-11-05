@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://arch-electronics-represents-ordering.trycloudflare.com",
   "httpUrl": "https://arch-electronics-represents-ordering.trycloudflare.com",
-  "updatedAt": "2026-11-05T03:17:29.862Z",
-  "expiresAt": "2026-12-05T03:17:29.862Z",
-  "nonce": "5e630e88974f0a4c549e2680f7d5f76d",
+  "updatedAt": "2026-11-05T03:22:38.535Z",
+  "expiresAt": "2026-12-05T03:22:38.535Z",
+  "nonce": "aeb4d00a182328d8132ffcf92d0da26e",
   "payload": {
     "wsUrl": "wss://arch-electronics-represents-ordering.trycloudflare.com",
     "httpUrl": "https://arch-electronics-represents-ordering.trycloudflare.com",
-    "issuedAt": "2026-11-05T03:17:29.862Z",
-    "expiresAt": "2026-12-05T03:17:29.862Z",
-    "nonce": "5e630e88974f0a4c549e2680f7d5f76d"
+    "issuedAt": "2026-11-05T03:22:38.535Z",
+    "expiresAt": "2026-12-05T03:22:38.535Z",
+    "nonce": "aeb4d00a182328d8132ffcf92d0da26e"
   },
-  "signature": "2kUduBn1CF50WPaN/czEM5w8m7UzHt6h+7d83PlwPtF1RRKLKX6M4nFwI9bvC60lZsP8Lxs8Y3c7sUKP0RwSqw==",
+  "signature": "W+s9UAg4/Ris8HXaKsd3V38pSKJc1YQWBFXt54NSj33RLCYzBxENDUODgi6xy6BOVhfYvEGLVroeHbe6UeHVYw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

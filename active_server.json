@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-06T15:33:02.905Z",
-  "expiresAt": "2026-12-06T15:33:02.905Z",
-  "nonce": "47e9a53978f74e51f48c925a8ef3ff25",
+  "wsUrl": "wss://sweet-nec-jazz-ben.trycloudflare.com",
+  "httpUrl": "https://sweet-nec-jazz-ben.trycloudflare.com",
+  "updatedAt": "2026-11-06T15:38:15.157Z",
+  "expiresAt": "2026-12-06T15:38:15.157Z",
+  "nonce": "e7cd014da8dd4a32c627476593fd1c4f",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-06T15:33:02.905Z",
-    "expiresAt": "2026-12-06T15:33:02.905Z",
-    "nonce": "47e9a53978f74e51f48c925a8ef3ff25"
+    "wsUrl": "wss://sweet-nec-jazz-ben.trycloudflare.com",
+    "httpUrl": "https://sweet-nec-jazz-ben.trycloudflare.com",
+    "issuedAt": "2026-11-06T15:38:15.157Z",
+    "expiresAt": "2026-12-06T15:38:15.157Z",
+    "nonce": "e7cd014da8dd4a32c627476593fd1c4f"
   },
-  "signature": "nJYHzXTH9tLU9HvJrqyoPu/1gVSs+iTb1Bbo8vijM7sC/cgDMZ9S/+CziXrMY52QzmXhhqsUM3OfDU/RnuHZVA==",
+  "signature": "KtigJlFLMJrS0vCGpTp8wWoMbHLTk+wO3jZDSViWPOrrcjlPC9shgkE9qFiVVGrBwlvgtYXysLKrfYL25S4zkQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

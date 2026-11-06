@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://mainstream-john-curtis-determines.trycloudflare.com",
-  "httpUrl": "https://mainstream-john-curtis-determines.trycloudflare.com",
-  "updatedAt": "2026-11-06T07:37:57.923Z",
-  "expiresAt": "2026-12-06T07:37:57.923Z",
-  "nonce": "55102db14419298450f887ed844a42da",
+  "wsUrl": "wss://blond-query-specific-terrace.trycloudflare.com",
+  "httpUrl": "https://blond-query-specific-terrace.trycloudflare.com",
+  "updatedAt": "2026-11-06T10:43:59.454Z",
+  "expiresAt": "2026-12-06T10:43:59.454Z",
+  "nonce": "1544e05336075b040e0849e4f6651200",
   "payload": {
-    "wsUrl": "wss://mainstream-john-curtis-determines.trycloudflare.com",
-    "httpUrl": "https://mainstream-john-curtis-determines.trycloudflare.com",
-    "issuedAt": "2026-11-06T07:37:57.923Z",
-    "expiresAt": "2026-12-06T07:37:57.923Z",
-    "nonce": "55102db14419298450f887ed844a42da"
+    "wsUrl": "wss://blond-query-specific-terrace.trycloudflare.com",
+    "httpUrl": "https://blond-query-specific-terrace.trycloudflare.com",
+    "issuedAt": "2026-11-06T10:43:59.454Z",
+    "expiresAt": "2026-12-06T10:43:59.454Z",
+    "nonce": "1544e05336075b040e0849e4f6651200"
   },
-  "signature": "d1j0+jCmfW5inUY/n7noRl9ZYL3umidIVVVO2e+boTG2f6dAONXdbnNuXyIaO8gZ2vcwH8bs6GEtMxSatfa0dg==",
+  "signature": "DE0xEmx9E1zlj+uAtrJA6WDVXhQjUaoKQ23xh8jqdlEalri2n9NlmvDswAeg/3XBDedM9u7m989NElGgKnWC0w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

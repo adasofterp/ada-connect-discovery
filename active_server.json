@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://wife-caution-solving-reactions.trycloudflare.com",
-  "httpUrl": "https://wife-caution-solving-reactions.trycloudflare.com",
-  "updatedAt": "2026-11-06T23:42:30.428Z",
-  "expiresAt": "2026-12-06T23:42:30.428Z",
-  "nonce": "59a103242021ff75c492b0215a8ffa5c",
+  "wsUrl": "wss://halloween-xml-runner-toxic.trycloudflare.com",
+  "httpUrl": "https://halloween-xml-runner-toxic.trycloudflare.com",
+  "updatedAt": "2026-11-06T23:53:01.031Z",
+  "expiresAt": "2026-12-06T23:53:01.031Z",
+  "nonce": "0685763570c0f7f430a070b618413831",
   "payload": {
-    "wsUrl": "wss://wife-caution-solving-reactions.trycloudflare.com",
-    "httpUrl": "https://wife-caution-solving-reactions.trycloudflare.com",
-    "issuedAt": "2026-11-06T23:42:30.428Z",
-    "expiresAt": "2026-12-06T23:42:30.428Z",
-    "nonce": "59a103242021ff75c492b0215a8ffa5c"
+    "wsUrl": "wss://halloween-xml-runner-toxic.trycloudflare.com",
+    "httpUrl": "https://halloween-xml-runner-toxic.trycloudflare.com",
+    "issuedAt": "2026-11-06T23:53:01.031Z",
+    "expiresAt": "2026-12-06T23:53:01.031Z",
+    "nonce": "0685763570c0f7f430a070b618413831"
   },
-  "signature": "kZ33kw1hUMOkb/mMwd9/iEOzlqouhInNHwu7nvZl6p98MsNcx5Jt3/BmBE+fJmiId6wxM7rvig/c6vW5XAEIFA==",
+  "signature": "ZgC7F7/j/IIlTpBLqDslcFSihpHIR4n+LqPbcFn5oBMs7j63Op7mvVMeLCV9ZT6j9ctaV7QKywDsY2Ykw7CaOQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

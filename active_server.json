@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://difference-charleston-than-backgrounds.trycloudflare.com",
-  "httpUrl": "https://difference-charleston-than-backgrounds.trycloudflare.com",
-  "updatedAt": "2026-11-06T10:47:59.427Z",
-  "expiresAt": "2026-12-06T10:47:59.427Z",
-  "nonce": "3eee1cc50dbf22dd9a1a19fa7dbb428b",
+  "wsUrl": "wss://scanners-agrees-hip-fitted.trycloudflare.com",
+  "httpUrl": "https://scanners-agrees-hip-fitted.trycloudflare.com",
+  "updatedAt": "2026-11-06T11:21:35.436Z",
+  "expiresAt": "2026-12-06T11:21:35.436Z",
+  "nonce": "681e2ef953e5be0ea75dadbae10e822b",
   "payload": {
-    "wsUrl": "wss://difference-charleston-than-backgrounds.trycloudflare.com",
-    "httpUrl": "https://difference-charleston-than-backgrounds.trycloudflare.com",
-    "issuedAt": "2026-11-06T10:47:59.427Z",
-    "expiresAt": "2026-12-06T10:47:59.427Z",
-    "nonce": "3eee1cc50dbf22dd9a1a19fa7dbb428b"
+    "wsUrl": "wss://scanners-agrees-hip-fitted.trycloudflare.com",
+    "httpUrl": "https://scanners-agrees-hip-fitted.trycloudflare.com",
+    "issuedAt": "2026-11-06T11:21:35.436Z",
+    "expiresAt": "2026-12-06T11:21:35.436Z",
+    "nonce": "681e2ef953e5be0ea75dadbae10e822b"
   },
-  "signature": "J/7Wn8dfG59LdvGbZzfmRALAHwYSEdQ+3XsvctFdScRKx3qsr6m7TLJHqMl/yU5olmkx9NsylXxBRJ7o8pkwZQ==",
+  "signature": "EMN45sNuMGEkh/clKgyZU+BL3YFpbo7SmPnblVQQ7NWDGluamLOOXREtjkNX13xc+EiPN5YqNirx7iHCu3StSQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

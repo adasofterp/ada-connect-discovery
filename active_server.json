@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://les-chris-overcome-fifteen.trycloudflare.com",
-  "httpUrl": "https://les-chris-overcome-fifteen.trycloudflare.com",
-  "updatedAt": "2026-11-06T22:29:49.841Z",
-  "expiresAt": "2026-12-06T22:29:49.841Z",
-  "nonce": "cd74e0e5c7fe53f08d0acbebd2f831cf",
+  "wsUrl": "wss://comparisons-cake-prep-schemes.trycloudflare.com",
+  "httpUrl": "https://comparisons-cake-prep-schemes.trycloudflare.com",
+  "updatedAt": "2026-11-06T22:40:11.250Z",
+  "expiresAt": "2026-12-06T22:40:11.250Z",
+  "nonce": "2a4c1e606b48f5ddaa4467b0816c6f6d",
   "payload": {
-    "wsUrl": "wss://les-chris-overcome-fifteen.trycloudflare.com",
-    "httpUrl": "https://les-chris-overcome-fifteen.trycloudflare.com",
-    "issuedAt": "2026-11-06T22:29:49.841Z",
-    "expiresAt": "2026-12-06T22:29:49.841Z",
-    "nonce": "cd74e0e5c7fe53f08d0acbebd2f831cf"
+    "wsUrl": "wss://comparisons-cake-prep-schemes.trycloudflare.com",
+    "httpUrl": "https://comparisons-cake-prep-schemes.trycloudflare.com",
+    "issuedAt": "2026-11-06T22:40:11.250Z",
+    "expiresAt": "2026-12-06T22:40:11.250Z",
+    "nonce": "2a4c1e606b48f5ddaa4467b0816c6f6d"
   },
-  "signature": "p0JDA7JwmTvj1Q6AekE7+IUx+fN6H+8oORXq2OEcRkmnW1xQwnN8eem3BpmgroQoY4h3SO3KmlXhKOS2I4qtJw==",
+  "signature": "1J+vIpcaCNmum2250jLhEkEblq7spUQwKhc1kVfyMS3G5VmXAKeZdCUrto7Cr3NuAuhQ3GjIYp6XU7HNs+0cHQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

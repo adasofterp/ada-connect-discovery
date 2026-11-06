@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://accommodate-joe-guild-sri.trycloudflare.com",
-  "httpUrl": "https://accommodate-joe-guild-sri.trycloudflare.com",
-  "updatedAt": "2026-11-06T16:28:52.987Z",
-  "expiresAt": "2026-12-06T16:28:52.987Z",
-  "nonce": "39b7756bc61505910702269284ffcbd2",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-06T16:49:40.694Z",
+  "expiresAt": "2026-12-06T16:49:40.694Z",
+  "nonce": "be99b86c1779420c450fc065cd755e2b",
   "payload": {
-    "wsUrl": "wss://accommodate-joe-guild-sri.trycloudflare.com",
-    "httpUrl": "https://accommodate-joe-guild-sri.trycloudflare.com",
-    "issuedAt": "2026-11-06T16:28:52.987Z",
-    "expiresAt": "2026-12-06T16:28:52.987Z",
-    "nonce": "39b7756bc61505910702269284ffcbd2"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-06T16:49:40.694Z",
+    "expiresAt": "2026-12-06T16:49:40.694Z",
+    "nonce": "be99b86c1779420c450fc065cd755e2b"
   },
-  "signature": "1H2kHBC6vXYzoPBWOrpSdpgpQCfxL/QORcdKvmHPF1PH9lr9VYWaATCf53rARUqewq+ezvJHcM3ZRRZuvTmN3g==",
+  "signature": "E0Xztuw+Q2MHtmXNkGY+6b8RbUOMu7DQ5Vezhj2ndJXs8ODnw22a2+TQsuCBVnDSLiEqcp5+x5GyakG01tIPGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

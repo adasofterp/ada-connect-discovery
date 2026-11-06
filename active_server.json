@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-06T21:54:44.216Z",
-  "expiresAt": "2026-12-06T21:54:44.216Z",
-  "nonce": "7d2e38adf5cee8981160470a1578c3dd",
+  "wsUrl": "wss://jazz-london-attorney-friend.trycloudflare.com",
+  "httpUrl": "https://jazz-london-attorney-friend.trycloudflare.com",
+  "updatedAt": "2026-11-06T21:59:57.594Z",
+  "expiresAt": "2026-12-06T21:59:57.594Z",
+  "nonce": "0466d8e2b264e1c2920a808f70ffc834",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-06T21:54:44.216Z",
-    "expiresAt": "2026-12-06T21:54:44.216Z",
-    "nonce": "7d2e38adf5cee8981160470a1578c3dd"
+    "wsUrl": "wss://jazz-london-attorney-friend.trycloudflare.com",
+    "httpUrl": "https://jazz-london-attorney-friend.trycloudflare.com",
+    "issuedAt": "2026-11-06T21:59:57.594Z",
+    "expiresAt": "2026-12-06T21:59:57.594Z",
+    "nonce": "0466d8e2b264e1c2920a808f70ffc834"
   },
-  "signature": "6cu3tOv5/UbjNp05ISFmeOX+s8PrOfcoin6fkGr+/fnzpmheT01ztgF9jyUCZ8a1pzwtVUBpH5FMgO3HY9eDVg==",
+  "signature": "9YNvXFcqIYIIX9wbefmmAeZvxMQ+UH0nuwSqxwHphejs6cXvQrymj+123ThB61fzBzVtx5cgFb7+Q4oML4xQJw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

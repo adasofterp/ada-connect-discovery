@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://keeps-gradually-governing-half.trycloudflare.com",
-  "httpUrl": "https://keeps-gradually-governing-half.trycloudflare.com",
-  "updatedAt": "2026-11-06T19:40:19.561Z",
-  "expiresAt": "2026-12-06T19:40:19.561Z",
-  "nonce": "0261f5280260890bc1102a46dce3f536",
+  "wsUrl": "wss://nursery-beauty-biographies-wales.trycloudflare.com",
+  "httpUrl": "https://nursery-beauty-biographies-wales.trycloudflare.com",
+  "updatedAt": "2026-11-06T19:45:33.515Z",
+  "expiresAt": "2026-12-06T19:45:33.515Z",
+  "nonce": "3a1da3a66d8ea5d78b10136d5127bca6",
   "payload": {
-    "wsUrl": "wss://keeps-gradually-governing-half.trycloudflare.com",
-    "httpUrl": "https://keeps-gradually-governing-half.trycloudflare.com",
-    "issuedAt": "2026-11-06T19:40:19.561Z",
-    "expiresAt": "2026-12-06T19:40:19.561Z",
-    "nonce": "0261f5280260890bc1102a46dce3f536"
+    "wsUrl": "wss://nursery-beauty-biographies-wales.trycloudflare.com",
+    "httpUrl": "https://nursery-beauty-biographies-wales.trycloudflare.com",
+    "issuedAt": "2026-11-06T19:45:33.515Z",
+    "expiresAt": "2026-12-06T19:45:33.515Z",
+    "nonce": "3a1da3a66d8ea5d78b10136d5127bca6"
   },
-  "signature": "d94K4MHwRImwf94c+L1/1yanH0kftnajOQ3bkO4FCjUCi/vgVj9f1mq6nt9Pyi5U53uyvvetvBBwNEvZL4WfPA==",
+  "signature": "5c4zC5Wq9elWzCXpcirEkJqQB8IWuJfrcuuESMTUDZq4X+ISIzs4EIdyeOGaoDcgGYhci13p2z0ct28pozwvkA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

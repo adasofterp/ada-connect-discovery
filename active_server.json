@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://calculate-walls-rates-colleagues.trycloudflare.com",
-  "httpUrl": "https://calculate-walls-rates-colleagues.trycloudflare.com",
-  "updatedAt": "2026-11-06T05:15:03.176Z",
-  "expiresAt": "2026-12-06T05:15:03.176Z",
-  "nonce": "0c0ab4789a45e8e1670777faf507726d",
+  "wsUrl": "wss://pose-split-wild-drawings.trycloudflare.com",
+  "httpUrl": "https://pose-split-wild-drawings.trycloudflare.com",
+  "updatedAt": "2026-11-06T05:25:25.045Z",
+  "expiresAt": "2026-12-06T05:25:25.045Z",
+  "nonce": "ebae3c29b980c7d9f2b971bc8914d6e2",
   "payload": {
-    "wsUrl": "wss://calculate-walls-rates-colleagues.trycloudflare.com",
-    "httpUrl": "https://calculate-walls-rates-colleagues.trycloudflare.com",
-    "issuedAt": "2026-11-06T05:15:03.176Z",
-    "expiresAt": "2026-12-06T05:15:03.176Z",
-    "nonce": "0c0ab4789a45e8e1670777faf507726d"
+    "wsUrl": "wss://pose-split-wild-drawings.trycloudflare.com",
+    "httpUrl": "https://pose-split-wild-drawings.trycloudflare.com",
+    "issuedAt": "2026-11-06T05:25:25.045Z",
+    "expiresAt": "2026-12-06T05:25:25.045Z",
+    "nonce": "ebae3c29b980c7d9f2b971bc8914d6e2"
   },
-  "signature": "V3zJLTvR/GwR61Z3fk0+o6gnGEYqBuDZYcvUbvbzTuqsQclZziauRBSjs83Eqw1srC1UwHz4eI5tva3jBxElBw==",
+  "signature": "d7pRChAsbRL627LPfPfCq9XUv1jGwo1JBpMYhzi3He9oWByKIMsN60Kf34xKNP2JPjL2rMv0MGgeTC/zEJ27ag==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

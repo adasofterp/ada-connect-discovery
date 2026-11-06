@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://undertaken-goto-answer-dodge.trycloudflare.com",
-  "httpUrl": "https://undertaken-goto-answer-dodge.trycloudflare.com",
-  "updatedAt": "2026-11-05T23:34:30.372Z",
-  "expiresAt": "2026-12-05T23:34:30.372Z",
-  "nonce": "d870d9a6144db3ae1786f8fa21977104",
+  "wsUrl": "wss://florists-shield-mailman-fruit.trycloudflare.com",
+  "httpUrl": "https://florists-shield-mailman-fruit.trycloudflare.com",
+  "updatedAt": "2026-11-06T00:53:23.091Z",
+  "expiresAt": "2026-12-06T00:53:23.091Z",
+  "nonce": "4bb8965558acf8c2a49ef54d72cd2582",
   "payload": {
-    "wsUrl": "wss://undertaken-goto-answer-dodge.trycloudflare.com",
-    "httpUrl": "https://undertaken-goto-answer-dodge.trycloudflare.com",
-    "issuedAt": "2026-11-05T23:34:30.372Z",
-    "expiresAt": "2026-12-05T23:34:30.372Z",
-    "nonce": "d870d9a6144db3ae1786f8fa21977104"
+    "wsUrl": "wss://florists-shield-mailman-fruit.trycloudflare.com",
+    "httpUrl": "https://florists-shield-mailman-fruit.trycloudflare.com",
+    "issuedAt": "2026-11-06T00:53:23.091Z",
+    "expiresAt": "2026-12-06T00:53:23.091Z",
+    "nonce": "4bb8965558acf8c2a49ef54d72cd2582"
   },
-  "signature": "0WQeC2X5W/06v8Z4rJ+7fw6y4SW5M3bOIbw3TZyUJU73USbn2bWU6BNKG6h7QG4NTcmfRaMwVZpArZeFcTFSag==",
+  "signature": "zhhbmMBuKhSx3TqZBt8xEoiJFPKJlqNc0mGcBK8D4/jeWa532ONfCaDz2Orc7fmNE3VrTbdgtkCPjrSILKWpgA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

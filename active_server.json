@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://speaker-bouquet-chemicals-zope.trycloudflare.com",
-  "httpUrl": "https://speaker-bouquet-chemicals-zope.trycloudflare.com",
-  "updatedAt": "2026-11-06T03:37:57.948Z",
-  "expiresAt": "2026-12-06T03:37:57.948Z",
-  "nonce": "8b3448870314f653feab23d604bb6890",
+  "wsUrl": "wss://gsm-take-newbie-href.trycloudflare.com",
+  "httpUrl": "https://gsm-take-newbie-href.trycloudflare.com",
+  "updatedAt": "2026-11-06T03:43:15.873Z",
+  "expiresAt": "2026-12-06T03:43:15.873Z",
+  "nonce": "9fb84f81d2b6ca330fa019837f4b10ca",
   "payload": {
-    "wsUrl": "wss://speaker-bouquet-chemicals-zope.trycloudflare.com",
-    "httpUrl": "https://speaker-bouquet-chemicals-zope.trycloudflare.com",
-    "issuedAt": "2026-11-06T03:37:57.948Z",
-    "expiresAt": "2026-12-06T03:37:57.948Z",
-    "nonce": "8b3448870314f653feab23d604bb6890"
+    "wsUrl": "wss://gsm-take-newbie-href.trycloudflare.com",
+    "httpUrl": "https://gsm-take-newbie-href.trycloudflare.com",
+    "issuedAt": "2026-11-06T03:43:15.873Z",
+    "expiresAt": "2026-12-06T03:43:15.873Z",
+    "nonce": "9fb84f81d2b6ca330fa019837f4b10ca"
   },
-  "signature": "b7YNggPYWGrTvs8BzQJzAFLlpVQfD/mobFPSoFKMe5lbdrrdUXx+Ht4nLzxF3nGZp5Xg5XJIpdKklAA02uclfQ==",
+  "signature": "Mne5m2DyY3ocScCHsC8ssTEotLwBjHAu6NSe7WryKr9Y4aN30bvO75vqejuX5rOdXDRMJ3WPx7Vk0QTkJC7+bQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

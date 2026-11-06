@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://occasions-entire-paper-missile.trycloudflare.com",
-  "httpUrl": "https://occasions-entire-paper-missile.trycloudflare.com",
-  "updatedAt": "2026-11-06T16:09:30.668Z",
-  "expiresAt": "2026-12-06T16:09:30.668Z",
-  "nonce": "81b89b7b271ad9f6f53afcf7695a392d",
+  "wsUrl": "wss://accommodate-joe-guild-sri.trycloudflare.com",
+  "httpUrl": "https://accommodate-joe-guild-sri.trycloudflare.com",
+  "updatedAt": "2026-11-06T16:28:52.987Z",
+  "expiresAt": "2026-12-06T16:28:52.987Z",
+  "nonce": "39b7756bc61505910702269284ffcbd2",
   "payload": {
-    "wsUrl": "wss://occasions-entire-paper-missile.trycloudflare.com",
-    "httpUrl": "https://occasions-entire-paper-missile.trycloudflare.com",
-    "issuedAt": "2026-11-06T16:09:30.668Z",
-    "expiresAt": "2026-12-06T16:09:30.668Z",
-    "nonce": "81b89b7b271ad9f6f53afcf7695a392d"
+    "wsUrl": "wss://accommodate-joe-guild-sri.trycloudflare.com",
+    "httpUrl": "https://accommodate-joe-guild-sri.trycloudflare.com",
+    "issuedAt": "2026-11-06T16:28:52.987Z",
+    "expiresAt": "2026-12-06T16:28:52.987Z",
+    "nonce": "39b7756bc61505910702269284ffcbd2"
   },
-  "signature": "NzTGmK34UBLPHiyrJYGbFxc62QqzLYRQNB2SV/xbwNAfqTfKlDQyS2jbRL5a2mjSXj+YAU/Tx5PoCmZophsVHA==",
+  "signature": "1H2kHBC6vXYzoPBWOrpSdpgpQCfxL/QORcdKvmHPF1PH9lr9VYWaATCf53rARUqewq+ezvJHcM3ZRRZuvTmN3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

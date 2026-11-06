@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nursery-beauty-biographies-wales.trycloudflare.com",
-  "httpUrl": "https://nursery-beauty-biographies-wales.trycloudflare.com",
-  "updatedAt": "2026-11-06T19:45:33.515Z",
-  "expiresAt": "2026-12-06T19:45:33.515Z",
-  "nonce": "3a1da3a66d8ea5d78b10136d5127bca6",
+  "wsUrl": "wss://partnerships-plans-considerations-nation.trycloudflare.com",
+  "httpUrl": "https://partnerships-plans-considerations-nation.trycloudflare.com",
+  "updatedAt": "2026-11-06T20:14:30.694Z",
+  "expiresAt": "2026-12-06T20:14:30.694Z",
+  "nonce": "b65abf8d9ef1db8ea95dc227266bb85d",
   "payload": {
-    "wsUrl": "wss://nursery-beauty-biographies-wales.trycloudflare.com",
-    "httpUrl": "https://nursery-beauty-biographies-wales.trycloudflare.com",
-    "issuedAt": "2026-11-06T19:45:33.515Z",
-    "expiresAt": "2026-12-06T19:45:33.515Z",
-    "nonce": "3a1da3a66d8ea5d78b10136d5127bca6"
+    "wsUrl": "wss://partnerships-plans-considerations-nation.trycloudflare.com",
+    "httpUrl": "https://partnerships-plans-considerations-nation.trycloudflare.com",
+    "issuedAt": "2026-11-06T20:14:30.694Z",
+    "expiresAt": "2026-12-06T20:14:30.694Z",
+    "nonce": "b65abf8d9ef1db8ea95dc227266bb85d"
   },
-  "signature": "5c4zC5Wq9elWzCXpcirEkJqQB8IWuJfrcuuESMTUDZq4X+ISIzs4EIdyeOGaoDcgGYhci13p2z0ct28pozwvkA==",
+  "signature": "Cfl4FCspg+vIXzpChP0jcXh7e73oSd7qqgvMM+hAK+YMVxLHFDRanBtRDrJIDty+z9zicIQMVE9RISGKRiyhmg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

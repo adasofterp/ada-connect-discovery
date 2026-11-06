@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://chairman-makes-sewing-ultram.trycloudflare.com",
-  "httpUrl": "https://chairman-makes-sewing-ultram.trycloudflare.com",
-  "updatedAt": "2026-11-06T04:38:37.296Z",
-  "expiresAt": "2026-12-06T04:38:37.296Z",
-  "nonce": "ed040445683d5fbccf33b53501281d1e",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-06T04:59:22.316Z",
+  "expiresAt": "2026-12-06T04:59:22.316Z",
+  "nonce": "3038c510cc5f8715922b48fce02fd572",
   "payload": {
-    "wsUrl": "wss://chairman-makes-sewing-ultram.trycloudflare.com",
-    "httpUrl": "https://chairman-makes-sewing-ultram.trycloudflare.com",
-    "issuedAt": "2026-11-06T04:38:37.296Z",
-    "expiresAt": "2026-12-06T04:38:37.296Z",
-    "nonce": "ed040445683d5fbccf33b53501281d1e"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-06T04:59:22.316Z",
+    "expiresAt": "2026-12-06T04:59:22.316Z",
+    "nonce": "3038c510cc5f8715922b48fce02fd572"
   },
-  "signature": "gBjBX62i7jykts3uCyDVPMiECaI3tGrfW6jer7D9ku0iK9v9wWlNU9lCexLiDxYZHOEPz30e147tmVYhaKG5ag==",
+  "signature": "Ae/l20lFulXqoNGiRSMacNtwu0grd9yHM3h5ALNXzqXrvBbxWSxgGy0GzXut8qvYsQjGzSZg9v2G5QDKLfx1zg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

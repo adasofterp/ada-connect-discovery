@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://comparisons-cake-prep-schemes.trycloudflare.com",
-  "httpUrl": "https://comparisons-cake-prep-schemes.trycloudflare.com",
-  "updatedAt": "2026-11-06T22:40:11.250Z",
-  "expiresAt": "2026-12-06T22:40:11.250Z",
-  "nonce": "2a4c1e606b48f5ddaa4467b0816c6f6d",
+  "wsUrl": "wss://wife-caution-solving-reactions.trycloudflare.com",
+  "httpUrl": "https://wife-caution-solving-reactions.trycloudflare.com",
+  "updatedAt": "2026-11-06T23:42:30.428Z",
+  "expiresAt": "2026-12-06T23:42:30.428Z",
+  "nonce": "59a103242021ff75c492b0215a8ffa5c",
   "payload": {
-    "wsUrl": "wss://comparisons-cake-prep-schemes.trycloudflare.com",
-    "httpUrl": "https://comparisons-cake-prep-schemes.trycloudflare.com",
-    "issuedAt": "2026-11-06T22:40:11.250Z",
-    "expiresAt": "2026-12-06T22:40:11.250Z",
-    "nonce": "2a4c1e606b48f5ddaa4467b0816c6f6d"
+    "wsUrl": "wss://wife-caution-solving-reactions.trycloudflare.com",
+    "httpUrl": "https://wife-caution-solving-reactions.trycloudflare.com",
+    "issuedAt": "2026-11-06T23:42:30.428Z",
+    "expiresAt": "2026-12-06T23:42:30.428Z",
+    "nonce": "59a103242021ff75c492b0215a8ffa5c"
   },
-  "signature": "1J+vIpcaCNmum2250jLhEkEblq7spUQwKhc1kVfyMS3G5VmXAKeZdCUrto7Cr3NuAuhQ3GjIYp6XU7HNs+0cHQ==",
+  "signature": "kZ33kw1hUMOkb/mMwd9/iEOzlqouhInNHwu7nvZl6p98MsNcx5Jt3/BmBE+fJmiId6wxM7rvig/c6vW5XAEIFA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

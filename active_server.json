@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://luggage-reid-required-clearly.trycloudflare.com",
-  "httpUrl": "https://luggage-reid-required-clearly.trycloudflare.com",
-  "updatedAt": "2026-11-06T15:48:39.945Z",
-  "expiresAt": "2026-12-06T15:48:39.945Z",
-  "nonce": "3774142a82ec6070e4ce4b7ad9d5d1a0",
+  "wsUrl": "wss://occasions-entire-paper-missile.trycloudflare.com",
+  "httpUrl": "https://occasions-entire-paper-missile.trycloudflare.com",
+  "updatedAt": "2026-11-06T16:09:30.668Z",
+  "expiresAt": "2026-12-06T16:09:30.668Z",
+  "nonce": "81b89b7b271ad9f6f53afcf7695a392d",
   "payload": {
-    "wsUrl": "wss://luggage-reid-required-clearly.trycloudflare.com",
-    "httpUrl": "https://luggage-reid-required-clearly.trycloudflare.com",
-    "issuedAt": "2026-11-06T15:48:39.945Z",
-    "expiresAt": "2026-12-06T15:48:39.945Z",
-    "nonce": "3774142a82ec6070e4ce4b7ad9d5d1a0"
+    "wsUrl": "wss://occasions-entire-paper-missile.trycloudflare.com",
+    "httpUrl": "https://occasions-entire-paper-missile.trycloudflare.com",
+    "issuedAt": "2026-11-06T16:09:30.668Z",
+    "expiresAt": "2026-12-06T16:09:30.668Z",
+    "nonce": "81b89b7b271ad9f6f53afcf7695a392d"
   },
-  "signature": "2KJEAlAdB1o281dGvf9p6U6u6x58hLJj99oTdd47ZpQjiptBblEwmpyizvnXzfv9dKIGm6mxeSimnkKMHVrRIA==",
+  "signature": "NzTGmK34UBLPHiyrJYGbFxc62QqzLYRQNB2SV/xbwNAfqTfKlDQyS2jbRL5a2mjSXj+YAU/Tx5PoCmZophsVHA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

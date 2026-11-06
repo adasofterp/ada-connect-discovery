@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://mainstream-john-curtis-determines.trycloudflare.com",
   "httpUrl": "https://mainstream-john-curtis-determines.trycloudflare.com",
-  "updatedAt": "2026-11-06T06:53:40.791Z",
-  "expiresAt": "2026-12-06T06:53:40.791Z",
-  "nonce": "141e13d9c8a5772332109c544802fbec",
+  "updatedAt": "2026-11-06T07:37:57.923Z",
+  "expiresAt": "2026-12-06T07:37:57.923Z",
+  "nonce": "55102db14419298450f887ed844a42da",
   "payload": {
     "wsUrl": "wss://mainstream-john-curtis-determines.trycloudflare.com",
     "httpUrl": "https://mainstream-john-curtis-determines.trycloudflare.com",
-    "issuedAt": "2026-11-06T06:53:40.791Z",
-    "expiresAt": "2026-12-06T06:53:40.791Z",
-    "nonce": "141e13d9c8a5772332109c544802fbec"
+    "issuedAt": "2026-11-06T07:37:57.923Z",
+    "expiresAt": "2026-12-06T07:37:57.923Z",
+    "nonce": "55102db14419298450f887ed844a42da"
   },
-  "signature": "iBloZvUUKCnF5ifLNMsHIbJWes6o21zYHuAE3SBrtj8RHXvPSbknoxkWIE3mou2vDrF5ov8Swt+2zS0396LlJQ==",
+  "signature": "d1j0+jCmfW5inUY/n7noRl9ZYL3umidIVVVO2e+boTG2f6dAONXdbnNuXyIaO8gZ2vcwH8bs6GEtMxSatfa0dg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sweet-nec-jazz-ben.trycloudflare.com",
-  "httpUrl": "https://sweet-nec-jazz-ben.trycloudflare.com",
-  "updatedAt": "2026-11-06T15:38:15.157Z",
-  "expiresAt": "2026-12-06T15:38:15.157Z",
-  "nonce": "e7cd014da8dd4a32c627476593fd1c4f",
+  "wsUrl": "wss://luggage-reid-required-clearly.trycloudflare.com",
+  "httpUrl": "https://luggage-reid-required-clearly.trycloudflare.com",
+  "updatedAt": "2026-11-06T15:48:39.945Z",
+  "expiresAt": "2026-12-06T15:48:39.945Z",
+  "nonce": "3774142a82ec6070e4ce4b7ad9d5d1a0",
   "payload": {
-    "wsUrl": "wss://sweet-nec-jazz-ben.trycloudflare.com",
-    "httpUrl": "https://sweet-nec-jazz-ben.trycloudflare.com",
-    "issuedAt": "2026-11-06T15:38:15.157Z",
-    "expiresAt": "2026-12-06T15:38:15.157Z",
-    "nonce": "e7cd014da8dd4a32c627476593fd1c4f"
+    "wsUrl": "wss://luggage-reid-required-clearly.trycloudflare.com",
+    "httpUrl": "https://luggage-reid-required-clearly.trycloudflare.com",
+    "issuedAt": "2026-11-06T15:48:39.945Z",
+    "expiresAt": "2026-12-06T15:48:39.945Z",
+    "nonce": "3774142a82ec6070e4ce4b7ad9d5d1a0"
   },
-  "signature": "KtigJlFLMJrS0vCGpTp8wWoMbHLTk+wO3jZDSViWPOrrcjlPC9shgkE9qFiVVGrBwlvgtYXysLKrfYL25S4zkQ==",
+  "signature": "2KJEAlAdB1o281dGvf9p6U6u6x58hLJj99oTdd47ZpQjiptBblEwmpyizvnXzfv9dKIGm6mxeSimnkKMHVrRIA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

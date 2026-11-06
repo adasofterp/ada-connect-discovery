@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://roy-focused-hopes-bones.trycloudflare.com",
-  "httpUrl": "https://roy-focused-hopes-bones.trycloudflare.com",
-  "updatedAt": "2026-11-06T17:24:39.889Z",
-  "expiresAt": "2026-12-06T17:24:39.889Z",
-  "nonce": "4d4a8d3429664d53110a97c0f565265d",
+  "wsUrl": "wss://keeps-gradually-governing-half.trycloudflare.com",
+  "httpUrl": "https://keeps-gradually-governing-half.trycloudflare.com",
+  "updatedAt": "2026-11-06T17:35:07.163Z",
+  "expiresAt": "2026-12-06T17:35:07.163Z",
+  "nonce": "337836773d671d944e9bd8ef16bdc466",
   "payload": {
-    "wsUrl": "wss://roy-focused-hopes-bones.trycloudflare.com",
-    "httpUrl": "https://roy-focused-hopes-bones.trycloudflare.com",
-    "issuedAt": "2026-11-06T17:24:39.889Z",
-    "expiresAt": "2026-12-06T17:24:39.889Z",
-    "nonce": "4d4a8d3429664d53110a97c0f565265d"
+    "wsUrl": "wss://keeps-gradually-governing-half.trycloudflare.com",
+    "httpUrl": "https://keeps-gradually-governing-half.trycloudflare.com",
+    "issuedAt": "2026-11-06T17:35:07.163Z",
+    "expiresAt": "2026-12-06T17:35:07.163Z",
+    "nonce": "337836773d671d944e9bd8ef16bdc466"
   },
-  "signature": "lM0GWSaNdm3g26kIbLr6kaPPgeFuaViPdSX1Si/XSrG/RAx//LTn7Sfx45Swi6zs9wQZ9e5Sgx4Tj/zYvpwesg==",
+  "signature": "ndDlY1XgqQn0jlrHjmYTlnGcWU4TaoC009kNmzXlJZ4pJQyKWbd5XR0bOLq/l/Tcee2n5g636z3oKBhlT25Tlw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

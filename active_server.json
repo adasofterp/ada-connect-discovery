@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-06T05:09:50.318Z",
-  "expiresAt": "2026-12-06T05:09:50.318Z",
-  "nonce": "33a7c565197c331ce4c937da65438da3",
+  "wsUrl": "wss://calculate-walls-rates-colleagues.trycloudflare.com",
+  "httpUrl": "https://calculate-walls-rates-colleagues.trycloudflare.com",
+  "updatedAt": "2026-11-06T05:15:03.176Z",
+  "expiresAt": "2026-12-06T05:15:03.176Z",
+  "nonce": "0c0ab4789a45e8e1670777faf507726d",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-06T05:09:50.318Z",
-    "expiresAt": "2026-12-06T05:09:50.318Z",
-    "nonce": "33a7c565197c331ce4c937da65438da3"
+    "wsUrl": "wss://calculate-walls-rates-colleagues.trycloudflare.com",
+    "httpUrl": "https://calculate-walls-rates-colleagues.trycloudflare.com",
+    "issuedAt": "2026-11-06T05:15:03.176Z",
+    "expiresAt": "2026-12-06T05:15:03.176Z",
+    "nonce": "0c0ab4789a45e8e1670777faf507726d"
   },
-  "signature": "UpTtlcwKCnpJEaWlJfBWw3fLDRdOlTHSdIbVIZpD9X5kAe8mWXLDQJHHg7KBONO9y6YC3MgJkUlnwOtsRuOUlg==",
+  "signature": "V3zJLTvR/GwR61Z3fk0+o6gnGEYqBuDZYcvUbvbzTuqsQclZziauRBSjs83Eqw1srC1UwHz4eI5tva3jBxElBw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

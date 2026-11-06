@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-06T12:05:40.740Z",
-  "expiresAt": "2026-12-06T12:05:40.740Z",
-  "nonce": "7bde16a7b0de03192df270ae795db70c",
+  "wsUrl": "wss://triangle-size-cases-boulevard.trycloudflare.com",
+  "httpUrl": "https://triangle-size-cases-boulevard.trycloudflare.com",
+  "updatedAt": "2026-11-06T12:05:49.654Z",
+  "expiresAt": "2026-12-06T12:05:49.654Z",
+  "nonce": "03a46a53962e245921e0e3dacc9907d6",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-06T12:05:40.740Z",
-    "expiresAt": "2026-12-06T12:05:40.740Z",
-    "nonce": "7bde16a7b0de03192df270ae795db70c"
+    "wsUrl": "wss://triangle-size-cases-boulevard.trycloudflare.com",
+    "httpUrl": "https://triangle-size-cases-boulevard.trycloudflare.com",
+    "issuedAt": "2026-11-06T12:05:49.654Z",
+    "expiresAt": "2026-12-06T12:05:49.654Z",
+    "nonce": "03a46a53962e245921e0e3dacc9907d6"
   },
-  "signature": "XArUh06c/ejYccazI6MMEZ8DmVceZiyLUmyZQaJ+bsu/bhGpPqBS2TRHMm1XSjJ+33AZ6d/xNXJU4l7Qiw9TQQ==",
+  "signature": "XFgqUZpQxZDzvC5p7tgmuGq5uazDpQG71AqCIW7+ggQIr44Nk8cYGHrpDYi1WZ0tzIX7YA0xS3MzgT/Yl4e6sw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

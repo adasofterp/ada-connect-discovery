@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://recommended-authorized-flashing-existence.trycloudflare.com",
-  "httpUrl": "https://recommended-authorized-flashing-existence.trycloudflare.com",
-  "updatedAt": "2026-11-07T17:58:47.077Z",
-  "expiresAt": "2026-12-07T17:58:47.077Z",
-  "nonce": "121f141953193bf8be5da2671e5a6c28",
+  "wsUrl": "wss://kept-reverse-here-coupon.trycloudflare.com",
+  "httpUrl": "https://kept-reverse-here-coupon.trycloudflare.com",
+  "updatedAt": "2026-11-07T18:07:45.517Z",
+  "expiresAt": "2026-12-07T18:07:45.517Z",
+  "nonce": "f78e18bf5e76a687655b12d22f461512",
   "payload": {
-    "wsUrl": "wss://recommended-authorized-flashing-existence.trycloudflare.com",
-    "httpUrl": "https://recommended-authorized-flashing-existence.trycloudflare.com",
-    "issuedAt": "2026-11-07T17:58:47.077Z",
-    "expiresAt": "2026-12-07T17:58:47.077Z",
-    "nonce": "121f141953193bf8be5da2671e5a6c28"
+    "wsUrl": "wss://kept-reverse-here-coupon.trycloudflare.com",
+    "httpUrl": "https://kept-reverse-here-coupon.trycloudflare.com",
+    "issuedAt": "2026-11-07T18:07:45.517Z",
+    "expiresAt": "2026-12-07T18:07:45.517Z",
+    "nonce": "f78e18bf5e76a687655b12d22f461512"
   },
-  "signature": "nZMPEqlAOgY9mZ2Oni1esnFjKvHpOFew5OO808rUvAQcZ7exdHgouetFZYz46TG47j/KaLL0aSPBrFSX24h27Q==",
+  "signature": "kqGYU+KpkpPsLCEfq1XW9CenS7BDF4RFZAOKs3T2key+e54P5WBtK0Z3Zcq4KaZbMQ+61hLOdXMqn/faKqtOrQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

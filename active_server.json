@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bon-ethnic-arrive-smilies.trycloudflare.com",
-  "httpUrl": "https://bon-ethnic-arrive-smilies.trycloudflare.com",
-  "updatedAt": "2026-11-07T17:27:31.430Z",
-  "expiresAt": "2026-12-07T17:27:31.430Z",
-  "nonce": "dc870bf38b6edd5cf6270f1546b0e0b6",
+  "wsUrl": "wss://constitutional-atmospheric-outputs-paul.trycloudflare.com",
+  "httpUrl": "https://constitutional-atmospheric-outputs-paul.trycloudflare.com",
+  "updatedAt": "2026-11-07T17:37:59.735Z",
+  "expiresAt": "2026-12-07T17:37:59.735Z",
+  "nonce": "f5b8bb176e863d2d74ad62919054e8ed",
   "payload": {
-    "wsUrl": "wss://bon-ethnic-arrive-smilies.trycloudflare.com",
-    "httpUrl": "https://bon-ethnic-arrive-smilies.trycloudflare.com",
-    "issuedAt": "2026-11-07T17:27:31.430Z",
-    "expiresAt": "2026-12-07T17:27:31.430Z",
-    "nonce": "dc870bf38b6edd5cf6270f1546b0e0b6"
+    "wsUrl": "wss://constitutional-atmospheric-outputs-paul.trycloudflare.com",
+    "httpUrl": "https://constitutional-atmospheric-outputs-paul.trycloudflare.com",
+    "issuedAt": "2026-11-07T17:37:59.735Z",
+    "expiresAt": "2026-12-07T17:37:59.735Z",
+    "nonce": "f5b8bb176e863d2d74ad62919054e8ed"
   },
-  "signature": "5pZ82H2bTHmH+HNHGfEUQksPxTPoPewJkGzOHZZn0gMvb30ne7wuVxpb66NqipsA9et+eigz3L5SSAJ6LD02/A==",
+  "signature": "MbvkdGRqVfIifdC5wRgW+OTqFLSlnGgd2wTz6l9ITdNFeJK1IraOvaUD0RgaRekPa7ZaQd8g0j21SG0R6MJg2A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

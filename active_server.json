@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://styles-saturn-automobiles-digit.trycloudflare.com",
-  "httpUrl": "https://styles-saturn-automobiles-digit.trycloudflare.com",
-  "updatedAt": "2026-11-07T16:47:23.710Z",
-  "expiresAt": "2026-12-07T16:47:23.710Z",
-  "nonce": "adfb68d6037b66e54cdf4936c24ffac2",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-07T17:27:22.479Z",
+  "expiresAt": "2026-12-07T17:27:22.479Z",
+  "nonce": "355c31243fc355cd46ce63646e6c2ab8",
   "payload": {
-    "wsUrl": "wss://styles-saturn-automobiles-digit.trycloudflare.com",
-    "httpUrl": "https://styles-saturn-automobiles-digit.trycloudflare.com",
-    "issuedAt": "2026-11-07T16:47:23.710Z",
-    "expiresAt": "2026-12-07T16:47:23.710Z",
-    "nonce": "adfb68d6037b66e54cdf4936c24ffac2"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-07T17:27:22.479Z",
+    "expiresAt": "2026-12-07T17:27:22.479Z",
+    "nonce": "355c31243fc355cd46ce63646e6c2ab8"
   },
-  "signature": "bKf1A8+LkN6WGmAWvX+Gvmz1nBH4bbGCAonak/hCvhCqSBVm43bT9qz/elIJvuRX4wUaw5nPX51GG4K/vRxjYg==",
+  "signature": "VF5eGExhk9HwaNzVdRNR7jIqN2/IbwgYtZ5AcaA2fd99U5UCF07JlKGet31XkTbAoVpXwnkB1S2DW9ybUKC0UQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

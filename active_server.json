@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://testing-grand-designated-watching.trycloudflare.com",
-  "httpUrl": "https://testing-grand-designated-watching.trycloudflare.com",
-  "updatedAt": "2026-11-07T12:27:42.307Z",
-  "expiresAt": "2026-12-07T12:27:42.308Z",
-  "nonce": "232dc89226854ba43a6cf3587d878fd0",
+  "wsUrl": "wss://howto-stuart-newest-parent.trycloudflare.com",
+  "httpUrl": "https://howto-stuart-newest-parent.trycloudflare.com",
+  "updatedAt": "2026-11-07T12:38:12.894Z",
+  "expiresAt": "2026-12-07T12:38:12.894Z",
+  "nonce": "39cef1743122ed15862c54c2daf0abcc",
   "payload": {
-    "wsUrl": "wss://testing-grand-designated-watching.trycloudflare.com",
-    "httpUrl": "https://testing-grand-designated-watching.trycloudflare.com",
-    "issuedAt": "2026-11-07T12:27:42.307Z",
-    "expiresAt": "2026-12-07T12:27:42.308Z",
-    "nonce": "232dc89226854ba43a6cf3587d878fd0"
+    "wsUrl": "wss://howto-stuart-newest-parent.trycloudflare.com",
+    "httpUrl": "https://howto-stuart-newest-parent.trycloudflare.com",
+    "issuedAt": "2026-11-07T12:38:12.894Z",
+    "expiresAt": "2026-12-07T12:38:12.894Z",
+    "nonce": "39cef1743122ed15862c54c2daf0abcc"
   },
-  "signature": "JZxEclWDuCpz/kPQMCQF1Rnue49kTmT1IU3PmlGmLyxjQziZzTPA5SL/YkC6iYdTAzqqN2WaCn8iooMbk5YByg==",
+  "signature": "mi8CqgjtOC7xBFtVAsnwAaKSIaJuIob4un7oYXNX0829V3qxreydeH9eZC3pgPMGtxy+cVyYYGIJKT0fgMWugA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

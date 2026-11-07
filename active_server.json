@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ordering-optical-falling-magazine.trycloudflare.com",
-  "httpUrl": "https://ordering-optical-falling-magazine.trycloudflare.com",
-  "updatedAt": "2026-11-07T22:30:05.882Z",
-  "expiresAt": "2026-12-07T22:30:05.882Z",
-  "nonce": "32174651ef140d2f3e8d7b3582cf4dfe",
+  "wsUrl": "wss://redhead-halifax-undertaken-invoice.trycloudflare.com",
+  "httpUrl": "https://redhead-halifax-undertaken-invoice.trycloudflare.com",
+  "updatedAt": "2026-11-07T22:51:04.081Z",
+  "expiresAt": "2026-12-07T22:51:04.081Z",
+  "nonce": "a311e9b513fdca2ce8f0e22872ab025b",
   "payload": {
-    "wsUrl": "wss://ordering-optical-falling-magazine.trycloudflare.com",
-    "httpUrl": "https://ordering-optical-falling-magazine.trycloudflare.com",
-    "issuedAt": "2026-11-07T22:30:05.882Z",
-    "expiresAt": "2026-12-07T22:30:05.882Z",
-    "nonce": "32174651ef140d2f3e8d7b3582cf4dfe"
+    "wsUrl": "wss://redhead-halifax-undertaken-invoice.trycloudflare.com",
+    "httpUrl": "https://redhead-halifax-undertaken-invoice.trycloudflare.com",
+    "issuedAt": "2026-11-07T22:51:04.081Z",
+    "expiresAt": "2026-12-07T22:51:04.081Z",
+    "nonce": "a311e9b513fdca2ce8f0e22872ab025b"
   },
-  "signature": "1rP84UdS9CYaPREyrxlbSZP63GUpzERV7471nCOTXCWvz6PHAAYyN8QpAQaghHrkG8ySbMc02AEZ8feqYJdXRA==",
+  "signature": "gPZBlej+kJGlHubOToiO+Uo4LKW/pg6gtYXNvtsSL20jGq767PjXWkhMYo3ZB6FXid7L6rm2oQxjPq9m7M5XKQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

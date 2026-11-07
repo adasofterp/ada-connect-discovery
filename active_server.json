@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://kept-reverse-here-coupon.trycloudflare.com",
-  "httpUrl": "https://kept-reverse-here-coupon.trycloudflare.com",
-  "updatedAt": "2026-11-07T18:07:45.517Z",
-  "expiresAt": "2026-12-07T18:07:45.517Z",
-  "nonce": "f78e18bf5e76a687655b12d22f461512",
+  "wsUrl": "wss://possibility-jacob-locator-retention.trycloudflare.com",
+  "httpUrl": "https://possibility-jacob-locator-retention.trycloudflare.com",
+  "updatedAt": "2026-11-07T18:18:12.206Z",
+  "expiresAt": "2026-12-07T18:18:12.206Z",
+  "nonce": "6f507cbb0840b9494e48d7beda3501e4",
   "payload": {
-    "wsUrl": "wss://kept-reverse-here-coupon.trycloudflare.com",
-    "httpUrl": "https://kept-reverse-here-coupon.trycloudflare.com",
-    "issuedAt": "2026-11-07T18:07:45.517Z",
-    "expiresAt": "2026-12-07T18:07:45.517Z",
-    "nonce": "f78e18bf5e76a687655b12d22f461512"
+    "wsUrl": "wss://possibility-jacob-locator-retention.trycloudflare.com",
+    "httpUrl": "https://possibility-jacob-locator-retention.trycloudflare.com",
+    "issuedAt": "2026-11-07T18:18:12.206Z",
+    "expiresAt": "2026-12-07T18:18:12.206Z",
+    "nonce": "6f507cbb0840b9494e48d7beda3501e4"
   },
-  "signature": "kqGYU+KpkpPsLCEfq1XW9CenS7BDF4RFZAOKs3T2key+e54P5WBtK0Z3Zcq4KaZbMQ+61hLOdXMqn/faKqtOrQ==",
+  "signature": "7PtP80cCGf/4Fe9uMMw1CyzR945GZmu0xjUCWXyCsf0GPDGZlhP1pkowaYaA7hcHpyVRysg7FEk3tPZykvSg3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

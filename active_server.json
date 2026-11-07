@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://urgent-reflects-gzip-comedy.trycloudflare.com",
-  "httpUrl": "https://urgent-reflects-gzip-comedy.trycloudflare.com",
-  "updatedAt": "2026-11-07T15:35:55.958Z",
-  "expiresAt": "2026-12-07T15:35:55.958Z",
-  "nonce": "c6a396187630c86f68cf55c95d8284c2",
+  "wsUrl": "wss://pushing-mailing-detection-review.trycloudflare.com",
+  "httpUrl": "https://pushing-mailing-detection-review.trycloudflare.com",
+  "updatedAt": "2026-11-07T15:46:21.671Z",
+  "expiresAt": "2026-12-07T15:46:21.671Z",
+  "nonce": "7cac8dfdb976dadb0041d75059bdeaed",
   "payload": {
-    "wsUrl": "wss://urgent-reflects-gzip-comedy.trycloudflare.com",
-    "httpUrl": "https://urgent-reflects-gzip-comedy.trycloudflare.com",
-    "issuedAt": "2026-11-07T15:35:55.958Z",
-    "expiresAt": "2026-12-07T15:35:55.958Z",
-    "nonce": "c6a396187630c86f68cf55c95d8284c2"
+    "wsUrl": "wss://pushing-mailing-detection-review.trycloudflare.com",
+    "httpUrl": "https://pushing-mailing-detection-review.trycloudflare.com",
+    "issuedAt": "2026-11-07T15:46:21.671Z",
+    "expiresAt": "2026-12-07T15:46:21.671Z",
+    "nonce": "7cac8dfdb976dadb0041d75059bdeaed"
   },
-  "signature": "FeO2c0k6V3IJoGWhCV+3VSl6zF9F9r7cidiSuM2QKyd7LxY3mZ9Qi7nofuRTAu+bu1JgCnaF8rWgeL6tjhfNOA==",
+  "signature": "OuWHh9aPhn7MjfYWCdbQvbM8i29jOw47wIGA5xoJSl0qDSRAeiB6raVTcuKiAe6VVfhDBBts/nD45Ewlz2SSyw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

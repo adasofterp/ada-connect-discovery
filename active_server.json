@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nevertheless-missouri-extend-regulatory.trycloudflare.com",
-  "httpUrl": "https://nevertheless-missouri-extend-regulatory.trycloudflare.com",
-  "updatedAt": "2026-11-07T20:04:07.991Z",
-  "expiresAt": "2026-12-07T20:04:07.991Z",
-  "nonce": "9207e267422890fca5343fa0460078ca",
+  "wsUrl": "wss://better-approach-class-dominant.trycloudflare.com",
+  "httpUrl": "https://better-approach-class-dominant.trycloudflare.com",
+  "updatedAt": "2026-11-07T20:12:29.649Z",
+  "expiresAt": "2026-12-07T20:12:29.649Z",
+  "nonce": "beaea05e2addc35f8fe7366705f42533",
   "payload": {
-    "wsUrl": "wss://nevertheless-missouri-extend-regulatory.trycloudflare.com",
-    "httpUrl": "https://nevertheless-missouri-extend-regulatory.trycloudflare.com",
-    "issuedAt": "2026-11-07T20:04:07.991Z",
-    "expiresAt": "2026-12-07T20:04:07.991Z",
-    "nonce": "9207e267422890fca5343fa0460078ca"
+    "wsUrl": "wss://better-approach-class-dominant.trycloudflare.com",
+    "httpUrl": "https://better-approach-class-dominant.trycloudflare.com",
+    "issuedAt": "2026-11-07T20:12:29.649Z",
+    "expiresAt": "2026-12-07T20:12:29.649Z",
+    "nonce": "beaea05e2addc35f8fe7366705f42533"
   },
-  "signature": "ywlVzIBFvLA7Vr89GQnpumBoqzcnRRAgHRtoSdbNGoNz2LEFFHsMINL7CWEXj33U1tjrWlLbo0ofvlHjDbJH8A==",
+  "signature": "wbvTUMBt0W+7RYlEr3Gm8CuthEXv5Q347WmDQm8xBUNLpNY72zABbXpzVgBDBuT+5hn4gA72aVYW1U6fCaNjHQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

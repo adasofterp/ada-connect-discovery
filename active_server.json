@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://redhead-halifax-undertaken-invoice.trycloudflare.com",
-  "httpUrl": "https://redhead-halifax-undertaken-invoice.trycloudflare.com",
-  "updatedAt": "2026-11-07T22:51:04.081Z",
-  "expiresAt": "2026-12-07T22:51:04.081Z",
-  "nonce": "a311e9b513fdca2ce8f0e22872ab025b",
+  "wsUrl": "wss://carb-cashiers-gravity-want.trycloudflare.com",
+  "httpUrl": "https://carb-cashiers-gravity-want.trycloudflare.com",
+  "updatedAt": "2026-11-07T23:01:28.333Z",
+  "expiresAt": "2026-12-07T23:01:28.333Z",
+  "nonce": "d4d3cb373068e1602baf1befb66d4ac0",
   "payload": {
-    "wsUrl": "wss://redhead-halifax-undertaken-invoice.trycloudflare.com",
-    "httpUrl": "https://redhead-halifax-undertaken-invoice.trycloudflare.com",
-    "issuedAt": "2026-11-07T22:51:04.081Z",
-    "expiresAt": "2026-12-07T22:51:04.081Z",
-    "nonce": "a311e9b513fdca2ce8f0e22872ab025b"
+    "wsUrl": "wss://carb-cashiers-gravity-want.trycloudflare.com",
+    "httpUrl": "https://carb-cashiers-gravity-want.trycloudflare.com",
+    "issuedAt": "2026-11-07T23:01:28.333Z",
+    "expiresAt": "2026-12-07T23:01:28.333Z",
+    "nonce": "d4d3cb373068e1602baf1befb66d4ac0"
   },
-  "signature": "gPZBlej+kJGlHubOToiO+Uo4LKW/pg6gtYXNvtsSL20jGq767PjXWkhMYo3ZB6FXid7L6rm2oQxjPq9m7M5XKQ==",
+  "signature": "J5gGT4TVgr2oGXL2hdo2OuGjfEOzq/fyCOyu5UdD9UQmDHFEgJ2cfyigoPNVfbH8iahKAWvRJPtiPmUxYLq3Lw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pursuit-stomach-anniversary-compared.trycloudflare.com",
-  "httpUrl": "https://pursuit-stomach-anniversary-compared.trycloudflare.com",
-  "updatedAt": "2026-11-07T12:06:51.113Z",
-  "expiresAt": "2026-12-07T12:06:51.113Z",
-  "nonce": "afad143982187f5eaeede6669f185b02",
+  "wsUrl": "wss://testing-grand-designated-watching.trycloudflare.com",
+  "httpUrl": "https://testing-grand-designated-watching.trycloudflare.com",
+  "updatedAt": "2026-11-07T12:27:42.307Z",
+  "expiresAt": "2026-12-07T12:27:42.308Z",
+  "nonce": "232dc89226854ba43a6cf3587d878fd0",
   "payload": {
-    "wsUrl": "wss://pursuit-stomach-anniversary-compared.trycloudflare.com",
-    "httpUrl": "https://pursuit-stomach-anniversary-compared.trycloudflare.com",
-    "issuedAt": "2026-11-07T12:06:51.113Z",
-    "expiresAt": "2026-12-07T12:06:51.113Z",
-    "nonce": "afad143982187f5eaeede6669f185b02"
+    "wsUrl": "wss://testing-grand-designated-watching.trycloudflare.com",
+    "httpUrl": "https://testing-grand-designated-watching.trycloudflare.com",
+    "issuedAt": "2026-11-07T12:27:42.307Z",
+    "expiresAt": "2026-12-07T12:27:42.308Z",
+    "nonce": "232dc89226854ba43a6cf3587d878fd0"
   },
-  "signature": "feWOpJHu5WaVKAk36kwyvOJt1CxmEkJB7nDIGLaFem7OfDIh+Tcc7MNn0vJJf0LfO/uscHfHj2gVMdEKB2humQ==",
+  "signature": "JZxEclWDuCpz/kPQMCQF1Rnue49kTmT1IU3PmlGmLyxjQziZzTPA5SL/YkC6iYdTAzqqN2WaCn8iooMbk5YByg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

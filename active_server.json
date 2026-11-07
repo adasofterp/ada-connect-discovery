@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://edited-electron-organisation-superior.trycloudflare.com",
-  "httpUrl": "https://edited-electron-organisation-superior.trycloudflare.com",
-  "updatedAt": "2026-11-07T02:48:05.582Z",
-  "expiresAt": "2026-12-07T02:48:05.582Z",
-  "nonce": "6af26658f5343e4f8fd0925dec226708",
+  "wsUrl": "wss://motorcycles-sunrise-trading-insurance.trycloudflare.com",
+  "httpUrl": "https://motorcycles-sunrise-trading-insurance.trycloudflare.com",
+  "updatedAt": "2026-11-07T02:58:28.719Z",
+  "expiresAt": "2026-12-07T02:58:28.719Z",
+  "nonce": "e4ec02883ae835dc9642bc0bda8d71d5",
   "payload": {
-    "wsUrl": "wss://edited-electron-organisation-superior.trycloudflare.com",
-    "httpUrl": "https://edited-electron-organisation-superior.trycloudflare.com",
-    "issuedAt": "2026-11-07T02:48:05.582Z",
-    "expiresAt": "2026-12-07T02:48:05.582Z",
-    "nonce": "6af26658f5343e4f8fd0925dec226708"
+    "wsUrl": "wss://motorcycles-sunrise-trading-insurance.trycloudflare.com",
+    "httpUrl": "https://motorcycles-sunrise-trading-insurance.trycloudflare.com",
+    "issuedAt": "2026-11-07T02:58:28.719Z",
+    "expiresAt": "2026-12-07T02:58:28.719Z",
+    "nonce": "e4ec02883ae835dc9642bc0bda8d71d5"
   },
-  "signature": "ZqyslR7nAi5UG0UgzbRYKx7gmWEbzDB1E8n13pzDMSAV1mIpSciWwesWmlhAgypUhLOuqbj0FbPiVlivPCdhqw==",
+  "signature": "eH2sQ40/hVgbSXy7ear+WpgAECZF0MOLRiOSQ44pzC7pV9H3G/N1+rVBusVXYFggyaqui9M4snohtDCqw0rnGg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

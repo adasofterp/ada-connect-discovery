@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://halloween-xml-runner-toxic.trycloudflare.com",
-  "httpUrl": "https://halloween-xml-runner-toxic.trycloudflare.com",
-  "updatedAt": "2026-11-06T23:53:01.031Z",
-  "expiresAt": "2026-12-06T23:53:01.031Z",
-  "nonce": "0685763570c0f7f430a070b618413831",
+  "wsUrl": "wss://sharing-wax-chelsea-dynamic.trycloudflare.com",
+  "httpUrl": "https://sharing-wax-chelsea-dynamic.trycloudflare.com",
+  "updatedAt": "2026-11-07T00:03:25.689Z",
+  "expiresAt": "2026-12-07T00:03:25.689Z",
+  "nonce": "613f6512cbf9390198058620e103f120",
   "payload": {
-    "wsUrl": "wss://halloween-xml-runner-toxic.trycloudflare.com",
-    "httpUrl": "https://halloween-xml-runner-toxic.trycloudflare.com",
-    "issuedAt": "2026-11-06T23:53:01.031Z",
-    "expiresAt": "2026-12-06T23:53:01.031Z",
-    "nonce": "0685763570c0f7f430a070b618413831"
+    "wsUrl": "wss://sharing-wax-chelsea-dynamic.trycloudflare.com",
+    "httpUrl": "https://sharing-wax-chelsea-dynamic.trycloudflare.com",
+    "issuedAt": "2026-11-07T00:03:25.689Z",
+    "expiresAt": "2026-12-07T00:03:25.689Z",
+    "nonce": "613f6512cbf9390198058620e103f120"
   },
-  "signature": "ZgC7F7/j/IIlTpBLqDslcFSihpHIR4n+LqPbcFn5oBMs7j63Op7mvVMeLCV9ZT6j9ctaV7QKywDsY2Ykw7CaOQ==",
+  "signature": "99w2eUcBFlBpOuvySrD8oJmCjZ4ieJ14dFPbr/8yUgjyoquIzVr4ZKKbbgrkTDBaw3toUROtQe7oVTgZrGAqXw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

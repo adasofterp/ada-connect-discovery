@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-07T11:51:14.263Z",
-  "expiresAt": "2026-12-07T11:51:14.263Z",
-  "nonce": "d62376fa3073fe69d8af5f5805b0045e",
+  "wsUrl": "wss://intent-punch-thesis-recipients.trycloudflare.com",
+  "httpUrl": "https://intent-punch-thesis-recipients.trycloudflare.com",
+  "updatedAt": "2026-11-07T11:56:26.373Z",
+  "expiresAt": "2026-12-07T11:56:26.373Z",
+  "nonce": "6aa4a156f526ac2bc52d6232a00e8033",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-07T11:51:14.263Z",
-    "expiresAt": "2026-12-07T11:51:14.263Z",
-    "nonce": "d62376fa3073fe69d8af5f5805b0045e"
+    "wsUrl": "wss://intent-punch-thesis-recipients.trycloudflare.com",
+    "httpUrl": "https://intent-punch-thesis-recipients.trycloudflare.com",
+    "issuedAt": "2026-11-07T11:56:26.373Z",
+    "expiresAt": "2026-12-07T11:56:26.373Z",
+    "nonce": "6aa4a156f526ac2bc52d6232a00e8033"
   },
-  "signature": "Qm8E7g4vvsVwe8PtFH0cqSW5o/unMlgjpiyFeEcTx3g+RZ4KjTgLRcXBchmtlNLYNrC3J9GFQXcNYJO1bo6t1w==",
+  "signature": "QJcSqaG13AE1WllW0l3e2yEVpL8CDqNojyEtAj6TgGstw1lGSBqC7Bl1AE9KmUvOQd1sb+sA9fRFb+wh5ZvPDw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

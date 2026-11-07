@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://replied-hills-recreational-planets.trycloudflare.com",
-  "httpUrl": "https://replied-hills-recreational-planets.trycloudflare.com",
-  "updatedAt": "2026-11-07T02:37:41.550Z",
-  "expiresAt": "2026-12-07T02:37:41.550Z",
-  "nonce": "f88bc6743c940afc830bac0f7453e133",
+  "wsUrl": "wss://edited-electron-organisation-superior.trycloudflare.com",
+  "httpUrl": "https://edited-electron-organisation-superior.trycloudflare.com",
+  "updatedAt": "2026-11-07T02:48:05.582Z",
+  "expiresAt": "2026-12-07T02:48:05.582Z",
+  "nonce": "6af26658f5343e4f8fd0925dec226708",
   "payload": {
-    "wsUrl": "wss://replied-hills-recreational-planets.trycloudflare.com",
-    "httpUrl": "https://replied-hills-recreational-planets.trycloudflare.com",
-    "issuedAt": "2026-11-07T02:37:41.550Z",
-    "expiresAt": "2026-12-07T02:37:41.550Z",
-    "nonce": "f88bc6743c940afc830bac0f7453e133"
+    "wsUrl": "wss://edited-electron-organisation-superior.trycloudflare.com",
+    "httpUrl": "https://edited-electron-organisation-superior.trycloudflare.com",
+    "issuedAt": "2026-11-07T02:48:05.582Z",
+    "expiresAt": "2026-12-07T02:48:05.582Z",
+    "nonce": "6af26658f5343e4f8fd0925dec226708"
   },
-  "signature": "7odnbkceZBQ+UpbQNCunKAj0geOVeNdryjezrRsXncZdTbh4gpjCZvK0WQ6LPtIssvCBnflmCkOfl4XEaSPupg==",
+  "signature": "ZqyslR7nAi5UG0UgzbRYKx7gmWEbzDB1E8n13pzDMSAV1mIpSciWwesWmlhAgypUhLOuqbj0FbPiVlivPCdhqw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

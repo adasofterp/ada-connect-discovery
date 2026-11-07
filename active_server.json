@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://hence-low-lewis-july.trycloudflare.com",
-  "httpUrl": "https://hence-low-lewis-july.trycloudflare.com",
-  "updatedAt": "2026-11-07T01:57:51.610Z",
-  "expiresAt": "2026-12-07T01:57:51.610Z",
-  "nonce": "f683b718cc75cb0e77ade4dfd692f337",
+  "wsUrl": "wss://replied-hills-recreational-planets.trycloudflare.com",
+  "httpUrl": "https://replied-hills-recreational-planets.trycloudflare.com",
+  "updatedAt": "2026-11-07T02:37:41.550Z",
+  "expiresAt": "2026-12-07T02:37:41.550Z",
+  "nonce": "f88bc6743c940afc830bac0f7453e133",
   "payload": {
-    "wsUrl": "wss://hence-low-lewis-july.trycloudflare.com",
-    "httpUrl": "https://hence-low-lewis-july.trycloudflare.com",
-    "issuedAt": "2026-11-07T01:57:51.610Z",
-    "expiresAt": "2026-12-07T01:57:51.610Z",
-    "nonce": "f683b718cc75cb0e77ade4dfd692f337"
+    "wsUrl": "wss://replied-hills-recreational-planets.trycloudflare.com",
+    "httpUrl": "https://replied-hills-recreational-planets.trycloudflare.com",
+    "issuedAt": "2026-11-07T02:37:41.550Z",
+    "expiresAt": "2026-12-07T02:37:41.550Z",
+    "nonce": "f88bc6743c940afc830bac0f7453e133"
   },
-  "signature": "ASEJcdCFqeBgamddNBXKNmK5Cx2nBHYY66ALI2s2Ja6B+RgNtEvi5oj2OmuXQmDr4Nta3Xog20lhPPvCjcT36w==",
+  "signature": "7odnbkceZBQ+UpbQNCunKAj0geOVeNdryjezrRsXncZdTbh4gpjCZvK0WQ6LPtIssvCBnflmCkOfl4XEaSPupg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

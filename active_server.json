@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sponsors-cancel-specialist-burton.trycloudflare.com",
-  "httpUrl": "https://sponsors-cancel-specialist-burton.trycloudflare.com",
-  "updatedAt": "2026-11-07T18:23:47.362Z",
-  "expiresAt": "2026-12-07T18:23:47.363Z",
-  "nonce": "b71520d9a56de53d62e49de9fa4295d8",
+  "wsUrl": "wss://cordless-across-wearing-interest.trycloudflare.com",
+  "httpUrl": "https://cordless-across-wearing-interest.trycloudflare.com",
+  "updatedAt": "2026-11-07T18:59:47.256Z",
+  "expiresAt": "2026-12-07T18:59:47.256Z",
+  "nonce": "582adb63cf9c8624ca6baf5f5e73df9b",
   "payload": {
-    "wsUrl": "wss://sponsors-cancel-specialist-burton.trycloudflare.com",
-    "httpUrl": "https://sponsors-cancel-specialist-burton.trycloudflare.com",
-    "issuedAt": "2026-11-07T18:23:47.362Z",
-    "expiresAt": "2026-12-07T18:23:47.363Z",
-    "nonce": "b71520d9a56de53d62e49de9fa4295d8"
+    "wsUrl": "wss://cordless-across-wearing-interest.trycloudflare.com",
+    "httpUrl": "https://cordless-across-wearing-interest.trycloudflare.com",
+    "issuedAt": "2026-11-07T18:59:47.256Z",
+    "expiresAt": "2026-12-07T18:59:47.256Z",
+    "nonce": "582adb63cf9c8624ca6baf5f5e73df9b"
   },
-  "signature": "3UVkmVHbNyNLjPLjZ4Fz320No8iXYIqEQCw4+lFtw4EYaGeKqkmEHwFilsHuduAIuuKylq79EVvTFs106Si9xw==",
+  "signature": "i5Nl9Lblpm85RMQYFJQp/M14qo7O3Bk6Gbq2bOFfVPNgKDgfekHXPrTQA76WntkVMgMbdEXla4ligESxboNgxQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

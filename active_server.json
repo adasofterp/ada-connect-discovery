@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://clinical-slim-scores-naturally.trycloudflare.com",
-  "httpUrl": "https://clinical-slim-scores-naturally.trycloudflare.com",
-  "updatedAt": "2026-11-07T14:34:58.340Z",
-  "expiresAt": "2026-12-07T14:34:58.340Z",
-  "nonce": "a8f17346431ef16e2c8a9b5a2ce0d942",
+  "wsUrl": "wss://urgent-reflects-gzip-comedy.trycloudflare.com",
+  "httpUrl": "https://urgent-reflects-gzip-comedy.trycloudflare.com",
+  "updatedAt": "2026-11-07T15:35:55.958Z",
+  "expiresAt": "2026-12-07T15:35:55.958Z",
+  "nonce": "c6a396187630c86f68cf55c95d8284c2",
   "payload": {
-    "wsUrl": "wss://clinical-slim-scores-naturally.trycloudflare.com",
-    "httpUrl": "https://clinical-slim-scores-naturally.trycloudflare.com",
-    "issuedAt": "2026-11-07T14:34:58.340Z",
-    "expiresAt": "2026-12-07T14:34:58.340Z",
-    "nonce": "a8f17346431ef16e2c8a9b5a2ce0d942"
+    "wsUrl": "wss://urgent-reflects-gzip-comedy.trycloudflare.com",
+    "httpUrl": "https://urgent-reflects-gzip-comedy.trycloudflare.com",
+    "issuedAt": "2026-11-07T15:35:55.958Z",
+    "expiresAt": "2026-12-07T15:35:55.958Z",
+    "nonce": "c6a396187630c86f68cf55c95d8284c2"
   },
-  "signature": "2vPdhhRRuFHKJSlzvDaARvx+vqiIwLdDSYDmWAF7J/Mqo6UkBL4ioZ6JHu8XP8H1+Gmpi4yr3vD1P6QGAPTfRQ==",
+  "signature": "FeO2c0k6V3IJoGWhCV+3VSl6zF9F9r7cidiSuM2QKyd7LxY3mZ9Qi7nofuRTAu+bu1JgCnaF8rWgeL6tjhfNOA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

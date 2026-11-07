@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://yard-registered-involves-clan.trycloudflare.com",
-  "httpUrl": "https://yard-registered-involves-clan.trycloudflare.com",
-  "updatedAt": "2026-11-07T14:14:05.666Z",
-  "expiresAt": "2026-12-07T14:14:05.666Z",
-  "nonce": "aa6a36d7ab7f18fc0c9e299db4726346",
+  "wsUrl": "wss://membership-trackbacks-cardiff-particles.trycloudflare.com",
+  "httpUrl": "https://membership-trackbacks-cardiff-particles.trycloudflare.com",
+  "updatedAt": "2026-11-07T14:24:33.767Z",
+  "expiresAt": "2026-12-07T14:24:33.767Z",
+  "nonce": "eb3ec17b5a082430d2744b18095ddad6",
   "payload": {
-    "wsUrl": "wss://yard-registered-involves-clan.trycloudflare.com",
-    "httpUrl": "https://yard-registered-involves-clan.trycloudflare.com",
-    "issuedAt": "2026-11-07T14:14:05.666Z",
-    "expiresAt": "2026-12-07T14:14:05.666Z",
-    "nonce": "aa6a36d7ab7f18fc0c9e299db4726346"
+    "wsUrl": "wss://membership-trackbacks-cardiff-particles.trycloudflare.com",
+    "httpUrl": "https://membership-trackbacks-cardiff-particles.trycloudflare.com",
+    "issuedAt": "2026-11-07T14:24:33.767Z",
+    "expiresAt": "2026-12-07T14:24:33.767Z",
+    "nonce": "eb3ec17b5a082430d2744b18095ddad6"
   },
-  "signature": "Iu/K6eC07RsDrpd0PE8+fPSaZ3Z/fEqpYZsOHz91lXnrOuP7R1WPcqtg5vWfhOMxMX83UuRXFrZ3Ow+UF2+hJA==",
+  "signature": "KcGHYGLuaTig+J6bzeniFhkLGXTiSjzIa6XVY1cE2SlqTo36N074kWXz6SM7LjvL1eRVfnbrL69t1KOThy76AQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

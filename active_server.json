@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://percentage-fill-teachers-gilbert.trycloudflare.com",
-  "httpUrl": "https://percentage-fill-teachers-gilbert.trycloudflare.com",
-  "updatedAt": "2026-11-07T03:45:17.480Z",
-  "expiresAt": "2026-12-07T03:45:17.480Z",
-  "nonce": "99391b1552694f4847d4a645c16f6472",
+  "wsUrl": "wss://tribunal-affected-bachelor-statutory.trycloudflare.com",
+  "httpUrl": "https://tribunal-affected-bachelor-statutory.trycloudflare.com",
+  "updatedAt": "2026-11-07T03:58:58.324Z",
+  "expiresAt": "2026-12-07T03:58:58.324Z",
+  "nonce": "fa354d8fe13d474ccaede8a80f0b4e41",
   "payload": {
-    "wsUrl": "wss://percentage-fill-teachers-gilbert.trycloudflare.com",
-    "httpUrl": "https://percentage-fill-teachers-gilbert.trycloudflare.com",
-    "issuedAt": "2026-11-07T03:45:17.480Z",
-    "expiresAt": "2026-12-07T03:45:17.480Z",
-    "nonce": "99391b1552694f4847d4a645c16f6472"
+    "wsUrl": "wss://tribunal-affected-bachelor-statutory.trycloudflare.com",
+    "httpUrl": "https://tribunal-affected-bachelor-statutory.trycloudflare.com",
+    "issuedAt": "2026-11-07T03:58:58.324Z",
+    "expiresAt": "2026-12-07T03:58:58.324Z",
+    "nonce": "fa354d8fe13d474ccaede8a80f0b4e41"
   },
-  "signature": "AAP/Cb4o/oPtVmZLVgsqzxu9Ic2a8fU9MM8qC2OznPl+iQVsHfMHiC4A8DBd7C1TZs+Ww03FuQ2AaYZ9kx9Fhw==",
+  "signature": "MGAvmPb+00tnqjLYMj+3EEKHEuVM7BG4XcUmyql5VVnP5+YNYp9c0UxGZBTMvl0UUN4dNNYSyPrY5A/MokSRlg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

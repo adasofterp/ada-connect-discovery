@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://databases-engaging-caribbean-example.trycloudflare.com",
-  "httpUrl": "https://databases-engaging-caribbean-example.trycloudflare.com",
-  "updatedAt": "2026-11-07T21:19:10.531Z",
-  "expiresAt": "2026-12-07T21:19:10.531Z",
-  "nonce": "dbb7c55205bb93a630eb949bbbe20f85",
+  "wsUrl": "wss://retrieval-whatever-declined-offset.trycloudflare.com",
+  "httpUrl": "https://retrieval-whatever-declined-offset.trycloudflare.com",
+  "updatedAt": "2026-11-07T21:29:34.220Z",
+  "expiresAt": "2026-12-07T21:29:34.220Z",
+  "nonce": "f3d45f66cdb743554fd44fd876d37c5a",
   "payload": {
-    "wsUrl": "wss://databases-engaging-caribbean-example.trycloudflare.com",
-    "httpUrl": "https://databases-engaging-caribbean-example.trycloudflare.com",
-    "issuedAt": "2026-11-07T21:19:10.531Z",
-    "expiresAt": "2026-12-07T21:19:10.531Z",
-    "nonce": "dbb7c55205bb93a630eb949bbbe20f85"
+    "wsUrl": "wss://retrieval-whatever-declined-offset.trycloudflare.com",
+    "httpUrl": "https://retrieval-whatever-declined-offset.trycloudflare.com",
+    "issuedAt": "2026-11-07T21:29:34.220Z",
+    "expiresAt": "2026-12-07T21:29:34.220Z",
+    "nonce": "f3d45f66cdb743554fd44fd876d37c5a"
   },
-  "signature": "Y5ijCmNzgn/MfWN8AzktGm0ST6lF2VMPipYPiAojsAI1FYvJLMLdUeFKfmDK/z3utypnjE225Qtyae8l46aaAg==",
+  "signature": "pnhMm/9VyasdWiOpnTAik1or5BnL98lOgao+NxxttCUee89up8mOR57qaX5HSXhDcI3KC9kv0XJ+c0w6xf7GjA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

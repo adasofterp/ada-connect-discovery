@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://daughter-jewelry-variance-packets.trycloudflare.com",
-  "httpUrl": "https://daughter-jewelry-variance-packets.trycloudflare.com",
-  "updatedAt": "2026-11-07T20:59:21.844Z",
-  "expiresAt": "2026-12-07T20:59:21.844Z",
-  "nonce": "0cd413d1ddaebe60c50c6cd64fd76a02",
+  "wsUrl": "wss://anthropology-transport-gps-information.trycloudflare.com",
+  "httpUrl": "https://anthropology-transport-gps-information.trycloudflare.com",
+  "updatedAt": "2026-11-07T21:09:45.974Z",
+  "expiresAt": "2026-12-07T21:09:45.974Z",
+  "nonce": "fed9d6c27203e0c53289fb2ea197e78e",
   "payload": {
-    "wsUrl": "wss://daughter-jewelry-variance-packets.trycloudflare.com",
-    "httpUrl": "https://daughter-jewelry-variance-packets.trycloudflare.com",
-    "issuedAt": "2026-11-07T20:59:21.844Z",
-    "expiresAt": "2026-12-07T20:59:21.844Z",
-    "nonce": "0cd413d1ddaebe60c50c6cd64fd76a02"
+    "wsUrl": "wss://anthropology-transport-gps-information.trycloudflare.com",
+    "httpUrl": "https://anthropology-transport-gps-information.trycloudflare.com",
+    "issuedAt": "2026-11-07T21:09:45.974Z",
+    "expiresAt": "2026-12-07T21:09:45.974Z",
+    "nonce": "fed9d6c27203e0c53289fb2ea197e78e"
   },
-  "signature": "XQhk7CSR+Mj9hnhirsq15+vZfVJ1z64fyKhDETqVkbw9H2kJVSFJ3jZL3GX2PNjhPNjN3MH+rE6bSy4XRXesjA==",
+  "signature": "SvwsoiDwU7Cn0C7P5Gjx1yWMJdbGx1vhiuVR9q9F4kxUM+wnvp3HYGkG2OG4O/ZVEUyGV649nNUymyS3G4UwUA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-07T09:14:26.915Z",
-  "expiresAt": "2026-12-07T09:14:26.915Z",
-  "nonce": "b492c49a00cd484e727c3b3737332524",
+  "wsUrl": "wss://vatican-nextel-spice-happiness.trycloudflare.com",
+  "httpUrl": "https://vatican-nextel-spice-happiness.trycloudflare.com",
+  "updatedAt": "2026-11-07T09:40:29.926Z",
+  "expiresAt": "2026-12-07T09:40:29.926Z",
+  "nonce": "5e301a7549ae7b879f981d9fcc314a55",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-07T09:14:26.915Z",
-    "expiresAt": "2026-12-07T09:14:26.915Z",
-    "nonce": "b492c49a00cd484e727c3b3737332524"
+    "wsUrl": "wss://vatican-nextel-spice-happiness.trycloudflare.com",
+    "httpUrl": "https://vatican-nextel-spice-happiness.trycloudflare.com",
+    "issuedAt": "2026-11-07T09:40:29.926Z",
+    "expiresAt": "2026-12-07T09:40:29.926Z",
+    "nonce": "5e301a7549ae7b879f981d9fcc314a55"
   },
-  "signature": "UGK+PKuMtQPrAy0hAKl/BEbOtb0LmJKjGFa7N+B4GqRxXUiwYMIrKvrC8+NMivFQt2ieqHsdGehKNjqCJcOnpw==",
+  "signature": "hkcxEQ+PZrW4melrHWbZPKW4mnhq0rP8JRuXakeIdUool/0cBuH7Zz5IFa/fO7TyIQheR9hyyYoUVjxAvNYVLA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

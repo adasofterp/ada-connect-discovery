@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://located-tub-family-difficulty.trycloudflare.com",
-  "httpUrl": "https://located-tub-family-difficulty.trycloudflare.com",
-  "updatedAt": "2026-11-07T16:16:08.844Z",
-  "expiresAt": "2026-12-07T16:16:08.845Z",
-  "nonce": "2a2c6264980a46a08c94c46424db7820",
+  "wsUrl": "wss://dual-tim-mile-friday.trycloudflare.com",
+  "httpUrl": "https://dual-tim-mile-friday.trycloudflare.com",
+  "updatedAt": "2026-11-07T16:26:36.840Z",
+  "expiresAt": "2026-12-07T16:26:36.840Z",
+  "nonce": "2e0c2863a33d0e63a672c77f58c5aa3e",
   "payload": {
-    "wsUrl": "wss://located-tub-family-difficulty.trycloudflare.com",
-    "httpUrl": "https://located-tub-family-difficulty.trycloudflare.com",
-    "issuedAt": "2026-11-07T16:16:08.844Z",
-    "expiresAt": "2026-12-07T16:16:08.845Z",
-    "nonce": "2a2c6264980a46a08c94c46424db7820"
+    "wsUrl": "wss://dual-tim-mile-friday.trycloudflare.com",
+    "httpUrl": "https://dual-tim-mile-friday.trycloudflare.com",
+    "issuedAt": "2026-11-07T16:26:36.840Z",
+    "expiresAt": "2026-12-07T16:26:36.840Z",
+    "nonce": "2e0c2863a33d0e63a672c77f58c5aa3e"
   },
-  "signature": "/Dw+dtaKJoVUI40ht0LSQjOVLIs7GBy/EQCnRdhDnFXQi2OKacPGtfxhjLpxiiDESE9xlTrol7I8OSeu/g86nA==",
+  "signature": "d45YzNPODfKW0WEPXtOFiuzadxGYIin+WIqCCcFbQ3vk+Dnuy3A4RDS01aD+rXWYEfs0kZ9Ze/vTyv01xg9IQw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

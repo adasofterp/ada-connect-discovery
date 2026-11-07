@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://dual-tim-mile-friday.trycloudflare.com",
-  "httpUrl": "https://dual-tim-mile-friday.trycloudflare.com",
-  "updatedAt": "2026-11-07T16:26:36.840Z",
-  "expiresAt": "2026-12-07T16:26:36.840Z",
-  "nonce": "2e0c2863a33d0e63a672c77f58c5aa3e",
+  "wsUrl": "wss://century-pics-park-passive.trycloudflare.com",
+  "httpUrl": "https://century-pics-park-passive.trycloudflare.com",
+  "updatedAt": "2026-11-07T16:36:59.578Z",
+  "expiresAt": "2026-12-07T16:36:59.578Z",
+  "nonce": "64afca786316c091e8c9ecfe34c5acb3",
   "payload": {
-    "wsUrl": "wss://dual-tim-mile-friday.trycloudflare.com",
-    "httpUrl": "https://dual-tim-mile-friday.trycloudflare.com",
-    "issuedAt": "2026-11-07T16:26:36.840Z",
-    "expiresAt": "2026-12-07T16:26:36.840Z",
-    "nonce": "2e0c2863a33d0e63a672c77f58c5aa3e"
+    "wsUrl": "wss://century-pics-park-passive.trycloudflare.com",
+    "httpUrl": "https://century-pics-park-passive.trycloudflare.com",
+    "issuedAt": "2026-11-07T16:36:59.578Z",
+    "expiresAt": "2026-12-07T16:36:59.578Z",
+    "nonce": "64afca786316c091e8c9ecfe34c5acb3"
   },
-  "signature": "d45YzNPODfKW0WEPXtOFiuzadxGYIin+WIqCCcFbQ3vk+Dnuy3A4RDS01aD+rXWYEfs0kZ9Ze/vTyv01xg9IQw==",
+  "signature": "SlKVtdyKvxHCwfEG0LjZN//gl1QuRWwHaSlJbhVrWYVbukRISjOeBQxtmN1TSVF7B9s3PrDocmuSLhagUdL47Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

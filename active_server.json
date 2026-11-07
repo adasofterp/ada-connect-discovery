@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://authorities-logistics-mary-amendments.trycloudflare.com",
-  "httpUrl": "https://authorities-logistics-mary-amendments.trycloudflare.com",
-  "updatedAt": "2026-11-07T04:19:45.656Z",
-  "expiresAt": "2026-12-07T04:19:45.656Z",
-  "nonce": "01ca5bed7c5360db790c0d4538457229",
+  "wsUrl": "wss://mats-virtual-accountability-appraisal.trycloudflare.com",
+  "httpUrl": "https://mats-virtual-accountability-appraisal.trycloudflare.com",
+  "updatedAt": "2026-11-07T05:05:04.944Z",
+  "expiresAt": "2026-12-07T05:05:04.944Z",
+  "nonce": "b8a4707818137cf575fb8cdeb727ea85",
   "payload": {
-    "wsUrl": "wss://authorities-logistics-mary-amendments.trycloudflare.com",
-    "httpUrl": "https://authorities-logistics-mary-amendments.trycloudflare.com",
-    "issuedAt": "2026-11-07T04:19:45.656Z",
-    "expiresAt": "2026-12-07T04:19:45.656Z",
-    "nonce": "01ca5bed7c5360db790c0d4538457229"
+    "wsUrl": "wss://mats-virtual-accountability-appraisal.trycloudflare.com",
+    "httpUrl": "https://mats-virtual-accountability-appraisal.trycloudflare.com",
+    "issuedAt": "2026-11-07T05:05:04.944Z",
+    "expiresAt": "2026-12-07T05:05:04.944Z",
+    "nonce": "b8a4707818137cf575fb8cdeb727ea85"
   },
-  "signature": "GOK6XGz/hsAHoLk6SKOZx8elwyNNJin/gnBT5oU/jf8GeBJRIPHXDrjyW9mfOpcY7SUBC0XQSDGd8YjytYjY9Q==",
+  "signature": "SaGwI5hVo03oRmsCWw6qzPd/bTBjAUbg/EBxPJFU/6Ea/dy9pSQUdcUx03yvgPjOUB1Y7K6ZKfpFmhFNPa8E3A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

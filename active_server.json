@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://edgar-unit-personalized-rolled.trycloudflare.com",
-  "httpUrl": "https://edgar-unit-personalized-rolled.trycloudflare.com",
-  "updatedAt": "2026-11-07T01:26:37.568Z",
-  "expiresAt": "2026-12-07T01:26:37.568Z",
-  "nonce": "47f08638b39d139043753607ba243e17",
+  "wsUrl": "wss://about-mere-moderate-breaking.trycloudflare.com",
+  "httpUrl": "https://about-mere-moderate-breaking.trycloudflare.com",
+  "updatedAt": "2026-11-07T01:37:02.402Z",
+  "expiresAt": "2026-12-07T01:37:02.402Z",
+  "nonce": "188088ce3957252eaa899980fc08af37",
   "payload": {
-    "wsUrl": "wss://edgar-unit-personalized-rolled.trycloudflare.com",
-    "httpUrl": "https://edgar-unit-personalized-rolled.trycloudflare.com",
-    "issuedAt": "2026-11-07T01:26:37.568Z",
-    "expiresAt": "2026-12-07T01:26:37.568Z",
-    "nonce": "47f08638b39d139043753607ba243e17"
+    "wsUrl": "wss://about-mere-moderate-breaking.trycloudflare.com",
+    "httpUrl": "https://about-mere-moderate-breaking.trycloudflare.com",
+    "issuedAt": "2026-11-07T01:37:02.402Z",
+    "expiresAt": "2026-12-07T01:37:02.402Z",
+    "nonce": "188088ce3957252eaa899980fc08af37"
   },
-  "signature": "pItkAkKBvsilfqTGeCHdGmXfpBzR6ivSZwKqviAcykBfUfdYTTy7wPsjBHT9L3+MK4hmuX++jm0rKCrh74Gr1Q==",
+  "signature": "nf67mA6EYHPReD22jhraLR0s8p17wKDpEDoRaDOJfCxA1n/CBzofdTwxsZMgrIsIfC40Um8z/D1Wve7AeR5Y8g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

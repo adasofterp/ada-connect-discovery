@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://evanescence-vinyl-alto-behavior.trycloudflare.com",
-  "httpUrl": "https://evanescence-vinyl-alto-behavior.trycloudflare.com",
-  "updatedAt": "2026-11-07T08:13:26.619Z",
-  "expiresAt": "2026-12-07T08:13:26.619Z",
-  "nonce": "ef003cfc44bfef25c3f8048667f7fa1e",
+  "wsUrl": "wss://twist-valued-monitored-nebraska.trycloudflare.com",
+  "httpUrl": "https://twist-valued-monitored-nebraska.trycloudflare.com",
+  "updatedAt": "2026-11-07T08:23:47.704Z",
+  "expiresAt": "2026-12-07T08:23:47.704Z",
+  "nonce": "f2fa9854bfc6359dbde02ba16fa77cb3",
   "payload": {
-    "wsUrl": "wss://evanescence-vinyl-alto-behavior.trycloudflare.com",
-    "httpUrl": "https://evanescence-vinyl-alto-behavior.trycloudflare.com",
-    "issuedAt": "2026-11-07T08:13:26.619Z",
-    "expiresAt": "2026-12-07T08:13:26.619Z",
-    "nonce": "ef003cfc44bfef25c3f8048667f7fa1e"
+    "wsUrl": "wss://twist-valued-monitored-nebraska.trycloudflare.com",
+    "httpUrl": "https://twist-valued-monitored-nebraska.trycloudflare.com",
+    "issuedAt": "2026-11-07T08:23:47.704Z",
+    "expiresAt": "2026-12-07T08:23:47.704Z",
+    "nonce": "f2fa9854bfc6359dbde02ba16fa77cb3"
   },
-  "signature": "KQghoFYU37ktcQoU059L06PuGXm/ha184Su0QbKWx/uVzh1wgjmsBAZtrtW9irhjHabjP/y0x7jvIjnS1Ye0Vg==",
+  "signature": "rndUmWjHrGYrEWTZotcwOMCvYhVOagwsANm1+PTEPcKbY/P6Mn5jGHQboz47/YDg/mq1N/9VU+utte4m61o1gw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

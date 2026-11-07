@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pushing-mailing-detection-review.trycloudflare.com",
-  "httpUrl": "https://pushing-mailing-detection-review.trycloudflare.com",
-  "updatedAt": "2026-11-07T15:56:39.536Z",
-  "expiresAt": "2026-12-07T15:56:39.536Z",
-  "nonce": "55102ea66579c74f051695efbe9e5404",
+  "wsUrl": "wss://olympics-hook-crowd-london.trycloudflare.com",
+  "httpUrl": "https://olympics-hook-crowd-london.trycloudflare.com",
+  "updatedAt": "2026-11-07T15:56:45.372Z",
+  "expiresAt": "2026-12-07T15:56:45.372Z",
+  "nonce": "50a8485c81255f422a04c2d56956bb77",
   "payload": {
-    "wsUrl": "wss://pushing-mailing-detection-review.trycloudflare.com",
-    "httpUrl": "https://pushing-mailing-detection-review.trycloudflare.com",
-    "issuedAt": "2026-11-07T15:56:39.536Z",
-    "expiresAt": "2026-12-07T15:56:39.536Z",
-    "nonce": "55102ea66579c74f051695efbe9e5404"
+    "wsUrl": "wss://olympics-hook-crowd-london.trycloudflare.com",
+    "httpUrl": "https://olympics-hook-crowd-london.trycloudflare.com",
+    "issuedAt": "2026-11-07T15:56:45.372Z",
+    "expiresAt": "2026-12-07T15:56:45.372Z",
+    "nonce": "50a8485c81255f422a04c2d56956bb77"
   },
-  "signature": "wmj+F1NDBZoUcKFutZnxKKuJXJzgkp8taarV3Ljeuzp1PzTR+YyyFZzIG8PFx2wNIYw/zHBMkXGNcwEauixbqg==",
+  "signature": "nFp1FXk+zWxnCMpig3JI4a4DvKKMVizP5QOs2G5yNOXHQhzHZ27/ECyRPdkHAQn7rW0tHBS0gQq9YOPp24O7zQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

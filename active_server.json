@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://stockings-doom-salem-relationship.trycloudflare.com",
-  "httpUrl": "https://stockings-doom-salem-relationship.trycloudflare.com",
-  "updatedAt": "2026-11-07T13:07:51.833Z",
-  "expiresAt": "2026-12-07T13:07:51.833Z",
-  "nonce": "3044b0cb465833549ee27b9f67eb56a5",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-07T13:39:01.375Z",
+  "expiresAt": "2026-12-07T13:39:01.375Z",
+  "nonce": "6340931ee2d76b0ac95cd1d4ee5bf364",
   "payload": {
-    "wsUrl": "wss://stockings-doom-salem-relationship.trycloudflare.com",
-    "httpUrl": "https://stockings-doom-salem-relationship.trycloudflare.com",
-    "issuedAt": "2026-11-07T13:07:51.833Z",
-    "expiresAt": "2026-12-07T13:07:51.833Z",
-    "nonce": "3044b0cb465833549ee27b9f67eb56a5"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-07T13:39:01.375Z",
+    "expiresAt": "2026-12-07T13:39:01.375Z",
+    "nonce": "6340931ee2d76b0ac95cd1d4ee5bf364"
   },
-  "signature": "wlIPDe4MTftqweSQihaC4m0qwdDI8mEFBBoBGFxlBsH0eVjoYv8prWPrRmWoaJYDI0QLkKgvfWgvyZgBF0TJ3A==",
+  "signature": "0NpmMNjIF5Ps8OmCrxdsQKqcJplvR1eU50Ja0CX5Hczqo6P0jn/WmAqHP2t1tlbcHRuYbN1JrCabIJhFwy5s3A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://high-opportunity-storage-frederick.trycloudflare.com",
-  "httpUrl": "https://high-opportunity-storage-frederick.trycloudflare.com",
-  "updatedAt": "2026-11-07T08:03:00.523Z",
-  "expiresAt": "2026-12-07T08:03:00.523Z",
-  "nonce": "88d1add42bd9d84b0784786928abe1b1",
+  "wsUrl": "wss://evanescence-vinyl-alto-behavior.trycloudflare.com",
+  "httpUrl": "https://evanescence-vinyl-alto-behavior.trycloudflare.com",
+  "updatedAt": "2026-11-07T08:13:26.619Z",
+  "expiresAt": "2026-12-07T08:13:26.619Z",
+  "nonce": "ef003cfc44bfef25c3f8048667f7fa1e",
   "payload": {
-    "wsUrl": "wss://high-opportunity-storage-frederick.trycloudflare.com",
-    "httpUrl": "https://high-opportunity-storage-frederick.trycloudflare.com",
-    "issuedAt": "2026-11-07T08:03:00.523Z",
-    "expiresAt": "2026-12-07T08:03:00.523Z",
-    "nonce": "88d1add42bd9d84b0784786928abe1b1"
+    "wsUrl": "wss://evanescence-vinyl-alto-behavior.trycloudflare.com",
+    "httpUrl": "https://evanescence-vinyl-alto-behavior.trycloudflare.com",
+    "issuedAt": "2026-11-07T08:13:26.619Z",
+    "expiresAt": "2026-12-07T08:13:26.619Z",
+    "nonce": "ef003cfc44bfef25c3f8048667f7fa1e"
   },
-  "signature": "iAR9kF70QTDJKON4Kb4eYfu0YnUiUTKFxvIOqrW/DerWGylpeNRFYUhZUnmCGLsyv4XFjEtUE/JPW/UMVPxsyg==",
+  "signature": "KQghoFYU37ktcQoU059L06PuGXm/ha184Su0QbKWx/uVzh1wgjmsBAZtrtW9irhjHabjP/y0x7jvIjnS1Ye0Vg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

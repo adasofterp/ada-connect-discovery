@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-07T20:43:46.166Z",
-  "expiresAt": "2026-12-07T20:43:46.166Z",
-  "nonce": "4eab27df891d320362a24e6d0dfe97af",
+  "wsUrl": "wss://truth-thomas-scanning-gabriel.trycloudflare.com",
+  "httpUrl": "https://truth-thomas-scanning-gabriel.trycloudflare.com",
+  "updatedAt": "2026-11-07T20:48:58.746Z",
+  "expiresAt": "2026-12-07T20:48:58.746Z",
+  "nonce": "dd73b9d7dfed313ac6adbf1e9aad3325",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-07T20:43:46.166Z",
-    "expiresAt": "2026-12-07T20:43:46.166Z",
-    "nonce": "4eab27df891d320362a24e6d0dfe97af"
+    "wsUrl": "wss://truth-thomas-scanning-gabriel.trycloudflare.com",
+    "httpUrl": "https://truth-thomas-scanning-gabriel.trycloudflare.com",
+    "issuedAt": "2026-11-07T20:48:58.746Z",
+    "expiresAt": "2026-12-07T20:48:58.746Z",
+    "nonce": "dd73b9d7dfed313ac6adbf1e9aad3325"
   },
-  "signature": "jFQl/zIPXcWUAYD9Iwf1yxztsIgL5WoE3U8YWWO02dIDiglF3/OO5h7a/eRvLDCAsXWhPiyF1d3RhiHSN8ktQA==",
+  "signature": "WqVCWE1qawMr1OhU3AoIaftBFR8Q2E4KfhpuG2Xei/q4YIcQNxatRUKCIBVbDiBCxo5TBBaqo6VsSXf3lg/T8Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

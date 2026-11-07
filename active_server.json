@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://essays-endangered-utility-scratch.trycloudflare.com",
-  "httpUrl": "https://essays-endangered-utility-scratch.trycloudflare.com",
-  "updatedAt": "2026-11-07T05:10:21.717Z",
-  "expiresAt": "2026-12-07T05:10:21.717Z",
-  "nonce": "3f5f6e3220b02a5efb43ac02b172d96b",
+  "wsUrl": "wss://athletes-employers-zope-availability.trycloudflare.com",
+  "httpUrl": "https://athletes-employers-zope-availability.trycloudflare.com",
+  "updatedAt": "2026-11-07T05:20:47.296Z",
+  "expiresAt": "2026-12-07T05:20:47.296Z",
+  "nonce": "628cdf37588aa8138b166ab3a968a830",
   "payload": {
-    "wsUrl": "wss://essays-endangered-utility-scratch.trycloudflare.com",
-    "httpUrl": "https://essays-endangered-utility-scratch.trycloudflare.com",
-    "issuedAt": "2026-11-07T05:10:21.717Z",
-    "expiresAt": "2026-12-07T05:10:21.717Z",
-    "nonce": "3f5f6e3220b02a5efb43ac02b172d96b"
+    "wsUrl": "wss://athletes-employers-zope-availability.trycloudflare.com",
+    "httpUrl": "https://athletes-employers-zope-availability.trycloudflare.com",
+    "issuedAt": "2026-11-07T05:20:47.296Z",
+    "expiresAt": "2026-12-07T05:20:47.296Z",
+    "nonce": "628cdf37588aa8138b166ab3a968a830"
   },
-  "signature": "Q+TGytz+pNsnD528Mhc7UE2G01I8co9VhYmS7ngtnj5IwPhOfPWvYdWWUgkL+TIriMpcg1kjFULMjikRtozjjw==",
+  "signature": "4A3klXo78Za+fk2PHNjspU49kvcciDzbNZgVZR7UHQiDsnunDgg/fflunTqbOjdNbj8uJwp8sdT8dP8ETPkIsw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

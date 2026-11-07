@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://alumni-perception-marathon-both.trycloudflare.com",
-  "httpUrl": "https://alumni-perception-marathon-both.trycloudflare.com",
-  "updatedAt": "2026-11-07T12:48:36.392Z",
-  "expiresAt": "2026-12-07T12:48:36.392Z",
-  "nonce": "e06eacc3587bc4a990ddec9b99202106",
+  "wsUrl": "wss://mug-previews-bowling-northwest.trycloudflare.com",
+  "httpUrl": "https://mug-previews-bowling-northwest.trycloudflare.com",
+  "updatedAt": "2026-11-07T12:59:02.095Z",
+  "expiresAt": "2026-12-07T12:59:02.095Z",
+  "nonce": "abf390d0ca825d056a42306437d93658",
   "payload": {
-    "wsUrl": "wss://alumni-perception-marathon-both.trycloudflare.com",
-    "httpUrl": "https://alumni-perception-marathon-both.trycloudflare.com",
-    "issuedAt": "2026-11-07T12:48:36.392Z",
-    "expiresAt": "2026-12-07T12:48:36.392Z",
-    "nonce": "e06eacc3587bc4a990ddec9b99202106"
+    "wsUrl": "wss://mug-previews-bowling-northwest.trycloudflare.com",
+    "httpUrl": "https://mug-previews-bowling-northwest.trycloudflare.com",
+    "issuedAt": "2026-11-07T12:59:02.095Z",
+    "expiresAt": "2026-12-07T12:59:02.095Z",
+    "nonce": "abf390d0ca825d056a42306437d93658"
   },
-  "signature": "4Bwkepumc3UN66UnLJFmtJwT0cQ+J7nl04w+YA19CA5QZl9kBGCJGcAPjWTiEiev+SOpbv5ErsydwiPPVzLdbw==",
+  "signature": "Gmjge6LJu8GcGMAxkoRSaCUn8HkFaGAc2pRhxKN0XjlhQw3cEg8BF64Y9cLuK6G+66ytJ5dw1tX2t5AevlExAg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

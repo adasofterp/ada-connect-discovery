@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://mats-virtual-accountability-appraisal.trycloudflare.com",
-  "httpUrl": "https://mats-virtual-accountability-appraisal.trycloudflare.com",
-  "updatedAt": "2026-11-07T05:05:04.944Z",
-  "expiresAt": "2026-12-07T05:05:04.944Z",
-  "nonce": "b8a4707818137cf575fb8cdeb727ea85",
+  "wsUrl": "wss://essays-endangered-utility-scratch.trycloudflare.com",
+  "httpUrl": "https://essays-endangered-utility-scratch.trycloudflare.com",
+  "updatedAt": "2026-11-07T05:10:21.717Z",
+  "expiresAt": "2026-12-07T05:10:21.717Z",
+  "nonce": "3f5f6e3220b02a5efb43ac02b172d96b",
   "payload": {
-    "wsUrl": "wss://mats-virtual-accountability-appraisal.trycloudflare.com",
-    "httpUrl": "https://mats-virtual-accountability-appraisal.trycloudflare.com",
-    "issuedAt": "2026-11-07T05:05:04.944Z",
-    "expiresAt": "2026-12-07T05:05:04.944Z",
-    "nonce": "b8a4707818137cf575fb8cdeb727ea85"
+    "wsUrl": "wss://essays-endangered-utility-scratch.trycloudflare.com",
+    "httpUrl": "https://essays-endangered-utility-scratch.trycloudflare.com",
+    "issuedAt": "2026-11-07T05:10:21.717Z",
+    "expiresAt": "2026-12-07T05:10:21.717Z",
+    "nonce": "3f5f6e3220b02a5efb43ac02b172d96b"
   },
-  "signature": "SaGwI5hVo03oRmsCWw6qzPd/bTBjAUbg/EBxPJFU/6Ea/dy9pSQUdcUx03yvgPjOUB1Y7K6ZKfpFmhFNPa8E3A==",
+  "signature": "Q+TGytz+pNsnD528Mhc7UE2G01I8co9VhYmS7ngtnj5IwPhOfPWvYdWWUgkL+TIriMpcg1kjFULMjikRtozjjw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

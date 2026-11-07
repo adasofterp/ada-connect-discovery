@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://twist-valued-monitored-nebraska.trycloudflare.com",
-  "httpUrl": "https://twist-valued-monitored-nebraska.trycloudflare.com",
-  "updatedAt": "2026-11-07T08:23:47.704Z",
-  "expiresAt": "2026-12-07T08:23:47.704Z",
-  "nonce": "f2fa9854bfc6359dbde02ba16fa77cb3",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-07T08:54:54.911Z",
+  "expiresAt": "2026-12-07T08:54:54.911Z",
+  "nonce": "e054cb7259d96dde1c7a68e0c2bb34e0",
   "payload": {
-    "wsUrl": "wss://twist-valued-monitored-nebraska.trycloudflare.com",
-    "httpUrl": "https://twist-valued-monitored-nebraska.trycloudflare.com",
-    "issuedAt": "2026-11-07T08:23:47.704Z",
-    "expiresAt": "2026-12-07T08:23:47.704Z",
-    "nonce": "f2fa9854bfc6359dbde02ba16fa77cb3"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-07T08:54:54.911Z",
+    "expiresAt": "2026-12-07T08:54:54.911Z",
+    "nonce": "e054cb7259d96dde1c7a68e0c2bb34e0"
   },
-  "signature": "rndUmWjHrGYrEWTZotcwOMCvYhVOagwsANm1+PTEPcKbY/P6Mn5jGHQboz47/YDg/mq1N/9VU+utte4m61o1gw==",
+  "signature": "f74JyOvgljXWZFgtz2OqZSFcV5tS7rwEa3AYwNDQ4bAMAXaFVttaElZ7KByh21karV5L9ymykgIG3D09UCEVsA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

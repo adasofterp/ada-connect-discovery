@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://motorcycles-sunrise-trading-insurance.trycloudflare.com",
-  "httpUrl": "https://motorcycles-sunrise-trading-insurance.trycloudflare.com",
-  "updatedAt": "2026-11-07T02:58:28.719Z",
-  "expiresAt": "2026-12-07T02:58:28.719Z",
-  "nonce": "e4ec02883ae835dc9642bc0bda8d71d5",
+  "wsUrl": "wss://percentage-fill-teachers-gilbert.trycloudflare.com",
+  "httpUrl": "https://percentage-fill-teachers-gilbert.trycloudflare.com",
+  "updatedAt": "2026-11-07T03:40:11.505Z",
+  "expiresAt": "2026-12-07T03:40:11.505Z",
+  "nonce": "e5130bd3944695223e9d3e8a590987ad",
   "payload": {
-    "wsUrl": "wss://motorcycles-sunrise-trading-insurance.trycloudflare.com",
-    "httpUrl": "https://motorcycles-sunrise-trading-insurance.trycloudflare.com",
-    "issuedAt": "2026-11-07T02:58:28.719Z",
-    "expiresAt": "2026-12-07T02:58:28.719Z",
-    "nonce": "e4ec02883ae835dc9642bc0bda8d71d5"
+    "wsUrl": "wss://percentage-fill-teachers-gilbert.trycloudflare.com",
+    "httpUrl": "https://percentage-fill-teachers-gilbert.trycloudflare.com",
+    "issuedAt": "2026-11-07T03:40:11.505Z",
+    "expiresAt": "2026-12-07T03:40:11.505Z",
+    "nonce": "e5130bd3944695223e9d3e8a590987ad"
   },
-  "signature": "eH2sQ40/hVgbSXy7ear+WpgAECZF0MOLRiOSQ44pzC7pV9H3G/N1+rVBusVXYFggyaqui9M4snohtDCqw0rnGg==",
+  "signature": "l2M0HgPor/v2nmEDn3IdWKchb2TTcjBaLpoJdl6kOF7AhRucHvkeyv6obw0krn3+wqhnP9x05yGyXFFOPvS6FQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

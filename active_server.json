@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://until-apache-celebs-msg.trycloudflare.com",
-  "httpUrl": "https://until-apache-celebs-msg.trycloudflare.com",
-  "updatedAt": "2026-11-07T14:03:39.946Z",
-  "expiresAt": "2026-12-07T14:03:39.946Z",
-  "nonce": "013fbcbc3d3bbede701b4da3c26bd072",
+  "wsUrl": "wss://yard-registered-involves-clan.trycloudflare.com",
+  "httpUrl": "https://yard-registered-involves-clan.trycloudflare.com",
+  "updatedAt": "2026-11-07T14:14:05.666Z",
+  "expiresAt": "2026-12-07T14:14:05.666Z",
+  "nonce": "aa6a36d7ab7f18fc0c9e299db4726346",
   "payload": {
-    "wsUrl": "wss://until-apache-celebs-msg.trycloudflare.com",
-    "httpUrl": "https://until-apache-celebs-msg.trycloudflare.com",
-    "issuedAt": "2026-11-07T14:03:39.946Z",
-    "expiresAt": "2026-12-07T14:03:39.946Z",
-    "nonce": "013fbcbc3d3bbede701b4da3c26bd072"
+    "wsUrl": "wss://yard-registered-involves-clan.trycloudflare.com",
+    "httpUrl": "https://yard-registered-involves-clan.trycloudflare.com",
+    "issuedAt": "2026-11-07T14:14:05.666Z",
+    "expiresAt": "2026-12-07T14:14:05.666Z",
+    "nonce": "aa6a36d7ab7f18fc0c9e299db4726346"
   },
-  "signature": "wj9/Cei/pIN1skoq/uiVKJ1pcsCC7l238p/B1OhgBPOT+a7Rmn8q7zOIXg1uu/hbQcmJ5ihzEDTtM3cm7tUysg==",
+  "signature": "Iu/K6eC07RsDrpd0PE8+fPSaZ3Z/fEqpYZsOHz91lXnrOuP7R1WPcqtg5vWfhOMxMX83UuRXFrZ3Ow+UF2+hJA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

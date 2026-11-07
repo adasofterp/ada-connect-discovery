@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://relations-reads-scuba-taxation.trycloudflare.com",
-  "httpUrl": "https://relations-reads-scuba-taxation.trycloudflare.com",
-  "updatedAt": "2026-11-07T04:09:21.373Z",
-  "expiresAt": "2026-12-07T04:09:21.373Z",
-  "nonce": "d0354798896e25ec849d0664606326fa",
+  "wsUrl": "wss://authorities-logistics-mary-amendments.trycloudflare.com",
+  "httpUrl": "https://authorities-logistics-mary-amendments.trycloudflare.com",
+  "updatedAt": "2026-11-07T04:19:45.656Z",
+  "expiresAt": "2026-12-07T04:19:45.656Z",
+  "nonce": "01ca5bed7c5360db790c0d4538457229",
   "payload": {
-    "wsUrl": "wss://relations-reads-scuba-taxation.trycloudflare.com",
-    "httpUrl": "https://relations-reads-scuba-taxation.trycloudflare.com",
-    "issuedAt": "2026-11-07T04:09:21.373Z",
-    "expiresAt": "2026-12-07T04:09:21.373Z",
-    "nonce": "d0354798896e25ec849d0664606326fa"
+    "wsUrl": "wss://authorities-logistics-mary-amendments.trycloudflare.com",
+    "httpUrl": "https://authorities-logistics-mary-amendments.trycloudflare.com",
+    "issuedAt": "2026-11-07T04:19:45.656Z",
+    "expiresAt": "2026-12-07T04:19:45.656Z",
+    "nonce": "01ca5bed7c5360db790c0d4538457229"
   },
-  "signature": "tOWq087c1BVGHc16VWOB44Bat59tfykxxC1w4pyaqKPOqojMYzRaOS1xgB99vNlaxDpcdtmhe0mqgUnnw9sMpA==",
+  "signature": "GOK6XGz/hsAHoLk6SKOZx8elwyNNJin/gnBT5oU/jf8GeBJRIPHXDrjyW9mfOpcY7SUBC0XQSDGd8YjytYjY9Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

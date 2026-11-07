@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://athletes-employers-zope-availability.trycloudflare.com",
-  "httpUrl": "https://athletes-employers-zope-availability.trycloudflare.com",
-  "updatedAt": "2026-11-07T05:20:47.296Z",
-  "expiresAt": "2026-12-07T05:20:47.296Z",
-  "nonce": "628cdf37588aa8138b166ab3a968a830",
+  "wsUrl": "wss://speech-campbell-gold-models.trycloudflare.com",
+  "httpUrl": "https://speech-campbell-gold-models.trycloudflare.com",
+  "updatedAt": "2026-11-07T07:55:36.816Z",
+  "expiresAt": "2026-12-07T07:55:36.816Z",
+  "nonce": "c7f42b9c79e3091740699f1074e40ebb",
   "payload": {
-    "wsUrl": "wss://athletes-employers-zope-availability.trycloudflare.com",
-    "httpUrl": "https://athletes-employers-zope-availability.trycloudflare.com",
-    "issuedAt": "2026-11-07T05:20:47.296Z",
-    "expiresAt": "2026-12-07T05:20:47.296Z",
-    "nonce": "628cdf37588aa8138b166ab3a968a830"
+    "wsUrl": "wss://speech-campbell-gold-models.trycloudflare.com",
+    "httpUrl": "https://speech-campbell-gold-models.trycloudflare.com",
+    "issuedAt": "2026-11-07T07:55:36.816Z",
+    "expiresAt": "2026-12-07T07:55:36.816Z",
+    "nonce": "c7f42b9c79e3091740699f1074e40ebb"
   },
-  "signature": "4A3klXo78Za+fk2PHNjspU49kvcciDzbNZgVZR7UHQiDsnunDgg/fflunTqbOjdNbj8uJwp8sdT8dP8ETPkIsw==",
+  "signature": "udY1RroER1EJj88lX7EZB+vBGvVAXsJ0LxcsSy8iXHWjhChR/kcqv104/VE4J/i+kdYYvzVaxvxceyQkoadlEw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

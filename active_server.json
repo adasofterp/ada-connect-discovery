@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cordless-across-wearing-interest.trycloudflare.com",
-  "httpUrl": "https://cordless-across-wearing-interest.trycloudflare.com",
-  "updatedAt": "2026-11-07T18:59:47.256Z",
-  "expiresAt": "2026-12-07T18:59:47.256Z",
-  "nonce": "582adb63cf9c8624ca6baf5f5e73df9b",
+  "wsUrl": "wss://tyler-deeply-locator-install.trycloudflare.com",
+  "httpUrl": "https://tyler-deeply-locator-install.trycloudflare.com",
+  "updatedAt": "2026-11-07T19:22:32.167Z",
+  "expiresAt": "2026-12-07T19:22:32.167Z",
+  "nonce": "ffcdf7052e7750d1b62b685a88772264",
   "payload": {
-    "wsUrl": "wss://cordless-across-wearing-interest.trycloudflare.com",
-    "httpUrl": "https://cordless-across-wearing-interest.trycloudflare.com",
-    "issuedAt": "2026-11-07T18:59:47.256Z",
-    "expiresAt": "2026-12-07T18:59:47.256Z",
-    "nonce": "582adb63cf9c8624ca6baf5f5e73df9b"
+    "wsUrl": "wss://tyler-deeply-locator-install.trycloudflare.com",
+    "httpUrl": "https://tyler-deeply-locator-install.trycloudflare.com",
+    "issuedAt": "2026-11-07T19:22:32.167Z",
+    "expiresAt": "2026-12-07T19:22:32.167Z",
+    "nonce": "ffcdf7052e7750d1b62b685a88772264"
   },
-  "signature": "i5Nl9Lblpm85RMQYFJQp/M14qo7O3Bk6Gbq2bOFfVPNgKDgfekHXPrTQA76WntkVMgMbdEXla4ligESxboNgxQ==",
+  "signature": "EMn7Ei5Fy6r8P9OPT5teQ8npt/ZfEDVQG+Z13kzWP0Mtx/z5dqS88uJtlnDSaV86OHB7+UlVHeDb5ySenuBWdw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

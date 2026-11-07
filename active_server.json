@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://truth-thomas-scanning-gabriel.trycloudflare.com",
-  "httpUrl": "https://truth-thomas-scanning-gabriel.trycloudflare.com",
-  "updatedAt": "2026-11-07T20:48:58.746Z",
-  "expiresAt": "2026-12-07T20:48:58.746Z",
-  "nonce": "dd73b9d7dfed313ac6adbf1e9aad3325",
+  "wsUrl": "wss://daughter-jewelry-variance-packets.trycloudflare.com",
+  "httpUrl": "https://daughter-jewelry-variance-packets.trycloudflare.com",
+  "updatedAt": "2026-11-07T20:59:21.844Z",
+  "expiresAt": "2026-12-07T20:59:21.844Z",
+  "nonce": "0cd413d1ddaebe60c50c6cd64fd76a02",
   "payload": {
-    "wsUrl": "wss://truth-thomas-scanning-gabriel.trycloudflare.com",
-    "httpUrl": "https://truth-thomas-scanning-gabriel.trycloudflare.com",
-    "issuedAt": "2026-11-07T20:48:58.746Z",
-    "expiresAt": "2026-12-07T20:48:58.746Z",
-    "nonce": "dd73b9d7dfed313ac6adbf1e9aad3325"
+    "wsUrl": "wss://daughter-jewelry-variance-packets.trycloudflare.com",
+    "httpUrl": "https://daughter-jewelry-variance-packets.trycloudflare.com",
+    "issuedAt": "2026-11-07T20:59:21.844Z",
+    "expiresAt": "2026-12-07T20:59:21.844Z",
+    "nonce": "0cd413d1ddaebe60c50c6cd64fd76a02"
   },
-  "signature": "WqVCWE1qawMr1OhU3AoIaftBFR8Q2E4KfhpuG2Xei/q4YIcQNxatRUKCIBVbDiBCxo5TBBaqo6VsSXf3lg/T8Q==",
+  "signature": "XQhk7CSR+Mj9hnhirsq15+vZfVJ1z64fyKhDETqVkbw9H2kJVSFJ3jZL3GX2PNjhPNjN3MH+rE6bSy4XRXesjA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

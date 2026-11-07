@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://possibility-jacob-locator-retention.trycloudflare.com",
-  "httpUrl": "https://possibility-jacob-locator-retention.trycloudflare.com",
-  "updatedAt": "2026-11-07T18:18:12.206Z",
-  "expiresAt": "2026-12-07T18:18:12.206Z",
-  "nonce": "6f507cbb0840b9494e48d7beda3501e4",
+  "wsUrl": "wss://sponsors-cancel-specialist-burton.trycloudflare.com",
+  "httpUrl": "https://sponsors-cancel-specialist-burton.trycloudflare.com",
+  "updatedAt": "2026-11-07T18:23:47.362Z",
+  "expiresAt": "2026-12-07T18:23:47.363Z",
+  "nonce": "b71520d9a56de53d62e49de9fa4295d8",
   "payload": {
-    "wsUrl": "wss://possibility-jacob-locator-retention.trycloudflare.com",
-    "httpUrl": "https://possibility-jacob-locator-retention.trycloudflare.com",
-    "issuedAt": "2026-11-07T18:18:12.206Z",
-    "expiresAt": "2026-12-07T18:18:12.206Z",
-    "nonce": "6f507cbb0840b9494e48d7beda3501e4"
+    "wsUrl": "wss://sponsors-cancel-specialist-burton.trycloudflare.com",
+    "httpUrl": "https://sponsors-cancel-specialist-burton.trycloudflare.com",
+    "issuedAt": "2026-11-07T18:23:47.362Z",
+    "expiresAt": "2026-12-07T18:23:47.363Z",
+    "nonce": "b71520d9a56de53d62e49de9fa4295d8"
   },
-  "signature": "7PtP80cCGf/4Fe9uMMw1CyzR945GZmu0xjUCWXyCsf0GPDGZlhP1pkowaYaA7hcHpyVRysg7FEk3tPZykvSg3g==",
+  "signature": "3UVkmVHbNyNLjPLjZ4Fz320No8iXYIqEQCw4+lFtw4EYaGeKqkmEHwFilsHuduAIuuKylq79EVvTFs106Si9xw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

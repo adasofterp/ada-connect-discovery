@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://speech-campbell-gold-models.trycloudflare.com",
-  "httpUrl": "https://speech-campbell-gold-models.trycloudflare.com",
-  "updatedAt": "2026-11-07T07:55:36.816Z",
-  "expiresAt": "2026-12-07T07:55:36.816Z",
-  "nonce": "c7f42b9c79e3091740699f1074e40ebb",
+  "wsUrl": "wss://high-opportunity-storage-frederick.trycloudflare.com",
+  "httpUrl": "https://high-opportunity-storage-frederick.trycloudflare.com",
+  "updatedAt": "2026-11-07T08:03:00.523Z",
+  "expiresAt": "2026-12-07T08:03:00.523Z",
+  "nonce": "88d1add42bd9d84b0784786928abe1b1",
   "payload": {
-    "wsUrl": "wss://speech-campbell-gold-models.trycloudflare.com",
-    "httpUrl": "https://speech-campbell-gold-models.trycloudflare.com",
-    "issuedAt": "2026-11-07T07:55:36.816Z",
-    "expiresAt": "2026-12-07T07:55:36.816Z",
-    "nonce": "c7f42b9c79e3091740699f1074e40ebb"
+    "wsUrl": "wss://high-opportunity-storage-frederick.trycloudflare.com",
+    "httpUrl": "https://high-opportunity-storage-frederick.trycloudflare.com",
+    "issuedAt": "2026-11-07T08:03:00.523Z",
+    "expiresAt": "2026-12-07T08:03:00.523Z",
+    "nonce": "88d1add42bd9d84b0784786928abe1b1"
   },
-  "signature": "udY1RroER1EJj88lX7EZB+vBGvVAXsJ0LxcsSy8iXHWjhChR/kcqv104/VE4J/i+kdYYvzVaxvxceyQkoadlEw==",
+  "signature": "iAR9kF70QTDJKON4Kb4eYfu0YnUiUTKFxvIOqrW/DerWGylpeNRFYUhZUnmCGLsyv4XFjEtUE/JPW/UMVPxsyg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

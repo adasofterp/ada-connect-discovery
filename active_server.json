@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-08T06:17:01.694Z",
-  "expiresAt": "2026-12-08T06:17:01.694Z",
-  "nonce": "f160d854da5c26fba8fc4860f534d619",
+  "wsUrl": "wss://reached-jelsoft-decor-vision.trycloudflare.com",
+  "httpUrl": "https://reached-jelsoft-decor-vision.trycloudflare.com",
+  "updatedAt": "2026-11-08T06:22:15.739Z",
+  "expiresAt": "2026-12-08T06:22:15.739Z",
+  "nonce": "d1fe13e79918b4384215bb998014e826",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-08T06:17:01.694Z",
-    "expiresAt": "2026-12-08T06:17:01.694Z",
-    "nonce": "f160d854da5c26fba8fc4860f534d619"
+    "wsUrl": "wss://reached-jelsoft-decor-vision.trycloudflare.com",
+    "httpUrl": "https://reached-jelsoft-decor-vision.trycloudflare.com",
+    "issuedAt": "2026-11-08T06:22:15.739Z",
+    "expiresAt": "2026-12-08T06:22:15.739Z",
+    "nonce": "d1fe13e79918b4384215bb998014e826"
   },
-  "signature": "NX/6iUpNuN6mpXM/8bb/SCJoL/GBE1xCQay8BfqXxVISxZc7DeIrIdJhsfVXXWMDBFAiYr6FrnrU7JOETm0YPQ==",
+  "signature": "pAObsiCEXs0VB7/bcW7YBrSoeCKEdg0P4M9zShXDnslyrGtjbgaia7VRE6/9chVgxj5D5/abFQZsS39kUsJ7ew==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

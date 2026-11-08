@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://inf-housing-rebecca-prior.trycloudflare.com",
-  "httpUrl": "https://inf-housing-rebecca-prior.trycloudflare.com",
-  "updatedAt": "2026-11-08T21:50:26.657Z",
-  "expiresAt": "2026-12-08T21:50:26.657Z",
-  "nonce": "6897933cca9ca7b41e8ac12f53f43e52",
+  "wsUrl": "wss://stockholm-registrar-poster-holdings.trycloudflare.com",
+  "httpUrl": "https://stockholm-registrar-poster-holdings.trycloudflare.com",
+  "updatedAt": "2026-11-08T22:00:50.701Z",
+  "expiresAt": "2026-12-08T22:00:50.701Z",
+  "nonce": "479dea83c51e398a0785690df8a0eae7",
   "payload": {
-    "wsUrl": "wss://inf-housing-rebecca-prior.trycloudflare.com",
-    "httpUrl": "https://inf-housing-rebecca-prior.trycloudflare.com",
-    "issuedAt": "2026-11-08T21:50:26.657Z",
-    "expiresAt": "2026-12-08T21:50:26.657Z",
-    "nonce": "6897933cca9ca7b41e8ac12f53f43e52"
+    "wsUrl": "wss://stockholm-registrar-poster-holdings.trycloudflare.com",
+    "httpUrl": "https://stockholm-registrar-poster-holdings.trycloudflare.com",
+    "issuedAt": "2026-11-08T22:00:50.701Z",
+    "expiresAt": "2026-12-08T22:00:50.701Z",
+    "nonce": "479dea83c51e398a0785690df8a0eae7"
   },
-  "signature": "Bp6m5+77MA9LI57i/ih6Na1/wIDtYpPf+Fp9W5Am05ERzotUG6yvSasyyLc5SxLROwNUL+GlkFItgVVolIkYAQ==",
+  "signature": "LfGTyBrvpCtA5lVWOSUtVDJ9ME86osl3JE6uw+7UAtcP6cb0PaVo6Xl+UgeLoaC0F6gtPNEgDhdedomPb13f1w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

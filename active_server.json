@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://surrounding-reservoir-gmc-consultation.trycloudflare.com",
-  "httpUrl": "https://surrounding-reservoir-gmc-consultation.trycloudflare.com",
-  "updatedAt": "2026-11-08T02:07:20.512Z",
-  "expiresAt": "2026-12-08T02:07:20.512Z",
-  "nonce": "ca9d2f48d48ba59f7e7c69b74b6cd904",
+  "wsUrl": "wss://filled-journalist-christopher-kijiji.trycloudflare.com",
+  "httpUrl": "https://filled-journalist-christopher-kijiji.trycloudflare.com",
+  "updatedAt": "2026-11-08T02:17:43.416Z",
+  "expiresAt": "2026-12-08T02:17:43.416Z",
+  "nonce": "64caaf213c792bdab38f9414f2b9a37f",
   "payload": {
-    "wsUrl": "wss://surrounding-reservoir-gmc-consultation.trycloudflare.com",
-    "httpUrl": "https://surrounding-reservoir-gmc-consultation.trycloudflare.com",
-    "issuedAt": "2026-11-08T02:07:20.512Z",
-    "expiresAt": "2026-12-08T02:07:20.512Z",
-    "nonce": "ca9d2f48d48ba59f7e7c69b74b6cd904"
+    "wsUrl": "wss://filled-journalist-christopher-kijiji.trycloudflare.com",
+    "httpUrl": "https://filled-journalist-christopher-kijiji.trycloudflare.com",
+    "issuedAt": "2026-11-08T02:17:43.416Z",
+    "expiresAt": "2026-12-08T02:17:43.416Z",
+    "nonce": "64caaf213c792bdab38f9414f2b9a37f"
   },
-  "signature": "T0YUIupeaDl7tUuNPBMHnpbIbypgPelO4nGnDMEznBpVmk+456BgdVogFLJT4/sCqIm5kubKTWsPfHqNN0dAlA==",
+  "signature": "w+1bh/fD+1gjQcDJIWm2N9xMG/QazvDIUC+lntXZHGzm/BQZsMjCr5c/OLwQkLs7SAONCaeVFmuJlihqB4NfpA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

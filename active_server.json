@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://trout-execute-according-prohibited.trycloudflare.com",
-  "httpUrl": "https://trout-execute-according-prohibited.trycloudflare.com",
-  "updatedAt": "2026-11-08T08:05:28.010Z",
-  "expiresAt": "2026-12-08T08:05:28.010Z",
-  "nonce": "a1404095c1df30d9345297f54f079684",
+  "wsUrl": "wss://nashville-convinced-favor-kent.trycloudflare.com",
+  "httpUrl": "https://nashville-convinced-favor-kent.trycloudflare.com",
+  "updatedAt": "2026-11-08T08:05:34.065Z",
+  "expiresAt": "2026-12-08T08:05:34.065Z",
+  "nonce": "a5631fe4b6c352c2815f32c952687e07",
   "payload": {
-    "wsUrl": "wss://trout-execute-according-prohibited.trycloudflare.com",
-    "httpUrl": "https://trout-execute-according-prohibited.trycloudflare.com",
-    "issuedAt": "2026-11-08T08:05:28.010Z",
-    "expiresAt": "2026-12-08T08:05:28.010Z",
-    "nonce": "a1404095c1df30d9345297f54f079684"
+    "wsUrl": "wss://nashville-convinced-favor-kent.trycloudflare.com",
+    "httpUrl": "https://nashville-convinced-favor-kent.trycloudflare.com",
+    "issuedAt": "2026-11-08T08:05:34.065Z",
+    "expiresAt": "2026-12-08T08:05:34.065Z",
+    "nonce": "a5631fe4b6c352c2815f32c952687e07"
   },
-  "signature": "fs5AmkYOaR5+dS4xfzqOH/SrnYUvWczU5ai5CqS0+e1dH2QNFl9nbiVzO7hIIz1d3P5GveW0b7TxIw4ylESEgw==",
+  "signature": "Z/8AqCYSBuDRBhi/XhRUMiod07efmCbBAjDKB5HfNJKLAPLMKC+la1MFeb82h7VT3ZDgQ4gAGa9OxkkwDxknWg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

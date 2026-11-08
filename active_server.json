@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://roster-spoken-camp-angela.trycloudflare.com",
-  "httpUrl": "https://roster-spoken-camp-angela.trycloudflare.com",
-  "updatedAt": "2026-11-08T22:11:15.531Z",
-  "expiresAt": "2026-12-08T22:11:15.531Z",
-  "nonce": "f567b4f5036c10a5ea75878cf9e57ab4",
+  "wsUrl": "wss://battery-hope-medium-soundtrack.trycloudflare.com",
+  "httpUrl": "https://battery-hope-medium-soundtrack.trycloudflare.com",
+  "updatedAt": "2026-11-08T22:51:25.829Z",
+  "expiresAt": "2026-12-08T22:51:25.829Z",
+  "nonce": "85fcbb5dfb284b5b710a03ff54c2785f",
   "payload": {
-    "wsUrl": "wss://roster-spoken-camp-angela.trycloudflare.com",
-    "httpUrl": "https://roster-spoken-camp-angela.trycloudflare.com",
-    "issuedAt": "2026-11-08T22:11:15.531Z",
-    "expiresAt": "2026-12-08T22:11:15.531Z",
-    "nonce": "f567b4f5036c10a5ea75878cf9e57ab4"
+    "wsUrl": "wss://battery-hope-medium-soundtrack.trycloudflare.com",
+    "httpUrl": "https://battery-hope-medium-soundtrack.trycloudflare.com",
+    "issuedAt": "2026-11-08T22:51:25.829Z",
+    "expiresAt": "2026-12-08T22:51:25.829Z",
+    "nonce": "85fcbb5dfb284b5b710a03ff54c2785f"
   },
-  "signature": "dCZ0AnJbKHa/dXQCkHLHKv0eHjAVWU0eaeo+6FIhTSWns4XC7GIxBUrB6Kd4nk/ZmO/JGe79E/r2bJxaRb2wvw==",
+  "signature": "fGBejWQ6zeADywn3jtbh3nZ/erujXLNh15tzgmjPRQ/ZYt4R4ITYNscaUWnAsLTfjhC7Hklad6JwYM451zGC6A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

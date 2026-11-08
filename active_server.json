@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://essential-elevation-fold-neighbor.trycloudflare.com",
-  "httpUrl": "https://essential-elevation-fold-neighbor.trycloudflare.com",
-  "updatedAt": "2026-11-08T19:59:28.125Z",
-  "expiresAt": "2026-12-08T19:59:28.125Z",
-  "nonce": "8b223cd586ce47836626fa3ee676e061",
+  "wsUrl": "wss://physicians-practitioner-earned-algorithm.trycloudflare.com",
+  "httpUrl": "https://physicians-practitioner-earned-algorithm.trycloudflare.com",
+  "updatedAt": "2026-11-08T20:09:51.985Z",
+  "expiresAt": "2026-12-08T20:09:51.985Z",
+  "nonce": "79d212d948c19d30fe8246cd795d9d0d",
   "payload": {
-    "wsUrl": "wss://essential-elevation-fold-neighbor.trycloudflare.com",
-    "httpUrl": "https://essential-elevation-fold-neighbor.trycloudflare.com",
-    "issuedAt": "2026-11-08T19:59:28.125Z",
-    "expiresAt": "2026-12-08T19:59:28.125Z",
-    "nonce": "8b223cd586ce47836626fa3ee676e061"
+    "wsUrl": "wss://physicians-practitioner-earned-algorithm.trycloudflare.com",
+    "httpUrl": "https://physicians-practitioner-earned-algorithm.trycloudflare.com",
+    "issuedAt": "2026-11-08T20:09:51.985Z",
+    "expiresAt": "2026-12-08T20:09:51.985Z",
+    "nonce": "79d212d948c19d30fe8246cd795d9d0d"
   },
-  "signature": "IPtgOpGpDpdP8HskozSnmGLTwoHbl7aSjRbpyNa1wv48+kD2i0xPN8wqOh97kpOE4vwOIkV8Jf+WU9LiQy8Seg==",
+  "signature": "tWUyXIPtpc8AfyUIilFBFiIy0IMb/GYFnKMZwe9eFFJRnFS8l/YcMBFJQhOMZcqMN3H/BhmEtCOZdEgd7WpT/A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

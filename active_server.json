@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://trout-execute-according-prohibited.trycloudflare.com",
   "httpUrl": "https://trout-execute-according-prohibited.trycloudflare.com",
-  "updatedAt": "2026-11-08T07:44:43.188Z",
-  "expiresAt": "2026-12-08T07:44:43.188Z",
-  "nonce": "f349808eb2181d97ca976a17dc104298",
+  "updatedAt": "2026-11-08T08:05:28.010Z",
+  "expiresAt": "2026-12-08T08:05:28.010Z",
+  "nonce": "a1404095c1df30d9345297f54f079684",
   "payload": {
     "wsUrl": "wss://trout-execute-according-prohibited.trycloudflare.com",
     "httpUrl": "https://trout-execute-according-prohibited.trycloudflare.com",
-    "issuedAt": "2026-11-08T07:44:43.188Z",
-    "expiresAt": "2026-12-08T07:44:43.188Z",
-    "nonce": "f349808eb2181d97ca976a17dc104298"
+    "issuedAt": "2026-11-08T08:05:28.010Z",
+    "expiresAt": "2026-12-08T08:05:28.010Z",
+    "nonce": "a1404095c1df30d9345297f54f079684"
   },
-  "signature": "md7Dmtg82sIkBacauJdCUttv64GIWum6ck134fZFjsRwcKjUhkdmoeN0ZUm7VToedtfLyoPYZTh1XKdplc6BTQ==",
+  "signature": "fs5AmkYOaR5+dS4xfzqOH/SrnYUvWczU5ai5CqS0+e1dH2QNFl9nbiVzO7hIIz1d3P5GveW0b7TxIw4ylESEgw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://solution-gene-lookup-manitoba.trycloudflare.com",
-  "httpUrl": "https://solution-gene-lookup-manitoba.trycloudflare.com",
-  "updatedAt": "2026-11-08T05:32:12.103Z",
-  "expiresAt": "2026-12-08T05:32:12.103Z",
-  "nonce": "4440849742fe3845d0aad911639cff5f",
+  "wsUrl": "wss://compatible-warned-reporting-antarctica.trycloudflare.com",
+  "httpUrl": "https://compatible-warned-reporting-antarctica.trycloudflare.com",
+  "updatedAt": "2026-11-08T05:42:35.514Z",
+  "expiresAt": "2026-12-08T05:42:35.514Z",
+  "nonce": "88c5c757c98f41a7b64f70d695cb0587",
   "payload": {
-    "wsUrl": "wss://solution-gene-lookup-manitoba.trycloudflare.com",
-    "httpUrl": "https://solution-gene-lookup-manitoba.trycloudflare.com",
-    "issuedAt": "2026-11-08T05:32:12.103Z",
-    "expiresAt": "2026-12-08T05:32:12.103Z",
-    "nonce": "4440849742fe3845d0aad911639cff5f"
+    "wsUrl": "wss://compatible-warned-reporting-antarctica.trycloudflare.com",
+    "httpUrl": "https://compatible-warned-reporting-antarctica.trycloudflare.com",
+    "issuedAt": "2026-11-08T05:42:35.514Z",
+    "expiresAt": "2026-12-08T05:42:35.514Z",
+    "nonce": "88c5c757c98f41a7b64f70d695cb0587"
   },
-  "signature": "5Ik1Rrs6EJLv4tny3y6/SJaJAg3BqKmc/FfTy2Ep+qd5T2h5AO49Cs4urstmyt2sqO0ct2iaIfwLX2Q1s2T4Vg==",
+  "signature": "hTQ7Cz8COqXIMgyx9aYlP71D6VtNZ3fiuytRwz1qJcCpklpy109vuugzIgC7BybPzSKaZA3Jw04ZJiNOK/mgmw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

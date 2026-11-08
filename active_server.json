@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://vehicle-danny-metric-decorative.trycloudflare.com",
-  "httpUrl": "https://vehicle-danny-metric-decorative.trycloudflare.com",
-  "updatedAt": "2026-11-08T03:06:18.805Z",
-  "expiresAt": "2026-12-08T03:06:18.805Z",
-  "nonce": "c094046e163177e5c91f80107a8ce079",
+  "wsUrl": "wss://ids-indicator-approved-beside.trycloudflare.com",
+  "httpUrl": "https://ids-indicator-approved-beside.trycloudflare.com",
+  "updatedAt": "2026-11-08T03:37:35.850Z",
+  "expiresAt": "2026-12-08T03:37:35.850Z",
+  "nonce": "69bde3e0ff42d7c69969c86c575e0f7f",
   "payload": {
-    "wsUrl": "wss://vehicle-danny-metric-decorative.trycloudflare.com",
-    "httpUrl": "https://vehicle-danny-metric-decorative.trycloudflare.com",
-    "issuedAt": "2026-11-08T03:06:18.805Z",
-    "expiresAt": "2026-12-08T03:06:18.805Z",
-    "nonce": "c094046e163177e5c91f80107a8ce079"
+    "wsUrl": "wss://ids-indicator-approved-beside.trycloudflare.com",
+    "httpUrl": "https://ids-indicator-approved-beside.trycloudflare.com",
+    "issuedAt": "2026-11-08T03:37:35.850Z",
+    "expiresAt": "2026-12-08T03:37:35.850Z",
+    "nonce": "69bde3e0ff42d7c69969c86c575e0f7f"
   },
-  "signature": "iPbuNpSkSGXIRJo0Q2b3DYhE19QMLMlqf+7LR+I3I9UkPtzynYjKwMbWRtMY4mXe1CgfPvZK2G6dvg60pgYCCg==",
+  "signature": "J+vS4F9r70fgfzw5WFSRA00PoqJMpOWV3mynAijiUJan+WT8EQ58Urd/Na1I0xUihIe7iCHTkKNB92u6N02Omg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

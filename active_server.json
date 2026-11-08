@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://blanket-kind-oriented-walking.trycloudflare.com",
-  "httpUrl": "https://blanket-kind-oriented-walking.trycloudflare.com",
-  "updatedAt": "2026-11-08T10:07:45.326Z",
-  "expiresAt": "2026-12-08T10:07:45.326Z",
-  "nonce": "483ded74faf7ed76287a7b51a3248e7f",
+  "wsUrl": "wss://examination-russell-testimony-derek.trycloudflare.com",
+  "httpUrl": "https://examination-russell-testimony-derek.trycloudflare.com",
+  "updatedAt": "2026-11-08T10:16:33.175Z",
+  "expiresAt": "2026-12-08T10:16:33.175Z",
+  "nonce": "6d8853c87729f21308bda45e8b9427a6",
   "payload": {
-    "wsUrl": "wss://blanket-kind-oriented-walking.trycloudflare.com",
-    "httpUrl": "https://blanket-kind-oriented-walking.trycloudflare.com",
-    "issuedAt": "2026-11-08T10:07:45.326Z",
-    "expiresAt": "2026-12-08T10:07:45.326Z",
-    "nonce": "483ded74faf7ed76287a7b51a3248e7f"
+    "wsUrl": "wss://examination-russell-testimony-derek.trycloudflare.com",
+    "httpUrl": "https://examination-russell-testimony-derek.trycloudflare.com",
+    "issuedAt": "2026-11-08T10:16:33.175Z",
+    "expiresAt": "2026-12-08T10:16:33.175Z",
+    "nonce": "6d8853c87729f21308bda45e8b9427a6"
   },
-  "signature": "5euzC0YPJTqiHlBgS5yEjyQeSXULizzH4D59PPs9Z+2P7MJtXXpH68krCu69voT4XlRMi48vomHGFE0fklDZVg==",
+  "signature": "HRBaZQ80RBHC8tdx0Nm5xnc+PslsEw6zuN0rd59GDTMYad8/GoLjqZdIHWuYP9opSFbY2WnevDiMB4o5JkCRug==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

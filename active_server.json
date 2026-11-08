@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://commentary-assistance-spring-fat.trycloudflare.com",
-  "httpUrl": "https://commentary-assistance-spring-fat.trycloudflare.com",
-  "updatedAt": "2026-11-08T20:49:31.879Z",
-  "expiresAt": "2026-12-08T20:49:31.879Z",
-  "nonce": "766a0395dc50018f88a26c9c4ecc5477",
+  "wsUrl": "wss://first-pine-phentermine-mesh.trycloudflare.com",
+  "httpUrl": "https://first-pine-phentermine-mesh.trycloudflare.com",
+  "updatedAt": "2026-11-08T21:10:25.819Z",
+  "expiresAt": "2026-12-08T21:10:25.819Z",
+  "nonce": "5623a6544294a19050ce1aa732161f94",
   "payload": {
-    "wsUrl": "wss://commentary-assistance-spring-fat.trycloudflare.com",
-    "httpUrl": "https://commentary-assistance-spring-fat.trycloudflare.com",
-    "issuedAt": "2026-11-08T20:49:31.879Z",
-    "expiresAt": "2026-12-08T20:49:31.879Z",
-    "nonce": "766a0395dc50018f88a26c9c4ecc5477"
+    "wsUrl": "wss://first-pine-phentermine-mesh.trycloudflare.com",
+    "httpUrl": "https://first-pine-phentermine-mesh.trycloudflare.com",
+    "issuedAt": "2026-11-08T21:10:25.819Z",
+    "expiresAt": "2026-12-08T21:10:25.819Z",
+    "nonce": "5623a6544294a19050ce1aa732161f94"
   },
-  "signature": "Vp6al5+5w7PMdo5BNushDZlVwv2vU5DKDUvm6VGWF2xmlslgC+IdMKIOQ1vGbgQ9IuSC/fZDpqJbLDwgg4W3pQ==",
+  "signature": "jcdVqBNaAh/0XpJaWN+GNlzaS3EKkwHI2cE1gg66PwUn4b5ogWn8ev43FgGRK0JSt3d6BBDqxdu7iRqPVueoZg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

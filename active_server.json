@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-08T14:41:54.820Z",
-  "expiresAt": "2026-12-08T14:41:54.820Z",
-  "nonce": "ddd1d13a15d5201a2aa2106f79f32bfa",
+  "wsUrl": "wss://government-early-ontario-equipment.trycloudflare.com",
+  "httpUrl": "https://government-early-ontario-equipment.trycloudflare.com",
+  "updatedAt": "2026-11-08T14:57:34.712Z",
+  "expiresAt": "2026-12-08T14:57:34.712Z",
+  "nonce": "917be9395ac34ae4a5ae20f24e633a13",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-08T14:41:54.820Z",
-    "expiresAt": "2026-12-08T14:41:54.820Z",
-    "nonce": "ddd1d13a15d5201a2aa2106f79f32bfa"
+    "wsUrl": "wss://government-early-ontario-equipment.trycloudflare.com",
+    "httpUrl": "https://government-early-ontario-equipment.trycloudflare.com",
+    "issuedAt": "2026-11-08T14:57:34.712Z",
+    "expiresAt": "2026-12-08T14:57:34.712Z",
+    "nonce": "917be9395ac34ae4a5ae20f24e633a13"
   },
-  "signature": "ZVCXTx3ADHXobcUGec2ExAzhJTeARyZbUOG22LsJELfVlRnVMSN5R3caKwnQc21+vSdeaTOARZDeSGloLtR1AQ==",
+  "signature": "WuRJMoPFHWm/ey2swhd5ITj1BPT4NUcFOCtrXO41U3tXCUsJM9ilNOm363CQJxg6HiVnxtzEpC9BpNhefF3UvQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

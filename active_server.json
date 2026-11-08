@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ghz-summit-faster-gossip.trycloudflare.com",
-  "httpUrl": "https://ghz-summit-faster-gossip.trycloudflare.com",
-  "updatedAt": "2026-11-08T07:23:52.767Z",
-  "expiresAt": "2026-12-08T07:23:52.768Z",
-  "nonce": "4dc6ea715ebf9a83e6bf0ba62996fa1b",
+  "wsUrl": "wss://trout-execute-according-prohibited.trycloudflare.com",
+  "httpUrl": "https://trout-execute-according-prohibited.trycloudflare.com",
+  "updatedAt": "2026-11-08T07:44:43.188Z",
+  "expiresAt": "2026-12-08T07:44:43.188Z",
+  "nonce": "f349808eb2181d97ca976a17dc104298",
   "payload": {
-    "wsUrl": "wss://ghz-summit-faster-gossip.trycloudflare.com",
-    "httpUrl": "https://ghz-summit-faster-gossip.trycloudflare.com",
-    "issuedAt": "2026-11-08T07:23:52.767Z",
-    "expiresAt": "2026-12-08T07:23:52.768Z",
-    "nonce": "4dc6ea715ebf9a83e6bf0ba62996fa1b"
+    "wsUrl": "wss://trout-execute-according-prohibited.trycloudflare.com",
+    "httpUrl": "https://trout-execute-according-prohibited.trycloudflare.com",
+    "issuedAt": "2026-11-08T07:44:43.188Z",
+    "expiresAt": "2026-12-08T07:44:43.188Z",
+    "nonce": "f349808eb2181d97ca976a17dc104298"
   },
-  "signature": "7gRXX1ryXePqEXEOcwZrKWIk4boIkNmQ6EDsca/avvo1LWqfp9gfpYYJk2qB8iocqXrlPb+hDNBJLdXb5O2dcA==",
+  "signature": "md7Dmtg82sIkBacauJdCUttv64GIWum6ck134fZFjsRwcKjUhkdmoeN0ZUm7VToedtfLyoPYZTh1XKdplc6BTQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nursery-canvas-nursery-astrology.trycloudflare.com",
-  "httpUrl": "https://nursery-canvas-nursery-astrology.trycloudflare.com",
-  "updatedAt": "2026-11-08T07:03:52.032Z",
-  "expiresAt": "2026-12-08T07:03:52.032Z",
-  "nonce": "6f6504bd42e60d6b09ca9c92884943c9",
+  "wsUrl": "wss://mens-configuring-gale-jan.trycloudflare.com",
+  "httpUrl": "https://mens-configuring-gale-jan.trycloudflare.com",
+  "updatedAt": "2026-11-08T07:13:31.436Z",
+  "expiresAt": "2026-12-08T07:13:31.436Z",
+  "nonce": "3abd0b525ebeabfb484a9c49abe7120a",
   "payload": {
-    "wsUrl": "wss://nursery-canvas-nursery-astrology.trycloudflare.com",
-    "httpUrl": "https://nursery-canvas-nursery-astrology.trycloudflare.com",
-    "issuedAt": "2026-11-08T07:03:52.032Z",
-    "expiresAt": "2026-12-08T07:03:52.032Z",
-    "nonce": "6f6504bd42e60d6b09ca9c92884943c9"
+    "wsUrl": "wss://mens-configuring-gale-jan.trycloudflare.com",
+    "httpUrl": "https://mens-configuring-gale-jan.trycloudflare.com",
+    "issuedAt": "2026-11-08T07:13:31.436Z",
+    "expiresAt": "2026-12-08T07:13:31.436Z",
+    "nonce": "3abd0b525ebeabfb484a9c49abe7120a"
   },
-  "signature": "blnuO1vQ7tLvw//U2UtI3KgNbToKfgu9gdQQeXiQ8eWh2CjDw4hmE+UBHCVCbz72LO3tkDn/Rpy1wz7Nt2+rfA==",
+  "signature": "IJp+3c7AkXhGDm2FMFQ5hfwf2kUDBbjwVtzGUXRitoc8xZs6Ihxz7Vuh4T2WXFxDd3Y+YKbdJw/tW7tdzFKgnA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://retention-eminem-fiscal-incoming.trycloudflare.com",
-  "httpUrl": "https://retention-eminem-fiscal-incoming.trycloudflare.com",
-  "updatedAt": "2026-11-08T12:27:35.751Z",
-  "expiresAt": "2026-12-08T12:27:35.751Z",
-  "nonce": "ddfbc1b13c3576c34161c0037c8b5650",
+  "wsUrl": "wss://grow-participate-sequence-tide.trycloudflare.com",
+  "httpUrl": "https://grow-participate-sequence-tide.trycloudflare.com",
+  "updatedAt": "2026-11-08T13:19:35.184Z",
+  "expiresAt": "2026-12-08T13:19:35.184Z",
+  "nonce": "3a683cc73758a29ac77940e020ba07d0",
   "payload": {
-    "wsUrl": "wss://retention-eminem-fiscal-incoming.trycloudflare.com",
-    "httpUrl": "https://retention-eminem-fiscal-incoming.trycloudflare.com",
-    "issuedAt": "2026-11-08T12:27:35.751Z",
-    "expiresAt": "2026-12-08T12:27:35.751Z",
-    "nonce": "ddfbc1b13c3576c34161c0037c8b5650"
+    "wsUrl": "wss://grow-participate-sequence-tide.trycloudflare.com",
+    "httpUrl": "https://grow-participate-sequence-tide.trycloudflare.com",
+    "issuedAt": "2026-11-08T13:19:35.184Z",
+    "expiresAt": "2026-12-08T13:19:35.184Z",
+    "nonce": "3a683cc73758a29ac77940e020ba07d0"
   },
-  "signature": "huTvox3gqbVKmpyPOCf8v47LeUvfWG0oRDM0Kag0FF3fn7TbJ0w1mNoeecSBxvdQmk4sUmGae5uOo1PnHGWtYQ==",
+  "signature": "qwoXTOlUzghm66antURuI7OveMxlqxlLxDyOAhIi4aYoly/oHGt470/hNz2CNDX0ouSHF6PaaYQ1lKnULCoDnA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

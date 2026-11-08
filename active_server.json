@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://might-battery-doe-allowed.trycloudflare.com",
-  "httpUrl": "https://might-battery-doe-allowed.trycloudflare.com",
-  "updatedAt": "2026-11-08T16:17:25.594Z",
-  "expiresAt": "2026-12-08T16:17:25.594Z",
-  "nonce": "e8adc39b057bae70113c429daad12d20",
+  "wsUrl": "wss://rhode-opposition-verde-inventory.trycloudflare.com",
+  "httpUrl": "https://rhode-opposition-verde-inventory.trycloudflare.com",
+  "updatedAt": "2026-11-08T16:27:50.697Z",
+  "expiresAt": "2026-12-08T16:27:50.697Z",
+  "nonce": "e3c5c56c7980bbc10487039377dfdecb",
   "payload": {
-    "wsUrl": "wss://might-battery-doe-allowed.trycloudflare.com",
-    "httpUrl": "https://might-battery-doe-allowed.trycloudflare.com",
-    "issuedAt": "2026-11-08T16:17:25.594Z",
-    "expiresAt": "2026-12-08T16:17:25.594Z",
-    "nonce": "e8adc39b057bae70113c429daad12d20"
+    "wsUrl": "wss://rhode-opposition-verde-inventory.trycloudflare.com",
+    "httpUrl": "https://rhode-opposition-verde-inventory.trycloudflare.com",
+    "issuedAt": "2026-11-08T16:27:50.697Z",
+    "expiresAt": "2026-12-08T16:27:50.697Z",
+    "nonce": "e3c5c56c7980bbc10487039377dfdecb"
   },
-  "signature": "5fYb8/JNmChmTWmXJ4eLmjL/RL9NtUbxrL2BwdtAlAYTxOA/pX+FFRNo12tAuXptdxyOp9jGmTPau6DQLFONFA==",
+  "signature": "lZTQ7fUsPUpDciD0JMIlhJpep0TknTBz3KaAHb46zmQ/M1u6bEBV6H3e+acc+JBpOmngbHPElzxdNvCpOt6SSA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

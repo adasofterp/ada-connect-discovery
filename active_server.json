@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://americas-mental-studio-gratis.trycloudflare.com",
-  "httpUrl": "https://americas-mental-studio-gratis.trycloudflare.com",
-  "updatedAt": "2026-11-08T17:18:27.720Z",
-  "expiresAt": "2026-12-08T17:18:27.720Z",
-  "nonce": "a262ab6da4623d94c8cd08fabd85854f",
+  "wsUrl": "wss://ways-export-intelligence-endif.trycloudflare.com",
+  "httpUrl": "https://ways-export-intelligence-endif.trycloudflare.com",
+  "updatedAt": "2026-11-08T17:28:50.712Z",
+  "expiresAt": "2026-12-08T17:28:50.712Z",
+  "nonce": "89e1b6734879f3edefa73f7497a57f91",
   "payload": {
-    "wsUrl": "wss://americas-mental-studio-gratis.trycloudflare.com",
-    "httpUrl": "https://americas-mental-studio-gratis.trycloudflare.com",
-    "issuedAt": "2026-11-08T17:18:27.720Z",
-    "expiresAt": "2026-12-08T17:18:27.720Z",
-    "nonce": "a262ab6da4623d94c8cd08fabd85854f"
+    "wsUrl": "wss://ways-export-intelligence-endif.trycloudflare.com",
+    "httpUrl": "https://ways-export-intelligence-endif.trycloudflare.com",
+    "issuedAt": "2026-11-08T17:28:50.712Z",
+    "expiresAt": "2026-12-08T17:28:50.712Z",
+    "nonce": "89e1b6734879f3edefa73f7497a57f91"
   },
-  "signature": "N++RdL3vGB9aH1n5WQaRVFJCDvNiojFCfUD8HaDawydQGhuKTF/Cra7u5uu+/KGhliKww+jVSmWeN4HxMeSjyQ==",
+  "signature": "zkFYpA0Ff9wG7BTAFBaT3uzuRl7XLQzfocLHBonFKsT7aftmJCiyoGJc5M+fe7oLjx910J8UeL0RRDeCgQo4Yg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://float-surf-valued-airport.trycloudflare.com",
-  "httpUrl": "https://float-surf-valued-airport.trycloudflare.com",
-  "updatedAt": "2026-11-08T19:49:03.714Z",
-  "expiresAt": "2026-12-08T19:49:03.714Z",
-  "nonce": "8b08811c45950f5de7fb0c8dc5deb6b6",
+  "wsUrl": "wss://essential-elevation-fold-neighbor.trycloudflare.com",
+  "httpUrl": "https://essential-elevation-fold-neighbor.trycloudflare.com",
+  "updatedAt": "2026-11-08T19:59:28.125Z",
+  "expiresAt": "2026-12-08T19:59:28.125Z",
+  "nonce": "8b223cd586ce47836626fa3ee676e061",
   "payload": {
-    "wsUrl": "wss://float-surf-valued-airport.trycloudflare.com",
-    "httpUrl": "https://float-surf-valued-airport.trycloudflare.com",
-    "issuedAt": "2026-11-08T19:49:03.714Z",
-    "expiresAt": "2026-12-08T19:49:03.714Z",
-    "nonce": "8b08811c45950f5de7fb0c8dc5deb6b6"
+    "wsUrl": "wss://essential-elevation-fold-neighbor.trycloudflare.com",
+    "httpUrl": "https://essential-elevation-fold-neighbor.trycloudflare.com",
+    "issuedAt": "2026-11-08T19:59:28.125Z",
+    "expiresAt": "2026-12-08T19:59:28.125Z",
+    "nonce": "8b223cd586ce47836626fa3ee676e061"
   },
-  "signature": "C0/ax1/AQaHk07aY0EI5CfxsPqktKg4ey1xy1LEf/u9Qcl7FKdwosJ9U/LW/SO4xjw0iu3mudMFH+acETyyqWA==",
+  "signature": "IPtgOpGpDpdP8HskozSnmGLTwoHbl7aSjRbpyNa1wv48+kD2i0xPN8wqOh97kpOE4vwOIkV8Jf+WU9LiQy8Seg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

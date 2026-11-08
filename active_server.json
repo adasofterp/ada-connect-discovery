@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lung-kodak-polished-commission.trycloudflare.com",
-  "httpUrl": "https://lung-kodak-polished-commission.trycloudflare.com",
-  "updatedAt": "2026-11-08T12:17:10.028Z",
-  "expiresAt": "2026-12-08T12:17:10.028Z",
-  "nonce": "32ba486278d6e24192b1d052728f63f0",
+  "wsUrl": "wss://retention-eminem-fiscal-incoming.trycloudflare.com",
+  "httpUrl": "https://retention-eminem-fiscal-incoming.trycloudflare.com",
+  "updatedAt": "2026-11-08T12:27:35.751Z",
+  "expiresAt": "2026-12-08T12:27:35.751Z",
+  "nonce": "ddfbc1b13c3576c34161c0037c8b5650",
   "payload": {
-    "wsUrl": "wss://lung-kodak-polished-commission.trycloudflare.com",
-    "httpUrl": "https://lung-kodak-polished-commission.trycloudflare.com",
-    "issuedAt": "2026-11-08T12:17:10.028Z",
-    "expiresAt": "2026-12-08T12:17:10.028Z",
-    "nonce": "32ba486278d6e24192b1d052728f63f0"
+    "wsUrl": "wss://retention-eminem-fiscal-incoming.trycloudflare.com",
+    "httpUrl": "https://retention-eminem-fiscal-incoming.trycloudflare.com",
+    "issuedAt": "2026-11-08T12:27:35.751Z",
+    "expiresAt": "2026-12-08T12:27:35.751Z",
+    "nonce": "ddfbc1b13c3576c34161c0037c8b5650"
   },
-  "signature": "ndEVLfPCZwXI6gAlF54rl2rEmN2huLRAvo5HCpu5VislgNFOINU0whAWHpzDuwZz0jz6RqtSU53hLr7DcL1APA==",
+  "signature": "huTvox3gqbVKmpyPOCf8v47LeUvfWG0oRDM0Kag0FF3fn7TbJ0w1mNoeecSBxvdQmk4sUmGae5uOo1PnHGWtYQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

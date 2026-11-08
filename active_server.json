@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://throughout-mathematics-welcome-renewal.trycloudflare.com",
-  "httpUrl": "https://throughout-mathematics-welcome-renewal.trycloudflare.com",
-  "updatedAt": "2026-11-08T12:09:42.965Z",
-  "expiresAt": "2026-12-08T12:09:42.965Z",
-  "nonce": "16d5209cf0b89966d50c1fb2c9fdca17",
+  "wsUrl": "wss://lung-kodak-polished-commission.trycloudflare.com",
+  "httpUrl": "https://lung-kodak-polished-commission.trycloudflare.com",
+  "updatedAt": "2026-11-08T12:17:10.028Z",
+  "expiresAt": "2026-12-08T12:17:10.028Z",
+  "nonce": "32ba486278d6e24192b1d052728f63f0",
   "payload": {
-    "wsUrl": "wss://throughout-mathematics-welcome-renewal.trycloudflare.com",
-    "httpUrl": "https://throughout-mathematics-welcome-renewal.trycloudflare.com",
-    "issuedAt": "2026-11-08T12:09:42.965Z",
-    "expiresAt": "2026-12-08T12:09:42.965Z",
-    "nonce": "16d5209cf0b89966d50c1fb2c9fdca17"
+    "wsUrl": "wss://lung-kodak-polished-commission.trycloudflare.com",
+    "httpUrl": "https://lung-kodak-polished-commission.trycloudflare.com",
+    "issuedAt": "2026-11-08T12:17:10.028Z",
+    "expiresAt": "2026-12-08T12:17:10.028Z",
+    "nonce": "32ba486278d6e24192b1d052728f63f0"
   },
-  "signature": "XGe49x2uz+JOAu0j36uye0K+DBED9bojVCcx8fQ5uZSFjPp6c99FRsfhf/HVCIho9iFzeA2CSQLclE8fkF2cWw==",
+  "signature": "ndEVLfPCZwXI6gAlF54rl2rEmN2huLRAvo5HCpu5VislgNFOINU0whAWHpzDuwZz0jz6RqtSU53hLr7DcL1APA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bright-celebrate-webpage-jungle.trycloudflare.com",
-  "httpUrl": "https://bright-celebrate-webpage-jungle.trycloudflare.com",
-  "updatedAt": "2026-11-08T18:10:34.797Z",
-  "expiresAt": "2026-12-08T18:10:34.797Z",
-  "nonce": "e55184913b869162f809ceda425c52a2",
+  "wsUrl": "wss://printer-href-biz-tyler.trycloudflare.com",
+  "httpUrl": "https://printer-href-biz-tyler.trycloudflare.com",
+  "updatedAt": "2026-11-08T18:19:28.344Z",
+  "expiresAt": "2026-12-08T18:19:28.344Z",
+  "nonce": "698b75eebc0b6acee9df9c4baf043b05",
   "payload": {
-    "wsUrl": "wss://bright-celebrate-webpage-jungle.trycloudflare.com",
-    "httpUrl": "https://bright-celebrate-webpage-jungle.trycloudflare.com",
-    "issuedAt": "2026-11-08T18:10:34.797Z",
-    "expiresAt": "2026-12-08T18:10:34.797Z",
-    "nonce": "e55184913b869162f809ceda425c52a2"
+    "wsUrl": "wss://printer-href-biz-tyler.trycloudflare.com",
+    "httpUrl": "https://printer-href-biz-tyler.trycloudflare.com",
+    "issuedAt": "2026-11-08T18:19:28.344Z",
+    "expiresAt": "2026-12-08T18:19:28.344Z",
+    "nonce": "698b75eebc0b6acee9df9c4baf043b05"
   },
-  "signature": "Xb3yucyde1L4UDZzZ+VOeS7Gk1nR6IKnvBnKUzF6+rOgzaXeGNXuWJZhhrdRpy960YZG8/XERQR4puxJDvhmJA==",
+  "signature": "jrSd4O5g6QAbwx8dZU0a+DW6qlZVYKsdqWTtoHt4kSb1jxRJzd1BnEHxgQpjgz4OemGjHZU53CKqvqXyIH+a8g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

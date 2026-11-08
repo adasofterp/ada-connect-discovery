@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ids-indicator-approved-beside.trycloudflare.com",
-  "httpUrl": "https://ids-indicator-approved-beside.trycloudflare.com",
-  "updatedAt": "2026-11-08T03:37:35.850Z",
-  "expiresAt": "2026-12-08T03:37:35.850Z",
-  "nonce": "69bde3e0ff42d7c69969c86c575e0f7f",
+  "wsUrl": "wss://township-incoming-florida-compete.trycloudflare.com",
+  "httpUrl": "https://township-incoming-florida-compete.trycloudflare.com",
+  "updatedAt": "2026-11-08T03:58:31.586Z",
+  "expiresAt": "2026-12-08T03:58:31.586Z",
+  "nonce": "921054f3e548f02905399168f2638322",
   "payload": {
-    "wsUrl": "wss://ids-indicator-approved-beside.trycloudflare.com",
-    "httpUrl": "https://ids-indicator-approved-beside.trycloudflare.com",
-    "issuedAt": "2026-11-08T03:37:35.850Z",
-    "expiresAt": "2026-12-08T03:37:35.850Z",
-    "nonce": "69bde3e0ff42d7c69969c86c575e0f7f"
+    "wsUrl": "wss://township-incoming-florida-compete.trycloudflare.com",
+    "httpUrl": "https://township-incoming-florida-compete.trycloudflare.com",
+    "issuedAt": "2026-11-08T03:58:31.586Z",
+    "expiresAt": "2026-12-08T03:58:31.586Z",
+    "nonce": "921054f3e548f02905399168f2638322"
   },
-  "signature": "J+vS4F9r70fgfzw5WFSRA00PoqJMpOWV3mynAijiUJan+WT8EQ58Urd/Na1I0xUihIe7iCHTkKNB92u6N02Omg==",
+  "signature": "3mifQD+/DxiSzSFSG49ElZmH6ieKerEOZ8P46dgwGy6qQEiIFQVzzO3H6h74sw4fP1e7Z4PCYNiX27TYmyeZnA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

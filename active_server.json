@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pubmed-varying-cincinnati-lemon.trycloudflare.com",
-  "httpUrl": "https://pubmed-varying-cincinnati-lemon.trycloudflare.com",
-  "updatedAt": "2026-11-08T01:15:15.329Z",
-  "expiresAt": "2026-12-08T01:15:15.329Z",
-  "nonce": "c595231fd956465988141f578a744d9f",
+  "wsUrl": "wss://surrounding-reservoir-gmc-consultation.trycloudflare.com",
+  "httpUrl": "https://surrounding-reservoir-gmc-consultation.trycloudflare.com",
+  "updatedAt": "2026-11-08T02:07:20.512Z",
+  "expiresAt": "2026-12-08T02:07:20.512Z",
+  "nonce": "ca9d2f48d48ba59f7e7c69b74b6cd904",
   "payload": {
-    "wsUrl": "wss://pubmed-varying-cincinnati-lemon.trycloudflare.com",
-    "httpUrl": "https://pubmed-varying-cincinnati-lemon.trycloudflare.com",
-    "issuedAt": "2026-11-08T01:15:15.329Z",
-    "expiresAt": "2026-12-08T01:15:15.329Z",
-    "nonce": "c595231fd956465988141f578a744d9f"
+    "wsUrl": "wss://surrounding-reservoir-gmc-consultation.trycloudflare.com",
+    "httpUrl": "https://surrounding-reservoir-gmc-consultation.trycloudflare.com",
+    "issuedAt": "2026-11-08T02:07:20.512Z",
+    "expiresAt": "2026-12-08T02:07:20.512Z",
+    "nonce": "ca9d2f48d48ba59f7e7c69b74b6cd904"
   },
-  "signature": "3R1y1EslApGx7r1qO1rr377Wgtk2aKYWxf60OChqOAnJOMCRul3nGJEKmEh0Ea+kLNDgMqQmdMqv2iodug7iTg==",
+  "signature": "T0YUIupeaDl7tUuNPBMHnpbIbypgPelO4nGnDMEznBpVmk+456BgdVogFLJT4/sCqIm5kubKTWsPfHqNN0dAlA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

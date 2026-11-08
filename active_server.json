@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://connectors-app-there-tales.trycloudflare.com",
-  "httpUrl": "https://connectors-app-there-tales.trycloudflare.com",
-  "updatedAt": "2026-11-08T20:39:07.097Z",
-  "expiresAt": "2026-12-08T20:39:07.097Z",
-  "nonce": "b15191e099047d3fb864caf8efa1e9fe",
+  "wsUrl": "wss://commentary-assistance-spring-fat.trycloudflare.com",
+  "httpUrl": "https://commentary-assistance-spring-fat.trycloudflare.com",
+  "updatedAt": "2026-11-08T20:49:31.879Z",
+  "expiresAt": "2026-12-08T20:49:31.879Z",
+  "nonce": "766a0395dc50018f88a26c9c4ecc5477",
   "payload": {
-    "wsUrl": "wss://connectors-app-there-tales.trycloudflare.com",
-    "httpUrl": "https://connectors-app-there-tales.trycloudflare.com",
-    "issuedAt": "2026-11-08T20:39:07.097Z",
-    "expiresAt": "2026-12-08T20:39:07.097Z",
-    "nonce": "b15191e099047d3fb864caf8efa1e9fe"
+    "wsUrl": "wss://commentary-assistance-spring-fat.trycloudflare.com",
+    "httpUrl": "https://commentary-assistance-spring-fat.trycloudflare.com",
+    "issuedAt": "2026-11-08T20:49:31.879Z",
+    "expiresAt": "2026-12-08T20:49:31.879Z",
+    "nonce": "766a0395dc50018f88a26c9c4ecc5477"
   },
-  "signature": "prp6PIEf9sl3GdYibVLKyPfpoUG5nWsc0b4tuJho3NZ0gf4nf0EG4udb2AeDSUNJ9kElKjay7Onp9qKw06ofZg==",
+  "signature": "Vp6al5+5w7PMdo5BNushDZlVwv2vU5DKDUvm6VGWF2xmlslgC+IdMKIOQ1vGbgQ9IuSC/fZDpqJbLDwgg4W3pQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

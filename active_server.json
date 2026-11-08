@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://stockholm-registrar-poster-holdings.trycloudflare.com",
-  "httpUrl": "https://stockholm-registrar-poster-holdings.trycloudflare.com",
-  "updatedAt": "2026-11-08T22:00:50.701Z",
-  "expiresAt": "2026-12-08T22:00:50.701Z",
-  "nonce": "479dea83c51e398a0785690df8a0eae7",
+  "wsUrl": "wss://roster-spoken-camp-angela.trycloudflare.com",
+  "httpUrl": "https://roster-spoken-camp-angela.trycloudflare.com",
+  "updatedAt": "2026-11-08T22:11:15.531Z",
+  "expiresAt": "2026-12-08T22:11:15.531Z",
+  "nonce": "f567b4f5036c10a5ea75878cf9e57ab4",
   "payload": {
-    "wsUrl": "wss://stockholm-registrar-poster-holdings.trycloudflare.com",
-    "httpUrl": "https://stockholm-registrar-poster-holdings.trycloudflare.com",
-    "issuedAt": "2026-11-08T22:00:50.701Z",
-    "expiresAt": "2026-12-08T22:00:50.701Z",
-    "nonce": "479dea83c51e398a0785690df8a0eae7"
+    "wsUrl": "wss://roster-spoken-camp-angela.trycloudflare.com",
+    "httpUrl": "https://roster-spoken-camp-angela.trycloudflare.com",
+    "issuedAt": "2026-11-08T22:11:15.531Z",
+    "expiresAt": "2026-12-08T22:11:15.531Z",
+    "nonce": "f567b4f5036c10a5ea75878cf9e57ab4"
   },
-  "signature": "LfGTyBrvpCtA5lVWOSUtVDJ9ME86osl3JE6uw+7UAtcP6cb0PaVo6Xl+UgeLoaC0F6gtPNEgDhdedomPb13f1w==",
+  "signature": "dCZ0AnJbKHa/dXQCkHLHKv0eHjAVWU0eaeo+6FIhTSWns4XC7GIxBUrB6Kd4nk/ZmO/JGe79E/r2bJxaRb2wvw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

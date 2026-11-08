@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://solo-display-mtv-pic.trycloudflare.com",
-  "httpUrl": "https://solo-display-mtv-pic.trycloudflare.com",
-  "updatedAt": "2026-11-08T00:33:38.974Z",
-  "expiresAt": "2026-12-08T00:33:38.974Z",
-  "nonce": "803b9dbb599652bed4876bfd0ff6820d",
+  "wsUrl": "wss://yards-phentermine-seemed-jun.trycloudflare.com",
+  "httpUrl": "https://yards-phentermine-seemed-jun.trycloudflare.com",
+  "updatedAt": "2026-11-08T00:54:26.704Z",
+  "expiresAt": "2026-12-08T00:54:26.704Z",
+  "nonce": "b627b24874439b1a8930963d34bcf488",
   "payload": {
-    "wsUrl": "wss://solo-display-mtv-pic.trycloudflare.com",
-    "httpUrl": "https://solo-display-mtv-pic.trycloudflare.com",
-    "issuedAt": "2026-11-08T00:33:38.974Z",
-    "expiresAt": "2026-12-08T00:33:38.974Z",
-    "nonce": "803b9dbb599652bed4876bfd0ff6820d"
+    "wsUrl": "wss://yards-phentermine-seemed-jun.trycloudflare.com",
+    "httpUrl": "https://yards-phentermine-seemed-jun.trycloudflare.com",
+    "issuedAt": "2026-11-08T00:54:26.704Z",
+    "expiresAt": "2026-12-08T00:54:26.704Z",
+    "nonce": "b627b24874439b1a8930963d34bcf488"
   },
-  "signature": "EcMP5RfcwWisniESWpbLzo7Kz5GT9Zc8aEd+9flZWwFiXjazrqxayqJ5swfwpSBf9lEyZEGoNC1W1Z/R0fHomg==",
+  "signature": "0bUFqoUJKxilV0oC/IYi1MO1E/P0o8x1UaOw5C1bAR95IfIQhCyCOzhI3B8g9B6UwDD75/JLCJlzP7jjp9NZkw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

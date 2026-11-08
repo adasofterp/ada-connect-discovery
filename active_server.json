@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://drivers-warranty-website-organizing.trycloudflare.com",
-  "httpUrl": "https://drivers-warranty-website-organizing.trycloudflare.com",
-  "updatedAt": "2026-11-07T23:31:11.399Z",
-  "expiresAt": "2026-12-07T23:31:11.399Z",
-  "nonce": "7b31032dca5b19933fbc1d7c5487c516",
+  "wsUrl": "wss://sterling-para-waterproof-climate.trycloudflare.com",
+  "httpUrl": "https://sterling-para-waterproof-climate.trycloudflare.com",
+  "updatedAt": "2026-11-08T00:02:22.535Z",
+  "expiresAt": "2026-12-08T00:02:22.535Z",
+  "nonce": "7e99ffc106de5470389158fc43a88ae1",
   "payload": {
-    "wsUrl": "wss://drivers-warranty-website-organizing.trycloudflare.com",
-    "httpUrl": "https://drivers-warranty-website-organizing.trycloudflare.com",
-    "issuedAt": "2026-11-07T23:31:11.399Z",
-    "expiresAt": "2026-12-07T23:31:11.399Z",
-    "nonce": "7b31032dca5b19933fbc1d7c5487c516"
+    "wsUrl": "wss://sterling-para-waterproof-climate.trycloudflare.com",
+    "httpUrl": "https://sterling-para-waterproof-climate.trycloudflare.com",
+    "issuedAt": "2026-11-08T00:02:22.535Z",
+    "expiresAt": "2026-12-08T00:02:22.535Z",
+    "nonce": "7e99ffc106de5470389158fc43a88ae1"
   },
-  "signature": "DiqY2Bby2EJtfjwRxbQFXbGGbokcKZAVofF6vNEUN6suJs/9x5SdkZCJ3Zxfg7RCVh5kPPajwnYFH4EeDkgQIg==",
+  "signature": "5k5EEYnO+eHqNehpgWbNHgM8xMCVz8NilACE3IePIGtF/VcqTmlkShaVfbkMTDsvh2Mtm2jtI8ks56MqRX9tvA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

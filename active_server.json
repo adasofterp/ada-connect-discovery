@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://omissions-drug-contributors-approve.trycloudflare.com",
-  "httpUrl": "https://omissions-drug-contributors-approve.trycloudflare.com",
-  "updatedAt": "2026-11-08T15:08:01.378Z",
-  "expiresAt": "2026-12-08T15:08:01.379Z",
-  "nonce": "e1e9fed67408b191ecf1c744cdc3caa8",
+  "wsUrl": "wss://store-versions-barcelona-impression.trycloudflare.com",
+  "httpUrl": "https://store-versions-barcelona-impression.trycloudflare.com",
+  "updatedAt": "2026-11-08T15:16:24.766Z",
+  "expiresAt": "2026-12-08T15:16:24.766Z",
+  "nonce": "3a213e5c74c3c20038f04232718d3774",
   "payload": {
-    "wsUrl": "wss://omissions-drug-contributors-approve.trycloudflare.com",
-    "httpUrl": "https://omissions-drug-contributors-approve.trycloudflare.com",
-    "issuedAt": "2026-11-08T15:08:01.378Z",
-    "expiresAt": "2026-12-08T15:08:01.379Z",
-    "nonce": "e1e9fed67408b191ecf1c744cdc3caa8"
+    "wsUrl": "wss://store-versions-barcelona-impression.trycloudflare.com",
+    "httpUrl": "https://store-versions-barcelona-impression.trycloudflare.com",
+    "issuedAt": "2026-11-08T15:16:24.766Z",
+    "expiresAt": "2026-12-08T15:16:24.766Z",
+    "nonce": "3a213e5c74c3c20038f04232718d3774"
   },
-  "signature": "P5JLjQ7d6mm0ZoobVBXj1JA2FUbAV31UxI3KeYND5XG/Z3jZBOdgkOuxt/kAaCdPg1ax0zEklmgo9On4N3qkDg==",
+  "signature": "RtoocUEMHvQ9KUQPeoUUMIF1eIwBoU9ERiaUrHTKNPv2qfGyIexNrgnpEAkb64u9NshjG0MagIllA6bq4yGKdA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

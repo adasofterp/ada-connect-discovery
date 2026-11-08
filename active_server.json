@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://examination-russell-testimony-derek.trycloudflare.com",
-  "httpUrl": "https://examination-russell-testimony-derek.trycloudflare.com",
-  "updatedAt": "2026-11-08T10:16:33.175Z",
-  "expiresAt": "2026-12-08T10:16:33.175Z",
-  "nonce": "6d8853c87729f21308bda45e8b9427a6",
+  "wsUrl": "wss://dimensions-shaw-colour-speaks.trycloudflare.com",
+  "httpUrl": "https://dimensions-shaw-colour-speaks.trycloudflare.com",
+  "updatedAt": "2026-11-08T10:58:14.206Z",
+  "expiresAt": "2026-12-08T10:58:14.206Z",
+  "nonce": "dec895ef9213c05592da1f6e7ab6b552",
   "payload": {
-    "wsUrl": "wss://examination-russell-testimony-derek.trycloudflare.com",
-    "httpUrl": "https://examination-russell-testimony-derek.trycloudflare.com",
-    "issuedAt": "2026-11-08T10:16:33.175Z",
-    "expiresAt": "2026-12-08T10:16:33.175Z",
-    "nonce": "6d8853c87729f21308bda45e8b9427a6"
+    "wsUrl": "wss://dimensions-shaw-colour-speaks.trycloudflare.com",
+    "httpUrl": "https://dimensions-shaw-colour-speaks.trycloudflare.com",
+    "issuedAt": "2026-11-08T10:58:14.206Z",
+    "expiresAt": "2026-12-08T10:58:14.206Z",
+    "nonce": "dec895ef9213c05592da1f6e7ab6b552"
   },
-  "signature": "HRBaZQ80RBHC8tdx0Nm5xnc+PslsEw6zuN0rd59GDTMYad8/GoLjqZdIHWuYP9opSFbY2WnevDiMB4o5JkCRug==",
+  "signature": "M0gbwcpDDLaFRoYRbBcSlmnpUsMR/NQvl4qgbKEdAcVAGGDBwp9u2P2zfnZ2499Tk4IPxxaGmCdi5fgb3/U7Gg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

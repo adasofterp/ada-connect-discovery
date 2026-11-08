@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://motorcycle-operates-cheapest-performance.trycloudflare.com",
-  "httpUrl": "https://motorcycle-operates-cheapest-performance.trycloudflare.com",
-  "updatedAt": "2026-11-08T08:56:10.036Z",
-  "expiresAt": "2026-12-08T08:56:10.036Z",
-  "nonce": "249bae386df31e11bef3f9fd577ffa77",
+  "wsUrl": "wss://about-ordinance-pipe-sought.trycloudflare.com",
+  "httpUrl": "https://about-ordinance-pipe-sought.trycloudflare.com",
+  "updatedAt": "2026-11-08T09:06:35.114Z",
+  "expiresAt": "2026-12-08T09:06:35.114Z",
+  "nonce": "5139e66e152826663d69396fb39e5e1a",
   "payload": {
-    "wsUrl": "wss://motorcycle-operates-cheapest-performance.trycloudflare.com",
-    "httpUrl": "https://motorcycle-operates-cheapest-performance.trycloudflare.com",
-    "issuedAt": "2026-11-08T08:56:10.036Z",
-    "expiresAt": "2026-12-08T08:56:10.036Z",
-    "nonce": "249bae386df31e11bef3f9fd577ffa77"
+    "wsUrl": "wss://about-ordinance-pipe-sought.trycloudflare.com",
+    "httpUrl": "https://about-ordinance-pipe-sought.trycloudflare.com",
+    "issuedAt": "2026-11-08T09:06:35.114Z",
+    "expiresAt": "2026-12-08T09:06:35.114Z",
+    "nonce": "5139e66e152826663d69396fb39e5e1a"
   },
-  "signature": "ri9pvkFQAEeb/d4AskPjJ4lRvb/owTe2YJdQ0w+wrdIlmT5V+HBc2D3H4dlr68+JZuvmtDXY4SC4A9qtKXgbIw==",
+  "signature": "Ly9hbwGvtubYF7l702qbwWsU2iB4DXP3+tVe8P3SofHlDTXDRscUeusweU8kax53E8JjX2tnRivgqN6dR7mFFQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

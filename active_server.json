@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://innocent-participating-wednesday-oriented.trycloudflare.com",
-  "httpUrl": "https://innocent-participating-wednesday-oriented.trycloudflare.com",
-  "updatedAt": "2026-11-08T17:49:38.453Z",
-  "expiresAt": "2026-12-08T17:49:38.453Z",
-  "nonce": "fe3eca69de0c363f55aa9d387235653f",
+  "wsUrl": "wss://bright-celebrate-webpage-jungle.trycloudflare.com",
+  "httpUrl": "https://bright-celebrate-webpage-jungle.trycloudflare.com",
+  "updatedAt": "2026-11-08T18:10:34.797Z",
+  "expiresAt": "2026-12-08T18:10:34.797Z",
+  "nonce": "e55184913b869162f809ceda425c52a2",
   "payload": {
-    "wsUrl": "wss://innocent-participating-wednesday-oriented.trycloudflare.com",
-    "httpUrl": "https://innocent-participating-wednesday-oriented.trycloudflare.com",
-    "issuedAt": "2026-11-08T17:49:38.453Z",
-    "expiresAt": "2026-12-08T17:49:38.453Z",
-    "nonce": "fe3eca69de0c363f55aa9d387235653f"
+    "wsUrl": "wss://bright-celebrate-webpage-jungle.trycloudflare.com",
+    "httpUrl": "https://bright-celebrate-webpage-jungle.trycloudflare.com",
+    "issuedAt": "2026-11-08T18:10:34.797Z",
+    "expiresAt": "2026-12-08T18:10:34.797Z",
+    "nonce": "e55184913b869162f809ceda425c52a2"
   },
-  "signature": "I3/H5q57L7+uiuvyP4d/WFuA0x2mI7HX41/6f69NzjhMNPAOqckhdZ8ZZQARDUIGT/2gRFE6QJv1EVC/viYGrw==",
+  "signature": "Xb3yucyde1L4UDZzZ+VOeS7Gk1nR6IKnvBnKUzF6+rOgzaXeGNXuWJZhhrdRpy960YZG8/XERQR4puxJDvhmJA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

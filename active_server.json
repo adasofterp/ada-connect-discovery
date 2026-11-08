@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://surplus-politicians-beaver-arthur.trycloudflare.com",
-  "httpUrl": "https://surplus-politicians-beaver-arthur.trycloudflare.com",
-  "updatedAt": "2026-11-08T01:04:51.536Z",
-  "expiresAt": "2026-12-08T01:04:51.537Z",
-  "nonce": "e9fffdba4e2bb538145dabf5decbec03",
+  "wsUrl": "wss://pubmed-varying-cincinnati-lemon.trycloudflare.com",
+  "httpUrl": "https://pubmed-varying-cincinnati-lemon.trycloudflare.com",
+  "updatedAt": "2026-11-08T01:15:15.329Z",
+  "expiresAt": "2026-12-08T01:15:15.329Z",
+  "nonce": "c595231fd956465988141f578a744d9f",
   "payload": {
-    "wsUrl": "wss://surplus-politicians-beaver-arthur.trycloudflare.com",
-    "httpUrl": "https://surplus-politicians-beaver-arthur.trycloudflare.com",
-    "issuedAt": "2026-11-08T01:04:51.536Z",
-    "expiresAt": "2026-12-08T01:04:51.537Z",
-    "nonce": "e9fffdba4e2bb538145dabf5decbec03"
+    "wsUrl": "wss://pubmed-varying-cincinnati-lemon.trycloudflare.com",
+    "httpUrl": "https://pubmed-varying-cincinnati-lemon.trycloudflare.com",
+    "issuedAt": "2026-11-08T01:15:15.329Z",
+    "expiresAt": "2026-12-08T01:15:15.329Z",
+    "nonce": "c595231fd956465988141f578a744d9f"
   },
-  "signature": "i8VtbUda/VqoBLBEa2N5uNYFTSCHuWY+uaMG7FpoSj90Ec/vUj3rV/CQsfxC0fyFplDHCn/tuJT1wV7m9MCtLw==",
+  "signature": "3R1y1EslApGx7r1qO1rr377Wgtk2aKYWxf60OChqOAnJOMCRul3nGJEKmEh0Ea+kLNDgMqQmdMqv2iodug7iTg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

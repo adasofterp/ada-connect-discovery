@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reached-jelsoft-decor-vision.trycloudflare.com",
-  "httpUrl": "https://reached-jelsoft-decor-vision.trycloudflare.com",
-  "updatedAt": "2026-11-08T06:22:15.739Z",
-  "expiresAt": "2026-12-08T06:22:15.739Z",
-  "nonce": "d1fe13e79918b4384215bb998014e826",
+  "wsUrl": "wss://nursery-canvas-nursery-astrology.trycloudflare.com",
+  "httpUrl": "https://nursery-canvas-nursery-astrology.trycloudflare.com",
+  "updatedAt": "2026-11-08T07:03:52.032Z",
+  "expiresAt": "2026-12-08T07:03:52.032Z",
+  "nonce": "6f6504bd42e60d6b09ca9c92884943c9",
   "payload": {
-    "wsUrl": "wss://reached-jelsoft-decor-vision.trycloudflare.com",
-    "httpUrl": "https://reached-jelsoft-decor-vision.trycloudflare.com",
-    "issuedAt": "2026-11-08T06:22:15.739Z",
-    "expiresAt": "2026-12-08T06:22:15.739Z",
-    "nonce": "d1fe13e79918b4384215bb998014e826"
+    "wsUrl": "wss://nursery-canvas-nursery-astrology.trycloudflare.com",
+    "httpUrl": "https://nursery-canvas-nursery-astrology.trycloudflare.com",
+    "issuedAt": "2026-11-08T07:03:52.032Z",
+    "expiresAt": "2026-12-08T07:03:52.032Z",
+    "nonce": "6f6504bd42e60d6b09ca9c92884943c9"
   },
-  "signature": "pAObsiCEXs0VB7/bcW7YBrSoeCKEdg0P4M9zShXDnslyrGtjbgaia7VRE6/9chVgxj5D5/abFQZsS39kUsJ7ew==",
+  "signature": "blnuO1vQ7tLvw//U2UtI3KgNbToKfgu9gdQQeXiQ8eWh2CjDw4hmE+UBHCVCbz72LO3tkDn/Rpy1wz7Nt2+rfA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

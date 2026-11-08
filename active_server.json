@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://feel-typing-africa-gras.trycloudflare.com",
-  "httpUrl": "https://feel-typing-africa-gras.trycloudflare.com",
-  "updatedAt": "2026-11-08T23:12:12.850Z",
-  "expiresAt": "2026-12-08T23:12:12.850Z",
-  "nonce": "8a4bf782101039ab1a4252fcc6284863",
+  "wsUrl": "wss://totals-photography-forgotten-substantial.trycloudflare.com",
+  "httpUrl": "https://totals-photography-forgotten-substantial.trycloudflare.com",
+  "updatedAt": "2026-11-08T23:33:04.294Z",
+  "expiresAt": "2026-12-08T23:33:04.294Z",
+  "nonce": "20e6b177caed355a23f0b6efb07cfdd0",
   "payload": {
-    "wsUrl": "wss://feel-typing-africa-gras.trycloudflare.com",
-    "httpUrl": "https://feel-typing-africa-gras.trycloudflare.com",
-    "issuedAt": "2026-11-08T23:12:12.850Z",
-    "expiresAt": "2026-12-08T23:12:12.850Z",
-    "nonce": "8a4bf782101039ab1a4252fcc6284863"
+    "wsUrl": "wss://totals-photography-forgotten-substantial.trycloudflare.com",
+    "httpUrl": "https://totals-photography-forgotten-substantial.trycloudflare.com",
+    "issuedAt": "2026-11-08T23:33:04.294Z",
+    "expiresAt": "2026-12-08T23:33:04.294Z",
+    "nonce": "20e6b177caed355a23f0b6efb07cfdd0"
   },
-  "signature": "idT2ssbTrF9dSDp7yIyxn3ntP0hOht6s1QB/cHZTzfx+e3/LU09Mp+D/OaHNV3nlKDVTW4X81cJnnyhIgxVz+A==",
+  "signature": "tWF/xTPU/2TMP/iQG51mZCdJG0SfjToCGN80Yrn+JSYSHztdopJUQJdpgx8sugrv+kX4DrWng1M9q4R7L8w/Tw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

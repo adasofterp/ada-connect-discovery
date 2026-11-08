@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://platform-levels-peoples-seating.trycloudflare.com",
-  "httpUrl": "https://platform-levels-peoples-seating.trycloudflare.com",
-  "updatedAt": "2026-11-08T15:26:49.982Z",
-  "expiresAt": "2026-12-08T15:26:49.982Z",
-  "nonce": "468dfa66c14930ce18b992d1f1df6c8e",
+  "wsUrl": "wss://guaranteed-nominated-competitions-charleston.trycloudflare.com",
+  "httpUrl": "https://guaranteed-nominated-competitions-charleston.trycloudflare.com",
+  "updatedAt": "2026-11-08T15:37:14.552Z",
+  "expiresAt": "2026-12-08T15:37:14.552Z",
+  "nonce": "d962f752b59c704b313fdb8fc13a41d4",
   "payload": {
-    "wsUrl": "wss://platform-levels-peoples-seating.trycloudflare.com",
-    "httpUrl": "https://platform-levels-peoples-seating.trycloudflare.com",
-    "issuedAt": "2026-11-08T15:26:49.982Z",
-    "expiresAt": "2026-12-08T15:26:49.982Z",
-    "nonce": "468dfa66c14930ce18b992d1f1df6c8e"
+    "wsUrl": "wss://guaranteed-nominated-competitions-charleston.trycloudflare.com",
+    "httpUrl": "https://guaranteed-nominated-competitions-charleston.trycloudflare.com",
+    "issuedAt": "2026-11-08T15:37:14.552Z",
+    "expiresAt": "2026-12-08T15:37:14.552Z",
+    "nonce": "d962f752b59c704b313fdb8fc13a41d4"
   },
-  "signature": "yKl7X0KZkBRAxby7H/0SWjKdSK5VrbpvilUDKlHfuEK9UQfOtOja9UDlIN0PiWOG8Cp9C2b0WR4lCsPDtihTjA==",
+  "signature": "atDPlHm1QVQdGgYEzlKFK+lCXQojcurwysSX0rd0oXS11avCgMCCdK+x1tpmT3aZrLSWsKWD9FBwNVEuuI118Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://battery-hope-medium-soundtrack.trycloudflare.com",
-  "httpUrl": "https://battery-hope-medium-soundtrack.trycloudflare.com",
-  "updatedAt": "2026-11-08T22:51:25.829Z",
-  "expiresAt": "2026-12-08T22:51:25.829Z",
-  "nonce": "85fcbb5dfb284b5b710a03ff54c2785f",
+  "wsUrl": "wss://feel-typing-africa-gras.trycloudflare.com",
+  "httpUrl": "https://feel-typing-africa-gras.trycloudflare.com",
+  "updatedAt": "2026-11-08T23:12:12.850Z",
+  "expiresAt": "2026-12-08T23:12:12.850Z",
+  "nonce": "8a4bf782101039ab1a4252fcc6284863",
   "payload": {
-    "wsUrl": "wss://battery-hope-medium-soundtrack.trycloudflare.com",
-    "httpUrl": "https://battery-hope-medium-soundtrack.trycloudflare.com",
-    "issuedAt": "2026-11-08T22:51:25.829Z",
-    "expiresAt": "2026-12-08T22:51:25.829Z",
-    "nonce": "85fcbb5dfb284b5b710a03ff54c2785f"
+    "wsUrl": "wss://feel-typing-africa-gras.trycloudflare.com",
+    "httpUrl": "https://feel-typing-africa-gras.trycloudflare.com",
+    "issuedAt": "2026-11-08T23:12:12.850Z",
+    "expiresAt": "2026-12-08T23:12:12.850Z",
+    "nonce": "8a4bf782101039ab1a4252fcc6284863"
   },
-  "signature": "fGBejWQ6zeADywn3jtbh3nZ/erujXLNh15tzgmjPRQ/ZYt4R4ITYNscaUWnAsLTfjhC7Hklad6JwYM451zGC6A==",
+  "signature": "idT2ssbTrF9dSDp7yIyxn3ntP0hOht6s1QB/cHZTzfx+e3/LU09Mp+D/OaHNV3nlKDVTW4X81cJnnyhIgxVz+A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://wright-climb-comment-lanka.trycloudflare.com",
-  "httpUrl": "https://wright-climb-comment-lanka.trycloudflare.com",
-  "updatedAt": "2026-11-08T02:28:07.357Z",
-  "expiresAt": "2026-12-08T02:28:07.357Z",
-  "nonce": "55a75112002edce8a076747fcd2c5951",
+  "wsUrl": "wss://petition-med-became-shorts.trycloudflare.com",
+  "httpUrl": "https://petition-med-became-shorts.trycloudflare.com",
+  "updatedAt": "2026-11-08T02:38:31.880Z",
+  "expiresAt": "2026-12-08T02:38:31.880Z",
+  "nonce": "10537f8d9e4e7300675b3fe4da9f4016",
   "payload": {
-    "wsUrl": "wss://wright-climb-comment-lanka.trycloudflare.com",
-    "httpUrl": "https://wright-climb-comment-lanka.trycloudflare.com",
-    "issuedAt": "2026-11-08T02:28:07.357Z",
-    "expiresAt": "2026-12-08T02:28:07.357Z",
-    "nonce": "55a75112002edce8a076747fcd2c5951"
+    "wsUrl": "wss://petition-med-became-shorts.trycloudflare.com",
+    "httpUrl": "https://petition-med-became-shorts.trycloudflare.com",
+    "issuedAt": "2026-11-08T02:38:31.880Z",
+    "expiresAt": "2026-12-08T02:38:31.880Z",
+    "nonce": "10537f8d9e4e7300675b3fe4da9f4016"
   },
-  "signature": "oBF8brT0hLhMbCYxSH/aIsoilrCXYuY4QaeKSz6D3JVMYZbCJ5B/dvUUZj24eQHTevUxajrloMuPGe28u7aUfA==",
+  "signature": "rObkFsbSYGtyVlKPJI09TahT6Jt3CS3cZTTSj6rIihqli5OhYDPKf1zvl5OHIy4XSSIY5Saf/o0R+3Qpr8BrSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

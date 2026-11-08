@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://comic-pichunter-regulation-elder.trycloudflare.com",
-  "httpUrl": "https://comic-pichunter-regulation-elder.trycloudflare.com",
-  "updatedAt": "2026-11-08T04:08:55.598Z",
-  "expiresAt": "2026-12-08T04:08:55.598Z",
-  "nonce": "32add4fd9646771726fb64daf5f1c196",
+  "wsUrl": "wss://directive-palestinian-believe-shopping.trycloudflare.com",
+  "httpUrl": "https://directive-palestinian-believe-shopping.trycloudflare.com",
+  "updatedAt": "2026-11-08T04:19:20.198Z",
+  "expiresAt": "2026-12-08T04:19:20.198Z",
+  "nonce": "d0f25eeada88ccafbaccdcd3069d150c",
   "payload": {
-    "wsUrl": "wss://comic-pichunter-regulation-elder.trycloudflare.com",
-    "httpUrl": "https://comic-pichunter-regulation-elder.trycloudflare.com",
-    "issuedAt": "2026-11-08T04:08:55.598Z",
-    "expiresAt": "2026-12-08T04:08:55.598Z",
-    "nonce": "32add4fd9646771726fb64daf5f1c196"
+    "wsUrl": "wss://directive-palestinian-believe-shopping.trycloudflare.com",
+    "httpUrl": "https://directive-palestinian-believe-shopping.trycloudflare.com",
+    "issuedAt": "2026-11-08T04:19:20.198Z",
+    "expiresAt": "2026-12-08T04:19:20.198Z",
+    "nonce": "d0f25eeada88ccafbaccdcd3069d150c"
   },
-  "signature": "SXtJ2uE8MR7KVnJCT9iZoKE4/28Onhx+n+mU1DQxeH6mml687i/9yjfGhCdZ5uMwvY80wmgnt0k82mouf+xeTw==",
+  "signature": "K13xvuMsgfTx1J04koqTWCqlfCl31ksw5gAALsuvOo0DK/yS1qX06KxYXDRMgD2lJh2umPeK3GOnXL1tWfFRyg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://petition-med-became-shorts.trycloudflare.com",
-  "httpUrl": "https://petition-med-became-shorts.trycloudflare.com",
-  "updatedAt": "2026-11-08T02:38:31.880Z",
-  "expiresAt": "2026-12-08T02:38:31.880Z",
-  "nonce": "10537f8d9e4e7300675b3fe4da9f4016",
+  "wsUrl": "wss://vehicle-danny-metric-decorative.trycloudflare.com",
+  "httpUrl": "https://vehicle-danny-metric-decorative.trycloudflare.com",
+  "updatedAt": "2026-11-08T03:06:18.805Z",
+  "expiresAt": "2026-12-08T03:06:18.805Z",
+  "nonce": "c094046e163177e5c91f80107a8ce079",
   "payload": {
-    "wsUrl": "wss://petition-med-became-shorts.trycloudflare.com",
-    "httpUrl": "https://petition-med-became-shorts.trycloudflare.com",
-    "issuedAt": "2026-11-08T02:38:31.880Z",
-    "expiresAt": "2026-12-08T02:38:31.880Z",
-    "nonce": "10537f8d9e4e7300675b3fe4da9f4016"
+    "wsUrl": "wss://vehicle-danny-metric-decorative.trycloudflare.com",
+    "httpUrl": "https://vehicle-danny-metric-decorative.trycloudflare.com",
+    "issuedAt": "2026-11-08T03:06:18.805Z",
+    "expiresAt": "2026-12-08T03:06:18.805Z",
+    "nonce": "c094046e163177e5c91f80107a8ce079"
   },
-  "signature": "rObkFsbSYGtyVlKPJI09TahT6Jt3CS3cZTTSj6rIihqli5OhYDPKf1zvl5OHIy4XSSIY5Saf/o0R+3Qpr8BrSw==",
+  "signature": "iPbuNpSkSGXIRJo0Q2b3DYhE19QMLMlqf+7LR+I3I9UkPtzynYjKwMbWRtMY4mXe1CgfPvZK2G6dvg60pgYCCg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

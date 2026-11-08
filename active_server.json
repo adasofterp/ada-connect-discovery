@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://picking-jokes-root-swap.trycloudflare.com",
-  "httpUrl": "https://picking-jokes-root-swap.trycloudflare.com",
-  "updatedAt": "2026-11-08T09:46:59.475Z",
-  "expiresAt": "2026-12-08T09:46:59.475Z",
-  "nonce": "904e765c93facd108e3a30f29aa4a382",
+  "wsUrl": "wss://penalty-powerseller-throughout-fioricet.trycloudflare.com",
+  "httpUrl": "https://penalty-powerseller-throughout-fioricet.trycloudflare.com",
+  "updatedAt": "2026-11-08T09:57:22.999Z",
+  "expiresAt": "2026-12-08T09:57:22.999Z",
+  "nonce": "fb2afa5fb34193fa9a7abf8f158664cc",
   "payload": {
-    "wsUrl": "wss://picking-jokes-root-swap.trycloudflare.com",
-    "httpUrl": "https://picking-jokes-root-swap.trycloudflare.com",
-    "issuedAt": "2026-11-08T09:46:59.475Z",
-    "expiresAt": "2026-12-08T09:46:59.475Z",
-    "nonce": "904e765c93facd108e3a30f29aa4a382"
+    "wsUrl": "wss://penalty-powerseller-throughout-fioricet.trycloudflare.com",
+    "httpUrl": "https://penalty-powerseller-throughout-fioricet.trycloudflare.com",
+    "issuedAt": "2026-11-08T09:57:22.999Z",
+    "expiresAt": "2026-12-08T09:57:22.999Z",
+    "nonce": "fb2afa5fb34193fa9a7abf8f158664cc"
   },
-  "signature": "0A2p5j066Lp/fSTTzy3Xs9PZZsGDa78vKmrwpuHqTSwhxeubPDqYCSZgUY59kPpSiKXImlJQ8n1Okp4AN1jCqA==",
+  "signature": "x1zRoXB4jZg8VUXREDvuLvQo8GANuceVUitdHPYCwd+LbZRyDjR17jZaeRe40+OgE9ESVkV4b9MoO+Ss/CAfBg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-08T11:54:08.880Z",
-  "expiresAt": "2026-12-08T11:54:08.880Z",
-  "nonce": "1a385b62359c37f68424eaa9df7f0b39",
+  "wsUrl": "wss://throughout-mathematics-welcome-renewal.trycloudflare.com",
+  "httpUrl": "https://throughout-mathematics-welcome-renewal.trycloudflare.com",
+  "updatedAt": "2026-11-08T12:09:42.965Z",
+  "expiresAt": "2026-12-08T12:09:42.965Z",
+  "nonce": "16d5209cf0b89966d50c1fb2c9fdca17",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-08T11:54:08.880Z",
-    "expiresAt": "2026-12-08T11:54:08.880Z",
-    "nonce": "1a385b62359c37f68424eaa9df7f0b39"
+    "wsUrl": "wss://throughout-mathematics-welcome-renewal.trycloudflare.com",
+    "httpUrl": "https://throughout-mathematics-welcome-renewal.trycloudflare.com",
+    "issuedAt": "2026-11-08T12:09:42.965Z",
+    "expiresAt": "2026-12-08T12:09:42.965Z",
+    "nonce": "16d5209cf0b89966d50c1fb2c9fdca17"
   },
-  "signature": "zGeT55D7uIzVzNi1aqAdxTklFm1rgyrDDm/x8bUE5znq38xsZK7nci1ledkI/uftIn26bN5/u3dKbm2Wdlebgg==",
+  "signature": "XGe49x2uz+JOAu0j36uye0K+DBED9bojVCcx8fQ5uZSFjPp6c99FRsfhf/HVCIho9iFzeA2CSQLclE8fkF2cWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

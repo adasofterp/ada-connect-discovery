@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://directive-palestinian-believe-shopping.trycloudflare.com",
-  "httpUrl": "https://directive-palestinian-believe-shopping.trycloudflare.com",
-  "updatedAt": "2026-11-08T04:19:20.198Z",
-  "expiresAt": "2026-12-08T04:19:20.198Z",
-  "nonce": "d0f25eeada88ccafbaccdcd3069d150c",
+  "wsUrl": "wss://giving-pdas-federation-techniques.trycloudflare.com",
+  "httpUrl": "https://giving-pdas-federation-techniques.trycloudflare.com",
+  "updatedAt": "2026-11-08T05:21:49.545Z",
+  "expiresAt": "2026-12-08T05:21:49.545Z",
+  "nonce": "6f0718740ae22234073f30158921b5d0",
   "payload": {
-    "wsUrl": "wss://directive-palestinian-believe-shopping.trycloudflare.com",
-    "httpUrl": "https://directive-palestinian-believe-shopping.trycloudflare.com",
-    "issuedAt": "2026-11-08T04:19:20.198Z",
-    "expiresAt": "2026-12-08T04:19:20.198Z",
-    "nonce": "d0f25eeada88ccafbaccdcd3069d150c"
+    "wsUrl": "wss://giving-pdas-federation-techniques.trycloudflare.com",
+    "httpUrl": "https://giving-pdas-federation-techniques.trycloudflare.com",
+    "issuedAt": "2026-11-08T05:21:49.545Z",
+    "expiresAt": "2026-12-08T05:21:49.545Z",
+    "nonce": "6f0718740ae22234073f30158921b5d0"
   },
-  "signature": "K13xvuMsgfTx1J04koqTWCqlfCl31ksw5gAALsuvOo0DK/yS1qX06KxYXDRMgD2lJh2umPeK3GOnXL1tWfFRyg==",
+  "signature": "XRegiXF2RS+SVJocldtwbw2nc2gBI5ALSN6xOxMTBgtbV4oWWoHMlbkAC1rPw2vE5sFsT+gr2KBi7oayBA+KWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

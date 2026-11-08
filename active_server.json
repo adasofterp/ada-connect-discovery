@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://printer-href-biz-tyler.trycloudflare.com",
-  "httpUrl": "https://printer-href-biz-tyler.trycloudflare.com",
-  "updatedAt": "2026-11-08T18:19:28.344Z",
-  "expiresAt": "2026-12-08T18:19:28.344Z",
-  "nonce": "698b75eebc0b6acee9df9c4baf043b05",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-08T18:52:31.935Z",
+  "expiresAt": "2026-12-08T18:52:31.936Z",
+  "nonce": "7a5cd10b47c0344e8cfda998203192fd",
   "payload": {
-    "wsUrl": "wss://printer-href-biz-tyler.trycloudflare.com",
-    "httpUrl": "https://printer-href-biz-tyler.trycloudflare.com",
-    "issuedAt": "2026-11-08T18:19:28.344Z",
-    "expiresAt": "2026-12-08T18:19:28.344Z",
-    "nonce": "698b75eebc0b6acee9df9c4baf043b05"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-08T18:52:31.935Z",
+    "expiresAt": "2026-12-08T18:52:31.936Z",
+    "nonce": "7a5cd10b47c0344e8cfda998203192fd"
   },
-  "signature": "jrSd4O5g6QAbwx8dZU0a+DW6qlZVYKsdqWTtoHt4kSb1jxRJzd1BnEHxgQpjgz4OemGjHZU53CKqvqXyIH+a8g==",
+  "signature": "/Fn29/rzRL0k4MK+dSxL6WF2a2go7rDTwqmOnFButmmxAQlTZ0AHM2Mly9FRRETRB0EeW7owxnz8Id7iBTKllA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

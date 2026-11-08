@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://gods-telescope-michel-nyc.trycloudflare.com",
-  "httpUrl": "https://gods-telescope-michel-nyc.trycloudflare.com",
-  "updatedAt": "2026-11-08T16:13:31.933Z",
-  "expiresAt": "2026-12-08T16:13:31.933Z",
-  "nonce": "58f6be5c834964e6225aa525c062ebf7",
+  "wsUrl": "wss://might-battery-doe-allowed.trycloudflare.com",
+  "httpUrl": "https://might-battery-doe-allowed.trycloudflare.com",
+  "updatedAt": "2026-11-08T16:17:25.594Z",
+  "expiresAt": "2026-12-08T16:17:25.594Z",
+  "nonce": "e8adc39b057bae70113c429daad12d20",
   "payload": {
-    "wsUrl": "wss://gods-telescope-michel-nyc.trycloudflare.com",
-    "httpUrl": "https://gods-telescope-michel-nyc.trycloudflare.com",
-    "issuedAt": "2026-11-08T16:13:31.933Z",
-    "expiresAt": "2026-12-08T16:13:31.933Z",
-    "nonce": "58f6be5c834964e6225aa525c062ebf7"
+    "wsUrl": "wss://might-battery-doe-allowed.trycloudflare.com",
+    "httpUrl": "https://might-battery-doe-allowed.trycloudflare.com",
+    "issuedAt": "2026-11-08T16:17:25.594Z",
+    "expiresAt": "2026-12-08T16:17:25.594Z",
+    "nonce": "e8adc39b057bae70113c429daad12d20"
   },
-  "signature": "ZRm9Dk8FDuJJUanmCtiO7HJIa7uZw+eLgQ0MSG0nOKZOgZxqFXiSIeXH06iBJi/vwj/93w+cD7f2SdfuOOQ02w==",
+  "signature": "5fYb8/JNmChmTWmXJ4eLmjL/RL9NtUbxrL2BwdtAlAYTxOA/pX+FFRNo12tAuXptdxyOp9jGmTPau6DQLFONFA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

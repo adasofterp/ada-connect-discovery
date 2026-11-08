@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://physicians-practitioner-earned-algorithm.trycloudflare.com",
   "httpUrl": "https://physicians-practitioner-earned-algorithm.trycloudflare.com",
-  "updatedAt": "2026-11-08T20:09:51.985Z",
-  "expiresAt": "2026-12-08T20:09:51.985Z",
-  "nonce": "79d212d948c19d30fe8246cd795d9d0d",
+  "updatedAt": "2026-11-08T20:15:01.473Z",
+  "expiresAt": "2026-12-08T20:15:01.473Z",
+  "nonce": "50c076817b50ecf631c124c0af8f5e2f",
   "payload": {
     "wsUrl": "wss://physicians-practitioner-earned-algorithm.trycloudflare.com",
     "httpUrl": "https://physicians-practitioner-earned-algorithm.trycloudflare.com",
-    "issuedAt": "2026-11-08T20:09:51.985Z",
-    "expiresAt": "2026-12-08T20:09:51.985Z",
-    "nonce": "79d212d948c19d30fe8246cd795d9d0d"
+    "issuedAt": "2026-11-08T20:15:01.473Z",
+    "expiresAt": "2026-12-08T20:15:01.473Z",
+    "nonce": "50c076817b50ecf631c124c0af8f5e2f"
   },
-  "signature": "tWUyXIPtpc8AfyUIilFBFiIy0IMb/GYFnKMZwe9eFFJRnFS8l/YcMBFJQhOMZcqMN3H/BhmEtCOZdEgd7WpT/A==",
+  "signature": "Z7ESWKx7cmfj7j7/rsWusBEKkN50TpFeqAdqVOVWi4PdI/U59Bvj90CdDvIe6BcH5LXncN3ziqeI/vvwd7JFiA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

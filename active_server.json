@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bumper-cognitive-perfect-marsh.trycloudflare.com",
-  "httpUrl": "https://bumper-cognitive-perfect-marsh.trycloudflare.com",
-  "updatedAt": "2026-11-08T18:52:40.480Z",
-  "expiresAt": "2026-12-08T18:52:40.480Z",
-  "nonce": "f7f45fccc6d770c227be5d10ec5deb2f",
+  "wsUrl": "wss://solve-reveal-consisting-years.trycloudflare.com",
+  "httpUrl": "https://solve-reveal-consisting-years.trycloudflare.com",
+  "updatedAt": "2026-11-08T19:28:13.225Z",
+  "expiresAt": "2026-12-08T19:28:13.225Z",
+  "nonce": "c92a034fb6b9f0d76a940ff34b94b6c9",
   "payload": {
-    "wsUrl": "wss://bumper-cognitive-perfect-marsh.trycloudflare.com",
-    "httpUrl": "https://bumper-cognitive-perfect-marsh.trycloudflare.com",
-    "issuedAt": "2026-11-08T18:52:40.480Z",
-    "expiresAt": "2026-12-08T18:52:40.480Z",
-    "nonce": "f7f45fccc6d770c227be5d10ec5deb2f"
+    "wsUrl": "wss://solve-reveal-consisting-years.trycloudflare.com",
+    "httpUrl": "https://solve-reveal-consisting-years.trycloudflare.com",
+    "issuedAt": "2026-11-08T19:28:13.225Z",
+    "expiresAt": "2026-12-08T19:28:13.225Z",
+    "nonce": "c92a034fb6b9f0d76a940ff34b94b6c9"
   },
-  "signature": "oCHk3jqlvbBJPdYvNMDsxXLj1BEzRbUs+X3CYj2Z1BFSLvHmdZ0K9zKLYUEjLepOuyG12aDfpa0K6JZUuL4fwQ==",
+  "signature": "PAxx4NwZoJWECdjZD0YlPuV0qbRThaYCL+/OMwzaP+f33ymoVuasajayb2BGyFLkhuznT9fdmKYs6+8+CF1RZg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

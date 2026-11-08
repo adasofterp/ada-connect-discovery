@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://jane-band-payroll-reynolds.trycloudflare.com",
-  "httpUrl": "https://jane-band-payroll-reynolds.trycloudflare.com",
-  "updatedAt": "2026-11-08T21:40:03.244Z",
-  "expiresAt": "2026-12-08T21:40:03.244Z",
-  "nonce": "1df7830d9bb958d549c8ee05f180df73",
+  "wsUrl": "wss://inf-housing-rebecca-prior.trycloudflare.com",
+  "httpUrl": "https://inf-housing-rebecca-prior.trycloudflare.com",
+  "updatedAt": "2026-11-08T21:50:26.657Z",
+  "expiresAt": "2026-12-08T21:50:26.657Z",
+  "nonce": "6897933cca9ca7b41e8ac12f53f43e52",
   "payload": {
-    "wsUrl": "wss://jane-band-payroll-reynolds.trycloudflare.com",
-    "httpUrl": "https://jane-band-payroll-reynolds.trycloudflare.com",
-    "issuedAt": "2026-11-08T21:40:03.244Z",
-    "expiresAt": "2026-12-08T21:40:03.244Z",
-    "nonce": "1df7830d9bb958d549c8ee05f180df73"
+    "wsUrl": "wss://inf-housing-rebecca-prior.trycloudflare.com",
+    "httpUrl": "https://inf-housing-rebecca-prior.trycloudflare.com",
+    "issuedAt": "2026-11-08T21:50:26.657Z",
+    "expiresAt": "2026-12-08T21:50:26.657Z",
+    "nonce": "6897933cca9ca7b41e8ac12f53f43e52"
   },
-  "signature": "DOEFLRWUEqUS2zI6EUF1rwUHzbr9mj0pe4iiI8ai9dophZvL/HzI8bMkGrLFaRNCLEtMc6/+Fbre24NTkYo1SQ==",
+  "signature": "Bp6m5+77MA9LI57i/ih6Na1/wIDtYpPf+Fp9W5Am05ERzotUG6yvSasyyLc5SxLROwNUL+GlkFItgVVolIkYAQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

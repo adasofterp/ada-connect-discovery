@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://jpeg-lopez-professionals-careful.trycloudflare.com",
-  "httpUrl": "https://jpeg-lopez-professionals-careful.trycloudflare.com",
-  "updatedAt": "2026-11-08T11:12:22.459Z",
-  "expiresAt": "2026-12-08T11:12:22.459Z",
-  "nonce": "141b988db1a3e62ea623dd2b49dca7b2",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-08T11:33:14.372Z",
+  "expiresAt": "2026-12-08T11:33:14.372Z",
+  "nonce": "abc1de9b86cd72867b5602c2d09d16c1",
   "payload": {
-    "wsUrl": "wss://jpeg-lopez-professionals-careful.trycloudflare.com",
-    "httpUrl": "https://jpeg-lopez-professionals-careful.trycloudflare.com",
-    "issuedAt": "2026-11-08T11:12:22.459Z",
-    "expiresAt": "2026-12-08T11:12:22.459Z",
-    "nonce": "141b988db1a3e62ea623dd2b49dca7b2"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-08T11:33:14.372Z",
+    "expiresAt": "2026-12-08T11:33:14.372Z",
+    "nonce": "abc1de9b86cd72867b5602c2d09d16c1"
   },
-  "signature": "STHnmRWnSTu6/4mo+KPAOJJGVSFV+gD8wJfQ7MRYD10RHVT+KioSUrs9ViFHvBv2oez/GVwrfmN9vCZXq3xdFA==",
+  "signature": "Ya3NKjvB3ZwQ6wVUq5mx0HVSxPhDqCaE4T++auVPQnMI5JapFDPzY6D3JJJbcyTC+diMuoZ3GupnPN4LiwOALA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

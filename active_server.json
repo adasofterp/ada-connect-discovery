@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sterling-para-waterproof-climate.trycloudflare.com",
-  "httpUrl": "https://sterling-para-waterproof-climate.trycloudflare.com",
-  "updatedAt": "2026-11-08T00:02:22.535Z",
-  "expiresAt": "2026-12-08T00:02:22.535Z",
-  "nonce": "7e99ffc106de5470389158fc43a88ae1",
+  "wsUrl": "wss://corporation-devoted-instances-bias.trycloudflare.com",
+  "httpUrl": "https://corporation-devoted-instances-bias.trycloudflare.com",
+  "updatedAt": "2026-11-08T00:28:21.255Z",
+  "expiresAt": "2026-12-08T00:28:21.255Z",
+  "nonce": "c512969706e4f9245722f095b92809f8",
   "payload": {
-    "wsUrl": "wss://sterling-para-waterproof-climate.trycloudflare.com",
-    "httpUrl": "https://sterling-para-waterproof-climate.trycloudflare.com",
-    "issuedAt": "2026-11-08T00:02:22.535Z",
-    "expiresAt": "2026-12-08T00:02:22.535Z",
-    "nonce": "7e99ffc106de5470389158fc43a88ae1"
+    "wsUrl": "wss://corporation-devoted-instances-bias.trycloudflare.com",
+    "httpUrl": "https://corporation-devoted-instances-bias.trycloudflare.com",
+    "issuedAt": "2026-11-08T00:28:21.255Z",
+    "expiresAt": "2026-12-08T00:28:21.255Z",
+    "nonce": "c512969706e4f9245722f095b92809f8"
   },
-  "signature": "5k5EEYnO+eHqNehpgWbNHgM8xMCVz8NilACE3IePIGtF/VcqTmlkShaVfbkMTDsvh2Mtm2jtI8ks56MqRX9tvA==",
+  "signature": "9cIbP//nlDA86Ul632xIcavqKL0u+c0U7YT1EQcLg46jHdEVL39y+mw+4SBLcHL8tNWWK6e1H/Hk9ozL0HIBwA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

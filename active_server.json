@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://yards-phentermine-seemed-jun.trycloudflare.com",
-  "httpUrl": "https://yards-phentermine-seemed-jun.trycloudflare.com",
-  "updatedAt": "2026-11-08T00:54:26.704Z",
-  "expiresAt": "2026-12-08T00:54:26.704Z",
-  "nonce": "b627b24874439b1a8930963d34bcf488",
+  "wsUrl": "wss://surplus-politicians-beaver-arthur.trycloudflare.com",
+  "httpUrl": "https://surplus-politicians-beaver-arthur.trycloudflare.com",
+  "updatedAt": "2026-11-08T01:04:51.536Z",
+  "expiresAt": "2026-12-08T01:04:51.537Z",
+  "nonce": "e9fffdba4e2bb538145dabf5decbec03",
   "payload": {
-    "wsUrl": "wss://yards-phentermine-seemed-jun.trycloudflare.com",
-    "httpUrl": "https://yards-phentermine-seemed-jun.trycloudflare.com",
-    "issuedAt": "2026-11-08T00:54:26.704Z",
-    "expiresAt": "2026-12-08T00:54:26.704Z",
-    "nonce": "b627b24874439b1a8930963d34bcf488"
+    "wsUrl": "wss://surplus-politicians-beaver-arthur.trycloudflare.com",
+    "httpUrl": "https://surplus-politicians-beaver-arthur.trycloudflare.com",
+    "issuedAt": "2026-11-08T01:04:51.536Z",
+    "expiresAt": "2026-12-08T01:04:51.537Z",
+    "nonce": "e9fffdba4e2bb538145dabf5decbec03"
   },
-  "signature": "0bUFqoUJKxilV0oC/IYi1MO1E/P0o8x1UaOw5C1bAR95IfIQhCyCOzhI3B8g9B6UwDD75/JLCJlzP7jjp9NZkw==",
+  "signature": "i8VtbUda/VqoBLBEa2N5uNYFTSCHuWY+uaMG7FpoSj90Ec/vUj3rV/CQsfxC0fyFplDHCn/tuJT1wV7m9MCtLw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

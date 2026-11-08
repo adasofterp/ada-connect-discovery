@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://totals-photography-forgotten-substantial.trycloudflare.com",
-  "httpUrl": "https://totals-photography-forgotten-substantial.trycloudflare.com",
-  "updatedAt": "2026-11-08T23:33:04.294Z",
-  "expiresAt": "2026-12-08T23:33:04.294Z",
-  "nonce": "20e6b177caed355a23f0b6efb07cfdd0",
+  "wsUrl": "wss://bloggers-smooth-invited-rotation.trycloudflare.com",
+  "httpUrl": "https://bloggers-smooth-invited-rotation.trycloudflare.com",
+  "updatedAt": "2026-11-08T23:43:27.917Z",
+  "expiresAt": "2026-12-08T23:43:27.917Z",
+  "nonce": "7368ec8cc71d93b2428da3f837657069",
   "payload": {
-    "wsUrl": "wss://totals-photography-forgotten-substantial.trycloudflare.com",
-    "httpUrl": "https://totals-photography-forgotten-substantial.trycloudflare.com",
-    "issuedAt": "2026-11-08T23:33:04.294Z",
-    "expiresAt": "2026-12-08T23:33:04.294Z",
-    "nonce": "20e6b177caed355a23f0b6efb07cfdd0"
+    "wsUrl": "wss://bloggers-smooth-invited-rotation.trycloudflare.com",
+    "httpUrl": "https://bloggers-smooth-invited-rotation.trycloudflare.com",
+    "issuedAt": "2026-11-08T23:43:27.917Z",
+    "expiresAt": "2026-12-08T23:43:27.917Z",
+    "nonce": "7368ec8cc71d93b2428da3f837657069"
   },
-  "signature": "tWF/xTPU/2TMP/iQG51mZCdJG0SfjToCGN80Yrn+JSYSHztdopJUQJdpgx8sugrv+kX4DrWng1M9q4R7L8w/Tw==",
+  "signature": "tc72Ap0pPkMrBzAxVpHLknkhIXZ/4JqAq8qfZUJoQkptI7IiVbPZC+T9yjIhhT9Y6Jn97VS4u9FXcBuz0cLMyQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

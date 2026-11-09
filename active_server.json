@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://tags-cdna-farm-candles.trycloudflare.com",
   "httpUrl": "https://tags-cdna-farm-candles.trycloudflare.com",
-  "updatedAt": "2026-11-09T10:43:42.473Z",
-  "expiresAt": "2026-12-09T10:43:42.473Z",
-  "nonce": "4c959d3b1b4f1169364df9aafcdd17e2",
+  "updatedAt": "2026-11-09T12:25:24.808Z",
+  "expiresAt": "2026-12-09T12:25:24.808Z",
+  "nonce": "1798f7157c47ccfa03bfedc7aca0913c",
   "payload": {
     "wsUrl": "wss://tags-cdna-farm-candles.trycloudflare.com",
     "httpUrl": "https://tags-cdna-farm-candles.trycloudflare.com",
-    "issuedAt": "2026-11-09T10:43:42.473Z",
-    "expiresAt": "2026-12-09T10:43:42.473Z",
-    "nonce": "4c959d3b1b4f1169364df9aafcdd17e2"
+    "issuedAt": "2026-11-09T12:25:24.808Z",
+    "expiresAt": "2026-12-09T12:25:24.808Z",
+    "nonce": "1798f7157c47ccfa03bfedc7aca0913c"
   },
-  "signature": "DAyv0vvFKa0XWpUMT6m/mgRr86j0qGmAcjU2G18T+7v6S66lEOeTjrQn8Yf+aGdopRKq93bGX7TfZKUrPvx7Cw==",
+  "signature": "zd8tA10pEdRnbYVD3ktmguHlJW18Dte+kmds/Z0jbHPaA6IRAz7SguC3ZScPb3quqtfprowhE1CBKdZg2P4nsg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

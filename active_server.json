@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nuts-statements-bean-rna.trycloudflare.com",
-  "httpUrl": "https://nuts-statements-bean-rna.trycloudflare.com",
-  "updatedAt": "2026-11-09T06:21:44.285Z",
-  "expiresAt": "2026-12-09T06:21:44.285Z",
-  "nonce": "449744453cc0638e784713cb434af6e3",
+  "wsUrl": "wss://represent-twenty-appropriations-particle.trycloudflare.com",
+  "httpUrl": "https://represent-twenty-appropriations-particle.trycloudflare.com",
+  "updatedAt": "2026-11-09T06:53:13.602Z",
+  "expiresAt": "2026-12-09T06:53:13.602Z",
+  "nonce": "17abd1f8d3b43cb74f892f7d5352396a",
   "payload": {
-    "wsUrl": "wss://nuts-statements-bean-rna.trycloudflare.com",
-    "httpUrl": "https://nuts-statements-bean-rna.trycloudflare.com",
-    "issuedAt": "2026-11-09T06:21:44.285Z",
-    "expiresAt": "2026-12-09T06:21:44.285Z",
-    "nonce": "449744453cc0638e784713cb434af6e3"
+    "wsUrl": "wss://represent-twenty-appropriations-particle.trycloudflare.com",
+    "httpUrl": "https://represent-twenty-appropriations-particle.trycloudflare.com",
+    "issuedAt": "2026-11-09T06:53:13.602Z",
+    "expiresAt": "2026-12-09T06:53:13.602Z",
+    "nonce": "17abd1f8d3b43cb74f892f7d5352396a"
   },
-  "signature": "BX6MQusM4YqUlXn4TvApkO7pzlrDtNNZSlFM9d6j7Wf0KFwF737Js9RSFQOcnHVSL7UdnaLzhUM4IpLGUhUJdw==",
+  "signature": "0BTJoB+CORJeKfhCZ7xozcn4G5lM4oE8hsbPOsPt6hILb3LVQirgXAh38CEMWEFfVTwXYV8+G2zH4Zl7O5WcKA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://daily-lectures-explaining-directors.trycloudflare.com",
-  "httpUrl": "https://daily-lectures-explaining-directors.trycloudflare.com",
-  "updatedAt": "2026-11-09T21:28:03.713Z",
-  "expiresAt": "2026-12-09T21:28:03.713Z",
-  "nonce": "f52a316b9b042cc266a8c8f40df8a8aa",
+  "wsUrl": "wss://fence-disclaimer-commissions-interviews.trycloudflare.com",
+  "httpUrl": "https://fence-disclaimer-commissions-interviews.trycloudflare.com",
+  "updatedAt": "2026-11-09T21:38:30.930Z",
+  "expiresAt": "2026-12-09T21:38:30.930Z",
+  "nonce": "7a03d70b80c50e76575c2c8baf7c8d17",
   "payload": {
-    "wsUrl": "wss://daily-lectures-explaining-directors.trycloudflare.com",
-    "httpUrl": "https://daily-lectures-explaining-directors.trycloudflare.com",
-    "issuedAt": "2026-11-09T21:28:03.713Z",
-    "expiresAt": "2026-12-09T21:28:03.713Z",
-    "nonce": "f52a316b9b042cc266a8c8f40df8a8aa"
+    "wsUrl": "wss://fence-disclaimer-commissions-interviews.trycloudflare.com",
+    "httpUrl": "https://fence-disclaimer-commissions-interviews.trycloudflare.com",
+    "issuedAt": "2026-11-09T21:38:30.930Z",
+    "expiresAt": "2026-12-09T21:38:30.930Z",
+    "nonce": "7a03d70b80c50e76575c2c8baf7c8d17"
   },
-  "signature": "SjFKKnaRarkvadIG+KZSFYj1jSi3AqkSqxg/YlHiV8FGbH1t4y00063gmhmE5SZ8N0HDp7ubO2RFXlxvGmXjhw==",
+  "signature": "ulRL2C4vCxu1MXoTwUC2IBx3jzfOFHeN80VcUDW9lLA6HYAeehTd1EQS5HpEwmmrXqwetmDYdYNzxMRhUF4Ylw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

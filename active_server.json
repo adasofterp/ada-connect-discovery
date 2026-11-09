@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://impose-fort-online-atom.trycloudflare.com",
-  "httpUrl": "https://impose-fort-online-atom.trycloudflare.com",
-  "updatedAt": "2026-11-09T08:11:36.321Z",
-  "expiresAt": "2026-12-09T08:11:36.321Z",
-  "nonce": "f681365a78915c35923b9e6979825c92",
+  "wsUrl": "wss://helpful-scenarios-striking-erik.trycloudflare.com",
+  "httpUrl": "https://helpful-scenarios-striking-erik.trycloudflare.com",
+  "updatedAt": "2026-11-09T08:13:36.086Z",
+  "expiresAt": "2026-12-09T08:13:36.086Z",
+  "nonce": "fd8078f3ae2cddbcb6cf52750104dfcb",
   "payload": {
-    "wsUrl": "wss://impose-fort-online-atom.trycloudflare.com",
-    "httpUrl": "https://impose-fort-online-atom.trycloudflare.com",
-    "issuedAt": "2026-11-09T08:11:36.321Z",
-    "expiresAt": "2026-12-09T08:11:36.321Z",
-    "nonce": "f681365a78915c35923b9e6979825c92"
+    "wsUrl": "wss://helpful-scenarios-striking-erik.trycloudflare.com",
+    "httpUrl": "https://helpful-scenarios-striking-erik.trycloudflare.com",
+    "issuedAt": "2026-11-09T08:13:36.086Z",
+    "expiresAt": "2026-12-09T08:13:36.086Z",
+    "nonce": "fd8078f3ae2cddbcb6cf52750104dfcb"
   },
-  "signature": "i0VjwsFZ/1jIA2q2nHf1S2EIhN1saCO3jFCoqCLPIAqbwvLSxeGKf4RcEa1lKFbsCZlFPjZjSue60sL57/HIgw==",
+  "signature": "lKF6Rwow+asYpy3RqIeY+EdBdbS30KVTZQOIxIh7szY+nTUaN4jJgLqZMvc8t5xTFKTuZ+l4VNAbnOIFy+CuKw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

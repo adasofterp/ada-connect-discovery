@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://mine-volvo-benefits-spy.trycloudflare.com",
   "httpUrl": "https://mine-volvo-benefits-spy.trycloudflare.com",
-  "updatedAt": "2026-11-09T18:46:51.418Z",
-  "expiresAt": "2026-12-09T18:46:51.418Z",
-  "nonce": "a885b1f718cae7c69f13b83954676a04",
+  "updatedAt": "2026-11-09T20:25:24.794Z",
+  "expiresAt": "2026-12-09T20:25:24.794Z",
+  "nonce": "c35b007f69ab8bedb9d2f290ae9ce2a1",
   "payload": {
     "wsUrl": "wss://mine-volvo-benefits-spy.trycloudflare.com",
     "httpUrl": "https://mine-volvo-benefits-spy.trycloudflare.com",
-    "issuedAt": "2026-11-09T18:46:51.418Z",
-    "expiresAt": "2026-12-09T18:46:51.418Z",
-    "nonce": "a885b1f718cae7c69f13b83954676a04"
+    "issuedAt": "2026-11-09T20:25:24.794Z",
+    "expiresAt": "2026-12-09T20:25:24.794Z",
+    "nonce": "c35b007f69ab8bedb9d2f290ae9ce2a1"
   },
-  "signature": "fpBNAFadBLhMlVt+ZemcjnNGJME8mWxPHWXj8WFNODw7uGPJO59j0mKARag5fTgSwbUjq+Wpf+Cd61yyNrHotw==",
+  "signature": "naeTafrEdmUxBaRVF3lXeWJi+QLiJwSrp9oTBWR1hlUiFoWShBg9Gg82gYIuhIN/DP8CTMRMsIoKk2jJI3e4Sw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

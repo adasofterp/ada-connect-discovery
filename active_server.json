@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-09T02:47:37.646Z",
-  "expiresAt": "2026-12-09T02:47:37.646Z",
-  "nonce": "d74dc6f1b455167e1588159bf248f768",
+  "wsUrl": "wss://tag-worlds-lounge-jewellery.trycloudflare.com",
+  "httpUrl": "https://tag-worlds-lounge-jewellery.trycloudflare.com",
+  "updatedAt": "2026-11-09T02:52:51.130Z",
+  "expiresAt": "2026-12-09T02:52:51.130Z",
+  "nonce": "d2e6540f616f9c2a18f4a8b9e6c8c7eb",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-09T02:47:37.646Z",
-    "expiresAt": "2026-12-09T02:47:37.646Z",
-    "nonce": "d74dc6f1b455167e1588159bf248f768"
+    "wsUrl": "wss://tag-worlds-lounge-jewellery.trycloudflare.com",
+    "httpUrl": "https://tag-worlds-lounge-jewellery.trycloudflare.com",
+    "issuedAt": "2026-11-09T02:52:51.130Z",
+    "expiresAt": "2026-12-09T02:52:51.130Z",
+    "nonce": "d2e6540f616f9c2a18f4a8b9e6c8c7eb"
   },
-  "signature": "HI1bu6F+43RvsTUWm86TVvYbbf4/wLMn1D3rvs+vOI5VovDwlWzGWc2JnIbQkB27ZEO23hvAbM2eQKPL1B/SPQ==",
+  "signature": "k5v8T16E75/zirP/vOuq8S0R6l11szC1TuFHXtri80AaQfoBDWMKJLwgeGf6WalM/0GuAZAq99pCNDTtrZjAEQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

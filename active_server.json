@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://famous-reporting-fossil-preview.trycloudflare.com",
-  "httpUrl": "https://famous-reporting-fossil-preview.trycloudflare.com",
-  "updatedAt": "2026-11-09T22:23:05.902Z",
-  "expiresAt": "2026-12-09T22:23:05.902Z",
-  "nonce": "ec3266bb99e70ccccffbe016a7e55b3b",
+  "wsUrl": "wss://flying-vbulletin-expanding-crossing.trycloudflare.com",
+  "httpUrl": "https://flying-vbulletin-expanding-crossing.trycloudflare.com",
+  "updatedAt": "2026-11-09T23:03:19.560Z",
+  "expiresAt": "2026-12-09T23:03:19.560Z",
+  "nonce": "4e780ba082c4b1a88343c50d3494b55c",
   "payload": {
-    "wsUrl": "wss://famous-reporting-fossil-preview.trycloudflare.com",
-    "httpUrl": "https://famous-reporting-fossil-preview.trycloudflare.com",
-    "issuedAt": "2026-11-09T22:23:05.902Z",
-    "expiresAt": "2026-12-09T22:23:05.902Z",
-    "nonce": "ec3266bb99e70ccccffbe016a7e55b3b"
+    "wsUrl": "wss://flying-vbulletin-expanding-crossing.trycloudflare.com",
+    "httpUrl": "https://flying-vbulletin-expanding-crossing.trycloudflare.com",
+    "issuedAt": "2026-11-09T23:03:19.560Z",
+    "expiresAt": "2026-12-09T23:03:19.560Z",
+    "nonce": "4e780ba082c4b1a88343c50d3494b55c"
   },
-  "signature": "8op0MXqBsBj5Ox7pyA/sau2F+8CQ4Z0FPe/oLU4YU9/OJqGygU7nZIwYRhYHZCOaR3JzHTgas0szPCxF4nIfzw==",
+  "signature": "Aswto/J50zH8/deyK3T8v/RZw6j91u1hTYO6W3YKibocHDsDqvGlceEbJy3s/+haQFc3tc1MisYJglzPmg7yIQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://preceding-donated-descriptions-antibodies.trycloudflare.com",
-  "httpUrl": "https://preceding-donated-descriptions-antibodies.trycloudflare.com",
-  "updatedAt": "2026-11-09T04:27:00.047Z",
-  "expiresAt": "2026-12-09T04:27:00.047Z",
-  "nonce": "e1ef57c6c66af1809b73a6f1100dd11b",
+  "wsUrl": "wss://investing-recommendations-domain-compromise.trycloudflare.com",
+  "httpUrl": "https://investing-recommendations-domain-compromise.trycloudflare.com",
+  "updatedAt": "2026-11-09T04:37:24.197Z",
+  "expiresAt": "2026-12-09T04:37:24.197Z",
+  "nonce": "4ff41782215b007b459c2b3d9a216b10",
   "payload": {
-    "wsUrl": "wss://preceding-donated-descriptions-antibodies.trycloudflare.com",
-    "httpUrl": "https://preceding-donated-descriptions-antibodies.trycloudflare.com",
-    "issuedAt": "2026-11-09T04:27:00.047Z",
-    "expiresAt": "2026-12-09T04:27:00.047Z",
-    "nonce": "e1ef57c6c66af1809b73a6f1100dd11b"
+    "wsUrl": "wss://investing-recommendations-domain-compromise.trycloudflare.com",
+    "httpUrl": "https://investing-recommendations-domain-compromise.trycloudflare.com",
+    "issuedAt": "2026-11-09T04:37:24.197Z",
+    "expiresAt": "2026-12-09T04:37:24.197Z",
+    "nonce": "4ff41782215b007b459c2b3d9a216b10"
   },
-  "signature": "+XM6cyebdag/oJ6euqH4jF+hRcS47o0kq62BpbcfjDaz5ddgW5L1Vaesp0rfXBtOO0nsptWgd018HXE/Y79Ufg==",
+  "signature": "huqkr2W+Cf6OLWt4t48yVmA2p4BC5F2pYa6xyWicSal16iA5wstE1WhS0x3zehoMWp4Pxw/ecGDonWT0sdxC1g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

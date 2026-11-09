@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://door-consult-achieved-angeles.trycloudflare.com",
-  "httpUrl": "https://door-consult-achieved-angeles.trycloudflare.com",
-  "updatedAt": "2026-11-09T01:38:47.383Z",
-  "expiresAt": "2026-12-09T01:38:47.383Z",
-  "nonce": "540aa9540dc98a3af45db17eeb103c53",
+  "wsUrl": "wss://computing-schools-spring-explain.trycloudflare.com",
+  "httpUrl": "https://computing-schools-spring-explain.trycloudflare.com",
+  "updatedAt": "2026-11-09T02:10:01.088Z",
+  "expiresAt": "2026-12-09T02:10:01.088Z",
+  "nonce": "241898934b39b9eefbaf4cd644ce76ad",
   "payload": {
-    "wsUrl": "wss://door-consult-achieved-angeles.trycloudflare.com",
-    "httpUrl": "https://door-consult-achieved-angeles.trycloudflare.com",
-    "issuedAt": "2026-11-09T01:38:47.383Z",
-    "expiresAt": "2026-12-09T01:38:47.383Z",
-    "nonce": "540aa9540dc98a3af45db17eeb103c53"
+    "wsUrl": "wss://computing-schools-spring-explain.trycloudflare.com",
+    "httpUrl": "https://computing-schools-spring-explain.trycloudflare.com",
+    "issuedAt": "2026-11-09T02:10:01.088Z",
+    "expiresAt": "2026-12-09T02:10:01.088Z",
+    "nonce": "241898934b39b9eefbaf4cd644ce76ad"
   },
-  "signature": "Vkl/Q26C5gXshw9ZN6iXQAL6Qz2ofoqgyywY78JFEcYwKRipYRD9CFLlcJTRnXRZe+MiWXomByRbNP3hIvLCsg==",
+  "signature": "sbMCu8/BYkacGQ/v8C1NJDf5kJs9VfgdZGT/goGpFPOzGGcFvaxzQkNXct8nIXFKXSFy3Jm25tQxF0194/iqig==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

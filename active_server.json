@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://guidance-here-seven-prime.trycloudflare.com",
-  "httpUrl": "https://guidance-here-seven-prime.trycloudflare.com",
-  "updatedAt": "2026-11-09T07:28:37.030Z",
-  "expiresAt": "2026-12-09T07:28:37.030Z",
-  "nonce": "5f87fff04790c0cd7e96ec706c28d439",
+  "wsUrl": "wss://impose-fort-online-atom.trycloudflare.com",
+  "httpUrl": "https://impose-fort-online-atom.trycloudflare.com",
+  "updatedAt": "2026-11-09T08:11:36.321Z",
+  "expiresAt": "2026-12-09T08:11:36.321Z",
+  "nonce": "f681365a78915c35923b9e6979825c92",
   "payload": {
-    "wsUrl": "wss://guidance-here-seven-prime.trycloudflare.com",
-    "httpUrl": "https://guidance-here-seven-prime.trycloudflare.com",
-    "issuedAt": "2026-11-09T07:28:37.030Z",
-    "expiresAt": "2026-12-09T07:28:37.030Z",
-    "nonce": "5f87fff04790c0cd7e96ec706c28d439"
+    "wsUrl": "wss://impose-fort-online-atom.trycloudflare.com",
+    "httpUrl": "https://impose-fort-online-atom.trycloudflare.com",
+    "issuedAt": "2026-11-09T08:11:36.321Z",
+    "expiresAt": "2026-12-09T08:11:36.321Z",
+    "nonce": "f681365a78915c35923b9e6979825c92"
   },
-  "signature": "j8SbbySEku8PI6QJ2BKiQOqjeOmtm8B3nU4NyDFjoVmpBb/qVVUYEuvsiRvB6paTSukPvqTTci2s5UQiyev5TA==",
+  "signature": "i0VjwsFZ/1jIA2q2nHf1S2EIhN1saCO3jFCoqCLPIAqbwvLSxeGKf4RcEa1lKFbsCZlFPjZjSue60sL57/HIgw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

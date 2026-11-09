@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://hayes-cardiovascular-handheld-pipes.trycloudflare.com",
-  "httpUrl": "https://hayes-cardiovascular-handheld-pipes.trycloudflare.com",
-  "updatedAt": "2026-11-09T06:05:54.135Z",
-  "expiresAt": "2026-12-09T06:05:54.135Z",
-  "nonce": "e8b553ac1a1a949d9ce655a3fbcca551",
+  "wsUrl": "wss://nuts-statements-bean-rna.trycloudflare.com",
+  "httpUrl": "https://nuts-statements-bean-rna.trycloudflare.com",
+  "updatedAt": "2026-11-09T06:21:44.285Z",
+  "expiresAt": "2026-12-09T06:21:44.285Z",
+  "nonce": "449744453cc0638e784713cb434af6e3",
   "payload": {
-    "wsUrl": "wss://hayes-cardiovascular-handheld-pipes.trycloudflare.com",
-    "httpUrl": "https://hayes-cardiovascular-handheld-pipes.trycloudflare.com",
-    "issuedAt": "2026-11-09T06:05:54.135Z",
-    "expiresAt": "2026-12-09T06:05:54.135Z",
-    "nonce": "e8b553ac1a1a949d9ce655a3fbcca551"
+    "wsUrl": "wss://nuts-statements-bean-rna.trycloudflare.com",
+    "httpUrl": "https://nuts-statements-bean-rna.trycloudflare.com",
+    "issuedAt": "2026-11-09T06:21:44.285Z",
+    "expiresAt": "2026-12-09T06:21:44.285Z",
+    "nonce": "449744453cc0638e784713cb434af6e3"
   },
-  "signature": "oxqTalLRAVhbEBBlWyAls9KPSQj/UJIhb5qu7eOWcfhh6IEcZVedKTqzZpDz7XmrAQDRg71sDwwkAjF0XqCS8g==",
+  "signature": "BX6MQusM4YqUlXn4TvApkO7pzlrDtNNZSlFM9d6j7Wf0KFwF737Js9RSFQOcnHVSL7UdnaLzhUM4IpLGUhUJdw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

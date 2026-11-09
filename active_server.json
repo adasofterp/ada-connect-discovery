@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ensemble-deborah-letters-bands.trycloudflare.com",
-  "httpUrl": "https://ensemble-deborah-letters-bands.trycloudflare.com",
-  "updatedAt": "2026-11-09T13:57:00.218Z",
-  "expiresAt": "2026-12-09T13:57:00.218Z",
-  "nonce": "7ffcd9e279a7d4248c769e49c5a82987",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-09T15:04:12.433Z",
+  "expiresAt": "2026-12-09T15:04:12.433Z",
+  "nonce": "6852857b4b53867988d76988e0f8ddc8",
   "payload": {
-    "wsUrl": "wss://ensemble-deborah-letters-bands.trycloudflare.com",
-    "httpUrl": "https://ensemble-deborah-letters-bands.trycloudflare.com",
-    "issuedAt": "2026-11-09T13:57:00.218Z",
-    "expiresAt": "2026-12-09T13:57:00.218Z",
-    "nonce": "7ffcd9e279a7d4248c769e49c5a82987"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-09T15:04:12.433Z",
+    "expiresAt": "2026-12-09T15:04:12.433Z",
+    "nonce": "6852857b4b53867988d76988e0f8ddc8"
   },
-  "signature": "tn9ixro6sy1dgc6vMsI8zSAH8+qRKvgebIQ0aR4aaTEvVhvW1zNbZrpSGUW3Giy7M7E6G3ZUUIumHqEodXKTWQ==",
+  "signature": "e+hLK4A+bwMmRz/XkOPlCOcC58pigMZtwjcjBhvOUSde1z+4xpETB+i0lbnULQwlgasJ6LUyAWt+49ZCbDVgCQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-09T18:31:07.823Z",
-  "expiresAt": "2026-12-09T18:31:07.823Z",
-  "nonce": "eab8d0038e118beec60b8be5dadfd227",
+  "wsUrl": "wss://interracial-collection-copyrighted-medicines.trycloudflare.com",
+  "httpUrl": "https://interracial-collection-copyrighted-medicines.trycloudflare.com",
+  "updatedAt": "2026-11-09T18:36:21.370Z",
+  "expiresAt": "2026-12-09T18:36:21.371Z",
+  "nonce": "54829c714fe7dfe410c9979cec62e758",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-09T18:31:07.823Z",
-    "expiresAt": "2026-12-09T18:31:07.823Z",
-    "nonce": "eab8d0038e118beec60b8be5dadfd227"
+    "wsUrl": "wss://interracial-collection-copyrighted-medicines.trycloudflare.com",
+    "httpUrl": "https://interracial-collection-copyrighted-medicines.trycloudflare.com",
+    "issuedAt": "2026-11-09T18:36:21.370Z",
+    "expiresAt": "2026-12-09T18:36:21.371Z",
+    "nonce": "54829c714fe7dfe410c9979cec62e758"
   },
-  "signature": "LBfjX5vHQ1V15tbEq/fs4jGvpgqTgv4t44H9zpaTySQ+GtrINDgLykEC4WNrr3euXyg8mXM/6q7rm6cSwtmccg==",
+  "signature": "6HsNJXUskn5KtNndvsxAJryEj7Opy7d8ZLC37l8K1+wOsyiPz61qvw7i64avVyBFZ7YB/2Y9xX9/jMTb2StRyw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-09T03:55:37.209Z",
-  "expiresAt": "2026-12-09T03:55:37.209Z",
-  "nonce": "d7d92de2cbf8d3de2f02abd7e33c6621",
+  "wsUrl": "wss://peninsula-concord-enemies-kenny.trycloudflare.com",
+  "httpUrl": "https://peninsula-concord-enemies-kenny.trycloudflare.com",
+  "updatedAt": "2026-11-09T04:21:39.328Z",
+  "expiresAt": "2026-12-09T04:21:39.328Z",
+  "nonce": "d05f33ec87a77b966242d84917d17950",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-09T03:55:37.209Z",
-    "expiresAt": "2026-12-09T03:55:37.209Z",
-    "nonce": "d7d92de2cbf8d3de2f02abd7e33c6621"
+    "wsUrl": "wss://peninsula-concord-enemies-kenny.trycloudflare.com",
+    "httpUrl": "https://peninsula-concord-enemies-kenny.trycloudflare.com",
+    "issuedAt": "2026-11-09T04:21:39.328Z",
+    "expiresAt": "2026-12-09T04:21:39.328Z",
+    "nonce": "d05f33ec87a77b966242d84917d17950"
   },
-  "signature": "CxEAfYrisZDpqE8P1Y0FYEEWU5/MlwXbKsQHqG6fLsSdWMJlQYRsRZDN+SsKZpq834WaOwpHVqMFPi6v8fGk5Q==",
+  "signature": "etoBTI7YWEwCmsEWzT0kEL/f/j7vgcaKH3AyxpUrYuWpcaHkpFgf1lvV9OnddhRRpxkYg+2RYgM/zrfDkUyBcA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

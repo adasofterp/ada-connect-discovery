@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://interracial-collection-copyrighted-medicines.trycloudflare.com",
-  "httpUrl": "https://interracial-collection-copyrighted-medicines.trycloudflare.com",
-  "updatedAt": "2026-11-09T18:36:21.370Z",
-  "expiresAt": "2026-12-09T18:36:21.371Z",
-  "nonce": "54829c714fe7dfe410c9979cec62e758",
+  "wsUrl": "wss://mine-volvo-benefits-spy.trycloudflare.com",
+  "httpUrl": "https://mine-volvo-benefits-spy.trycloudflare.com",
+  "updatedAt": "2026-11-09T18:46:51.418Z",
+  "expiresAt": "2026-12-09T18:46:51.418Z",
+  "nonce": "a885b1f718cae7c69f13b83954676a04",
   "payload": {
-    "wsUrl": "wss://interracial-collection-copyrighted-medicines.trycloudflare.com",
-    "httpUrl": "https://interracial-collection-copyrighted-medicines.trycloudflare.com",
-    "issuedAt": "2026-11-09T18:36:21.370Z",
-    "expiresAt": "2026-12-09T18:36:21.371Z",
-    "nonce": "54829c714fe7dfe410c9979cec62e758"
+    "wsUrl": "wss://mine-volvo-benefits-spy.trycloudflare.com",
+    "httpUrl": "https://mine-volvo-benefits-spy.trycloudflare.com",
+    "issuedAt": "2026-11-09T18:46:51.418Z",
+    "expiresAt": "2026-12-09T18:46:51.418Z",
+    "nonce": "a885b1f718cae7c69f13b83954676a04"
   },
-  "signature": "6HsNJXUskn5KtNndvsxAJryEj7Opy7d8ZLC37l8K1+wOsyiPz61qvw7i64avVyBFZ7YB/2Y9xX9/jMTb2StRyw==",
+  "signature": "fpBNAFadBLhMlVt+ZemcjnNGJME8mWxPHWXj8WFNODw7uGPJO59j0mKARag5fTgSwbUjq+Wpf+Cd61yyNrHotw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

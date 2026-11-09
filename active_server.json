@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://helpful-scenarios-striking-erik.trycloudflare.com",
-  "httpUrl": "https://helpful-scenarios-striking-erik.trycloudflare.com",
-  "updatedAt": "2026-11-09T08:21:39.298Z",
-  "expiresAt": "2026-12-09T08:21:39.298Z",
-  "nonce": "e3aa4b26a1e9249666caa30fe6a8718b",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-09T10:43:35.115Z",
+  "expiresAt": "2026-12-09T10:43:35.115Z",
+  "nonce": "f10e4a90565031ca68052f3f5ce2b38b",
   "payload": {
-    "wsUrl": "wss://helpful-scenarios-striking-erik.trycloudflare.com",
-    "httpUrl": "https://helpful-scenarios-striking-erik.trycloudflare.com",
-    "issuedAt": "2026-11-09T08:21:39.298Z",
-    "expiresAt": "2026-12-09T08:21:39.298Z",
-    "nonce": "e3aa4b26a1e9249666caa30fe6a8718b"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-09T10:43:35.115Z",
+    "expiresAt": "2026-12-09T10:43:35.115Z",
+    "nonce": "f10e4a90565031ca68052f3f5ce2b38b"
   },
-  "signature": "dBnBvWGy1OcCXG+hAYzLnmod+JJXE1OJtlBBw78oc8ISxoxsI3SvcbKLPQApxiUtTpZ+CwlW9/Tc6ixvlncJ0g==",
+  "signature": "dL0XO8sMr8tDY20m29Kvk+FpNyRDgguNDkeEb7N9P9gIYc2jVtLfZgEhWxvhQyzNs9GXoOu1gQa6lDwH3xQ+ag==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

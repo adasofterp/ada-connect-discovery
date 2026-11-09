@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://peter-integrity-clearing-donation.trycloudflare.com",
-  "httpUrl": "https://peter-integrity-clearing-donation.trycloudflare.com",
-  "updatedAt": "2026-11-09T00:36:21.983Z",
-  "expiresAt": "2026-12-09T00:36:21.983Z",
-  "nonce": "61ae8f9ad8a2415965f3d7acf9ce5283",
+  "wsUrl": "wss://advanced-managing-zus-athens.trycloudflare.com",
+  "httpUrl": "https://advanced-managing-zus-athens.trycloudflare.com",
+  "updatedAt": "2026-11-09T00:46:45.222Z",
+  "expiresAt": "2026-12-09T00:46:45.222Z",
+  "nonce": "57732bed4d114da27dcf9460f589e714",
   "payload": {
-    "wsUrl": "wss://peter-integrity-clearing-donation.trycloudflare.com",
-    "httpUrl": "https://peter-integrity-clearing-donation.trycloudflare.com",
-    "issuedAt": "2026-11-09T00:36:21.983Z",
-    "expiresAt": "2026-12-09T00:36:21.983Z",
-    "nonce": "61ae8f9ad8a2415965f3d7acf9ce5283"
+    "wsUrl": "wss://advanced-managing-zus-athens.trycloudflare.com",
+    "httpUrl": "https://advanced-managing-zus-athens.trycloudflare.com",
+    "issuedAt": "2026-11-09T00:46:45.222Z",
+    "expiresAt": "2026-12-09T00:46:45.222Z",
+    "nonce": "57732bed4d114da27dcf9460f589e714"
   },
-  "signature": "oMufisA1jKw88UHJwoiHkORggIXpQUuNyK5sHyvdVjcrlLJkjjxk5+Wt6K4ha8nqeWj2ayldB1CvB8GWnBFxVQ==",
+  "signature": "V3a82y6ZCKGvUUearNSmmgvcyPOmz4kldqzQisYronqr7EQNjrVJ4OKO27Z3cu/XZbcbydKsjsBOY3kMt2xEzg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

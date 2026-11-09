@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://refurbished-tapes-green-sporting.trycloudflare.com",
-  "httpUrl": "https://refurbished-tapes-green-sporting.trycloudflare.com",
-  "updatedAt": "2026-11-09T03:34:50.866Z",
-  "expiresAt": "2026-12-09T03:34:50.866Z",
-  "nonce": "c55786962d8ed945de07a9c49c54e670",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-09T03:55:37.209Z",
+  "expiresAt": "2026-12-09T03:55:37.209Z",
+  "nonce": "d7d92de2cbf8d3de2f02abd7e33c6621",
   "payload": {
-    "wsUrl": "wss://refurbished-tapes-green-sporting.trycloudflare.com",
-    "httpUrl": "https://refurbished-tapes-green-sporting.trycloudflare.com",
-    "issuedAt": "2026-11-09T03:34:50.866Z",
-    "expiresAt": "2026-12-09T03:34:50.866Z",
-    "nonce": "c55786962d8ed945de07a9c49c54e670"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-09T03:55:37.209Z",
+    "expiresAt": "2026-12-09T03:55:37.209Z",
+    "nonce": "d7d92de2cbf8d3de2f02abd7e33c6621"
   },
-  "signature": "ibcEyNl9k1Vh0a6m873J2TaPePLRttz0OgEr9VO1Nqe0rsZDM7ZczJn221/+cIn2cHv1Ukw2CTzqBY3x+35CpQ==",
+  "signature": "CxEAfYrisZDpqE8P1Y0FYEEWU5/MlwXbKsQHqG6fLsSdWMJlQYRsRZDN+SsKZpq834WaOwpHVqMFPi6v8fGk5Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

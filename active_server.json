@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sequence-changing-delivers-legislative.trycloudflare.com",
-  "httpUrl": "https://sequence-changing-delivers-legislative.trycloudflare.com",
-  "updatedAt": "2026-11-09T21:07:09.630Z",
-  "expiresAt": "2026-12-09T21:07:09.630Z",
-  "nonce": "4036ec0560164dfd1d8c878d97924625",
+  "wsUrl": "wss://daily-lectures-explaining-directors.trycloudflare.com",
+  "httpUrl": "https://daily-lectures-explaining-directors.trycloudflare.com",
+  "updatedAt": "2026-11-09T21:28:03.713Z",
+  "expiresAt": "2026-12-09T21:28:03.713Z",
+  "nonce": "f52a316b9b042cc266a8c8f40df8a8aa",
   "payload": {
-    "wsUrl": "wss://sequence-changing-delivers-legislative.trycloudflare.com",
-    "httpUrl": "https://sequence-changing-delivers-legislative.trycloudflare.com",
-    "issuedAt": "2026-11-09T21:07:09.630Z",
-    "expiresAt": "2026-12-09T21:07:09.630Z",
-    "nonce": "4036ec0560164dfd1d8c878d97924625"
+    "wsUrl": "wss://daily-lectures-explaining-directors.trycloudflare.com",
+    "httpUrl": "https://daily-lectures-explaining-directors.trycloudflare.com",
+    "issuedAt": "2026-11-09T21:28:03.713Z",
+    "expiresAt": "2026-12-09T21:28:03.713Z",
+    "nonce": "f52a316b9b042cc266a8c8f40df8a8aa"
   },
-  "signature": "78R9cjehHYb01huNe5Sg5ULvRK6mmK8+RDj00pneDcoL71L7vkfMf5qPqFlPhJoDRdrcp1J2z4p8YgDBpaKHnA==",
+  "signature": "SjFKKnaRarkvadIG+KZSFYj1jSi3AqkSqxg/YlHiV8FGbH1t4y00063gmhmE5SZ8N0HDp7ubO2RFXlxvGmXjhw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

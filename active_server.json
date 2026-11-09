@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://advanced-managing-zus-athens.trycloudflare.com",
-  "httpUrl": "https://advanced-managing-zus-athens.trycloudflare.com",
-  "updatedAt": "2026-11-09T00:46:45.222Z",
-  "expiresAt": "2026-12-09T00:46:45.222Z",
-  "nonce": "57732bed4d114da27dcf9460f589e714",
+  "wsUrl": "wss://vitamins-laboratory-away-anne.trycloudflare.com",
+  "httpUrl": "https://vitamins-laboratory-away-anne.trycloudflare.com",
+  "updatedAt": "2026-11-09T00:57:08.518Z",
+  "expiresAt": "2026-12-09T00:57:08.518Z",
+  "nonce": "097102423788ec05147d5ea3a6378813",
   "payload": {
-    "wsUrl": "wss://advanced-managing-zus-athens.trycloudflare.com",
-    "httpUrl": "https://advanced-managing-zus-athens.trycloudflare.com",
-    "issuedAt": "2026-11-09T00:46:45.222Z",
-    "expiresAt": "2026-12-09T00:46:45.222Z",
-    "nonce": "57732bed4d114da27dcf9460f589e714"
+    "wsUrl": "wss://vitamins-laboratory-away-anne.trycloudflare.com",
+    "httpUrl": "https://vitamins-laboratory-away-anne.trycloudflare.com",
+    "issuedAt": "2026-11-09T00:57:08.518Z",
+    "expiresAt": "2026-12-09T00:57:08.518Z",
+    "nonce": "097102423788ec05147d5ea3a6378813"
   },
-  "signature": "V3a82y6ZCKGvUUearNSmmgvcyPOmz4kldqzQisYronqr7EQNjrVJ4OKO27Z3cu/XZbcbydKsjsBOY3kMt2xEzg==",
+  "signature": "WbU1HhAuRPNGly/uTIq2utlWYvw4w7gMFTpRiTE6Tb/GDPWSB+YOb1H/6+N1zcRs3ld1PiSKJDUEaK2ho+MH0Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

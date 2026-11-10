@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-10T04:24:23.619Z",
-  "expiresAt": "2026-12-10T04:24:23.619Z",
-  "nonce": "e210a70eaf0165b61e8888aa59af9e3e",
+  "wsUrl": "wss://brussels-chester-seconds-married.trycloudflare.com",
+  "httpUrl": "https://brussels-chester-seconds-married.trycloudflare.com",
+  "updatedAt": "2026-11-10T04:34:42.319Z",
+  "expiresAt": "2026-12-10T04:34:42.319Z",
+  "nonce": "3c45d78430c0d23410b02efb2ec4cc6f",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-10T04:24:23.619Z",
-    "expiresAt": "2026-12-10T04:24:23.619Z",
-    "nonce": "e210a70eaf0165b61e8888aa59af9e3e"
+    "wsUrl": "wss://brussels-chester-seconds-married.trycloudflare.com",
+    "httpUrl": "https://brussels-chester-seconds-married.trycloudflare.com",
+    "issuedAt": "2026-11-10T04:34:42.319Z",
+    "expiresAt": "2026-12-10T04:34:42.319Z",
+    "nonce": "3c45d78430c0d23410b02efb2ec4cc6f"
   },
-  "signature": "l+tY8xm+IesQy5reGCPYYDEyiww9TvjPglkGrrHojztNTdqUnjhpteMoRRp6DYui6aMoSneEiDhC486eFk/j8w==",
+  "signature": "jKyTITrKvkNSVgjGUFMIM24RrhhJG9/jb93vUHiLFHKdtPuJV2k01Z+ZoC8OssXkorvYCf5Gv4n7wCH7I7WM6w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://reserve-annotated-supplies-forever.trycloudflare.com",
-  "httpUrl": "https://reserve-annotated-supplies-forever.trycloudflare.com",
-  "updatedAt": "2026-11-10T05:19:08.765Z",
-  "expiresAt": "2026-12-10T05:19:08.765Z",
-  "nonce": "3543732262120313b32d652aaa9797fe",
+  "wsUrl": "wss://back-charging-reporter-actress.trycloudflare.com",
+  "httpUrl": "https://back-charging-reporter-actress.trycloudflare.com",
+  "updatedAt": "2026-11-10T05:48:03.443Z",
+  "expiresAt": "2026-12-10T05:48:03.443Z",
+  "nonce": "288cdca801a13e5c8fdabeade0219965",
   "payload": {
-    "wsUrl": "wss://reserve-annotated-supplies-forever.trycloudflare.com",
-    "httpUrl": "https://reserve-annotated-supplies-forever.trycloudflare.com",
-    "issuedAt": "2026-11-10T05:19:08.765Z",
-    "expiresAt": "2026-12-10T05:19:08.765Z",
-    "nonce": "3543732262120313b32d652aaa9797fe"
+    "wsUrl": "wss://back-charging-reporter-actress.trycloudflare.com",
+    "httpUrl": "https://back-charging-reporter-actress.trycloudflare.com",
+    "issuedAt": "2026-11-10T05:48:03.443Z",
+    "expiresAt": "2026-12-10T05:48:03.443Z",
+    "nonce": "288cdca801a13e5c8fdabeade0219965"
   },
-  "signature": "gNAKkTM6+wWf7jWS6EX7ABhFn/zQz894Qb2uvfbVAludRVYSZfoqwhj4iIxD9jlRrFJ5nmsId4edmzpEC2pSkQ==",
+  "signature": "vwAZdeTZ4WesKagb1bvBCduvHjLphJm02b+FBE4Bx1Pq5bjxF/x0pImXBZiTdwwlfcu/vdkesLOuHk40AXIm7g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

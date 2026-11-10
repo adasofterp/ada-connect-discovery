@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-10T22:59:04.279Z",
-  "expiresAt": "2026-12-10T22:59:04.279Z",
-  "nonce": "e430d52381838b0040102cb16e1147a2",
+  "wsUrl": "wss://extensions-score-producer-math.trycloudflare.com",
+  "httpUrl": "https://extensions-score-producer-math.trycloudflare.com",
+  "updatedAt": "2026-11-10T22:59:18.443Z",
+  "expiresAt": "2026-12-10T22:59:18.443Z",
+  "nonce": "6f9202b5a6940bf83768df00ddabb932",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-10T22:59:04.279Z",
-    "expiresAt": "2026-12-10T22:59:04.279Z",
-    "nonce": "e430d52381838b0040102cb16e1147a2"
+    "wsUrl": "wss://extensions-score-producer-math.trycloudflare.com",
+    "httpUrl": "https://extensions-score-producer-math.trycloudflare.com",
+    "issuedAt": "2026-11-10T22:59:18.443Z",
+    "expiresAt": "2026-12-10T22:59:18.443Z",
+    "nonce": "6f9202b5a6940bf83768df00ddabb932"
   },
-  "signature": "70pgdWreMbUGkbpu/Ej2xsXwARuaEvqU9p8K1kVd36BPweGjayVQOnZklaK7gG/tY0ZsV+3niGt2/5IvXNvBgQ==",
+  "signature": "e+2PP6lGfbFAazv5ExcHJNEvLsHpJXoua/F/cjjug0KwGvqp4dKiUH/psklDggvQLD4SKAQcpvOF7vhPrIZ7Pw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

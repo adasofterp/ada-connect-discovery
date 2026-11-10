@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://son-moscow-treasurer-simultaneously.trycloudflare.com",
-  "httpUrl": "https://son-moscow-treasurer-simultaneously.trycloudflare.com",
-  "updatedAt": "2026-11-10T00:26:32.373Z",
-  "expiresAt": "2026-12-10T00:26:32.373Z",
-  "nonce": "b5f8332968cf7130a433b1ef773c88e9",
+  "wsUrl": "wss://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
+  "httpUrl": "https://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
+  "updatedAt": "2026-11-10T00:26:38.043Z",
+  "expiresAt": "2026-12-10T00:26:38.043Z",
+  "nonce": "867cedc00ee18bbf93c38cf487e81bc1",
   "payload": {
-    "wsUrl": "wss://son-moscow-treasurer-simultaneously.trycloudflare.com",
-    "httpUrl": "https://son-moscow-treasurer-simultaneously.trycloudflare.com",
-    "issuedAt": "2026-11-10T00:26:32.373Z",
-    "expiresAt": "2026-12-10T00:26:32.373Z",
-    "nonce": "b5f8332968cf7130a433b1ef773c88e9"
+    "wsUrl": "wss://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
+    "httpUrl": "https://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
+    "issuedAt": "2026-11-10T00:26:38.043Z",
+    "expiresAt": "2026-12-10T00:26:38.043Z",
+    "nonce": "867cedc00ee18bbf93c38cf487e81bc1"
   },
-  "signature": "ci7SVLnL2xP2NQUrZCw6oxTCkVDNwauryHdBO/M1UWIeRXC7FdlqV91DDr2vIT0Oc0R+pwCa87uOzTn7EnJ6Uw==",
+  "signature": "TrG8oH5KKFuHwratI9zmaby0HqzpTi9dzWPopvxRq43u1mAWfDoPTpvFBFsO29WS/e6NJO29PfY2xrylE0Fe3A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

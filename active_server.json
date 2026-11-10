@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cohen-shoot-pink-tale.trycloudflare.com",
-  "httpUrl": "https://cohen-shoot-pink-tale.trycloudflare.com",
-  "updatedAt": "2026-11-10T06:02:13.936Z",
-  "expiresAt": "2026-12-10T06:02:13.936Z",
-  "nonce": "ec1ae72e5ff5fd91b052cee1d972ec3e",
+  "wsUrl": "wss://susan-base-realm-dollars.trycloudflare.com",
+  "httpUrl": "https://susan-base-realm-dollars.trycloudflare.com",
+  "updatedAt": "2026-11-10T06:18:34.260Z",
+  "expiresAt": "2026-12-10T06:18:34.260Z",
+  "nonce": "6f564e477db2437b638f47dec0ab99c7",
   "payload": {
-    "wsUrl": "wss://cohen-shoot-pink-tale.trycloudflare.com",
-    "httpUrl": "https://cohen-shoot-pink-tale.trycloudflare.com",
-    "issuedAt": "2026-11-10T06:02:13.936Z",
-    "expiresAt": "2026-12-10T06:02:13.936Z",
-    "nonce": "ec1ae72e5ff5fd91b052cee1d972ec3e"
+    "wsUrl": "wss://susan-base-realm-dollars.trycloudflare.com",
+    "httpUrl": "https://susan-base-realm-dollars.trycloudflare.com",
+    "issuedAt": "2026-11-10T06:18:34.260Z",
+    "expiresAt": "2026-12-10T06:18:34.260Z",
+    "nonce": "6f564e477db2437b638f47dec0ab99c7"
   },
-  "signature": "60cLUA+pwAEqlr6HzCdK5Ef8iMYepntoJwQV4zxXp9HIg2Z3nT9m5/9YrH0MBN2Sq6eNjwsKpZM/lRFBxBKAkA==",
+  "signature": "GBTKq65Mv+JZeTj52FrqfCfmVpSyF3w4Im+iSmA8SHIreHrE2VsLaQ39aD44BDoowqZIHiZ5Vt9+GTHsQ+BGpQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

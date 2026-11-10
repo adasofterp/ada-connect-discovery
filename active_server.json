@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://observations-philips-launches-encouraged.trycloudflare.com",
-  "httpUrl": "https://observations-philips-launches-encouraged.trycloudflare.com",
-  "updatedAt": "2026-11-10T04:40:00.716Z",
-  "expiresAt": "2026-12-10T04:40:00.716Z",
-  "nonce": "69ea4b1b0d191e3699254f2bda526235",
+  "wsUrl": "wss://generic-constitutional-anymore-networking.trycloudflare.com",
+  "httpUrl": "https://generic-constitutional-anymore-networking.trycloudflare.com",
+  "updatedAt": "2026-11-10T05:08:41.216Z",
+  "expiresAt": "2026-12-10T05:08:41.216Z",
+  "nonce": "a10d1b61c97c1988834289dcaaac2617",
   "payload": {
-    "wsUrl": "wss://observations-philips-launches-encouraged.trycloudflare.com",
-    "httpUrl": "https://observations-philips-launches-encouraged.trycloudflare.com",
-    "issuedAt": "2026-11-10T04:40:00.716Z",
-    "expiresAt": "2026-12-10T04:40:00.716Z",
-    "nonce": "69ea4b1b0d191e3699254f2bda526235"
+    "wsUrl": "wss://generic-constitutional-anymore-networking.trycloudflare.com",
+    "httpUrl": "https://generic-constitutional-anymore-networking.trycloudflare.com",
+    "issuedAt": "2026-11-10T05:08:41.216Z",
+    "expiresAt": "2026-12-10T05:08:41.216Z",
+    "nonce": "a10d1b61c97c1988834289dcaaac2617"
   },
-  "signature": "qq1An7VVdaTOGjQx+xwM1DTsyBlr8Bg0T48IzymYMB71m1H4aHAkqEGjhhYLoAeNMozLVM6CVKnoLS5aBaDhWw==",
+  "signature": "T+jI2GdPdSsx5TYC8IU+AQwKfZ8q5DaaSYE48nagR0j7LH7ISvNLcQe+TXbgREgeKPyWkazJspdo7+iNfzWkbw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

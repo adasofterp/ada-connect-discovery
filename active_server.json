@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://significantly-irc-interference-focus.trycloudflare.com",
-  "httpUrl": "https://significantly-irc-interference-focus.trycloudflare.com",
-  "updatedAt": "2026-11-10T12:17:37.833Z",
-  "expiresAt": "2026-12-10T12:17:37.833Z",
-  "nonce": "409a4944d74c0913e08c02b5a0cc81af",
+  "wsUrl": "wss://bbs-discuss-printed-waterproof.trycloudflare.com",
+  "httpUrl": "https://bbs-discuss-printed-waterproof.trycloudflare.com",
+  "updatedAt": "2026-11-10T12:21:41.444Z",
+  "expiresAt": "2026-12-10T12:21:41.444Z",
+  "nonce": "c5ad97a3fcf3d14d6be70b59c8601f11",
   "payload": {
-    "wsUrl": "wss://significantly-irc-interference-focus.trycloudflare.com",
-    "httpUrl": "https://significantly-irc-interference-focus.trycloudflare.com",
-    "issuedAt": "2026-11-10T12:17:37.833Z",
-    "expiresAt": "2026-12-10T12:17:37.833Z",
-    "nonce": "409a4944d74c0913e08c02b5a0cc81af"
+    "wsUrl": "wss://bbs-discuss-printed-waterproof.trycloudflare.com",
+    "httpUrl": "https://bbs-discuss-printed-waterproof.trycloudflare.com",
+    "issuedAt": "2026-11-10T12:21:41.444Z",
+    "expiresAt": "2026-12-10T12:21:41.444Z",
+    "nonce": "c5ad97a3fcf3d14d6be70b59c8601f11"
   },
-  "signature": "LQAlR/P8U43BGVhjJJHNgOrBcpDmGToMG9apBXm6lif+upa/PcUaMyNz8aXeVM6q/SZ2eniDw9GYRMhw66x5yA==",
+  "signature": "zs3iBHRa4LImw0FZdl1CdedRn9A/6DYoCoxqs2+ZKlsfXkS4wMAOkW+WK2C4EtgBbP3sRw4obxmV9/9dbQ1sEQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

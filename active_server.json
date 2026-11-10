@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
-  "httpUrl": "https://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
-  "updatedAt": "2026-11-10T00:26:38.043Z",
-  "expiresAt": "2026-12-10T00:26:38.043Z",
-  "nonce": "867cedc00ee18bbf93c38cf487e81bc1",
+  "wsUrl": "wss://yacht-pdas-referring-contacted.trycloudflare.com",
+  "httpUrl": "https://yacht-pdas-referring-contacted.trycloudflare.com",
+  "updatedAt": "2026-11-10T01:18:42.599Z",
+  "expiresAt": "2026-12-10T01:18:42.599Z",
+  "nonce": "6f10c368f6e21bb8cfbe4f56ba4a958b",
   "payload": {
-    "wsUrl": "wss://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
-    "httpUrl": "https://enlarge-pittsburgh-missing-compliance.trycloudflare.com",
-    "issuedAt": "2026-11-10T00:26:38.043Z",
-    "expiresAt": "2026-12-10T00:26:38.043Z",
-    "nonce": "867cedc00ee18bbf93c38cf487e81bc1"
+    "wsUrl": "wss://yacht-pdas-referring-contacted.trycloudflare.com",
+    "httpUrl": "https://yacht-pdas-referring-contacted.trycloudflare.com",
+    "issuedAt": "2026-11-10T01:18:42.599Z",
+    "expiresAt": "2026-12-10T01:18:42.599Z",
+    "nonce": "6f10c368f6e21bb8cfbe4f56ba4a958b"
   },
-  "signature": "TrG8oH5KKFuHwratI9zmaby0HqzpTi9dzWPopvxRq43u1mAWfDoPTpvFBFsO29WS/e6NJO29PfY2xrylE0Fe3A==",
+  "signature": "b5jqpNK+QSuxsL3F7C9vINzdUgEAes8O6CXL69cb7EiBps4tIkT5L9oCsBShC++Gb4n/2kvn9QGsILGiLl8bjg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://asthma-effort-brian-brian.trycloudflare.com",
-  "httpUrl": "https://asthma-effort-brian-brian.trycloudflare.com",
-  "updatedAt": "2026-11-10T17:11:04.849Z",
-  "expiresAt": "2026-12-10T17:11:04.849Z",
-  "nonce": "436d45e81d97b9cc512d56605d778abb",
+  "wsUrl": "wss://asking-nsw-infrared-nowhere.trycloudflare.com",
+  "httpUrl": "https://asking-nsw-infrared-nowhere.trycloudflare.com",
+  "updatedAt": "2026-11-10T17:21:28.155Z",
+  "expiresAt": "2026-12-10T17:21:28.155Z",
+  "nonce": "0f7743432f8e88effcd157816d862586",
   "payload": {
-    "wsUrl": "wss://asthma-effort-brian-brian.trycloudflare.com",
-    "httpUrl": "https://asthma-effort-brian-brian.trycloudflare.com",
-    "issuedAt": "2026-11-10T17:11:04.849Z",
-    "expiresAt": "2026-12-10T17:11:04.849Z",
-    "nonce": "436d45e81d97b9cc512d56605d778abb"
+    "wsUrl": "wss://asking-nsw-infrared-nowhere.trycloudflare.com",
+    "httpUrl": "https://asking-nsw-infrared-nowhere.trycloudflare.com",
+    "issuedAt": "2026-11-10T17:21:28.155Z",
+    "expiresAt": "2026-12-10T17:21:28.155Z",
+    "nonce": "0f7743432f8e88effcd157816d862586"
   },
-  "signature": "+9Sfh+ACXjfeS5J6bideQ1fx0dALWUSAClzpwcIyT2Gk+DoWhg3krbW3XnrG+/B7vD4i9VAvUbavDeC94i6ZPw==",
+  "signature": "3Kbai+VAOtxSpzSz0WdeliIYbN0AJeiWWk/8lTnF1kVa1QYMdfiudNVkGcHtidGBzrRKJZT4Wul4B8POyQVg2g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

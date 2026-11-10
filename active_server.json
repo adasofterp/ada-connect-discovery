@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://maintains-baptist-daughters-parliament.trycloudflare.com",
-  "httpUrl": "https://maintains-baptist-daughters-parliament.trycloudflare.com",
-  "updatedAt": "2026-11-10T07:56:05.190Z",
-  "expiresAt": "2026-12-10T07:56:05.190Z",
-  "nonce": "8f5f87ac212ce2cc91cdc5f26bfbabbe",
+  "wsUrl": "wss://pink-regards-seventh-patrol.trycloudflare.com",
+  "httpUrl": "https://pink-regards-seventh-patrol.trycloudflare.com",
+  "updatedAt": "2026-11-10T08:10:34.238Z",
+  "expiresAt": "2026-12-10T08:10:34.239Z",
+  "nonce": "15a1eded6059f22bb24028bd956fee07",
   "payload": {
-    "wsUrl": "wss://maintains-baptist-daughters-parliament.trycloudflare.com",
-    "httpUrl": "https://maintains-baptist-daughters-parliament.trycloudflare.com",
-    "issuedAt": "2026-11-10T07:56:05.190Z",
-    "expiresAt": "2026-12-10T07:56:05.190Z",
-    "nonce": "8f5f87ac212ce2cc91cdc5f26bfbabbe"
+    "wsUrl": "wss://pink-regards-seventh-patrol.trycloudflare.com",
+    "httpUrl": "https://pink-regards-seventh-patrol.trycloudflare.com",
+    "issuedAt": "2026-11-10T08:10:34.238Z",
+    "expiresAt": "2026-12-10T08:10:34.239Z",
+    "nonce": "15a1eded6059f22bb24028bd956fee07"
   },
-  "signature": "m/ZAgEbet0CmjW+phdOwQND5yWBzinyO9zwS02zfIVzgwk7lUaKdvm6Q2IF/K5Q5+fs0SNYHolNAH33UhLb/NA==",
+  "signature": "5gpaA02dSzJzz6HXQSrZbp4v4Uw8Y5Bbsurldq8NvGqEV/QtPFxchIjPkg8hJ3TjQTUocKtWrmay6Aivx7YGfw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

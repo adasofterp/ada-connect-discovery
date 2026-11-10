@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://back-charging-reporter-actress.trycloudflare.com",
-  "httpUrl": "https://back-charging-reporter-actress.trycloudflare.com",
-  "updatedAt": "2026-11-10T05:48:03.443Z",
-  "expiresAt": "2026-12-10T05:48:03.443Z",
-  "nonce": "288cdca801a13e5c8fdabeade0219965",
+  "wsUrl": "wss://cohen-shoot-pink-tale.trycloudflare.com",
+  "httpUrl": "https://cohen-shoot-pink-tale.trycloudflare.com",
+  "updatedAt": "2026-11-10T06:02:13.936Z",
+  "expiresAt": "2026-12-10T06:02:13.936Z",
+  "nonce": "ec1ae72e5ff5fd91b052cee1d972ec3e",
   "payload": {
-    "wsUrl": "wss://back-charging-reporter-actress.trycloudflare.com",
-    "httpUrl": "https://back-charging-reporter-actress.trycloudflare.com",
-    "issuedAt": "2026-11-10T05:48:03.443Z",
-    "expiresAt": "2026-12-10T05:48:03.443Z",
-    "nonce": "288cdca801a13e5c8fdabeade0219965"
+    "wsUrl": "wss://cohen-shoot-pink-tale.trycloudflare.com",
+    "httpUrl": "https://cohen-shoot-pink-tale.trycloudflare.com",
+    "issuedAt": "2026-11-10T06:02:13.936Z",
+    "expiresAt": "2026-12-10T06:02:13.936Z",
+    "nonce": "ec1ae72e5ff5fd91b052cee1d972ec3e"
   },
-  "signature": "vwAZdeTZ4WesKagb1bvBCduvHjLphJm02b+FBE4Bx1Pq5bjxF/x0pImXBZiTdwwlfcu/vdkesLOuHk40AXIm7g==",
+  "signature": "60cLUA+pwAEqlr6HzCdK5Ef8iMYepntoJwQV4zxXp9HIg2Z3nT9m5/9YrH0MBN2Sq6eNjwsKpZM/lRFBxBKAkA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

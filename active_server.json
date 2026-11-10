@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-10T02:10:46.655Z",
-  "expiresAt": "2026-12-10T02:10:46.655Z",
-  "nonce": "75252c697f8a1d30649d1678d71255b4",
+  "wsUrl": "wss://almost-stephanie-habits-clubs.trycloudflare.com",
+  "httpUrl": "https://almost-stephanie-habits-clubs.trycloudflare.com",
+  "updatedAt": "2026-11-10T02:15:57.941Z",
+  "expiresAt": "2026-12-10T02:15:57.941Z",
+  "nonce": "c575089a26e03df09660300bdc0f35d2",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-10T02:10:46.655Z",
-    "expiresAt": "2026-12-10T02:10:46.655Z",
-    "nonce": "75252c697f8a1d30649d1678d71255b4"
+    "wsUrl": "wss://almost-stephanie-habits-clubs.trycloudflare.com",
+    "httpUrl": "https://almost-stephanie-habits-clubs.trycloudflare.com",
+    "issuedAt": "2026-11-10T02:15:57.941Z",
+    "expiresAt": "2026-12-10T02:15:57.941Z",
+    "nonce": "c575089a26e03df09660300bdc0f35d2"
   },
-  "signature": "yw+zXi2vv87RU2xlZucqoj4W5F+HNUxBGYOi5xUAEXjntNcS/JcozFKEjykbNgoeqNSkVlEL/kjWcLey//HY6Q==",
+  "signature": "lHruKqO7mNWgNYCFWCHInIPMUycVPKcYbofTbWOUDOvXkEZ2kdkodftqsb9HKH1nmSdOpCL/iRqN3W2rfWOpOg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

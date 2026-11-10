@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://asking-nsw-infrared-nowhere.trycloudflare.com",
-  "httpUrl": "https://asking-nsw-infrared-nowhere.trycloudflare.com",
-  "updatedAt": "2026-11-10T17:21:28.155Z",
-  "expiresAt": "2026-12-10T17:21:28.155Z",
-  "nonce": "0f7743432f8e88effcd157816d862586",
+  "wsUrl": "wss://merry-tracker-evidence-goal.trycloudflare.com",
+  "httpUrl": "https://merry-tracker-evidence-goal.trycloudflare.com",
+  "updatedAt": "2026-11-10T17:31:52.493Z",
+  "expiresAt": "2026-12-10T17:31:52.493Z",
+  "nonce": "878694913f23c60297430d254c1b5294",
   "payload": {
-    "wsUrl": "wss://asking-nsw-infrared-nowhere.trycloudflare.com",
-    "httpUrl": "https://asking-nsw-infrared-nowhere.trycloudflare.com",
-    "issuedAt": "2026-11-10T17:21:28.155Z",
-    "expiresAt": "2026-12-10T17:21:28.155Z",
-    "nonce": "0f7743432f8e88effcd157816d862586"
+    "wsUrl": "wss://merry-tracker-evidence-goal.trycloudflare.com",
+    "httpUrl": "https://merry-tracker-evidence-goal.trycloudflare.com",
+    "issuedAt": "2026-11-10T17:31:52.493Z",
+    "expiresAt": "2026-12-10T17:31:52.493Z",
+    "nonce": "878694913f23c60297430d254c1b5294"
   },
-  "signature": "3Kbai+VAOtxSpzSz0WdeliIYbN0AJeiWWk/8lTnF1kVa1QYMdfiudNVkGcHtidGBzrRKJZT4Wul4B8POyQVg2g==",
+  "signature": "5bSiQ+cgb7TBfLA7a8Nt1Ui34dsLsn2bDeW55ZtxAOS8Ux6bGvC0oqFarPc7KItDzNu/1GE9gHToqoy24sz09g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

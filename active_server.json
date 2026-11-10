@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://routine-joshua-educated-print.trycloudflare.com",
-  "httpUrl": "https://routine-joshua-educated-print.trycloudflare.com",
-  "updatedAt": "2026-11-09T23:55:23.447Z",
-  "expiresAt": "2026-12-09T23:55:23.447Z",
-  "nonce": "4e116023431a1b945e7ecb6cfaa9fa66",
+  "wsUrl": "wss://amounts-manner-prisoner-baptist.trycloudflare.com",
+  "httpUrl": "https://amounts-manner-prisoner-baptist.trycloudflare.com",
+  "updatedAt": "2026-11-10T00:05:47.954Z",
+  "expiresAt": "2026-12-10T00:05:47.954Z",
+  "nonce": "7a058b54f31f4cd135b32074a475e5e8",
   "payload": {
-    "wsUrl": "wss://routine-joshua-educated-print.trycloudflare.com",
-    "httpUrl": "https://routine-joshua-educated-print.trycloudflare.com",
-    "issuedAt": "2026-11-09T23:55:23.447Z",
-    "expiresAt": "2026-12-09T23:55:23.447Z",
-    "nonce": "4e116023431a1b945e7ecb6cfaa9fa66"
+    "wsUrl": "wss://amounts-manner-prisoner-baptist.trycloudflare.com",
+    "httpUrl": "https://amounts-manner-prisoner-baptist.trycloudflare.com",
+    "issuedAt": "2026-11-10T00:05:47.954Z",
+    "expiresAt": "2026-12-10T00:05:47.954Z",
+    "nonce": "7a058b54f31f4cd135b32074a475e5e8"
   },
-  "signature": "aFmLd2WVa/LuU3/lXhyT3tLZk5WFOvulUDErR+FaGZ0ORJw+SaoMmI56+COe/R67VaBhRsNKREfc+m5ww/jwLA==",
+  "signature": "Z9ar+Vyf8ThEbtrhR0+bZif1pl+gAFIighPgoez/Cd2cPs6E/1giS28qMe98QiSF6KWBTH2NOwe0j2DCUHdb0g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

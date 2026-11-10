@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://flavor-load-integral-syntax.trycloudflare.com",
-  "httpUrl": "https://flavor-load-integral-syntax.trycloudflare.com",
-  "updatedAt": "2026-11-10T06:55:04.457Z",
-  "expiresAt": "2026-12-10T06:55:04.457Z",
-  "nonce": "fcc0763de42503978abcc8accf433b1f",
+  "wsUrl": "wss://maintains-baptist-daughters-parliament.trycloudflare.com",
+  "httpUrl": "https://maintains-baptist-daughters-parliament.trycloudflare.com",
+  "updatedAt": "2026-11-10T07:56:05.190Z",
+  "expiresAt": "2026-12-10T07:56:05.190Z",
+  "nonce": "8f5f87ac212ce2cc91cdc5f26bfbabbe",
   "payload": {
-    "wsUrl": "wss://flavor-load-integral-syntax.trycloudflare.com",
-    "httpUrl": "https://flavor-load-integral-syntax.trycloudflare.com",
-    "issuedAt": "2026-11-10T06:55:04.457Z",
-    "expiresAt": "2026-12-10T06:55:04.457Z",
-    "nonce": "fcc0763de42503978abcc8accf433b1f"
+    "wsUrl": "wss://maintains-baptist-daughters-parliament.trycloudflare.com",
+    "httpUrl": "https://maintains-baptist-daughters-parliament.trycloudflare.com",
+    "issuedAt": "2026-11-10T07:56:05.190Z",
+    "expiresAt": "2026-12-10T07:56:05.190Z",
+    "nonce": "8f5f87ac212ce2cc91cdc5f26bfbabbe"
   },
-  "signature": "sXEAK5QloJERnsUh7v/gHSgThqthxekV3gSKo9iMNsFLZh+Y13dHGSIIj4458mGHe1fJR38Wc0S0HCOvFhI14w==",
+  "signature": "m/ZAgEbet0CmjW+phdOwQND5yWBzinyO9zwS02zfIVzgwk7lUaKdvm6Q2IF/K5Q5+fs0SNYHolNAH33UhLb/NA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

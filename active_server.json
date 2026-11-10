@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://amounts-manner-prisoner-baptist.trycloudflare.com",
-  "httpUrl": "https://amounts-manner-prisoner-baptist.trycloudflare.com",
-  "updatedAt": "2026-11-10T00:05:47.954Z",
-  "expiresAt": "2026-12-10T00:05:47.954Z",
-  "nonce": "7a058b54f31f4cd135b32074a475e5e8",
+  "wsUrl": "wss://son-moscow-treasurer-simultaneously.trycloudflare.com",
+  "httpUrl": "https://son-moscow-treasurer-simultaneously.trycloudflare.com",
+  "updatedAt": "2026-11-10T00:16:13.591Z",
+  "expiresAt": "2026-12-10T00:16:13.591Z",
+  "nonce": "952ba9ed304dd310c4cd9ea30fe1d931",
   "payload": {
-    "wsUrl": "wss://amounts-manner-prisoner-baptist.trycloudflare.com",
-    "httpUrl": "https://amounts-manner-prisoner-baptist.trycloudflare.com",
-    "issuedAt": "2026-11-10T00:05:47.954Z",
-    "expiresAt": "2026-12-10T00:05:47.954Z",
-    "nonce": "7a058b54f31f4cd135b32074a475e5e8"
+    "wsUrl": "wss://son-moscow-treasurer-simultaneously.trycloudflare.com",
+    "httpUrl": "https://son-moscow-treasurer-simultaneously.trycloudflare.com",
+    "issuedAt": "2026-11-10T00:16:13.591Z",
+    "expiresAt": "2026-12-10T00:16:13.591Z",
+    "nonce": "952ba9ed304dd310c4cd9ea30fe1d931"
   },
-  "signature": "Z9ar+Vyf8ThEbtrhR0+bZif1pl+gAFIighPgoez/Cd2cPs6E/1giS28qMe98QiSF6KWBTH2NOwe0j2DCUHdb0g==",
+  "signature": "5lrTt/WVP7zm1h/14r+hve6jL2ybzd4NBVaws8zvC2V9xDRsW4sMzE34cvTMkpOJj3s6ruaJDEUL94gW7OpLFA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

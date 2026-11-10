@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bizrate-hearts-benefits-admit.trycloudflare.com",
-  "httpUrl": "https://bizrate-hearts-benefits-admit.trycloudflare.com",
-  "updatedAt": "2026-11-10T13:26:19.506Z",
-  "expiresAt": "2026-12-10T13:26:19.506Z",
-  "nonce": "623b807646ea38aaf7db35c687ac41a4",
+  "wsUrl": "wss://initially-snowboard-designation-concern.trycloudflare.com",
+  "httpUrl": "https://initially-snowboard-designation-concern.trycloudflare.com",
+  "updatedAt": "2026-11-10T13:42:05.487Z",
+  "expiresAt": "2026-12-10T13:42:05.487Z",
+  "nonce": "53bae24baed315a668ff1b90eec3e8e9",
   "payload": {
-    "wsUrl": "wss://bizrate-hearts-benefits-admit.trycloudflare.com",
-    "httpUrl": "https://bizrate-hearts-benefits-admit.trycloudflare.com",
-    "issuedAt": "2026-11-10T13:26:19.506Z",
-    "expiresAt": "2026-12-10T13:26:19.506Z",
-    "nonce": "623b807646ea38aaf7db35c687ac41a4"
+    "wsUrl": "wss://initially-snowboard-designation-concern.trycloudflare.com",
+    "httpUrl": "https://initially-snowboard-designation-concern.trycloudflare.com",
+    "issuedAt": "2026-11-10T13:42:05.487Z",
+    "expiresAt": "2026-12-10T13:42:05.487Z",
+    "nonce": "53bae24baed315a668ff1b90eec3e8e9"
   },
-  "signature": "XL1Y5qAZcUbqp1O3Mrx07DY7W80EeB5r4W3qxr7ZXnBIDUGlNy1BuVmyjvKlY39muWkjo2xhruHv/g1Wq3xtfw==",
+  "signature": "73x1e7zog61XfIJ2YBHjJ0Xp4frjwUILUh9CyfNadLyB+qh/7zDSFFneCg9KntodKt/GTgstYsGF7cfZfQn2IQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

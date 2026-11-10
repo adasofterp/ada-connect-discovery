@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://contamination-media-changelog-subjective.trycloudflare.com",
-  "httpUrl": "https://contamination-media-changelog-subjective.trycloudflare.com",
-  "updatedAt": "2026-11-10T03:07:51.271Z",
-  "expiresAt": "2026-12-10T03:07:51.271Z",
-  "nonce": "c55438b03573b5ac6fa3a51d31c2ca19",
+  "wsUrl": "wss://soldier-rocket-desired-hero.trycloudflare.com",
+  "httpUrl": "https://soldier-rocket-desired-hero.trycloudflare.com",
+  "updatedAt": "2026-11-10T03:39:09.475Z",
+  "expiresAt": "2026-12-10T03:39:09.475Z",
+  "nonce": "eb99a39c77d169e714501e7d16bf3669",
   "payload": {
-    "wsUrl": "wss://contamination-media-changelog-subjective.trycloudflare.com",
-    "httpUrl": "https://contamination-media-changelog-subjective.trycloudflare.com",
-    "issuedAt": "2026-11-10T03:07:51.271Z",
-    "expiresAt": "2026-12-10T03:07:51.271Z",
-    "nonce": "c55438b03573b5ac6fa3a51d31c2ca19"
+    "wsUrl": "wss://soldier-rocket-desired-hero.trycloudflare.com",
+    "httpUrl": "https://soldier-rocket-desired-hero.trycloudflare.com",
+    "issuedAt": "2026-11-10T03:39:09.475Z",
+    "expiresAt": "2026-12-10T03:39:09.475Z",
+    "nonce": "eb99a39c77d169e714501e7d16bf3669"
   },
-  "signature": "EMYcxJm9BMb9GISjvtx6pcgyvaelX/uv4xZZKE9kZ0MjKkstOPbiHLJbVgTRyr4Mn+gHVn4zCkvkHqiZ7LWi5g==",
+  "signature": "2lO4jw7+V0CgNvJ5wGvMY2fBLFIDHszatLkUUvFU6nMmL97KR3v4pvQWwoOTAgozGH0LYusBMD/ZTBVtXsARbQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

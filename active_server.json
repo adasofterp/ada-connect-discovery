@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://susan-base-realm-dollars.trycloudflare.com",
-  "httpUrl": "https://susan-base-realm-dollars.trycloudflare.com",
-  "updatedAt": "2026-11-10T06:18:34.260Z",
-  "expiresAt": "2026-12-10T06:18:34.260Z",
-  "nonce": "6f564e477db2437b638f47dec0ab99c7",
+  "wsUrl": "wss://cloud-opportunities-styles-friday.trycloudflare.com",
+  "httpUrl": "https://cloud-opportunities-styles-friday.trycloudflare.com",
+  "updatedAt": "2026-11-10T06:33:49.911Z",
+  "expiresAt": "2026-12-10T06:33:49.911Z",
+  "nonce": "68b6ea43737322e6312d3181644a8ec4",
   "payload": {
-    "wsUrl": "wss://susan-base-realm-dollars.trycloudflare.com",
-    "httpUrl": "https://susan-base-realm-dollars.trycloudflare.com",
-    "issuedAt": "2026-11-10T06:18:34.260Z",
-    "expiresAt": "2026-12-10T06:18:34.260Z",
-    "nonce": "6f564e477db2437b638f47dec0ab99c7"
+    "wsUrl": "wss://cloud-opportunities-styles-friday.trycloudflare.com",
+    "httpUrl": "https://cloud-opportunities-styles-friday.trycloudflare.com",
+    "issuedAt": "2026-11-10T06:33:49.911Z",
+    "expiresAt": "2026-12-10T06:33:49.911Z",
+    "nonce": "68b6ea43737322e6312d3181644a8ec4"
   },
-  "signature": "GBTKq65Mv+JZeTj52FrqfCfmVpSyF3w4Im+iSmA8SHIreHrE2VsLaQ39aD44BDoowqZIHiZ5Vt9+GTHsQ+BGpQ==",
+  "signature": "NyfHn0ssR4M2/+MOJalTy88lknnW6NLgLa2KEdpCBcoQsEV8KTf/hgnsVLG5oRwPbjv9k44nSuw8xTM67eMrRQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

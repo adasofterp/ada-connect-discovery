@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://assists-chess-edgar-syntax.trycloudflare.com",
-  "httpUrl": "https://assists-chess-edgar-syntax.trycloudflare.com",
-  "updatedAt": "2026-11-10T16:41:50.382Z",
-  "expiresAt": "2026-12-10T16:41:50.382Z",
-  "nonce": "e9f534b2e97466f44d84176d401ceaa6",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-10T16:55:23.686Z",
+  "expiresAt": "2026-12-10T16:55:23.686Z",
+  "nonce": "e34ef69b96a4ea2baf64881a7aee3a53",
   "payload": {
-    "wsUrl": "wss://assists-chess-edgar-syntax.trycloudflare.com",
-    "httpUrl": "https://assists-chess-edgar-syntax.trycloudflare.com",
-    "issuedAt": "2026-11-10T16:41:50.382Z",
-    "expiresAt": "2026-12-10T16:41:50.382Z",
-    "nonce": "e9f534b2e97466f44d84176d401ceaa6"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-10T16:55:23.686Z",
+    "expiresAt": "2026-12-10T16:55:23.686Z",
+    "nonce": "e34ef69b96a4ea2baf64881a7aee3a53"
   },
-  "signature": "P6ODNbbWHOc7L7twtCTNFc0G7EaJOkIf1pKLys/FjRP2A9Nk/cueIoxFpVxOAjakr64DGwXFg58tJlOIYtx/rw==",
+  "signature": "HNI5776V9rP59LBRANmzg/um2Ay60w5Qj5v1u6DULwTS8kxr2tfU1H6BfNoi3t0OgtbKB2CMZoPRwIet7enc/Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

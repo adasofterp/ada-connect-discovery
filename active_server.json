@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://civic-reg-mitsubishi-showers.trycloudflare.com",
-  "httpUrl": "https://civic-reg-mitsubishi-showers.trycloudflare.com",
-  "updatedAt": "2026-11-10T19:23:27.147Z",
-  "expiresAt": "2026-12-10T19:23:27.147Z",
-  "nonce": "1cbf91c7a57dc51a9d246678609496bf",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-10T19:44:06.053Z",
+  "expiresAt": "2026-12-10T19:44:06.053Z",
+  "nonce": "c27820b66d6d095be7ae65162d6280b4",
   "payload": {
-    "wsUrl": "wss://civic-reg-mitsubishi-showers.trycloudflare.com",
-    "httpUrl": "https://civic-reg-mitsubishi-showers.trycloudflare.com",
-    "issuedAt": "2026-11-10T19:23:27.147Z",
-    "expiresAt": "2026-12-10T19:23:27.147Z",
-    "nonce": "1cbf91c7a57dc51a9d246678609496bf"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-10T19:44:06.053Z",
+    "expiresAt": "2026-12-10T19:44:06.053Z",
+    "nonce": "c27820b66d6d095be7ae65162d6280b4"
   },
-  "signature": "jaWEw8kASHrN38aUaVACoVZHGp635AEMjWxRlOOtzOXzMOJbe9Emxn7LBFJwWBYkLTLNHRNBzyZ+vqzMBv/MJg==",
+  "signature": "Hp2RTPfYvjSAJGDZj1AjIRQqEQSAPqLtvM++F0r2oyRU0GsCYdIkAPZMZWIa5h6st5YpBZdAqCFIW0o4GkwR5Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

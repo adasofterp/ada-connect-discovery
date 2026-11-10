@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cattle-approach-wallace-researchers.trycloudflare.com",
-  "httpUrl": "https://cattle-approach-wallace-researchers.trycloudflare.com",
-  "updatedAt": "2026-11-10T14:28:05.472Z",
-  "expiresAt": "2026-12-10T14:28:05.472Z",
-  "nonce": "6d4271e6a0d430ea196d4649037f26f5",
+  "wsUrl": "wss://www-zero-commit-acc.trycloudflare.com",
+  "httpUrl": "https://www-zero-commit-acc.trycloudflare.com",
+  "updatedAt": "2026-11-10T14:48:24.009Z",
+  "expiresAt": "2026-12-10T14:48:24.009Z",
+  "nonce": "04005de9eac05ace53a8f761d2c1a7f8",
   "payload": {
-    "wsUrl": "wss://cattle-approach-wallace-researchers.trycloudflare.com",
-    "httpUrl": "https://cattle-approach-wallace-researchers.trycloudflare.com",
-    "issuedAt": "2026-11-10T14:28:05.472Z",
-    "expiresAt": "2026-12-10T14:28:05.472Z",
-    "nonce": "6d4271e6a0d430ea196d4649037f26f5"
+    "wsUrl": "wss://www-zero-commit-acc.trycloudflare.com",
+    "httpUrl": "https://www-zero-commit-acc.trycloudflare.com",
+    "issuedAt": "2026-11-10T14:48:24.009Z",
+    "expiresAt": "2026-12-10T14:48:24.009Z",
+    "nonce": "04005de9eac05ace53a8f761d2c1a7f8"
   },
-  "signature": "5/qQnU+AtThjPbOovgtknMe/kBBX2pbKDr1QpTXv04HM5PZT1v9aoWkkmQEfJaJ0GwEyt/zrVOnlFP3qzD2rvQ==",
+  "signature": "IxGSYLMs1f3S1iTcU3fHJC2Ow6oXFpJe5cYEOyXgeRRUutDqrASXLd4WB2jE58nx0i6ZJm5m1kZjIlrxw0LApw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

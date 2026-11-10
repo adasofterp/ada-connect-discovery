@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://www-zero-commit-acc.trycloudflare.com",
-  "httpUrl": "https://www-zero-commit-acc.trycloudflare.com",
-  "updatedAt": "2026-11-10T14:48:24.009Z",
-  "expiresAt": "2026-12-10T14:48:24.009Z",
-  "nonce": "04005de9eac05ace53a8f761d2c1a7f8",
+  "wsUrl": "wss://silent-tanks-opinions-looks.trycloudflare.com",
+  "httpUrl": "https://silent-tanks-opinions-looks.trycloudflare.com",
+  "updatedAt": "2026-11-10T15:05:10.508Z",
+  "expiresAt": "2026-12-10T15:05:10.508Z",
+  "nonce": "69d4217cd26995ffa6c15b05ff0069c8",
   "payload": {
-    "wsUrl": "wss://www-zero-commit-acc.trycloudflare.com",
-    "httpUrl": "https://www-zero-commit-acc.trycloudflare.com",
-    "issuedAt": "2026-11-10T14:48:24.009Z",
-    "expiresAt": "2026-12-10T14:48:24.009Z",
-    "nonce": "04005de9eac05ace53a8f761d2c1a7f8"
+    "wsUrl": "wss://silent-tanks-opinions-looks.trycloudflare.com",
+    "httpUrl": "https://silent-tanks-opinions-looks.trycloudflare.com",
+    "issuedAt": "2026-11-10T15:05:10.508Z",
+    "expiresAt": "2026-12-10T15:05:10.508Z",
+    "nonce": "69d4217cd26995ffa6c15b05ff0069c8"
   },
-  "signature": "IxGSYLMs1f3S1iTcU3fHJC2Ow6oXFpJe5cYEOyXgeRRUutDqrASXLd4WB2jE58nx0i6ZJm5m1kZjIlrxw0LApw==",
+  "signature": "Iw55DDsyaATSQ4kGVhTqvx3cspWfjQkZgvaD2DVsCLbnu4M83f4pTPz6NXQVU/9ZxAj2hIr/mgkE4gXAh4sMgQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

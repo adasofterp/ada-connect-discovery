@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://railroad-aside-speakers-widescreen.trycloudflare.com",
-  "httpUrl": "https://railroad-aside-speakers-widescreen.trycloudflare.com",
-  "updatedAt": "2026-11-09T23:13:43.796Z",
-  "expiresAt": "2026-12-09T23:13:43.796Z",
-  "nonce": "56661c8aab178e07e713bb4e97c4e5a4",
+  "wsUrl": "wss://routine-joshua-educated-print.trycloudflare.com",
+  "httpUrl": "https://routine-joshua-educated-print.trycloudflare.com",
+  "updatedAt": "2026-11-09T23:55:23.447Z",
+  "expiresAt": "2026-12-09T23:55:23.447Z",
+  "nonce": "4e116023431a1b945e7ecb6cfaa9fa66",
   "payload": {
-    "wsUrl": "wss://railroad-aside-speakers-widescreen.trycloudflare.com",
-    "httpUrl": "https://railroad-aside-speakers-widescreen.trycloudflare.com",
-    "issuedAt": "2026-11-09T23:13:43.796Z",
-    "expiresAt": "2026-12-09T23:13:43.796Z",
-    "nonce": "56661c8aab178e07e713bb4e97c4e5a4"
+    "wsUrl": "wss://routine-joshua-educated-print.trycloudflare.com",
+    "httpUrl": "https://routine-joshua-educated-print.trycloudflare.com",
+    "issuedAt": "2026-11-09T23:55:23.447Z",
+    "expiresAt": "2026-12-09T23:55:23.447Z",
+    "nonce": "4e116023431a1b945e7ecb6cfaa9fa66"
   },
-  "signature": "/RZOwU2QcrGZ1/Q3pSvNBLnE3swx99EDsvWNhsYoBiFPSGWu9xULSNeOuRs+Hyo2bOfDhdEBfpwg4DoQh1pWhA==",
+  "signature": "aFmLd2WVa/LuU3/lXhyT3tLZk5WFOvulUDErR+FaGZ0ORJw+SaoMmI56+COe/R67VaBhRsNKREfc+m5ww/jwLA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

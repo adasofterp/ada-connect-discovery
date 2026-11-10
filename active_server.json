@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-10T19:52:43.543Z",
-  "expiresAt": "2026-12-10T19:52:43.543Z",
-  "nonce": "ca0c00b65ad5df9edd66a9dbacc824b0",
+  "wsUrl": "wss://told-enjoy-brandon-manuals.trycloudflare.com",
+  "httpUrl": "https://told-enjoy-brandon-manuals.trycloudflare.com",
+  "updatedAt": "2026-11-10T19:52:51.920Z",
+  "expiresAt": "2026-12-10T19:52:51.920Z",
+  "nonce": "99a6234bb107ad1a454de296c67f3960",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-10T19:52:43.543Z",
-    "expiresAt": "2026-12-10T19:52:43.543Z",
-    "nonce": "ca0c00b65ad5df9edd66a9dbacc824b0"
+    "wsUrl": "wss://told-enjoy-brandon-manuals.trycloudflare.com",
+    "httpUrl": "https://told-enjoy-brandon-manuals.trycloudflare.com",
+    "issuedAt": "2026-11-10T19:52:51.920Z",
+    "expiresAt": "2026-12-10T19:52:51.920Z",
+    "nonce": "99a6234bb107ad1a454de296c67f3960"
   },
-  "signature": "VVLRsj672fthv7+Kg7Cln4t5H1kBToaBfazUoVCpdTQNBi6oLiih84adBCSS6C9tpzcCOXWhfztj/uQYlZhYCQ==",
+  "signature": "O8HWUsDvzbzECLoJw58mARTfWyHEPJ/uGHvL2OYm/PkLuNVe3fPkIJL24tCdrR50qc6gu2DuE2Fh72ahI/d6Cg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

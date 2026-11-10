@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://pink-regards-seventh-patrol.trycloudflare.com",
-  "httpUrl": "https://pink-regards-seventh-patrol.trycloudflare.com",
-  "updatedAt": "2026-11-10T08:10:34.238Z",
-  "expiresAt": "2026-12-10T08:10:34.239Z",
-  "nonce": "15a1eded6059f22bb24028bd956fee07",
+  "wsUrl": "wss://products-conjunction-align-argued.trycloudflare.com",
+  "httpUrl": "https://products-conjunction-align-argued.trycloudflare.com",
+  "updatedAt": "2026-11-10T08:20:07.950Z",
+  "expiresAt": "2026-12-10T08:20:07.950Z",
+  "nonce": "402f416a1b1eda6f392d514cb0d71f6c",
   "payload": {
-    "wsUrl": "wss://pink-regards-seventh-patrol.trycloudflare.com",
-    "httpUrl": "https://pink-regards-seventh-patrol.trycloudflare.com",
-    "issuedAt": "2026-11-10T08:10:34.238Z",
-    "expiresAt": "2026-12-10T08:10:34.239Z",
-    "nonce": "15a1eded6059f22bb24028bd956fee07"
+    "wsUrl": "wss://products-conjunction-align-argued.trycloudflare.com",
+    "httpUrl": "https://products-conjunction-align-argued.trycloudflare.com",
+    "issuedAt": "2026-11-10T08:20:07.950Z",
+    "expiresAt": "2026-12-10T08:20:07.950Z",
+    "nonce": "402f416a1b1eda6f392d514cb0d71f6c"
   },
-  "signature": "5gpaA02dSzJzz6HXQSrZbp4v4Uw8Y5Bbsurldq8NvGqEV/QtPFxchIjPkg8hJ3TjQTUocKtWrmay6Aivx7YGfw==",
+  "signature": "wWvoclf+Men/JYDJpC103MyaF1JlwoBJus4yxSv6ZEWEMscW59/hiNaihg52kZi+6ARTxbb3tTRHiD+/fv1yjA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

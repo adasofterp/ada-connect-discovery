@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-10T17:05:51.895Z",
-  "expiresAt": "2026-12-10T17:05:51.895Z",
-  "nonce": "0e0aabcc55c6be395d01cb67e31d63d5",
+  "wsUrl": "wss://asthma-effort-brian-brian.trycloudflare.com",
+  "httpUrl": "https://asthma-effort-brian-brian.trycloudflare.com",
+  "updatedAt": "2026-11-10T17:11:04.849Z",
+  "expiresAt": "2026-12-10T17:11:04.849Z",
+  "nonce": "436d45e81d97b9cc512d56605d778abb",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-10T17:05:51.895Z",
-    "expiresAt": "2026-12-10T17:05:51.895Z",
-    "nonce": "0e0aabcc55c6be395d01cb67e31d63d5"
+    "wsUrl": "wss://asthma-effort-brian-brian.trycloudflare.com",
+    "httpUrl": "https://asthma-effort-brian-brian.trycloudflare.com",
+    "issuedAt": "2026-11-10T17:11:04.849Z",
+    "expiresAt": "2026-12-10T17:11:04.849Z",
+    "nonce": "436d45e81d97b9cc512d56605d778abb"
   },
-  "signature": "U4PcnfKLplSthjUQxNWm1j5LnbO2Zp++fqb3ajoGFDC0xfXL9ukgyJBHiOMgOb7QmChiLnyZXU75i+qssSPmdg==",
+  "signature": "+9Sfh+ACXjfeS5J6bideQ1fx0dALWUSAClzpwcIyT2Gk+DoWhg3krbW3XnrG+/B7vD4i9VAvUbavDeC94i6ZPw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

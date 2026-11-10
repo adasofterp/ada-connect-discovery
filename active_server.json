@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-10T18:11:59.608Z",
-  "expiresAt": "2026-12-10T18:11:59.608Z",
-  "nonce": "47b61f674f173f9e22ee9b83772a4bfd",
+  "wsUrl": "wss://shuttle-propecia-cent-critical.trycloudflare.com",
+  "httpUrl": "https://shuttle-propecia-cent-critical.trycloudflare.com",
+  "updatedAt": "2026-11-10T18:12:08.092Z",
+  "expiresAt": "2026-12-10T18:12:08.092Z",
+  "nonce": "b1db3658c1c85242316477884270b5cf",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-10T18:11:59.608Z",
-    "expiresAt": "2026-12-10T18:11:59.608Z",
-    "nonce": "47b61f674f173f9e22ee9b83772a4bfd"
+    "wsUrl": "wss://shuttle-propecia-cent-critical.trycloudflare.com",
+    "httpUrl": "https://shuttle-propecia-cent-critical.trycloudflare.com",
+    "issuedAt": "2026-11-10T18:12:08.092Z",
+    "expiresAt": "2026-12-10T18:12:08.092Z",
+    "nonce": "b1db3658c1c85242316477884270b5cf"
   },
-  "signature": "S+vvNUOmtuQXV16jbb9YCiq7rPSLqjpgdyauww3Vuvje2Wpzvm1PFdoyzSozWj2CyNXs+9nA7t4C/izdFxGlVg==",
+  "signature": "TrGuvK7NHFOAa9bi5KjApm3B6WxjHvlFLhLj/diZ4v0q7IvZN/TJhS0QlkZj/Ldqz7WYdMiRpCv/bW5U5teqqQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

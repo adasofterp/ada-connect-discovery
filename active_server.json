@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://soldier-rocket-desired-hero.trycloudflare.com",
-  "httpUrl": "https://soldier-rocket-desired-hero.trycloudflare.com",
-  "updatedAt": "2026-11-10T03:39:09.475Z",
-  "expiresAt": "2026-12-10T03:39:09.475Z",
-  "nonce": "eb99a39c77d169e714501e7d16bf3669",
+  "wsUrl": "wss://alex-bulletin-improvement-shareholders.trycloudflare.com",
+  "httpUrl": "https://alex-bulletin-improvement-shareholders.trycloudflare.com",
+  "updatedAt": "2026-11-10T04:00:00.492Z",
+  "expiresAt": "2026-12-10T04:00:00.492Z",
+  "nonce": "04818481766c073ae144f9b77da92f75",
   "payload": {
-    "wsUrl": "wss://soldier-rocket-desired-hero.trycloudflare.com",
-    "httpUrl": "https://soldier-rocket-desired-hero.trycloudflare.com",
-    "issuedAt": "2026-11-10T03:39:09.475Z",
-    "expiresAt": "2026-12-10T03:39:09.475Z",
-    "nonce": "eb99a39c77d169e714501e7d16bf3669"
+    "wsUrl": "wss://alex-bulletin-improvement-shareholders.trycloudflare.com",
+    "httpUrl": "https://alex-bulletin-improvement-shareholders.trycloudflare.com",
+    "issuedAt": "2026-11-10T04:00:00.492Z",
+    "expiresAt": "2026-12-10T04:00:00.492Z",
+    "nonce": "04818481766c073ae144f9b77da92f75"
   },
-  "signature": "2lO4jw7+V0CgNvJ5wGvMY2fBLFIDHszatLkUUvFU6nMmL97KR3v4pvQWwoOTAgozGH0LYusBMD/ZTBVtXsARbQ==",
+  "signature": "tw1u235V6MjcoQ73JUfJS+A8cWa1jgboXJ0xr94gsztep8jiU0xI36ge2UGRqprPo/7wwRpoWydGH9wG3Q6MTg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://tomatoes-poker-wings-feeling.trycloudflare.com",
-  "httpUrl": "https://tomatoes-poker-wings-feeling.trycloudflare.com",
-  "updatedAt": "2026-11-11T03:09:13.814Z",
-  "expiresAt": "2026-12-11T03:09:13.814Z",
-  "nonce": "054fb40e0e497fb6bb47f85047bd6e00",
+  "wsUrl": "wss://newbie-futures-cemetery-tabs.trycloudflare.com",
+  "httpUrl": "https://newbie-futures-cemetery-tabs.trycloudflare.com",
+  "updatedAt": "2026-11-11T04:10:13.255Z",
+  "expiresAt": "2026-12-11T04:10:13.255Z",
+  "nonce": "b9b93c4385cef76d0e6c50cac577b9e6",
   "payload": {
-    "wsUrl": "wss://tomatoes-poker-wings-feeling.trycloudflare.com",
-    "httpUrl": "https://tomatoes-poker-wings-feeling.trycloudflare.com",
-    "issuedAt": "2026-11-11T03:09:13.814Z",
-    "expiresAt": "2026-12-11T03:09:13.814Z",
-    "nonce": "054fb40e0e497fb6bb47f85047bd6e00"
+    "wsUrl": "wss://newbie-futures-cemetery-tabs.trycloudflare.com",
+    "httpUrl": "https://newbie-futures-cemetery-tabs.trycloudflare.com",
+    "issuedAt": "2026-11-11T04:10:13.255Z",
+    "expiresAt": "2026-12-11T04:10:13.255Z",
+    "nonce": "b9b93c4385cef76d0e6c50cac577b9e6"
   },
-  "signature": "ECqTGz+B8S/0wMnJjt5ofeWt05bMKoCa37wxoLwJg+K9GPu64avPjr+aHW9oVSxYVtQlSq7oEU0q4VjkS888ng==",
+  "signature": "pQL6DkkL8EibJDOFe7yTxHmyI797/v5SI12r/RgaPGmTuOoke+JtLY1IiF4YLbqtwc27NqWTOcIq6sNIiSjiIg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

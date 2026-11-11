@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://thats-athens-threshold-formal.trycloudflare.com",
-  "httpUrl": "https://thats-athens-threshold-formal.trycloudflare.com",
-  "updatedAt": "2026-11-11T11:54:25.038Z",
-  "expiresAt": "2026-12-11T11:54:25.038Z",
-  "nonce": "f26a53dfb19c67aa9b21843a8f6e2a19",
+  "wsUrl": "wss://maine-rica-promotional-gentleman.trycloudflare.com",
+  "httpUrl": "https://maine-rica-promotional-gentleman.trycloudflare.com",
+  "updatedAt": "2026-11-11T12:04:51.579Z",
+  "expiresAt": "2026-12-11T12:04:51.579Z",
+  "nonce": "15458b8f53d773a7da2ed332e7a7a5b7",
   "payload": {
-    "wsUrl": "wss://thats-athens-threshold-formal.trycloudflare.com",
-    "httpUrl": "https://thats-athens-threshold-formal.trycloudflare.com",
-    "issuedAt": "2026-11-11T11:54:25.038Z",
-    "expiresAt": "2026-12-11T11:54:25.038Z",
-    "nonce": "f26a53dfb19c67aa9b21843a8f6e2a19"
+    "wsUrl": "wss://maine-rica-promotional-gentleman.trycloudflare.com",
+    "httpUrl": "https://maine-rica-promotional-gentleman.trycloudflare.com",
+    "issuedAt": "2026-11-11T12:04:51.579Z",
+    "expiresAt": "2026-12-11T12:04:51.579Z",
+    "nonce": "15458b8f53d773a7da2ed332e7a7a5b7"
   },
-  "signature": "gSKC1cm9ZSLSKOizcOxLEPZMuoG/RZ7kRQy3E9+t9y6bTQPgEd5c9J2gyX/Q7bccTIV5K7zxmGerl/by+hXeYA==",
+  "signature": "Pnlb6zrOY7h5R7tJvV+BlHe4jzou0b6DnvFtP2SdDRGgZg8prMwYKBO+oszjWXuxlGLYPlCNHgOyc2fba/9fgA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

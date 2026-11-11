@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rural-bee-bottle-integrating.trycloudflare.com",
-  "httpUrl": "https://rural-bee-bottle-integrating.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:17:14.342Z",
-  "expiresAt": "2026-12-11T20:17:14.342Z",
-  "nonce": "201dcb024271adeceaf69be569424480",
+  "wsUrl": "wss://gym-apps-automobiles-quoted.trycloudflare.com",
+  "httpUrl": "https://gym-apps-automobiles-quoted.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:27:39.555Z",
+  "expiresAt": "2026-12-11T20:27:39.555Z",
+  "nonce": "d530c7efd8fa21d6c9027355d8a48c63",
   "payload": {
-    "wsUrl": "wss://rural-bee-bottle-integrating.trycloudflare.com",
-    "httpUrl": "https://rural-bee-bottle-integrating.trycloudflare.com",
-    "issuedAt": "2026-11-11T20:17:14.342Z",
-    "expiresAt": "2026-12-11T20:17:14.342Z",
-    "nonce": "201dcb024271adeceaf69be569424480"
+    "wsUrl": "wss://gym-apps-automobiles-quoted.trycloudflare.com",
+    "httpUrl": "https://gym-apps-automobiles-quoted.trycloudflare.com",
+    "issuedAt": "2026-11-11T20:27:39.555Z",
+    "expiresAt": "2026-12-11T20:27:39.555Z",
+    "nonce": "d530c7efd8fa21d6c9027355d8a48c63"
   },
-  "signature": "HmgwDmnfGEMDb9Gwge4ciiMyYp8574bTvkGp+y+xWIPmD8JQGQ5kg1bqrGYBNGdaKIEOOEQ7spKt+3hKZE0ZwA==",
+  "signature": "iJim8VHAa8ppC3lMRHAH4kohUs32mVRlsqYxmPC2TeMwHVRHTtEtjSiPb9k3iJ+662tS8WaVEkSWr9hD+IqptQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

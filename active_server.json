@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://extensions-score-producer-math.trycloudflare.com",
-  "httpUrl": "https://extensions-score-producer-math.trycloudflare.com",
-  "updatedAt": "2026-11-10T22:59:18.443Z",
-  "expiresAt": "2026-12-10T22:59:18.443Z",
-  "nonce": "6f9202b5a6940bf83768df00ddabb932",
+  "wsUrl": "wss://motor-exceptional-stan-wages.trycloudflare.com",
+  "httpUrl": "https://motor-exceptional-stan-wages.trycloudflare.com",
+  "updatedAt": "2026-11-11T00:06:14.846Z",
+  "expiresAt": "2026-12-11T00:06:14.846Z",
+  "nonce": "b4c9f9d071fd6c62e08fc430afa5d4c3",
   "payload": {
-    "wsUrl": "wss://extensions-score-producer-math.trycloudflare.com",
-    "httpUrl": "https://extensions-score-producer-math.trycloudflare.com",
-    "issuedAt": "2026-11-10T22:59:18.443Z",
-    "expiresAt": "2026-12-10T22:59:18.443Z",
-    "nonce": "6f9202b5a6940bf83768df00ddabb932"
+    "wsUrl": "wss://motor-exceptional-stan-wages.trycloudflare.com",
+    "httpUrl": "https://motor-exceptional-stan-wages.trycloudflare.com",
+    "issuedAt": "2026-11-11T00:06:14.846Z",
+    "expiresAt": "2026-12-11T00:06:14.846Z",
+    "nonce": "b4c9f9d071fd6c62e08fc430afa5d4c3"
   },
-  "signature": "e+2PP6lGfbFAazv5ExcHJNEvLsHpJXoua/F/cjjug0KwGvqp4dKiUH/psklDggvQLD4SKAQcpvOF7vhPrIZ7Pw==",
+  "signature": "R0eYcMc4YHAcgzUXFpYpCDPBQwmHClbK+lcFmBWN+apfIHh9MUXnPoFYmd0OBC55VVsk8jZ9Xn5QoQtPyE2Awg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

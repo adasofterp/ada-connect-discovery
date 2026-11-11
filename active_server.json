@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://newbie-futures-cemetery-tabs.trycloudflare.com",
-  "httpUrl": "https://newbie-futures-cemetery-tabs.trycloudflare.com",
-  "updatedAt": "2026-11-11T04:10:13.255Z",
-  "expiresAt": "2026-12-11T04:10:13.255Z",
-  "nonce": "b9b93c4385cef76d0e6c50cac577b9e6",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-11T05:02:47.308Z",
+  "expiresAt": "2026-12-11T05:02:47.308Z",
+  "nonce": "719517799f2c21299430a474d23a1c16",
   "payload": {
-    "wsUrl": "wss://newbie-futures-cemetery-tabs.trycloudflare.com",
-    "httpUrl": "https://newbie-futures-cemetery-tabs.trycloudflare.com",
-    "issuedAt": "2026-11-11T04:10:13.255Z",
-    "expiresAt": "2026-12-11T04:10:13.255Z",
-    "nonce": "b9b93c4385cef76d0e6c50cac577b9e6"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-11T05:02:47.308Z",
+    "expiresAt": "2026-12-11T05:02:47.308Z",
+    "nonce": "719517799f2c21299430a474d23a1c16"
   },
-  "signature": "pQL6DkkL8EibJDOFe7yTxHmyI797/v5SI12r/RgaPGmTuOoke+JtLY1IiF4YLbqtwc27NqWTOcIq6sNIiSjiIg==",
+  "signature": "Cn30nzYKyzh0lh+qPfObQGKnfEBIvzMselY+eDBSZLGWNs24pHOWD9xL4n2sr4Bp+GdoohpBMP3JrPfVQ6bJkQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://commissioners-rebound-guarantees-television.trycloudflare.com",
-  "httpUrl": "https://commissioners-rebound-guarantees-television.trycloudflare.com",
-  "updatedAt": "2026-11-11T00:56:06.558Z",
-  "expiresAt": "2026-12-11T00:56:06.558Z",
-  "nonce": "eb34e01c5b90f2404c41feadf0c9a6c3",
+  "wsUrl": "wss://respond-consensus-been-pee.trycloudflare.com",
+  "httpUrl": "https://respond-consensus-been-pee.trycloudflare.com",
+  "updatedAt": "2026-11-11T00:56:11.661Z",
+  "expiresAt": "2026-12-11T00:56:11.661Z",
+  "nonce": "3c97737d2f119d77dc2d5304c0aad8de",
   "payload": {
-    "wsUrl": "wss://commissioners-rebound-guarantees-television.trycloudflare.com",
-    "httpUrl": "https://commissioners-rebound-guarantees-television.trycloudflare.com",
-    "issuedAt": "2026-11-11T00:56:06.558Z",
-    "expiresAt": "2026-12-11T00:56:06.558Z",
-    "nonce": "eb34e01c5b90f2404c41feadf0c9a6c3"
+    "wsUrl": "wss://respond-consensus-been-pee.trycloudflare.com",
+    "httpUrl": "https://respond-consensus-been-pee.trycloudflare.com",
+    "issuedAt": "2026-11-11T00:56:11.661Z",
+    "expiresAt": "2026-12-11T00:56:11.661Z",
+    "nonce": "3c97737d2f119d77dc2d5304c0aad8de"
   },
-  "signature": "UUO5g/mNwSWTvM7DLqc+4NPJQBGs+hXmdGXSvfHUWRsp3OddqNxecofMG5oruKYY0VZ8e0QrzJChpP6iWoSAKA==",
+  "signature": "0CHwxZkHhUUlsMumxMQlxrylmOXEWkLV4O3DQTRM1drRq9Pwtk0VVnKJWvbq1NRZTV6iLDMNjsXdlJvW92QmoA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

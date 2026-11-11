@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-11T19:56:09.916Z",
-  "expiresAt": "2026-12-11T19:56:09.916Z",
-  "nonce": "0a4e0e53cdb56cd05a565d68a2f75e1e",
+  "wsUrl": "wss://rural-bee-bottle-integrating.trycloudflare.com",
+  "httpUrl": "https://rural-bee-bottle-integrating.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:17:14.342Z",
+  "expiresAt": "2026-12-11T20:17:14.342Z",
+  "nonce": "201dcb024271adeceaf69be569424480",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-11T19:56:09.916Z",
-    "expiresAt": "2026-12-11T19:56:09.916Z",
-    "nonce": "0a4e0e53cdb56cd05a565d68a2f75e1e"
+    "wsUrl": "wss://rural-bee-bottle-integrating.trycloudflare.com",
+    "httpUrl": "https://rural-bee-bottle-integrating.trycloudflare.com",
+    "issuedAt": "2026-11-11T20:17:14.342Z",
+    "expiresAt": "2026-12-11T20:17:14.342Z",
+    "nonce": "201dcb024271adeceaf69be569424480"
   },
-  "signature": "qAbFpxmu220X/ZoQxJVD7kyfN6ZLfUnFJEEccYGAjh7qpZ5QgQh0ckgMe+HhGOUCHMqgR7INyE1WSomjL1zkEw==",
+  "signature": "HmgwDmnfGEMDb9Gwge4ciiMyYp8574bTvkGp+y+xWIPmD8JQGQ5kg1bqrGYBNGdaKIEOOEQ7spKt+3hKZE0ZwA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

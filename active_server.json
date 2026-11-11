@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://merchants-collections-luis-hull.trycloudflare.com",
-  "httpUrl": "https://merchants-collections-luis-hull.trycloudflare.com",
-  "updatedAt": "2026-11-11T17:24:23.625Z",
-  "expiresAt": "2026-12-11T17:24:23.625Z",
-  "nonce": "bf63ca52733152dc25fcad1e0ceb0623",
+  "wsUrl": "wss://punch-adware-mandate-ruling.trycloudflare.com",
+  "httpUrl": "https://punch-adware-mandate-ruling.trycloudflare.com",
+  "updatedAt": "2026-11-11T17:34:49.556Z",
+  "expiresAt": "2026-12-11T17:34:49.556Z",
+  "nonce": "24f49cb4a3aff5e984a4b478605ae683",
   "payload": {
-    "wsUrl": "wss://merchants-collections-luis-hull.trycloudflare.com",
-    "httpUrl": "https://merchants-collections-luis-hull.trycloudflare.com",
-    "issuedAt": "2026-11-11T17:24:23.625Z",
-    "expiresAt": "2026-12-11T17:24:23.625Z",
-    "nonce": "bf63ca52733152dc25fcad1e0ceb0623"
+    "wsUrl": "wss://punch-adware-mandate-ruling.trycloudflare.com",
+    "httpUrl": "https://punch-adware-mandate-ruling.trycloudflare.com",
+    "issuedAt": "2026-11-11T17:34:49.556Z",
+    "expiresAt": "2026-12-11T17:34:49.556Z",
+    "nonce": "24f49cb4a3aff5e984a4b478605ae683"
   },
-  "signature": "LExgBtPretB+yOS1ih5w5ne+Q+lnTN9YjtcUSNEE1UMyP+xQdxwLpgnQD54iNEHeGLq1ajOslwdkkkIz2m+2dw==",
+  "signature": "Pqxg+ucsmJTuf1XJarPh0LGaPZ0XzE0oKpjoO2W9mpk+cIGOMJiTINn/lkdoR2YiY9U96Gaz0IyP/Z5w8V762w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

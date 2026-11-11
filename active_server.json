@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://incl-linking-wishlist-powder.trycloudflare.com",
-  "httpUrl": "https://incl-linking-wishlist-powder.trycloudflare.com",
-  "updatedAt": "2026-11-11T16:27:35.941Z",
-  "expiresAt": "2026-12-11T16:27:35.941Z",
-  "nonce": "af0dafbd3d5d9c67612eb0d6541919b7",
+  "wsUrl": "wss://essence-paperbacks-achievements-phoenix.trycloudflare.com",
+  "httpUrl": "https://essence-paperbacks-achievements-phoenix.trycloudflare.com",
+  "updatedAt": "2026-11-11T16:38:04.285Z",
+  "expiresAt": "2026-12-11T16:38:04.285Z",
+  "nonce": "ed5ff02ae45143aba20e92edfff40a5a",
   "payload": {
-    "wsUrl": "wss://incl-linking-wishlist-powder.trycloudflare.com",
-    "httpUrl": "https://incl-linking-wishlist-powder.trycloudflare.com",
-    "issuedAt": "2026-11-11T16:27:35.941Z",
-    "expiresAt": "2026-12-11T16:27:35.941Z",
-    "nonce": "af0dafbd3d5d9c67612eb0d6541919b7"
+    "wsUrl": "wss://essence-paperbacks-achievements-phoenix.trycloudflare.com",
+    "httpUrl": "https://essence-paperbacks-achievements-phoenix.trycloudflare.com",
+    "issuedAt": "2026-11-11T16:38:04.285Z",
+    "expiresAt": "2026-12-11T16:38:04.285Z",
+    "nonce": "ed5ff02ae45143aba20e92edfff40a5a"
   },
-  "signature": "OT+ABFMnb0qJa5esyquryioJlVrBXl8L7Le83mrapQGc96d+g2sPauITwKYV3vyRwzfGWwQQS+VWrhUVGXzPGQ==",
+  "signature": "jmeZIgbp8UjoO6qpXYjxJxQahUutlU3IBgFOr/0f9UJz6wmI44h49MUcKy1d58sP+g/dx3dDJsQrVO7au385QQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

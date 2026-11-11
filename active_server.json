@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://prospect-shots-suspected-cuisine.trycloudflare.com",
-  "httpUrl": "https://prospect-shots-suspected-cuisine.trycloudflare.com",
-  "updatedAt": "2026-11-11T06:35:39.786Z",
-  "expiresAt": "2026-12-11T06:35:39.786Z",
-  "nonce": "db3bb3daa40f2598bad68e0df7821518",
+  "wsUrl": "wss://usually-brought-approx-scoring.trycloudflare.com",
+  "httpUrl": "https://usually-brought-approx-scoring.trycloudflare.com",
+  "updatedAt": "2026-11-11T07:56:31.521Z",
+  "expiresAt": "2026-12-11T07:56:31.521Z",
+  "nonce": "cabd31cc8a4d7c486c099f013e5a7910",
   "payload": {
-    "wsUrl": "wss://prospect-shots-suspected-cuisine.trycloudflare.com",
-    "httpUrl": "https://prospect-shots-suspected-cuisine.trycloudflare.com",
-    "issuedAt": "2026-11-11T06:35:39.786Z",
-    "expiresAt": "2026-12-11T06:35:39.786Z",
-    "nonce": "db3bb3daa40f2598bad68e0df7821518"
+    "wsUrl": "wss://usually-brought-approx-scoring.trycloudflare.com",
+    "httpUrl": "https://usually-brought-approx-scoring.trycloudflare.com",
+    "issuedAt": "2026-11-11T07:56:31.521Z",
+    "expiresAt": "2026-12-11T07:56:31.521Z",
+    "nonce": "cabd31cc8a4d7c486c099f013e5a7910"
   },
-  "signature": "Qj8PvhCFJBCephOWbs6neHSNFYnW2JFdZc4OxqDUfX101MvU0ag3dqwu6KkMI+CQ4x5wMY22+xJr1oWA6BT1vQ==",
+  "signature": "hiOkHRgqkT1NgFE6i7ooayXxDind+aswL1UslEoYTQKDGYRa8Akt31Tsnp7QjxxDCodMSXq4pAPSlG3iKfV0Fw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

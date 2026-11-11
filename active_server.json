@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://household-incoming-edwards-tractor.trycloudflare.com",
   "httpUrl": "https://household-incoming-edwards-tractor.trycloudflare.com",
-  "updatedAt": "2026-11-11T21:12:51.252Z",
-  "expiresAt": "2026-12-11T21:12:51.252Z",
-  "nonce": "5f95a6580d9b9b0636856dfbbac501e7",
+  "updatedAt": "2026-11-11T21:24:02.017Z",
+  "expiresAt": "2026-12-11T21:24:02.017Z",
+  "nonce": "8021711a36922053acac5d35064e70c3",
   "payload": {
     "wsUrl": "wss://household-incoming-edwards-tractor.trycloudflare.com",
     "httpUrl": "https://household-incoming-edwards-tractor.trycloudflare.com",
-    "issuedAt": "2026-11-11T21:12:51.252Z",
-    "expiresAt": "2026-12-11T21:12:51.252Z",
-    "nonce": "5f95a6580d9b9b0636856dfbbac501e7"
+    "issuedAt": "2026-11-11T21:24:02.017Z",
+    "expiresAt": "2026-12-11T21:24:02.017Z",
+    "nonce": "8021711a36922053acac5d35064e70c3"
   },
-  "signature": "HYabyy5tIH9fG8pO9eranUn+8XJ4pg9ahs6xQaMJrelSEAsNGKFkE1SK4h47euBfAUrB5GAF8r/Z3SFxqqIBAg==",
+  "signature": "rMvPq2Rkvzt+maT/70WV5rLLtnapGwkBHPZKn+ZWNpxPZhtlLSdj9DrLajUoGTVLvM8gcbbgZq7RbUVB6h+Ihw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

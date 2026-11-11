@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://maine-rica-promotional-gentleman.trycloudflare.com",
-  "httpUrl": "https://maine-rica-promotional-gentleman.trycloudflare.com",
-  "updatedAt": "2026-11-11T12:04:51.579Z",
-  "expiresAt": "2026-12-11T12:04:51.579Z",
-  "nonce": "15458b8f53d773a7da2ed332e7a7a5b7",
+  "wsUrl": "wss://struck-revenues-ads-oldest.trycloudflare.com",
+  "httpUrl": "https://struck-revenues-ads-oldest.trycloudflare.com",
+  "updatedAt": "2026-11-11T12:15:16.819Z",
+  "expiresAt": "2026-12-11T12:15:16.819Z",
+  "nonce": "6cbc2f7af79e22231344d90295cbbde4",
   "payload": {
-    "wsUrl": "wss://maine-rica-promotional-gentleman.trycloudflare.com",
-    "httpUrl": "https://maine-rica-promotional-gentleman.trycloudflare.com",
-    "issuedAt": "2026-11-11T12:04:51.579Z",
-    "expiresAt": "2026-12-11T12:04:51.579Z",
-    "nonce": "15458b8f53d773a7da2ed332e7a7a5b7"
+    "wsUrl": "wss://struck-revenues-ads-oldest.trycloudflare.com",
+    "httpUrl": "https://struck-revenues-ads-oldest.trycloudflare.com",
+    "issuedAt": "2026-11-11T12:15:16.819Z",
+    "expiresAt": "2026-12-11T12:15:16.819Z",
+    "nonce": "6cbc2f7af79e22231344d90295cbbde4"
   },
-  "signature": "Pnlb6zrOY7h5R7tJvV+BlHe4jzou0b6DnvFtP2SdDRGgZg8prMwYKBO+oszjWXuxlGLYPlCNHgOyc2fba/9fgA==",
+  "signature": "ac9o/Kg7sD8t3sJ96gsCwOJ8/LEsgepYwHdldN6geVKe4BGUn5dG6g5ZrrjAi8yOAdY9Xeqcej0+wlvDPyEGgQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

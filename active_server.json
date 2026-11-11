@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://guild-drove-belle-reg.trycloudflare.com",
-  "httpUrl": "https://guild-drove-belle-reg.trycloudflare.com",
-  "updatedAt": "2026-11-11T15:20:47.755Z",
-  "expiresAt": "2026-12-11T15:20:47.755Z",
-  "nonce": "492b659a8d1f86720d4b2eb3f8b09ad8",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-11T15:41:42.313Z",
+  "expiresAt": "2026-12-11T15:41:42.313Z",
+  "nonce": "fff343f7cc679a49077e05ec89fe06e3",
   "payload": {
-    "wsUrl": "wss://guild-drove-belle-reg.trycloudflare.com",
-    "httpUrl": "https://guild-drove-belle-reg.trycloudflare.com",
-    "issuedAt": "2026-11-11T15:20:47.755Z",
-    "expiresAt": "2026-12-11T15:20:47.755Z",
-    "nonce": "492b659a8d1f86720d4b2eb3f8b09ad8"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-11T15:41:42.313Z",
+    "expiresAt": "2026-12-11T15:41:42.313Z",
+    "nonce": "fff343f7cc679a49077e05ec89fe06e3"
   },
-  "signature": "hVUE7t9hIlQrUUaQ3Shdd9YMOIaL6EXTzqRMw87MkBWeH+2tzmsrKNB0cvQAWm8yrMLktAX258y+ylYIiPz2qw==",
+  "signature": "KEGwYiTMM6wfGnEqQRIv40okWd03pIYoDG77to9wQXrm6wR7VxzkdAGsaad+o/2dYhJTTT5CIK5j92q9kY2gsg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://dish-dna-redeem-robinson.trycloudflare.com",
-  "httpUrl": "https://dish-dna-redeem-robinson.trycloudflare.com",
-  "updatedAt": "2026-11-11T18:49:58.232Z",
-  "expiresAt": "2026-12-11T18:49:58.232Z",
-  "nonce": "8142322c8b78e5ffd1d2c9b9925f3088",
+  "wsUrl": "wss://ivory-struck-wool-del.trycloudflare.com",
+  "httpUrl": "https://ivory-struck-wool-del.trycloudflare.com",
+  "updatedAt": "2026-11-11T19:00:26.914Z",
+  "expiresAt": "2026-12-11T19:00:26.914Z",
+  "nonce": "6f2c383936f790acdf550d510ba604a7",
   "payload": {
-    "wsUrl": "wss://dish-dna-redeem-robinson.trycloudflare.com",
-    "httpUrl": "https://dish-dna-redeem-robinson.trycloudflare.com",
-    "issuedAt": "2026-11-11T18:49:58.232Z",
-    "expiresAt": "2026-12-11T18:49:58.232Z",
-    "nonce": "8142322c8b78e5ffd1d2c9b9925f3088"
+    "wsUrl": "wss://ivory-struck-wool-del.trycloudflare.com",
+    "httpUrl": "https://ivory-struck-wool-del.trycloudflare.com",
+    "issuedAt": "2026-11-11T19:00:26.914Z",
+    "expiresAt": "2026-12-11T19:00:26.914Z",
+    "nonce": "6f2c383936f790acdf550d510ba604a7"
   },
-  "signature": "SHuqwCfy8Kp6KoCU2eBxlacvK9409FDZUwZSPd3wrC7tLcoI9KhK7GyITb8kQSSr4IEcqUhYrSgV0AWK+PgCWw==",
+  "signature": "VOm82gC67qtQ32nuYl0BIonRpqbQHYZ2jll9IAoW/VXPYTfGiHFlR8lMWm5x+dKyh9zGfAm8g/qBdtPV1Nn2+g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

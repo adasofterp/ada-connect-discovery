@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://colleges-cooperation-rarely-caring.trycloudflare.com",
-  "httpUrl": "https://colleges-cooperation-rarely-caring.trycloudflare.com",
-  "updatedAt": "2026-11-11T16:47:58.253Z",
-  "expiresAt": "2026-12-11T16:47:58.253Z",
-  "nonce": "f9cf97cdec2c815c25c1897a889c7601",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-11T17:08:42.022Z",
+  "expiresAt": "2026-12-11T17:08:42.022Z",
+  "nonce": "d6eefecc4c88e832dd2905d09e0613dc",
   "payload": {
-    "wsUrl": "wss://colleges-cooperation-rarely-caring.trycloudflare.com",
-    "httpUrl": "https://colleges-cooperation-rarely-caring.trycloudflare.com",
-    "issuedAt": "2026-11-11T16:47:58.253Z",
-    "expiresAt": "2026-12-11T16:47:58.253Z",
-    "nonce": "f9cf97cdec2c815c25c1897a889c7601"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-11T17:08:42.022Z",
+    "expiresAt": "2026-12-11T17:08:42.022Z",
+    "nonce": "d6eefecc4c88e832dd2905d09e0613dc"
   },
-  "signature": "fcH3nr77n6V6j+3PXxGqoqBV8xj36pewuIW8SnfWDL0rbBUrpacjLhfZtSteGmtcfbil/8ZkmD0w067N3ZgnuQ==",
+  "signature": "ykWRNe3leV1dkGtz0pfcGW1h9UdIwzDtgvQ+38S2ZLHRxv3+ckGCWqYX6GlCRn1njIKi63VBdAb3cCYBRpNEqw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

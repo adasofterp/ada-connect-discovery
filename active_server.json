@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://usually-brought-approx-scoring.trycloudflare.com",
-  "httpUrl": "https://usually-brought-approx-scoring.trycloudflare.com",
-  "updatedAt": "2026-11-11T09:02:47.335Z",
-  "expiresAt": "2026-12-11T09:02:47.335Z",
-  "nonce": "a175ac4bff1ed73c2c9ef628bca1a8e8",
+  "wsUrl": "wss://thats-athens-threshold-formal.trycloudflare.com",
+  "httpUrl": "https://thats-athens-threshold-formal.trycloudflare.com",
+  "updatedAt": "2026-11-11T11:54:25.038Z",
+  "expiresAt": "2026-12-11T11:54:25.038Z",
+  "nonce": "f26a53dfb19c67aa9b21843a8f6e2a19",
   "payload": {
-    "wsUrl": "wss://usually-brought-approx-scoring.trycloudflare.com",
-    "httpUrl": "https://usually-brought-approx-scoring.trycloudflare.com",
-    "issuedAt": "2026-11-11T09:02:47.335Z",
-    "expiresAt": "2026-12-11T09:02:47.335Z",
-    "nonce": "a175ac4bff1ed73c2c9ef628bca1a8e8"
+    "wsUrl": "wss://thats-athens-threshold-formal.trycloudflare.com",
+    "httpUrl": "https://thats-athens-threshold-formal.trycloudflare.com",
+    "issuedAt": "2026-11-11T11:54:25.038Z",
+    "expiresAt": "2026-12-11T11:54:25.038Z",
+    "nonce": "f26a53dfb19c67aa9b21843a8f6e2a19"
   },
-  "signature": "yo4IaMeSRjrq+ivk6hLNXrOFveIY3B42pHkmGo+WfaNXC3MdTA7DJIT92DnEO08Txli4oZ19FC1p56i6OHAEIg==",
+  "signature": "gSKC1cm9ZSLSKOizcOxLEPZMuoG/RZ7kRQy3E9+t9y6bTQPgEd5c9J2gyX/Q7bccTIV5K7zxmGerl/by+hXeYA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

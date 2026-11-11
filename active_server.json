@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://violations-driven-struct-sisters.trycloudflare.com",
-  "httpUrl": "https://violations-driven-struct-sisters.trycloudflare.com",
-  "updatedAt": "2026-11-11T13:15:45.816Z",
-  "expiresAt": "2026-12-11T13:15:45.816Z",
-  "nonce": "a73ac9086d598d422cb6caabdcb7a738",
+  "wsUrl": "wss://guild-drove-belle-reg.trycloudflare.com",
+  "httpUrl": "https://guild-drove-belle-reg.trycloudflare.com",
+  "updatedAt": "2026-11-11T15:20:47.755Z",
+  "expiresAt": "2026-12-11T15:20:47.755Z",
+  "nonce": "492b659a8d1f86720d4b2eb3f8b09ad8",
   "payload": {
-    "wsUrl": "wss://violations-driven-struct-sisters.trycloudflare.com",
-    "httpUrl": "https://violations-driven-struct-sisters.trycloudflare.com",
-    "issuedAt": "2026-11-11T13:15:45.816Z",
-    "expiresAt": "2026-12-11T13:15:45.816Z",
-    "nonce": "a73ac9086d598d422cb6caabdcb7a738"
+    "wsUrl": "wss://guild-drove-belle-reg.trycloudflare.com",
+    "httpUrl": "https://guild-drove-belle-reg.trycloudflare.com",
+    "issuedAt": "2026-11-11T15:20:47.755Z",
+    "expiresAt": "2026-12-11T15:20:47.755Z",
+    "nonce": "492b659a8d1f86720d4b2eb3f8b09ad8"
   },
-  "signature": "8N5yn9IS61Us2KME6ZmU0qzo4BE54vYGZBt31Ld0GkHGLFB3QXGVCHAPDX4Tyg5SLOD2qBPgGnqFRkR9Zf04ZA==",
+  "signature": "hVUE7t9hIlQrUUaQ3Shdd9YMOIaL6EXTzqRMw87MkBWeH+2tzmsrKNB0cvQAWm8yrMLktAX258y+ylYIiPz2qw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

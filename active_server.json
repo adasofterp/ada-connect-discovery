@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-11T18:25:23.315Z",
-  "expiresAt": "2026-12-11T18:25:23.315Z",
-  "nonce": "1a4bfa5e69eb7e0fa6e23afbbd810927",
+  "wsUrl": "wss://jay-amd-residential-encryption.trycloudflare.com",
+  "httpUrl": "https://jay-amd-residential-encryption.trycloudflare.com",
+  "updatedAt": "2026-11-11T18:30:36.345Z",
+  "expiresAt": "2026-12-11T18:30:36.345Z",
+  "nonce": "4bf5043c24c7b640a0aad7d5aec5b14e",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-11T18:25:23.315Z",
-    "expiresAt": "2026-12-11T18:25:23.315Z",
-    "nonce": "1a4bfa5e69eb7e0fa6e23afbbd810927"
+    "wsUrl": "wss://jay-amd-residential-encryption.trycloudflare.com",
+    "httpUrl": "https://jay-amd-residential-encryption.trycloudflare.com",
+    "issuedAt": "2026-11-11T18:30:36.345Z",
+    "expiresAt": "2026-12-11T18:30:36.345Z",
+    "nonce": "4bf5043c24c7b640a0aad7d5aec5b14e"
   },
-  "signature": "/tDwSDivbfYFa/ZGgYIuLYAerqN8O2qAl9DGk4xj3Xu3RWzMzvgLGo4dFXb7Fc2VdvHoCFLGe8dCHAbsrILHqQ==",
+  "signature": "rYnLOuKaFCWfFXwHxxqFpNt1LhQbD7u3gDWa6sP0/jWSB+gw3jEsBLOAzuzm6bd48TfpwAgyWfmA6Zoqep1mIg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

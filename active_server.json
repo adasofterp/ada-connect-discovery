@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://jay-amd-residential-encryption.trycloudflare.com",
-  "httpUrl": "https://jay-amd-residential-encryption.trycloudflare.com",
-  "updatedAt": "2026-11-11T18:30:36.345Z",
-  "expiresAt": "2026-12-11T18:30:36.345Z",
-  "nonce": "4bf5043c24c7b640a0aad7d5aec5b14e",
+  "wsUrl": "wss://cigarettes-invoice-survivor-hands.trycloudflare.com",
+  "httpUrl": "https://cigarettes-invoice-survivor-hands.trycloudflare.com",
+  "updatedAt": "2026-11-11T18:41:01.803Z",
+  "expiresAt": "2026-12-11T18:41:01.803Z",
+  "nonce": "bfa2b196357e09cfd64a9dd4796efeee",
   "payload": {
-    "wsUrl": "wss://jay-amd-residential-encryption.trycloudflare.com",
-    "httpUrl": "https://jay-amd-residential-encryption.trycloudflare.com",
-    "issuedAt": "2026-11-11T18:30:36.345Z",
-    "expiresAt": "2026-12-11T18:30:36.345Z",
-    "nonce": "4bf5043c24c7b640a0aad7d5aec5b14e"
+    "wsUrl": "wss://cigarettes-invoice-survivor-hands.trycloudflare.com",
+    "httpUrl": "https://cigarettes-invoice-survivor-hands.trycloudflare.com",
+    "issuedAt": "2026-11-11T18:41:01.803Z",
+    "expiresAt": "2026-12-11T18:41:01.803Z",
+    "nonce": "bfa2b196357e09cfd64a9dd4796efeee"
   },
-  "signature": "rYnLOuKaFCWfFXwHxxqFpNt1LhQbD7u3gDWa6sP0/jWSB+gw3jEsBLOAzuzm6bd48TfpwAgyWfmA6Zoqep1mIg==",
+  "signature": "wqau0RNcqsh+K1Hseeqr9XWE/sWa4BT/Uvy3j/ub84zEnah2PGmupzuNxB2+ED9yTGBKeGaffXmNWUTpuZHthQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

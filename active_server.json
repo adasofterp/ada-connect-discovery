@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://punch-adware-mandate-ruling.trycloudflare.com",
-  "httpUrl": "https://punch-adware-mandate-ruling.trycloudflare.com",
-  "updatedAt": "2026-11-11T17:34:49.556Z",
-  "expiresAt": "2026-12-11T17:34:49.556Z",
-  "nonce": "24f49cb4a3aff5e984a4b478605ae683",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-11T18:04:29.907Z",
+  "expiresAt": "2026-12-11T18:04:29.907Z",
+  "nonce": "197ee1cc0471d231b814eb2f83b8517d",
   "payload": {
-    "wsUrl": "wss://punch-adware-mandate-ruling.trycloudflare.com",
-    "httpUrl": "https://punch-adware-mandate-ruling.trycloudflare.com",
-    "issuedAt": "2026-11-11T17:34:49.556Z",
-    "expiresAt": "2026-12-11T17:34:49.556Z",
-    "nonce": "24f49cb4a3aff5e984a4b478605ae683"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-11T18:04:29.907Z",
+    "expiresAt": "2026-12-11T18:04:29.907Z",
+    "nonce": "197ee1cc0471d231b814eb2f83b8517d"
   },
-  "signature": "Pqxg+ucsmJTuf1XJarPh0LGaPZ0XzE0oKpjoO2W9mpk+cIGOMJiTINn/lkdoR2YiY9U96Gaz0IyP/Z5w8V762w==",
+  "signature": "WSuuilqFADufteYi7vBNPyXTOP3XcgOaIAcYIzjq+JghTYjMQ6TF1seYZ0Mi5RdvOr9XeyMdAg1bjNo0xsiupQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

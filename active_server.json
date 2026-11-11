@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://gym-apps-automobiles-quoted.trycloudflare.com",
-  "httpUrl": "https://gym-apps-automobiles-quoted.trycloudflare.com",
-  "updatedAt": "2026-11-11T20:27:39.555Z",
-  "expiresAt": "2026-12-11T20:27:39.555Z",
-  "nonce": "d530c7efd8fa21d6c9027355d8a48c63",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-11T20:43:23.166Z",
+  "expiresAt": "2026-12-11T20:43:23.166Z",
+  "nonce": "d38c7a1d479f549419e9e0bffd0aad2c",
   "payload": {
-    "wsUrl": "wss://gym-apps-automobiles-quoted.trycloudflare.com",
-    "httpUrl": "https://gym-apps-automobiles-quoted.trycloudflare.com",
-    "issuedAt": "2026-11-11T20:27:39.555Z",
-    "expiresAt": "2026-12-11T20:27:39.555Z",
-    "nonce": "d530c7efd8fa21d6c9027355d8a48c63"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-11T20:43:23.166Z",
+    "expiresAt": "2026-12-11T20:43:23.166Z",
+    "nonce": "d38c7a1d479f549419e9e0bffd0aad2c"
   },
-  "signature": "iJim8VHAa8ppC3lMRHAH4kohUs32mVRlsqYxmPC2TeMwHVRHTtEtjSiPb9k3iJ+662tS8WaVEkSWr9hD+IqptQ==",
+  "signature": "/JT8toD24BOStXUmJaxvoflAbTHzpx8a485b5XAccq1KnY2BPZ60iZbryz9kdogPKbuiqLBYInof6c2El+L+zA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

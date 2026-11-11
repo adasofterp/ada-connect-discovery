@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://motor-exceptional-stan-wages.trycloudflare.com",
-  "httpUrl": "https://motor-exceptional-stan-wages.trycloudflare.com",
-  "updatedAt": "2026-11-11T00:06:14.846Z",
-  "expiresAt": "2026-12-11T00:06:14.846Z",
-  "nonce": "b4c9f9d071fd6c62e08fc430afa5d4c3",
+  "wsUrl": "wss://commissioners-rebound-guarantees-television.trycloudflare.com",
+  "httpUrl": "https://commissioners-rebound-guarantees-television.trycloudflare.com",
+  "updatedAt": "2026-11-11T00:22:35.090Z",
+  "expiresAt": "2026-12-11T00:22:35.090Z",
+  "nonce": "50d2836f5121f53e3b7a8d932f63e9bc",
   "payload": {
-    "wsUrl": "wss://motor-exceptional-stan-wages.trycloudflare.com",
-    "httpUrl": "https://motor-exceptional-stan-wages.trycloudflare.com",
-    "issuedAt": "2026-11-11T00:06:14.846Z",
-    "expiresAt": "2026-12-11T00:06:14.846Z",
-    "nonce": "b4c9f9d071fd6c62e08fc430afa5d4c3"
+    "wsUrl": "wss://commissioners-rebound-guarantees-television.trycloudflare.com",
+    "httpUrl": "https://commissioners-rebound-guarantees-television.trycloudflare.com",
+    "issuedAt": "2026-11-11T00:22:35.090Z",
+    "expiresAt": "2026-12-11T00:22:35.090Z",
+    "nonce": "50d2836f5121f53e3b7a8d932f63e9bc"
   },
-  "signature": "R0eYcMc4YHAcgzUXFpYpCDPBQwmHClbK+lcFmBWN+apfIHh9MUXnPoFYmd0OBC55VVsk8jZ9Xn5QoQtPyE2Awg==",
+  "signature": "KYm2BaXVVAfcqQTVaAsMBe4TIDq/YxWj6alzntSuoBk7mtsULJbm+kG4ic3MIYbATStrlnKTt25Gl8RAgvcKDw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

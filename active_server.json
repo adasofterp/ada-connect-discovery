@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://demands-stickers-roll-fisher.trycloudflare.com",
-  "httpUrl": "https://demands-stickers-roll-fisher.trycloudflare.com",
-  "updatedAt": "2026-11-11T16:07:49.633Z",
-  "expiresAt": "2026-12-11T16:07:49.633Z",
-  "nonce": "905874c9851eddd3569b012eb1df7eb4",
+  "wsUrl": "wss://incl-linking-wishlist-powder.trycloudflare.com",
+  "httpUrl": "https://incl-linking-wishlist-powder.trycloudflare.com",
+  "updatedAt": "2026-11-11T16:27:35.941Z",
+  "expiresAt": "2026-12-11T16:27:35.941Z",
+  "nonce": "af0dafbd3d5d9c67612eb0d6541919b7",
   "payload": {
-    "wsUrl": "wss://demands-stickers-roll-fisher.trycloudflare.com",
-    "httpUrl": "https://demands-stickers-roll-fisher.trycloudflare.com",
-    "issuedAt": "2026-11-11T16:07:49.633Z",
-    "expiresAt": "2026-12-11T16:07:49.633Z",
-    "nonce": "905874c9851eddd3569b012eb1df7eb4"
+    "wsUrl": "wss://incl-linking-wishlist-powder.trycloudflare.com",
+    "httpUrl": "https://incl-linking-wishlist-powder.trycloudflare.com",
+    "issuedAt": "2026-11-11T16:27:35.941Z",
+    "expiresAt": "2026-12-11T16:27:35.941Z",
+    "nonce": "af0dafbd3d5d9c67612eb0d6541919b7"
   },
-  "signature": "ady+bMgO7bC8I7cUAe6wlA7uUwexGnq5dvoo6gCg0ZSkWPyMSGi3Ju1JYaybna6PtgOPtQFbuNJOvvAaiFgu+Q==",
+  "signature": "OT+ABFMnb0qJa5esyquryioJlVrBXl8L7Le83mrapQGc96d+g2sPauITwKYV3vyRwzfGWwQQS+VWrhUVGXzPGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

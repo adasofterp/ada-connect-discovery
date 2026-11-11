@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cigarettes-invoice-survivor-hands.trycloudflare.com",
-  "httpUrl": "https://cigarettes-invoice-survivor-hands.trycloudflare.com",
-  "updatedAt": "2026-11-11T18:41:01.803Z",
-  "expiresAt": "2026-12-11T18:41:01.803Z",
-  "nonce": "bfa2b196357e09cfd64a9dd4796efeee",
+  "wsUrl": "wss://dish-dna-redeem-robinson.trycloudflare.com",
+  "httpUrl": "https://dish-dna-redeem-robinson.trycloudflare.com",
+  "updatedAt": "2026-11-11T18:49:58.232Z",
+  "expiresAt": "2026-12-11T18:49:58.232Z",
+  "nonce": "8142322c8b78e5ffd1d2c9b9925f3088",
   "payload": {
-    "wsUrl": "wss://cigarettes-invoice-survivor-hands.trycloudflare.com",
-    "httpUrl": "https://cigarettes-invoice-survivor-hands.trycloudflare.com",
-    "issuedAt": "2026-11-11T18:41:01.803Z",
-    "expiresAt": "2026-12-11T18:41:01.803Z",
-    "nonce": "bfa2b196357e09cfd64a9dd4796efeee"
+    "wsUrl": "wss://dish-dna-redeem-robinson.trycloudflare.com",
+    "httpUrl": "https://dish-dna-redeem-robinson.trycloudflare.com",
+    "issuedAt": "2026-11-11T18:49:58.232Z",
+    "expiresAt": "2026-12-11T18:49:58.232Z",
+    "nonce": "8142322c8b78e5ffd1d2c9b9925f3088"
   },
-  "signature": "wqau0RNcqsh+K1Hseeqr9XWE/sWa4BT/Uvy3j/ub84zEnah2PGmupzuNxB2+ED9yTGBKeGaffXmNWUTpuZHthQ==",
+  "signature": "SHuqwCfy8Kp6KoCU2eBxlacvK9409FDZUwZSPd3wrC7tLcoI9KhK7GyITb8kQSSr4IEcqUhYrSgV0AWK+PgCWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

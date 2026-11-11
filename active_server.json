@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://struck-revenues-ads-oldest.trycloudflare.com",
-  "httpUrl": "https://struck-revenues-ads-oldest.trycloudflare.com",
-  "updatedAt": "2026-11-11T12:15:16.819Z",
-  "expiresAt": "2026-12-11T12:15:16.819Z",
-  "nonce": "6cbc2f7af79e22231344d90295cbbde4",
+  "wsUrl": "wss://fleet-leaders-operates-thereof.trycloudflare.com",
+  "httpUrl": "https://fleet-leaders-operates-thereof.trycloudflare.com",
+  "updatedAt": "2026-11-11T12:25:40.651Z",
+  "expiresAt": "2026-12-11T12:25:40.651Z",
+  "nonce": "fc75540dc94e3a6e1f76e7b9ab2a306a",
   "payload": {
-    "wsUrl": "wss://struck-revenues-ads-oldest.trycloudflare.com",
-    "httpUrl": "https://struck-revenues-ads-oldest.trycloudflare.com",
-    "issuedAt": "2026-11-11T12:15:16.819Z",
-    "expiresAt": "2026-12-11T12:15:16.819Z",
-    "nonce": "6cbc2f7af79e22231344d90295cbbde4"
+    "wsUrl": "wss://fleet-leaders-operates-thereof.trycloudflare.com",
+    "httpUrl": "https://fleet-leaders-operates-thereof.trycloudflare.com",
+    "issuedAt": "2026-11-11T12:25:40.651Z",
+    "expiresAt": "2026-12-11T12:25:40.651Z",
+    "nonce": "fc75540dc94e3a6e1f76e7b9ab2a306a"
   },
-  "signature": "ac9o/Kg7sD8t3sJ96gsCwOJ8/LEsgepYwHdldN6geVKe4BGUn5dG6g5ZrrjAi8yOAdY9Xeqcej0+wlvDPyEGgQ==",
+  "signature": "/ZxaSglmkVdhKmKxarBrlXUn2AUVP6LU7v/WpX0WJYtkxoS85FkEfkK+wj19x/6aTzxAX1RfL3GiMJQ8ViOOlQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

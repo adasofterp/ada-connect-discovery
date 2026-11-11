@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ivory-struck-wool-del.trycloudflare.com",
-  "httpUrl": "https://ivory-struck-wool-del.trycloudflare.com",
-  "updatedAt": "2026-11-11T19:00:26.914Z",
-  "expiresAt": "2026-12-11T19:00:26.914Z",
-  "nonce": "6f2c383936f790acdf550d510ba604a7",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-11T19:36:51.521Z",
+  "expiresAt": "2026-12-11T19:36:51.521Z",
+  "nonce": "046b0a0349641f9a0b2b4fd965b1d966",
   "payload": {
-    "wsUrl": "wss://ivory-struck-wool-del.trycloudflare.com",
-    "httpUrl": "https://ivory-struck-wool-del.trycloudflare.com",
-    "issuedAt": "2026-11-11T19:00:26.914Z",
-    "expiresAt": "2026-12-11T19:00:26.914Z",
-    "nonce": "6f2c383936f790acdf550d510ba604a7"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-11T19:36:51.521Z",
+    "expiresAt": "2026-12-11T19:36:51.521Z",
+    "nonce": "046b0a0349641f9a0b2b4fd965b1d966"
   },
-  "signature": "VOm82gC67qtQ32nuYl0BIonRpqbQHYZ2jll9IAoW/VXPYTfGiHFlR8lMWm5x+dKyh9zGfAm8g/qBdtPV1Nn2+g==",
+  "signature": "HK4OFEdf+CmciJv492lDG48gTPt17kTQgNsrhGj+S3uExBZRUkqM33BnHm2nj2OUw1ElNvKUymzPgRPgnL0/dw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

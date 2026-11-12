@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://inns-upgrading-fantasy-literature.trycloudflare.com",
-  "httpUrl": "https://inns-upgrading-fantasy-literature.trycloudflare.com",
-  "updatedAt": "2026-11-12T03:56:19.586Z",
-  "expiresAt": "2026-12-12T03:56:19.586Z",
-  "nonce": "3b891f0177ddee37db05bb7518693618",
+  "wsUrl": "wss://extensive-disciplines-wives-abroad.trycloudflare.com",
+  "httpUrl": "https://extensive-disciplines-wives-abroad.trycloudflare.com",
+  "updatedAt": "2026-11-12T04:06:44.801Z",
+  "expiresAt": "2026-12-12T04:06:44.801Z",
+  "nonce": "6003ac5b5ad2e02a2a09257690324097",
   "payload": {
-    "wsUrl": "wss://inns-upgrading-fantasy-literature.trycloudflare.com",
-    "httpUrl": "https://inns-upgrading-fantasy-literature.trycloudflare.com",
-    "issuedAt": "2026-11-12T03:56:19.586Z",
-    "expiresAt": "2026-12-12T03:56:19.586Z",
-    "nonce": "3b891f0177ddee37db05bb7518693618"
+    "wsUrl": "wss://extensive-disciplines-wives-abroad.trycloudflare.com",
+    "httpUrl": "https://extensive-disciplines-wives-abroad.trycloudflare.com",
+    "issuedAt": "2026-11-12T04:06:44.801Z",
+    "expiresAt": "2026-12-12T04:06:44.801Z",
+    "nonce": "6003ac5b5ad2e02a2a09257690324097"
   },
-  "signature": "vV+eFRU7JaH2JuRMnBe6we1rtihrd6IhCOD/QjxlCWJAiyMofqfDkLeOt1krgJs+DAtMZHCuaWLl4vSM96/tSw==",
+  "signature": "rXSxO6DXt1JquIfwinDPvNhcml0dEo1CEoQpwa+7GfCP3O9/zoXTUm6T6pvRWffFXsrTKvekqx3NorfQsn7C6A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

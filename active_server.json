@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://plymouth-super-currencies-linda.trycloudflare.com",
-  "httpUrl": "https://plymouth-super-currencies-linda.trycloudflare.com",
-  "updatedAt": "2026-11-12T21:35:27.991Z",
-  "expiresAt": "2026-12-12T21:35:27.991Z",
-  "nonce": "b4fac3cd9db13b761aa50f0dd39a1f94",
+  "wsUrl": "wss://lucas-batman-bikini-javascript.trycloudflare.com",
+  "httpUrl": "https://lucas-batman-bikini-javascript.trycloudflare.com",
+  "updatedAt": "2026-11-12T23:20:51.542Z",
+  "expiresAt": "2026-12-12T23:20:51.542Z",
+  "nonce": "d3a8491c774d8dc3d08a3cadf8477b34",
   "payload": {
-    "wsUrl": "wss://plymouth-super-currencies-linda.trycloudflare.com",
-    "httpUrl": "https://plymouth-super-currencies-linda.trycloudflare.com",
-    "issuedAt": "2026-11-12T21:35:27.991Z",
-    "expiresAt": "2026-12-12T21:35:27.991Z",
-    "nonce": "b4fac3cd9db13b761aa50f0dd39a1f94"
+    "wsUrl": "wss://lucas-batman-bikini-javascript.trycloudflare.com",
+    "httpUrl": "https://lucas-batman-bikini-javascript.trycloudflare.com",
+    "issuedAt": "2026-11-12T23:20:51.542Z",
+    "expiresAt": "2026-12-12T23:20:51.542Z",
+    "nonce": "d3a8491c774d8dc3d08a3cadf8477b34"
   },
-  "signature": "y9sI4XQ7RfH8Srx64oPN9qu0mAa8lbKqm+MZfCSQMuuOL7WZeVb2mLUCK13/gvanPa9im9/6EigfFeUCjzCQ2w==",
+  "signature": "KKrUynVuAQ5QlPjojoYa7A+g/rfilAd8Q0Ec0IelPPFuF/1mvAK69yNTiEHk/8kZIY+UW+fqJOIL1YxfRTEjgA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

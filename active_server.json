@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nail-trackbacks-proteins-photograph.trycloudflare.com",
-  "httpUrl": "https://nail-trackbacks-proteins-photograph.trycloudflare.com",
-  "updatedAt": "2026-11-12T03:45:54.750Z",
-  "expiresAt": "2026-12-12T03:45:54.750Z",
-  "nonce": "b193ddda0ff4310233f300afff85e229",
+  "wsUrl": "wss://inns-upgrading-fantasy-literature.trycloudflare.com",
+  "httpUrl": "https://inns-upgrading-fantasy-literature.trycloudflare.com",
+  "updatedAt": "2026-11-12T03:56:19.586Z",
+  "expiresAt": "2026-12-12T03:56:19.586Z",
+  "nonce": "3b891f0177ddee37db05bb7518693618",
   "payload": {
-    "wsUrl": "wss://nail-trackbacks-proteins-photograph.trycloudflare.com",
-    "httpUrl": "https://nail-trackbacks-proteins-photograph.trycloudflare.com",
-    "issuedAt": "2026-11-12T03:45:54.750Z",
-    "expiresAt": "2026-12-12T03:45:54.750Z",
-    "nonce": "b193ddda0ff4310233f300afff85e229"
+    "wsUrl": "wss://inns-upgrading-fantasy-literature.trycloudflare.com",
+    "httpUrl": "https://inns-upgrading-fantasy-literature.trycloudflare.com",
+    "issuedAt": "2026-11-12T03:56:19.586Z",
+    "expiresAt": "2026-12-12T03:56:19.586Z",
+    "nonce": "3b891f0177ddee37db05bb7518693618"
   },
-  "signature": "ofJPk+5TMSs3EMafEADqz4XPwBgESFRPYMaUPOMwWH7o98HRC+GBloQBJ08+XMyV/FJal6QC2xTHRb4A5zncKQ==",
+  "signature": "vV+eFRU7JaH2JuRMnBe6we1rtihrd6IhCOD/QjxlCWJAiyMofqfDkLeOt1krgJs+DAtMZHCuaWLl4vSM96/tSw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

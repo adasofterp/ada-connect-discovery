@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://measurement-titten-cold-hundred.trycloudflare.com",
-  "httpUrl": "https://measurement-titten-cold-hundred.trycloudflare.com",
-  "updatedAt": "2026-11-12T03:14:39.732Z",
-  "expiresAt": "2026-12-12T03:14:39.732Z",
-  "nonce": "ce2258e872de851d3e121ce99e397b44",
+  "wsUrl": "wss://hand-graphics-basin-rebound.trycloudflare.com",
+  "httpUrl": "https://hand-graphics-basin-rebound.trycloudflare.com",
+  "updatedAt": "2026-11-12T03:25:01.218Z",
+  "expiresAt": "2026-12-12T03:25:01.218Z",
+  "nonce": "6ff706168a5146da9a5e441e94ca0984",
   "payload": {
-    "wsUrl": "wss://measurement-titten-cold-hundred.trycloudflare.com",
-    "httpUrl": "https://measurement-titten-cold-hundred.trycloudflare.com",
-    "issuedAt": "2026-11-12T03:14:39.732Z",
-    "expiresAt": "2026-12-12T03:14:39.732Z",
-    "nonce": "ce2258e872de851d3e121ce99e397b44"
+    "wsUrl": "wss://hand-graphics-basin-rebound.trycloudflare.com",
+    "httpUrl": "https://hand-graphics-basin-rebound.trycloudflare.com",
+    "issuedAt": "2026-11-12T03:25:01.218Z",
+    "expiresAt": "2026-12-12T03:25:01.218Z",
+    "nonce": "6ff706168a5146da9a5e441e94ca0984"
   },
-  "signature": "CfWryErI52h1DpjgtcdNXSl0cnEyIQH+4AMiRmA9fmSdWcj1pZKmrAw0YkmdXnckldDcg8apinXsZTW3nmPxnQ==",
+  "signature": "RAPYemgBHcGxUACYPN0Y+3jwJsO/7NVLQOl1FZqd2OSyH28hz+yw5hzeAH3JmUq6/2zJiquFLHmsGCTW9mWMFA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

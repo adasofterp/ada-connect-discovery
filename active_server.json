@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://exposed-earth-laugh-atm.trycloudflare.com",
-  "httpUrl": "https://exposed-earth-laugh-atm.trycloudflare.com",
-  "updatedAt": "2026-11-12T00:38:00.492Z",
-  "expiresAt": "2026-12-12T00:38:00.492Z",
-  "nonce": "f3d818502ade66d7c0ad2a9ea605ebfc",
+  "wsUrl": "wss://bringing-reed-rivers-expensive.trycloudflare.com",
+  "httpUrl": "https://bringing-reed-rivers-expensive.trycloudflare.com",
+  "updatedAt": "2026-11-12T00:48:35.757Z",
+  "expiresAt": "2026-12-12T00:48:35.757Z",
+  "nonce": "1b9954a6eab90fe1676c0addb66064d8",
   "payload": {
-    "wsUrl": "wss://exposed-earth-laugh-atm.trycloudflare.com",
-    "httpUrl": "https://exposed-earth-laugh-atm.trycloudflare.com",
-    "issuedAt": "2026-11-12T00:38:00.492Z",
-    "expiresAt": "2026-12-12T00:38:00.492Z",
-    "nonce": "f3d818502ade66d7c0ad2a9ea605ebfc"
+    "wsUrl": "wss://bringing-reed-rivers-expensive.trycloudflare.com",
+    "httpUrl": "https://bringing-reed-rivers-expensive.trycloudflare.com",
+    "issuedAt": "2026-11-12T00:48:35.757Z",
+    "expiresAt": "2026-12-12T00:48:35.757Z",
+    "nonce": "1b9954a6eab90fe1676c0addb66064d8"
   },
-  "signature": "Bb7iopsvc7kZXwhkcAXq2vBGo5hm++lHJzBa3Mb9MzENUgXv7XU7caKfyGfgGHpssjCfGtXgusL2bT9anTyFuQ==",
+  "signature": "/b3BvWItpklnxGQuHPgnbA73n976POqULsX2RiD/f+aQ6EByPCdFqtUDXVqKPmGsLhqY5JTh+QDj+QagkzXCFQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

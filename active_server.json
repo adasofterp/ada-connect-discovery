@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://plymouth-super-currencies-linda.trycloudflare.com",
   "httpUrl": "https://plymouth-super-currencies-linda.trycloudflare.com",
-  "updatedAt": "2026-11-12T19:14:37.253Z",
-  "expiresAt": "2026-12-12T19:14:37.253Z",
-  "nonce": "f2a785f096d28d7eb3517d88a176d0c9",
+  "updatedAt": "2026-11-12T21:35:27.991Z",
+  "expiresAt": "2026-12-12T21:35:27.991Z",
+  "nonce": "b4fac3cd9db13b761aa50f0dd39a1f94",
   "payload": {
     "wsUrl": "wss://plymouth-super-currencies-linda.trycloudflare.com",
     "httpUrl": "https://plymouth-super-currencies-linda.trycloudflare.com",
-    "issuedAt": "2026-11-12T19:14:37.253Z",
-    "expiresAt": "2026-12-12T19:14:37.253Z",
-    "nonce": "f2a785f096d28d7eb3517d88a176d0c9"
+    "issuedAt": "2026-11-12T21:35:27.991Z",
+    "expiresAt": "2026-12-12T21:35:27.991Z",
+    "nonce": "b4fac3cd9db13b761aa50f0dd39a1f94"
   },
-  "signature": "dib+9likFjF6FM1Ke2b5J5isTvZDYV413bVr/4GFC1icRrdZOOqq9QbUMTiB2N639pl/aOEO0EA/FF6bpZn5rw==",
+  "signature": "y9sI4XQ7RfH8Srx64oPN9qu0mAa8lbKqm+MZfCSQMuuOL7WZeVb2mLUCK13/gvanPa9im9/6EigfFeUCjzCQ2w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

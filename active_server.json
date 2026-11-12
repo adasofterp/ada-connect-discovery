@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://attend-disks-surely-card.trycloudflare.com",
-  "httpUrl": "https://attend-disks-surely-card.trycloudflare.com",
-  "updatedAt": "2026-11-12T00:27:35.722Z",
-  "expiresAt": "2026-12-12T00:27:35.722Z",
-  "nonce": "c969ef24099b42fc8bef354185fcee00",
+  "wsUrl": "wss://exposed-earth-laugh-atm.trycloudflare.com",
+  "httpUrl": "https://exposed-earth-laugh-atm.trycloudflare.com",
+  "updatedAt": "2026-11-12T00:38:00.492Z",
+  "expiresAt": "2026-12-12T00:38:00.492Z",
+  "nonce": "f3d818502ade66d7c0ad2a9ea605ebfc",
   "payload": {
-    "wsUrl": "wss://attend-disks-surely-card.trycloudflare.com",
-    "httpUrl": "https://attend-disks-surely-card.trycloudflare.com",
-    "issuedAt": "2026-11-12T00:27:35.722Z",
-    "expiresAt": "2026-12-12T00:27:35.722Z",
-    "nonce": "c969ef24099b42fc8bef354185fcee00"
+    "wsUrl": "wss://exposed-earth-laugh-atm.trycloudflare.com",
+    "httpUrl": "https://exposed-earth-laugh-atm.trycloudflare.com",
+    "issuedAt": "2026-11-12T00:38:00.492Z",
+    "expiresAt": "2026-12-12T00:38:00.492Z",
+    "nonce": "f3d818502ade66d7c0ad2a9ea605ebfc"
   },
-  "signature": "f4pGDfWktQjttU5NEGayCM/c7pNPuEe9FQcEHf6tCq2EXkiSDfevtKTHHc+YkXTLanaONE7/EscdOjYmssLx2Q==",
+  "signature": "Bb7iopsvc7kZXwhkcAXq2vBGo5hm++lHJzBa3Mb9MzENUgXv7XU7caKfyGfgGHpssjCfGtXgusL2bT9anTyFuQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

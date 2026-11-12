@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-12T00:22:22.340Z",
-  "expiresAt": "2026-12-12T00:22:22.340Z",
-  "nonce": "2d8dcd028c1f138d904e53543d3f0cb6",
+  "wsUrl": "wss://attend-disks-surely-card.trycloudflare.com",
+  "httpUrl": "https://attend-disks-surely-card.trycloudflare.com",
+  "updatedAt": "2026-11-12T00:27:35.722Z",
+  "expiresAt": "2026-12-12T00:27:35.722Z",
+  "nonce": "c969ef24099b42fc8bef354185fcee00",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-12T00:22:22.340Z",
-    "expiresAt": "2026-12-12T00:22:22.340Z",
-    "nonce": "2d8dcd028c1f138d904e53543d3f0cb6"
+    "wsUrl": "wss://attend-disks-surely-card.trycloudflare.com",
+    "httpUrl": "https://attend-disks-surely-card.trycloudflare.com",
+    "issuedAt": "2026-11-12T00:27:35.722Z",
+    "expiresAt": "2026-12-12T00:27:35.722Z",
+    "nonce": "c969ef24099b42fc8bef354185fcee00"
   },
-  "signature": "iRaIS0WddltJVV+QwtGHrlZCuEdVB/QRd/mUwLuiyTyW02FKWTFGu1SbCyIs2JhZRAoYVQapFBirtpz9zovxQQ==",
+  "signature": "f4pGDfWktQjttU5NEGayCM/c7pNPuEe9FQcEHf6tCq2EXkiSDfevtKTHHc+YkXTLanaONE7/EscdOjYmssLx2Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

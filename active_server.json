@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://tide-except-springs-diff.trycloudflare.com",
-  "httpUrl": "https://tide-except-springs-diff.trycloudflare.com",
-  "updatedAt": "2026-11-12T02:22:31.665Z",
-  "expiresAt": "2026-12-12T02:22:31.665Z",
-  "nonce": "784638aadf3fab5f4040fedf4c07b6eb",
+  "wsUrl": "wss://test-syndication-zone-midi.trycloudflare.com",
+  "httpUrl": "https://test-syndication-zone-midi.trycloudflare.com",
+  "updatedAt": "2026-11-12T02:32:56.179Z",
+  "expiresAt": "2026-12-12T02:32:56.179Z",
+  "nonce": "2ee382702b57de37920286f928d1a33f",
   "payload": {
-    "wsUrl": "wss://tide-except-springs-diff.trycloudflare.com",
-    "httpUrl": "https://tide-except-springs-diff.trycloudflare.com",
-    "issuedAt": "2026-11-12T02:22:31.665Z",
-    "expiresAt": "2026-12-12T02:22:31.665Z",
-    "nonce": "784638aadf3fab5f4040fedf4c07b6eb"
+    "wsUrl": "wss://test-syndication-zone-midi.trycloudflare.com",
+    "httpUrl": "https://test-syndication-zone-midi.trycloudflare.com",
+    "issuedAt": "2026-11-12T02:32:56.179Z",
+    "expiresAt": "2026-12-12T02:32:56.179Z",
+    "nonce": "2ee382702b57de37920286f928d1a33f"
   },
-  "signature": "t6keBQ9/cwrVElCOs+3sN8irvIfl4vYOgkD/Tui2KwDM9cmZiecHWeFA6q86dP9LqLFHdVDehY7pah1IFR5f1Q==",
+  "signature": "aXIToCqva/9EpadiDTz8FxMb2k3c18iuFpbLebhpSz+dOEJlDatOV24hbaWvCX9gub/S5+8MkX2XFeI5Ec7b0w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

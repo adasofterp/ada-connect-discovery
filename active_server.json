@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://breeds-introductory-helpful-acknowledged.trycloudflare.com",
-  "httpUrl": "https://breeds-introductory-helpful-acknowledged.trycloudflare.com",
-  "updatedAt": "2026-11-12T00:59:07.129Z",
-  "expiresAt": "2026-12-12T00:59:07.129Z",
-  "nonce": "9b87448fed03227ceb22c76b04cffda3",
+  "wsUrl": "wss://seeks-interest-across-odds.trycloudflare.com",
+  "httpUrl": "https://seeks-interest-across-odds.trycloudflare.com",
+  "updatedAt": "2026-11-12T01:19:55.882Z",
+  "expiresAt": "2026-12-12T01:19:55.882Z",
+  "nonce": "29eb04166b9b8d865e62e9f3f318473b",
   "payload": {
-    "wsUrl": "wss://breeds-introductory-helpful-acknowledged.trycloudflare.com",
-    "httpUrl": "https://breeds-introductory-helpful-acknowledged.trycloudflare.com",
-    "issuedAt": "2026-11-12T00:59:07.129Z",
-    "expiresAt": "2026-12-12T00:59:07.129Z",
-    "nonce": "9b87448fed03227ceb22c76b04cffda3"
+    "wsUrl": "wss://seeks-interest-across-odds.trycloudflare.com",
+    "httpUrl": "https://seeks-interest-across-odds.trycloudflare.com",
+    "issuedAt": "2026-11-12T01:19:55.882Z",
+    "expiresAt": "2026-12-12T01:19:55.882Z",
+    "nonce": "29eb04166b9b8d865e62e9f3f318473b"
   },
-  "signature": "2L0np305QhJFRTIvMRemi0UrQFe9HxulzP45Z1paprZp7O+o1hFfjIH37OFdfnwe6tSmIhRA1xAPj0R9j+5X4A==",
+  "signature": "Gf+GDv4AmXDZAA/47hiHnkUXcceaeKxVPAeD2htYXw6alWtJk0p29kkKOycNSBjkLBCSRusuyYTr/UDdT+HuWA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

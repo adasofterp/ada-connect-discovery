@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://hand-graphics-basin-rebound.trycloudflare.com",
-  "httpUrl": "https://hand-graphics-basin-rebound.trycloudflare.com",
-  "updatedAt": "2026-11-12T03:25:01.218Z",
-  "expiresAt": "2026-12-12T03:25:01.218Z",
-  "nonce": "6ff706168a5146da9a5e441e94ca0984",
+  "wsUrl": "wss://nail-trackbacks-proteins-photograph.trycloudflare.com",
+  "httpUrl": "https://nail-trackbacks-proteins-photograph.trycloudflare.com",
+  "updatedAt": "2026-11-12T03:45:54.750Z",
+  "expiresAt": "2026-12-12T03:45:54.750Z",
+  "nonce": "b193ddda0ff4310233f300afff85e229",
   "payload": {
-    "wsUrl": "wss://hand-graphics-basin-rebound.trycloudflare.com",
-    "httpUrl": "https://hand-graphics-basin-rebound.trycloudflare.com",
-    "issuedAt": "2026-11-12T03:25:01.218Z",
-    "expiresAt": "2026-12-12T03:25:01.218Z",
-    "nonce": "6ff706168a5146da9a5e441e94ca0984"
+    "wsUrl": "wss://nail-trackbacks-proteins-photograph.trycloudflare.com",
+    "httpUrl": "https://nail-trackbacks-proteins-photograph.trycloudflare.com",
+    "issuedAt": "2026-11-12T03:45:54.750Z",
+    "expiresAt": "2026-12-12T03:45:54.750Z",
+    "nonce": "b193ddda0ff4310233f300afff85e229"
   },
-  "signature": "RAPYemgBHcGxUACYPN0Y+3jwJsO/7NVLQOl1FZqd2OSyH28hz+yw5hzeAH3JmUq6/2zJiquFLHmsGCTW9mWMFA==",
+  "signature": "ofJPk+5TMSs3EMafEADqz4XPwBgESFRPYMaUPOMwWH7o98HRC+GBloQBJ08+XMyV/FJal6QC2xTHRb4A5zncKQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

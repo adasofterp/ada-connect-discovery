@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://seeks-interest-across-odds.trycloudflare.com",
   "httpUrl": "https://seeks-interest-across-odds.trycloudflare.com",
-  "updatedAt": "2026-11-12T01:19:55.882Z",
-  "expiresAt": "2026-12-12T01:19:55.882Z",
-  "nonce": "29eb04166b9b8d865e62e9f3f318473b",
+  "updatedAt": "2026-11-12T01:25:03.087Z",
+  "expiresAt": "2026-12-12T01:25:03.087Z",
+  "nonce": "7e9fb130891da9e30cad6dd150d1692c",
   "payload": {
     "wsUrl": "wss://seeks-interest-across-odds.trycloudflare.com",
     "httpUrl": "https://seeks-interest-across-odds.trycloudflare.com",
-    "issuedAt": "2026-11-12T01:19:55.882Z",
-    "expiresAt": "2026-12-12T01:19:55.882Z",
-    "nonce": "29eb04166b9b8d865e62e9f3f318473b"
+    "issuedAt": "2026-11-12T01:25:03.087Z",
+    "expiresAt": "2026-12-12T01:25:03.087Z",
+    "nonce": "7e9fb130891da9e30cad6dd150d1692c"
   },
-  "signature": "Gf+GDv4AmXDZAA/47hiHnkUXcceaeKxVPAeD2htYXw6alWtJk0p29kkKOycNSBjkLBCSRusuyYTr/UDdT+HuWA==",
+  "signature": "C3xUiM2ab5nsYQke8bBBsA0p2+HfStEkDE+2Uu50Pa61Try/g5Ar9u+I+GGCDnML32avNMW//7nUKORxinH+ew==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

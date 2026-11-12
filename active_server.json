@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://hospitality-row-dennis-miles.trycloudflare.com",
-  "httpUrl": "https://hospitality-row-dennis-miles.trycloudflare.com",
-  "updatedAt": "2026-11-12T01:30:21.034Z",
-  "expiresAt": "2026-12-12T01:30:21.034Z",
-  "nonce": "c04df14f197b753b8c251f39f4db1e2c",
+  "wsUrl": "wss://refer-usually-trailers-households.trycloudflare.com",
+  "httpUrl": "https://refer-usually-trailers-households.trycloudflare.com",
+  "updatedAt": "2026-11-12T01:51:14.876Z",
+  "expiresAt": "2026-12-12T01:51:14.876Z",
+  "nonce": "ac242d5e244b2ef47f0a69c667cb4ed4",
   "payload": {
-    "wsUrl": "wss://hospitality-row-dennis-miles.trycloudflare.com",
-    "httpUrl": "https://hospitality-row-dennis-miles.trycloudflare.com",
-    "issuedAt": "2026-11-12T01:30:21.034Z",
-    "expiresAt": "2026-12-12T01:30:21.034Z",
-    "nonce": "c04df14f197b753b8c251f39f4db1e2c"
+    "wsUrl": "wss://refer-usually-trailers-households.trycloudflare.com",
+    "httpUrl": "https://refer-usually-trailers-households.trycloudflare.com",
+    "issuedAt": "2026-11-12T01:51:14.876Z",
+    "expiresAt": "2026-12-12T01:51:14.876Z",
+    "nonce": "ac242d5e244b2ef47f0a69c667cb4ed4"
   },
-  "signature": "BLMkIWFOCs90pT1usAeYWEad2MRerPpboM2HWeh4pbIhtTNbG+uiKZCI7f3CTtUPFddn0sc1x4wFyLB8AMdMhA==",
+  "signature": "SjNGNPxnM/a09h6S4N+5X2w2ByOaHGOd5ilV9qtPgNq+JKCpX0c6/3QDCAdytlSzOh+FuE/IDgmVMdBCH7TNwA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

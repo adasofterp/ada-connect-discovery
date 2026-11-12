@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://occupied-receiver-ink-pounds.trycloudflare.com",
-  "httpUrl": "https://occupied-receiver-ink-pounds.trycloudflare.com",
-  "updatedAt": "2026-11-12T02:53:49.789Z",
-  "expiresAt": "2026-12-12T02:53:49.789Z",
-  "nonce": "53ed839e13b2f09bcf1335c25e6b011a",
+  "wsUrl": "wss://measurement-titten-cold-hundred.trycloudflare.com",
+  "httpUrl": "https://measurement-titten-cold-hundred.trycloudflare.com",
+  "updatedAt": "2026-11-12T03:14:39.732Z",
+  "expiresAt": "2026-12-12T03:14:39.732Z",
+  "nonce": "ce2258e872de851d3e121ce99e397b44",
   "payload": {
-    "wsUrl": "wss://occupied-receiver-ink-pounds.trycloudflare.com",
-    "httpUrl": "https://occupied-receiver-ink-pounds.trycloudflare.com",
-    "issuedAt": "2026-11-12T02:53:49.789Z",
-    "expiresAt": "2026-12-12T02:53:49.789Z",
-    "nonce": "53ed839e13b2f09bcf1335c25e6b011a"
+    "wsUrl": "wss://measurement-titten-cold-hundred.trycloudflare.com",
+    "httpUrl": "https://measurement-titten-cold-hundred.trycloudflare.com",
+    "issuedAt": "2026-11-12T03:14:39.732Z",
+    "expiresAt": "2026-12-12T03:14:39.732Z",
+    "nonce": "ce2258e872de851d3e121ce99e397b44"
   },
-  "signature": "GrRw6vmLSLoSRdU8cgPFza2x6kff18zqAzvD3UoBUQwJhz3Qtai+6pYuyMKy1SgBri/dYzp4i0+NnD4LA/ivqg==",
+  "signature": "CfWryErI52h1DpjgtcdNXSl0cnEyIQH+4AMiRmA9fmSdWcj1pZKmrAw0YkmdXnckldDcg8apinXsZTW3nmPxnQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bringing-reed-rivers-expensive.trycloudflare.com",
-  "httpUrl": "https://bringing-reed-rivers-expensive.trycloudflare.com",
-  "updatedAt": "2026-11-12T00:48:35.757Z",
-  "expiresAt": "2026-12-12T00:48:35.757Z",
-  "nonce": "1b9954a6eab90fe1676c0addb66064d8",
+  "wsUrl": "wss://breeds-introductory-helpful-acknowledged.trycloudflare.com",
+  "httpUrl": "https://breeds-introductory-helpful-acknowledged.trycloudflare.com",
+  "updatedAt": "2026-11-12T00:59:07.129Z",
+  "expiresAt": "2026-12-12T00:59:07.129Z",
+  "nonce": "9b87448fed03227ceb22c76b04cffda3",
   "payload": {
-    "wsUrl": "wss://bringing-reed-rivers-expensive.trycloudflare.com",
-    "httpUrl": "https://bringing-reed-rivers-expensive.trycloudflare.com",
-    "issuedAt": "2026-11-12T00:48:35.757Z",
-    "expiresAt": "2026-12-12T00:48:35.757Z",
-    "nonce": "1b9954a6eab90fe1676c0addb66064d8"
+    "wsUrl": "wss://breeds-introductory-helpful-acknowledged.trycloudflare.com",
+    "httpUrl": "https://breeds-introductory-helpful-acknowledged.trycloudflare.com",
+    "issuedAt": "2026-11-12T00:59:07.129Z",
+    "expiresAt": "2026-12-12T00:59:07.129Z",
+    "nonce": "9b87448fed03227ceb22c76b04cffda3"
   },
-  "signature": "/b3BvWItpklnxGQuHPgnbA73n976POqULsX2RiD/f+aQ6EByPCdFqtUDXVqKPmGsLhqY5JTh+QDj+QagkzXCFQ==",
+  "signature": "2L0np305QhJFRTIvMRemi0UrQFe9HxulzP45Z1paprZp7O+o1hFfjIH37OFdfnwe6tSmIhRA1xAPj0R9j+5X4A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

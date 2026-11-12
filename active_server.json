@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://extensive-disciplines-wives-abroad.trycloudflare.com",
-  "httpUrl": "https://extensive-disciplines-wives-abroad.trycloudflare.com",
-  "updatedAt": "2026-11-12T04:06:44.801Z",
-  "expiresAt": "2026-12-12T04:06:44.801Z",
-  "nonce": "6003ac5b5ad2e02a2a09257690324097",
+  "wsUrl": "wss://syndication-farms-runtime-tuesday.trycloudflare.com",
+  "httpUrl": "https://syndication-farms-runtime-tuesday.trycloudflare.com",
+  "updatedAt": "2026-11-12T06:59:04.663Z",
+  "expiresAt": "2026-12-12T06:59:04.663Z",
+  "nonce": "d790135a41251e9aca94911b10107610",
   "payload": {
-    "wsUrl": "wss://extensive-disciplines-wives-abroad.trycloudflare.com",
-    "httpUrl": "https://extensive-disciplines-wives-abroad.trycloudflare.com",
-    "issuedAt": "2026-11-12T04:06:44.801Z",
-    "expiresAt": "2026-12-12T04:06:44.801Z",
-    "nonce": "6003ac5b5ad2e02a2a09257690324097"
+    "wsUrl": "wss://syndication-farms-runtime-tuesday.trycloudflare.com",
+    "httpUrl": "https://syndication-farms-runtime-tuesday.trycloudflare.com",
+    "issuedAt": "2026-11-12T06:59:04.663Z",
+    "expiresAt": "2026-12-12T06:59:04.663Z",
+    "nonce": "d790135a41251e9aca94911b10107610"
   },
-  "signature": "rXSxO6DXt1JquIfwinDPvNhcml0dEo1CEoQpwa+7GfCP3O9/zoXTUm6T6pvRWffFXsrTKvekqx3NorfQsn7C6A==",
+  "signature": "RgMbgktZNWXscKko3IPW//pxKSApsM2ATJYCI/LVhX5GkH99+Um35RIQHV0M+sOZd3WsQHczz+SjYR0Y1BmEdg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

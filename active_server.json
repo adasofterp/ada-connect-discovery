@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://syndication-farms-runtime-tuesday.trycloudflare.com",
   "httpUrl": "https://syndication-farms-runtime-tuesday.trycloudflare.com",
-  "updatedAt": "2026-11-12T06:59:04.663Z",
-  "expiresAt": "2026-12-12T06:59:04.663Z",
-  "nonce": "d790135a41251e9aca94911b10107610",
+  "updatedAt": "2026-11-12T09:26:39.382Z",
+  "expiresAt": "2026-12-12T09:26:39.382Z",
+  "nonce": "4ddbb9dac5102310e896276bc8458418",
   "payload": {
     "wsUrl": "wss://syndication-farms-runtime-tuesday.trycloudflare.com",
     "httpUrl": "https://syndication-farms-runtime-tuesday.trycloudflare.com",
-    "issuedAt": "2026-11-12T06:59:04.663Z",
-    "expiresAt": "2026-12-12T06:59:04.663Z",
-    "nonce": "d790135a41251e9aca94911b10107610"
+    "issuedAt": "2026-11-12T09:26:39.382Z",
+    "expiresAt": "2026-12-12T09:26:39.382Z",
+    "nonce": "4ddbb9dac5102310e896276bc8458418"
   },
-  "signature": "RgMbgktZNWXscKko3IPW//pxKSApsM2ATJYCI/LVhX5GkH99+Um35RIQHV0M+sOZd3WsQHczz+SjYR0Y1BmEdg==",
+  "signature": "2F9jmzZltu/YFsQi5g4N5Acw5C+kibdDUsP4B54FHohsJCJUuqV1k60KszSoxxrQnakKEYxKKMvju6/PfHDEBQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

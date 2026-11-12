@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://documentary-part-maintain-bon.trycloudflare.com",
-  "httpUrl": "https://documentary-part-maintain-bon.trycloudflare.com",
-  "updatedAt": "2026-11-12T02:12:06.452Z",
-  "expiresAt": "2026-12-12T02:12:06.452Z",
-  "nonce": "8c173f24b74f65323ce5957df9c43733",
+  "wsUrl": "wss://tide-except-springs-diff.trycloudflare.com",
+  "httpUrl": "https://tide-except-springs-diff.trycloudflare.com",
+  "updatedAt": "2026-11-12T02:22:31.665Z",
+  "expiresAt": "2026-12-12T02:22:31.665Z",
+  "nonce": "784638aadf3fab5f4040fedf4c07b6eb",
   "payload": {
-    "wsUrl": "wss://documentary-part-maintain-bon.trycloudflare.com",
-    "httpUrl": "https://documentary-part-maintain-bon.trycloudflare.com",
-    "issuedAt": "2026-11-12T02:12:06.452Z",
-    "expiresAt": "2026-12-12T02:12:06.452Z",
-    "nonce": "8c173f24b74f65323ce5957df9c43733"
+    "wsUrl": "wss://tide-except-springs-diff.trycloudflare.com",
+    "httpUrl": "https://tide-except-springs-diff.trycloudflare.com",
+    "issuedAt": "2026-11-12T02:22:31.665Z",
+    "expiresAt": "2026-12-12T02:22:31.665Z",
+    "nonce": "784638aadf3fab5f4040fedf4c07b6eb"
   },
-  "signature": "xa9fDiGoVa8xskp50rk0GEe2lrNpQonVzImTRUb6FfLJPRIX0Sm3X2mTa13UZ1MIMU8KTPm8XjQLNPubl1anbA==",
+  "signature": "t6keBQ9/cwrVElCOs+3sN8irvIfl4vYOgkD/Tui2KwDM9cmZiecHWeFA6q86dP9LqLFHdVDehY7pah1IFR5f1Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

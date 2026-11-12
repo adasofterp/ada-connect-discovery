@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://syndication-farms-runtime-tuesday.trycloudflare.com",
-  "httpUrl": "https://syndication-farms-runtime-tuesday.trycloudflare.com",
-  "updatedAt": "2026-11-12T09:26:39.382Z",
-  "expiresAt": "2026-12-12T09:26:39.382Z",
-  "nonce": "4ddbb9dac5102310e896276bc8458418",
+  "wsUrl": "wss://arrangement-carrying-ata-spider.trycloudflare.com",
+  "httpUrl": "https://arrangement-carrying-ata-spider.trycloudflare.com",
+  "updatedAt": "2026-11-12T18:48:29.105Z",
+  "expiresAt": "2026-12-12T18:48:29.105Z",
+  "nonce": "7d8e877c9727d5666cea408de726271b",
   "payload": {
-    "wsUrl": "wss://syndication-farms-runtime-tuesday.trycloudflare.com",
-    "httpUrl": "https://syndication-farms-runtime-tuesday.trycloudflare.com",
-    "issuedAt": "2026-11-12T09:26:39.382Z",
-    "expiresAt": "2026-12-12T09:26:39.382Z",
-    "nonce": "4ddbb9dac5102310e896276bc8458418"
+    "wsUrl": "wss://arrangement-carrying-ata-spider.trycloudflare.com",
+    "httpUrl": "https://arrangement-carrying-ata-spider.trycloudflare.com",
+    "issuedAt": "2026-11-12T18:48:29.105Z",
+    "expiresAt": "2026-12-12T18:48:29.105Z",
+    "nonce": "7d8e877c9727d5666cea408de726271b"
   },
-  "signature": "2F9jmzZltu/YFsQi5g4N5Acw5C+kibdDUsP4B54FHohsJCJUuqV1k60KszSoxxrQnakKEYxKKMvju6/PfHDEBQ==",
+  "signature": "oVf3UlPuM84rdc1NdGRujcwe6VVt4NPBZo25RfkJ1X5dW9KDnANvrndiQudkpf9Pu3uKiZza2YAJA0F4tybgWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

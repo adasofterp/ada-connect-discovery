@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cash-booth-controls-map.trycloudflare.com",
-  "httpUrl": "https://cash-booth-controls-map.trycloudflare.com",
-  "updatedAt": "2026-11-13T01:04:13.185Z",
-  "expiresAt": "2026-12-13T01:04:13.185Z",
-  "nonce": "ff1db975c40b21e835a6410af9ebe741",
+  "wsUrl": "wss://muscle-wall-crawford-housing.trycloudflare.com",
+  "httpUrl": "https://muscle-wall-crawford-housing.trycloudflare.com",
+  "updatedAt": "2026-11-13T01:11:48.559Z",
+  "expiresAt": "2026-12-13T01:11:48.559Z",
+  "nonce": "6e48b69530f8bea9304c0618b8e42150",
   "payload": {
-    "wsUrl": "wss://cash-booth-controls-map.trycloudflare.com",
-    "httpUrl": "https://cash-booth-controls-map.trycloudflare.com",
-    "issuedAt": "2026-11-13T01:04:13.185Z",
-    "expiresAt": "2026-12-13T01:04:13.185Z",
-    "nonce": "ff1db975c40b21e835a6410af9ebe741"
+    "wsUrl": "wss://muscle-wall-crawford-housing.trycloudflare.com",
+    "httpUrl": "https://muscle-wall-crawford-housing.trycloudflare.com",
+    "issuedAt": "2026-11-13T01:11:48.559Z",
+    "expiresAt": "2026-12-13T01:11:48.559Z",
+    "nonce": "6e48b69530f8bea9304c0618b8e42150"
   },
-  "signature": "Cof8lVIaN9q0CL8xDbJDJ+Ejx6Rab3Mp4WuVi48GWfVq3Y5J1d90dt8vixQ4X7ozXzHCg/OdE1dBApZimxZZOA==",
+  "signature": "1dRQ0V2Jz9bZHcqWh9fvOZ3tZWO1jwqkcm96b1somZziPzNBnVYTkT5R2VFacrcsiUpw+um4z/Gbo+3k/dI2Tw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

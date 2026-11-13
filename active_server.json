@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shore-spray-expand-sec.trycloudflare.com",
-  "httpUrl": "https://shore-spray-expand-sec.trycloudflare.com",
-  "updatedAt": "2026-11-13T00:27:24.306Z",
-  "expiresAt": "2026-12-13T00:27:24.306Z",
-  "nonce": "2d389adaaeaec3388dbdcecd11f47541",
+  "wsUrl": "wss://cheque-titten-universal-prisoner.trycloudflare.com",
+  "httpUrl": "https://cheque-titten-universal-prisoner.trycloudflare.com",
+  "updatedAt": "2026-11-13T00:43:21.961Z",
+  "expiresAt": "2026-12-13T00:43:21.961Z",
+  "nonce": "d03fe8d8c58248ae39a4f5268373c8b5",
   "payload": {
-    "wsUrl": "wss://shore-spray-expand-sec.trycloudflare.com",
-    "httpUrl": "https://shore-spray-expand-sec.trycloudflare.com",
-    "issuedAt": "2026-11-13T00:27:24.306Z",
-    "expiresAt": "2026-12-13T00:27:24.306Z",
-    "nonce": "2d389adaaeaec3388dbdcecd11f47541"
+    "wsUrl": "wss://cheque-titten-universal-prisoner.trycloudflare.com",
+    "httpUrl": "https://cheque-titten-universal-prisoner.trycloudflare.com",
+    "issuedAt": "2026-11-13T00:43:21.961Z",
+    "expiresAt": "2026-12-13T00:43:21.961Z",
+    "nonce": "d03fe8d8c58248ae39a4f5268373c8b5"
   },
-  "signature": "UUFf8gdKw1iOoLye9OPaspY8xsx+JHdFRf74K6UD/r087WrsjP6uj4k/7Qvsuk2AEyeAwJIjSM7qmK8YSyYCHg==",
+  "signature": "AawEWEffxeINEI1mtK2hdk66b6zkkeUW5w9W+tl2Wmn9dkP4bjhIMngjldOttK8yrLVrhCHgWIC49Yk6kYHlKw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

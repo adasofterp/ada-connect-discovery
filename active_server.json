@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://powers-dna-louis-julian.trycloudflare.com",
-  "httpUrl": "https://powers-dna-louis-julian.trycloudflare.com",
-  "updatedAt": "2026-11-13T05:05:46.923Z",
-  "expiresAt": "2026-12-13T05:05:46.923Z",
-  "nonce": "b43542f5deb35c05358f1a313a765dfd",
+  "wsUrl": "wss://headlines-accessing-system-mail.trycloudflare.com",
+  "httpUrl": "https://headlines-accessing-system-mail.trycloudflare.com",
+  "updatedAt": "2026-11-13T05:14:48.506Z",
+  "expiresAt": "2026-12-13T05:14:48.506Z",
+  "nonce": "698b5cdba3414d88c4cccca08b94c732",
   "payload": {
-    "wsUrl": "wss://powers-dna-louis-julian.trycloudflare.com",
-    "httpUrl": "https://powers-dna-louis-julian.trycloudflare.com",
-    "issuedAt": "2026-11-13T05:05:46.923Z",
-    "expiresAt": "2026-12-13T05:05:46.923Z",
-    "nonce": "b43542f5deb35c05358f1a313a765dfd"
+    "wsUrl": "wss://headlines-accessing-system-mail.trycloudflare.com",
+    "httpUrl": "https://headlines-accessing-system-mail.trycloudflare.com",
+    "issuedAt": "2026-11-13T05:14:48.506Z",
+    "expiresAt": "2026-12-13T05:14:48.506Z",
+    "nonce": "698b5cdba3414d88c4cccca08b94c732"
   },
-  "signature": "OKRL+Oopfj1jeJSzhywv7S/IEKgWmJwjalcy4w+TBnJY46Tv/EgyrDP220+wBuJyjTv0rOHA1vrT2gIICp8hEA==",
+  "signature": "Yb7isOFvwE7S43sX5tx3UTrSYkCD+a0YuJD+yCxV0AsedftjMBFNC/eVl4d4nFJXqipn7FgtTuBGOHS5dihxBw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

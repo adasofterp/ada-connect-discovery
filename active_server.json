@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://fraction-admitted-disclaimers-sessions.trycloudflare.com",
-  "httpUrl": "https://fraction-admitted-disclaimers-sessions.trycloudflare.com",
-  "updatedAt": "2026-11-13T04:44:57.805Z",
-  "expiresAt": "2026-12-13T04:44:57.805Z",
-  "nonce": "a3a8670595fd2c3d74129d26bd439ca1",
+  "wsUrl": "wss://clerk-chicken-annual-allocated.trycloudflare.com",
+  "httpUrl": "https://clerk-chicken-annual-allocated.trycloudflare.com",
+  "updatedAt": "2026-11-13T04:55:17.519Z",
+  "expiresAt": "2026-12-13T04:55:17.519Z",
+  "nonce": "aec4d3dae7bcb4fcd58e6f39e8acb9e2",
   "payload": {
-    "wsUrl": "wss://fraction-admitted-disclaimers-sessions.trycloudflare.com",
-    "httpUrl": "https://fraction-admitted-disclaimers-sessions.trycloudflare.com",
-    "issuedAt": "2026-11-13T04:44:57.805Z",
-    "expiresAt": "2026-12-13T04:44:57.805Z",
-    "nonce": "a3a8670595fd2c3d74129d26bd439ca1"
+    "wsUrl": "wss://clerk-chicken-annual-allocated.trycloudflare.com",
+    "httpUrl": "https://clerk-chicken-annual-allocated.trycloudflare.com",
+    "issuedAt": "2026-11-13T04:55:17.519Z",
+    "expiresAt": "2026-12-13T04:55:17.519Z",
+    "nonce": "aec4d3dae7bcb4fcd58e6f39e8acb9e2"
   },
-  "signature": "+VginscoGaPJeH+FgJSoi3woy+4LanIvZkJr+v4HzGMMUabKnkoW704rW1xnC09Jl43ba0pUQcCu70Fotzi/pg==",
+  "signature": "7cq5nkr4iRexhyS34yl7ZciSUfLSldJSHR0n5NnriRhPj+9QL1g01Kt9ylMbSEiQs2yNuxE0TD0U0T85WuXo+w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

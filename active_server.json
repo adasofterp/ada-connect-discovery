@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://atlas-merchant-tea-nevertheless.trycloudflare.com",
-  "httpUrl": "https://atlas-merchant-tea-nevertheless.trycloudflare.com",
-  "updatedAt": "2026-11-13T14:38:12.616Z",
-  "expiresAt": "2026-12-13T14:38:12.616Z",
-  "nonce": "890e651775cbf5dd41efca1d2c7e403a",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-13T15:02:53.359Z",
+  "expiresAt": "2026-12-13T15:02:53.359Z",
+  "nonce": "ebfa57ebd2a9b2608ee7e116f3ec10ae",
   "payload": {
-    "wsUrl": "wss://atlas-merchant-tea-nevertheless.trycloudflare.com",
-    "httpUrl": "https://atlas-merchant-tea-nevertheless.trycloudflare.com",
-    "issuedAt": "2026-11-13T14:38:12.616Z",
-    "expiresAt": "2026-12-13T14:38:12.616Z",
-    "nonce": "890e651775cbf5dd41efca1d2c7e403a"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-13T15:02:53.359Z",
+    "expiresAt": "2026-12-13T15:02:53.359Z",
+    "nonce": "ebfa57ebd2a9b2608ee7e116f3ec10ae"
   },
-  "signature": "1oE2RQtpjNpJWZ+OXi4vADzcMQCfSCC7JxVQrcPxyzaZc0WoBvWhO4TuONpy3VaMiB75c+EyDdCsnTB7JVCr/Q==",
+  "signature": "SCgaEB5LMfmxg+LFeCKqqNisGqhA82Ld5Ne2Q8dAhyipNEPBfsHmgrQJg/ZUAZNnWmHGTn3JoiwUhpO+EFLt0g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

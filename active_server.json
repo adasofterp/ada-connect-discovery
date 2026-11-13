@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://progressive-troops-smoke-them.trycloudflare.com",
   "httpUrl": "https://progressive-troops-smoke-them.trycloudflare.com",
-  "updatedAt": "2026-11-13T16:21:25.404Z",
-  "expiresAt": "2026-12-13T16:21:25.404Z",
-  "nonce": "414f5371db34f10cdd8997252b71e113",
+  "updatedAt": "2026-11-13T17:59:26.803Z",
+  "expiresAt": "2026-12-13T17:59:26.803Z",
+  "nonce": "d0ce48828aa21ca44f3a2947a77d8c3d",
   "payload": {
     "wsUrl": "wss://progressive-troops-smoke-them.trycloudflare.com",
     "httpUrl": "https://progressive-troops-smoke-them.trycloudflare.com",
-    "issuedAt": "2026-11-13T16:21:25.404Z",
-    "expiresAt": "2026-12-13T16:21:25.404Z",
-    "nonce": "414f5371db34f10cdd8997252b71e113"
+    "issuedAt": "2026-11-13T17:59:26.803Z",
+    "expiresAt": "2026-12-13T17:59:26.803Z",
+    "nonce": "d0ce48828aa21ca44f3a2947a77d8c3d"
   },
-  "signature": "5L+bYNorHCHauGRJW0marR/1pUCFRceHJDKKPg2j1szTO2aKlxyAr9V7ftJCYYdFMxuKQYhZekyPN5kvxuL81A==",
+  "signature": "PEWf5JloRsOX2UBy93T5jhlOXpfIudb2KE+sBc6CHL1F5crprbsGIzlSHShR8f+z5pFJXGuV1jUkpgnb+rggEA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

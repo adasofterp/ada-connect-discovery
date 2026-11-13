@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://then-ceiling-themes-mere.trycloudflare.com",
-  "httpUrl": "https://then-ceiling-themes-mere.trycloudflare.com",
-  "updatedAt": "2026-11-13T12:50:40.274Z",
-  "expiresAt": "2026-12-13T12:50:40.274Z",
-  "nonce": "0b2fab786e529f569196ecb4ca66cf59",
+  "wsUrl": "wss://classics-bedrooms-vessels-twenty.trycloudflare.com",
+  "httpUrl": "https://classics-bedrooms-vessels-twenty.trycloudflare.com",
+  "updatedAt": "2026-11-13T12:59:43.011Z",
+  "expiresAt": "2026-12-13T12:59:43.011Z",
+  "nonce": "9690028a5b481278c05dde5cf98f49f7",
   "payload": {
-    "wsUrl": "wss://then-ceiling-themes-mere.trycloudflare.com",
-    "httpUrl": "https://then-ceiling-themes-mere.trycloudflare.com",
-    "issuedAt": "2026-11-13T12:50:40.274Z",
-    "expiresAt": "2026-12-13T12:50:40.274Z",
-    "nonce": "0b2fab786e529f569196ecb4ca66cf59"
+    "wsUrl": "wss://classics-bedrooms-vessels-twenty.trycloudflare.com",
+    "httpUrl": "https://classics-bedrooms-vessels-twenty.trycloudflare.com",
+    "issuedAt": "2026-11-13T12:59:43.011Z",
+    "expiresAt": "2026-12-13T12:59:43.011Z",
+    "nonce": "9690028a5b481278c05dde5cf98f49f7"
   },
-  "signature": "wpqIfNa+KS5fhwB4UzcnqiHiHm0+N1j4dNN/i8mfVfIAV15VpNP5VgiLKQkQqq7ZdgmvcX2E6Ca5v/qcgv3cWA==",
+  "signature": "c3xpWi0aHQgSYd1mlnfxKPav+mSSH0bLUqkQTqz2MZ2bI4BcwnECnUdV5fRIFZ2d8APxYAgdmTfo0RYikjuM9w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rain-reductions-nor-heath.trycloudflare.com",
-  "httpUrl": "https://rain-reductions-nor-heath.trycloudflare.com",
-  "updatedAt": "2026-11-13T08:36:17.192Z",
-  "expiresAt": "2026-12-13T08:36:17.192Z",
-  "nonce": "daff846be34229d17e18a92201a02926",
+  "wsUrl": "wss://picks-cost-clan-entrance.trycloudflare.com",
+  "httpUrl": "https://picks-cost-clan-entrance.trycloudflare.com",
+  "updatedAt": "2026-11-13T08:36:56.966Z",
+  "expiresAt": "2026-12-13T08:36:56.966Z",
+  "nonce": "97e682885fb000f842a8631275159952",
   "payload": {
-    "wsUrl": "wss://rain-reductions-nor-heath.trycloudflare.com",
-    "httpUrl": "https://rain-reductions-nor-heath.trycloudflare.com",
-    "issuedAt": "2026-11-13T08:36:17.192Z",
-    "expiresAt": "2026-12-13T08:36:17.192Z",
-    "nonce": "daff846be34229d17e18a92201a02926"
+    "wsUrl": "wss://picks-cost-clan-entrance.trycloudflare.com",
+    "httpUrl": "https://picks-cost-clan-entrance.trycloudflare.com",
+    "issuedAt": "2026-11-13T08:36:56.966Z",
+    "expiresAt": "2026-12-13T08:36:56.966Z",
+    "nonce": "97e682885fb000f842a8631275159952"
   },
-  "signature": "SXad9UON/7mWYoHqqT/WMwGMUPhsrIPNZgaPGTUvSNj1oN4j3iOL6901P/i5JNq+CAD1J3FL13tFVdoPWN6JBw==",
+  "signature": "C8JdXggsJjUKKm7NpwQQNMTs3l4SodUgO912uzIwk345MchqJjC41CKLa7v27xMGjHwjB99cvqr8T9pZNhbTVg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

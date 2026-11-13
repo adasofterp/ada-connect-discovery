@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://seafood-msgstr-literally-involvement.trycloudflare.com",
-  "httpUrl": "https://seafood-msgstr-literally-involvement.trycloudflare.com",
-  "updatedAt": "2026-11-13T14:21:31.431Z",
-  "expiresAt": "2026-12-13T14:21:31.431Z",
-  "nonce": "95dd78af6d2f357dbbc35dbb0c13d333",
+  "wsUrl": "wss://atlas-merchant-tea-nevertheless.trycloudflare.com",
+  "httpUrl": "https://atlas-merchant-tea-nevertheless.trycloudflare.com",
+  "updatedAt": "2026-11-13T14:38:12.616Z",
+  "expiresAt": "2026-12-13T14:38:12.616Z",
+  "nonce": "890e651775cbf5dd41efca1d2c7e403a",
   "payload": {
-    "wsUrl": "wss://seafood-msgstr-literally-involvement.trycloudflare.com",
-    "httpUrl": "https://seafood-msgstr-literally-involvement.trycloudflare.com",
-    "issuedAt": "2026-11-13T14:21:31.431Z",
-    "expiresAt": "2026-12-13T14:21:31.431Z",
-    "nonce": "95dd78af6d2f357dbbc35dbb0c13d333"
+    "wsUrl": "wss://atlas-merchant-tea-nevertheless.trycloudflare.com",
+    "httpUrl": "https://atlas-merchant-tea-nevertheless.trycloudflare.com",
+    "issuedAt": "2026-11-13T14:38:12.616Z",
+    "expiresAt": "2026-12-13T14:38:12.616Z",
+    "nonce": "890e651775cbf5dd41efca1d2c7e403a"
   },
-  "signature": "gpC48l4t4ssb70nXwpFr5S0uEZu/dbPMVgon2cshm5hGyXZLZzz3Qbts5daZCDNmFbuRCkNfeuh2AFAtoH48Hg==",
+  "signature": "1oE2RQtpjNpJWZ+OXi4vADzcMQCfSCC7JxVQrcPxyzaZc0WoBvWhO4TuONpy3VaMiB75c+EyDdCsnTB7JVCr/Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

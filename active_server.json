@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://picks-cost-clan-entrance.trycloudflare.com",
-  "httpUrl": "https://picks-cost-clan-entrance.trycloudflare.com",
-  "updatedAt": "2026-11-13T08:36:56.966Z",
-  "expiresAt": "2026-12-13T08:36:56.966Z",
-  "nonce": "97e682885fb000f842a8631275159952",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-13T09:02:10.940Z",
+  "expiresAt": "2026-12-13T09:02:10.940Z",
+  "nonce": "84e2aeae95993a42780e38bbc290d64a",
   "payload": {
-    "wsUrl": "wss://picks-cost-clan-entrance.trycloudflare.com",
-    "httpUrl": "https://picks-cost-clan-entrance.trycloudflare.com",
-    "issuedAt": "2026-11-13T08:36:56.966Z",
-    "expiresAt": "2026-12-13T08:36:56.966Z",
-    "nonce": "97e682885fb000f842a8631275159952"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-13T09:02:10.940Z",
+    "expiresAt": "2026-12-13T09:02:10.940Z",
+    "nonce": "84e2aeae95993a42780e38bbc290d64a"
   },
-  "signature": "C8JdXggsJjUKKm7NpwQQNMTs3l4SodUgO912uzIwk345MchqJjC41CKLa7v27xMGjHwjB99cvqr8T9pZNhbTVg==",
+  "signature": "TyVcOWEwY1qtm9QG9NboynW6oOWH8xkRK19vtMKtxl/mFdh4GSOYYVUC169877hLTDjmPDxqRqa9BsGWKk5w3A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

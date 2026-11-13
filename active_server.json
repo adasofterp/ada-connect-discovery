@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ratings-tulsa-ana-stylish.trycloudflare.com",
-  "httpUrl": "https://ratings-tulsa-ana-stylish.trycloudflare.com",
-  "updatedAt": "2026-11-13T00:03:52.000Z",
-  "expiresAt": "2026-12-13T00:03:52.000Z",
-  "nonce": "629c6ae3e18b128d18f68076e6779c41",
+  "wsUrl": "wss://interfaces-fingers-spring-aus.trycloudflare.com",
+  "httpUrl": "https://interfaces-fingers-spring-aus.trycloudflare.com",
+  "updatedAt": "2026-11-13T00:16:07.848Z",
+  "expiresAt": "2026-12-13T00:16:07.848Z",
+  "nonce": "f946ba12258f2e55a6dfc0da9978a9d3",
   "payload": {
-    "wsUrl": "wss://ratings-tulsa-ana-stylish.trycloudflare.com",
-    "httpUrl": "https://ratings-tulsa-ana-stylish.trycloudflare.com",
-    "issuedAt": "2026-11-13T00:03:52.000Z",
-    "expiresAt": "2026-12-13T00:03:52.000Z",
-    "nonce": "629c6ae3e18b128d18f68076e6779c41"
+    "wsUrl": "wss://interfaces-fingers-spring-aus.trycloudflare.com",
+    "httpUrl": "https://interfaces-fingers-spring-aus.trycloudflare.com",
+    "issuedAt": "2026-11-13T00:16:07.848Z",
+    "expiresAt": "2026-12-13T00:16:07.848Z",
+    "nonce": "f946ba12258f2e55a6dfc0da9978a9d3"
   },
-  "signature": "PUG+nAZ9HF9FMMftOrySwm3p7ph333qpZ03BnOhs44eis6KNaIILNOVCBF8P3Y5OM4BCFzEKuE2f4hivBeh48g==",
+  "signature": "FtO28PH93413npTGDZJ1hn/cnGOUfL4vXTW9YbMOEfVlnOwsFscz7LKV2ISE3bAdDrd07TWZMgbwTeWPgF6x4w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

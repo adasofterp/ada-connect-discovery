@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://paint-delhi-smile-generate.trycloudflare.com",
-  "httpUrl": "https://paint-delhi-smile-generate.trycloudflare.com",
-  "updatedAt": "2026-11-13T04:29:00.706Z",
-  "expiresAt": "2026-12-13T04:29:00.706Z",
-  "nonce": "571eb45580046cb1e78d32af2840ac59",
+  "wsUrl": "wss://fraction-admitted-disclaimers-sessions.trycloudflare.com",
+  "httpUrl": "https://fraction-admitted-disclaimers-sessions.trycloudflare.com",
+  "updatedAt": "2026-11-13T04:44:57.805Z",
+  "expiresAt": "2026-12-13T04:44:57.805Z",
+  "nonce": "a3a8670595fd2c3d74129d26bd439ca1",
   "payload": {
-    "wsUrl": "wss://paint-delhi-smile-generate.trycloudflare.com",
-    "httpUrl": "https://paint-delhi-smile-generate.trycloudflare.com",
-    "issuedAt": "2026-11-13T04:29:00.706Z",
-    "expiresAt": "2026-12-13T04:29:00.706Z",
-    "nonce": "571eb45580046cb1e78d32af2840ac59"
+    "wsUrl": "wss://fraction-admitted-disclaimers-sessions.trycloudflare.com",
+    "httpUrl": "https://fraction-admitted-disclaimers-sessions.trycloudflare.com",
+    "issuedAt": "2026-11-13T04:44:57.805Z",
+    "expiresAt": "2026-12-13T04:44:57.805Z",
+    "nonce": "a3a8670595fd2c3d74129d26bd439ca1"
   },
-  "signature": "kyNirQMoWblwgz6TW3bUyeGTXW0Mwig/Tx4dW2ByYcQ/s0PFD5++8vXx2LNtaMRXApHn4uh29Le5Wyaf65dTWQ==",
+  "signature": "+VginscoGaPJeH+FgJSoi3woy+4LanIvZkJr+v4HzGMMUabKnkoW704rW1xnC09Jl43ba0pUQcCu70Fotzi/pg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

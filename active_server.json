@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://angel-tractor-podcasts-achievements.trycloudflare.com",
-  "httpUrl": "https://angel-tractor-podcasts-achievements.trycloudflare.com",
-  "updatedAt": "2026-11-13T01:54:24.020Z",
-  "expiresAt": "2026-12-13T01:54:24.020Z",
-  "nonce": "67c628585212aa5191f40f095d2e128f",
+  "wsUrl": "wss://savings-lookup-ending-dog.trycloudflare.com",
+  "httpUrl": "https://savings-lookup-ending-dog.trycloudflare.com",
+  "updatedAt": "2026-11-13T02:04:44.606Z",
+  "expiresAt": "2026-12-13T02:04:44.606Z",
+  "nonce": "b257d15921189121c127d8741a363b7d",
   "payload": {
-    "wsUrl": "wss://angel-tractor-podcasts-achievements.trycloudflare.com",
-    "httpUrl": "https://angel-tractor-podcasts-achievements.trycloudflare.com",
-    "issuedAt": "2026-11-13T01:54:24.020Z",
-    "expiresAt": "2026-12-13T01:54:24.020Z",
-    "nonce": "67c628585212aa5191f40f095d2e128f"
+    "wsUrl": "wss://savings-lookup-ending-dog.trycloudflare.com",
+    "httpUrl": "https://savings-lookup-ending-dog.trycloudflare.com",
+    "issuedAt": "2026-11-13T02:04:44.606Z",
+    "expiresAt": "2026-12-13T02:04:44.606Z",
+    "nonce": "b257d15921189121c127d8741a363b7d"
   },
-  "signature": "64ZO4vtohed9zJU4gGlWJYte4G/8MgvZmLZBC38TbUrwixfX+OWkpl5D/IWxTvpa48NzlGrOE0vfiT5CkKJDSg==",
+  "signature": "VvbbinJ/Q2U+c5A1Y9j0U74QaInvzKutmlikSZJPfg8N2q4dR3u04wI9ypjW5TmiC/f8t1OOTFLk61USs+aERg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

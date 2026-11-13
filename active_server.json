@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://skilled-valentine-charter-smooth.trycloudflare.com",
-  "httpUrl": "https://skilled-valentine-charter-smooth.trycloudflare.com",
-  "updatedAt": "2026-11-13T11:45:19.696Z",
-  "expiresAt": "2026-12-13T11:45:19.696Z",
-  "nonce": "e79c6e182f239e3dbfc1d7ecad999c8c",
+  "wsUrl": "wss://shoot-marketing-grams-advertise.trycloudflare.com",
+  "httpUrl": "https://shoot-marketing-grams-advertise.trycloudflare.com",
+  "updatedAt": "2026-11-13T12:17:51.271Z",
+  "expiresAt": "2026-12-13T12:17:51.271Z",
+  "nonce": "65c46864dd500789251dd4dba00d653e",
   "payload": {
-    "wsUrl": "wss://skilled-valentine-charter-smooth.trycloudflare.com",
-    "httpUrl": "https://skilled-valentine-charter-smooth.trycloudflare.com",
-    "issuedAt": "2026-11-13T11:45:19.696Z",
-    "expiresAt": "2026-12-13T11:45:19.696Z",
-    "nonce": "e79c6e182f239e3dbfc1d7ecad999c8c"
+    "wsUrl": "wss://shoot-marketing-grams-advertise.trycloudflare.com",
+    "httpUrl": "https://shoot-marketing-grams-advertise.trycloudflare.com",
+    "issuedAt": "2026-11-13T12:17:51.271Z",
+    "expiresAt": "2026-12-13T12:17:51.271Z",
+    "nonce": "65c46864dd500789251dd4dba00d653e"
   },
-  "signature": "yJUr1ODthf3bjCVArLtla5UiUrBhsKUwpywwe4ZIoR2hHRJjlw8tVJmJsAWH6OG8dD1VRwGvKdclC/CIYdX8oQ==",
+  "signature": "N1vH+Upa8eDtHWvSv86kCh0FOL0dLdnOC/aDDVegOY14J5EKaBwtC42PV6Jq9zgA98OyE8ybLhP8A4Z0chYJHA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

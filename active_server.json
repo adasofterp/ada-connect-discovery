@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://adds-spanking-sam-mass.trycloudflare.com",
-  "httpUrl": "https://adds-spanking-sam-mass.trycloudflare.com",
-  "updatedAt": "2026-11-13T07:06:11.619Z",
-  "expiresAt": "2026-12-13T07:06:11.619Z",
-  "nonce": "3bea05444ea9ee83d81baa0ceb9c848c",
+  "wsUrl": "wss://rain-reductions-nor-heath.trycloudflare.com",
+  "httpUrl": "https://rain-reductions-nor-heath.trycloudflare.com",
+  "updatedAt": "2026-11-13T08:36:17.192Z",
+  "expiresAt": "2026-12-13T08:36:17.192Z",
+  "nonce": "daff846be34229d17e18a92201a02926",
   "payload": {
-    "wsUrl": "wss://adds-spanking-sam-mass.trycloudflare.com",
-    "httpUrl": "https://adds-spanking-sam-mass.trycloudflare.com",
-    "issuedAt": "2026-11-13T07:06:11.619Z",
-    "expiresAt": "2026-12-13T07:06:11.619Z",
-    "nonce": "3bea05444ea9ee83d81baa0ceb9c848c"
+    "wsUrl": "wss://rain-reductions-nor-heath.trycloudflare.com",
+    "httpUrl": "https://rain-reductions-nor-heath.trycloudflare.com",
+    "issuedAt": "2026-11-13T08:36:17.192Z",
+    "expiresAt": "2026-12-13T08:36:17.192Z",
+    "nonce": "daff846be34229d17e18a92201a02926"
   },
-  "signature": "Q6wJSIOXO1JcZFH+Fr7ry+KTWCOaI23g4m7R+Y2l2dzdrlfdxBPYpP1qEAMCg6rBiXEV7TS71TnOLu7I7OxEjg==",
+  "signature": "SXad9UON/7mWYoHqqT/WMwGMUPhsrIPNZgaPGTUvSNj1oN4j3iOL6901P/i5JNq+CAD1J3FL13tFVdoPWN6JBw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

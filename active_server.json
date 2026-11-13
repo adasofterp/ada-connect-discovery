@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://craig-presenting-kevin-lafayette.trycloudflare.com",
-  "httpUrl": "https://craig-presenting-kevin-lafayette.trycloudflare.com",
-  "updatedAt": "2026-11-13T03:51:51.452Z",
-  "expiresAt": "2026-12-13T03:51:51.452Z",
-  "nonce": "da694761aa8fa3e9f5d7f10dd0a069e5",
+  "wsUrl": "wss://paint-delhi-smile-generate.trycloudflare.com",
+  "httpUrl": "https://paint-delhi-smile-generate.trycloudflare.com",
+  "updatedAt": "2026-11-13T04:29:00.706Z",
+  "expiresAt": "2026-12-13T04:29:00.706Z",
+  "nonce": "571eb45580046cb1e78d32af2840ac59",
   "payload": {
-    "wsUrl": "wss://craig-presenting-kevin-lafayette.trycloudflare.com",
-    "httpUrl": "https://craig-presenting-kevin-lafayette.trycloudflare.com",
-    "issuedAt": "2026-11-13T03:51:51.452Z",
-    "expiresAt": "2026-12-13T03:51:51.452Z",
-    "nonce": "da694761aa8fa3e9f5d7f10dd0a069e5"
+    "wsUrl": "wss://paint-delhi-smile-generate.trycloudflare.com",
+    "httpUrl": "https://paint-delhi-smile-generate.trycloudflare.com",
+    "issuedAt": "2026-11-13T04:29:00.706Z",
+    "expiresAt": "2026-12-13T04:29:00.706Z",
+    "nonce": "571eb45580046cb1e78d32af2840ac59"
   },
-  "signature": "AryUGHIUheSZNzh+T6vTpYbuN3cv7ggTKkKVg/F8j77WDlVMmEdnoNES0+KuVXhkvNtFVu/naGL+XfKeFWIthg==",
+  "signature": "kyNirQMoWblwgz6TW3bUyeGTXW0Mwig/Tx4dW2ByYcQ/s0PFD5++8vXx2LNtaMRXApHn4uh29Le5Wyaf65dTWQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

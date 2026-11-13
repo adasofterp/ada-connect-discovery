@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://clerk-chicken-annual-allocated.trycloudflare.com",
-  "httpUrl": "https://clerk-chicken-annual-allocated.trycloudflare.com",
-  "updatedAt": "2026-11-13T04:55:17.519Z",
-  "expiresAt": "2026-12-13T04:55:17.519Z",
-  "nonce": "aec4d3dae7bcb4fcd58e6f39e8acb9e2",
+  "wsUrl": "wss://powers-dna-louis-julian.trycloudflare.com",
+  "httpUrl": "https://powers-dna-louis-julian.trycloudflare.com",
+  "updatedAt": "2026-11-13T05:05:46.923Z",
+  "expiresAt": "2026-12-13T05:05:46.923Z",
+  "nonce": "b43542f5deb35c05358f1a313a765dfd",
   "payload": {
-    "wsUrl": "wss://clerk-chicken-annual-allocated.trycloudflare.com",
-    "httpUrl": "https://clerk-chicken-annual-allocated.trycloudflare.com",
-    "issuedAt": "2026-11-13T04:55:17.519Z",
-    "expiresAt": "2026-12-13T04:55:17.519Z",
-    "nonce": "aec4d3dae7bcb4fcd58e6f39e8acb9e2"
+    "wsUrl": "wss://powers-dna-louis-julian.trycloudflare.com",
+    "httpUrl": "https://powers-dna-louis-julian.trycloudflare.com",
+    "issuedAt": "2026-11-13T05:05:46.923Z",
+    "expiresAt": "2026-12-13T05:05:46.923Z",
+    "nonce": "b43542f5deb35c05358f1a313a765dfd"
   },
-  "signature": "7cq5nkr4iRexhyS34yl7ZciSUfLSldJSHR0n5NnriRhPj+9QL1g01Kt9ylMbSEiQs2yNuxE0TD0U0T85WuXo+w==",
+  "signature": "OKRL+Oopfj1jeJSzhywv7S/IEKgWmJwjalcy4w+TBnJY46Tv/EgyrDP220+wBuJyjTv0rOHA1vrT2gIICp8hEA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

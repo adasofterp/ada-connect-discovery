@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://carlos-notes-strictly-fairfield.trycloudflare.com",
-  "httpUrl": "https://carlos-notes-strictly-fairfield.trycloudflare.com",
-  "updatedAt": "2026-11-13T01:38:36.747Z",
-  "expiresAt": "2026-12-13T01:38:36.747Z",
-  "nonce": "01e24a8b90ee20f83486d488f8b546d7",
+  "wsUrl": "wss://latest-owners-attempting-entire.trycloudflare.com",
+  "httpUrl": "https://latest-owners-attempting-entire.trycloudflare.com",
+  "updatedAt": "2026-11-13T01:44:01.061Z",
+  "expiresAt": "2026-12-13T01:44:01.061Z",
+  "nonce": "0eeff86fc7078a451ff0439196fc2c52",
   "payload": {
-    "wsUrl": "wss://carlos-notes-strictly-fairfield.trycloudflare.com",
-    "httpUrl": "https://carlos-notes-strictly-fairfield.trycloudflare.com",
-    "issuedAt": "2026-11-13T01:38:36.747Z",
-    "expiresAt": "2026-12-13T01:38:36.747Z",
-    "nonce": "01e24a8b90ee20f83486d488f8b546d7"
+    "wsUrl": "wss://latest-owners-attempting-entire.trycloudflare.com",
+    "httpUrl": "https://latest-owners-attempting-entire.trycloudflare.com",
+    "issuedAt": "2026-11-13T01:44:01.061Z",
+    "expiresAt": "2026-12-13T01:44:01.061Z",
+    "nonce": "0eeff86fc7078a451ff0439196fc2c52"
   },
-  "signature": "422U0Ubg9PRWUkW9Xc7TBHabqI0DnOVfJ6GHDYR683xLsXBgGABGN4nMhuhBKSpI0eNRiw/Oka/rcE3nzzEr7g==",
+  "signature": "EAzv3SAnwmXVvhEPxec1NpPl/a7PDiecjJUOm4XgG1GXiVROHNnXKbZMTXF9qGRhMeJBVAcECpM9XZito0JmXg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

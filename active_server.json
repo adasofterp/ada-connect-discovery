@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://forge-pills-joy-conversion.trycloudflare.com",
-  "httpUrl": "https://forge-pills-joy-conversion.trycloudflare.com",
-  "updatedAt": "2026-11-13T15:11:30.819Z",
-  "expiresAt": "2026-12-13T15:11:30.819Z",
-  "nonce": "8a7cfd9c84d3a0c385e4e16fbf25b176",
+  "wsUrl": "wss://event-convenient-subscriptions-sustained.trycloudflare.com",
+  "httpUrl": "https://event-convenient-subscriptions-sustained.trycloudflare.com",
+  "updatedAt": "2026-11-13T16:13:34.852Z",
+  "expiresAt": "2026-12-13T16:13:34.852Z",
+  "nonce": "e98cb43a3af05fe43ad5e21cb02f7d97",
   "payload": {
-    "wsUrl": "wss://forge-pills-joy-conversion.trycloudflare.com",
-    "httpUrl": "https://forge-pills-joy-conversion.trycloudflare.com",
-    "issuedAt": "2026-11-13T15:11:30.819Z",
-    "expiresAt": "2026-12-13T15:11:30.819Z",
-    "nonce": "8a7cfd9c84d3a0c385e4e16fbf25b176"
+    "wsUrl": "wss://event-convenient-subscriptions-sustained.trycloudflare.com",
+    "httpUrl": "https://event-convenient-subscriptions-sustained.trycloudflare.com",
+    "issuedAt": "2026-11-13T16:13:34.852Z",
+    "expiresAt": "2026-12-13T16:13:34.852Z",
+    "nonce": "e98cb43a3af05fe43ad5e21cb02f7d97"
   },
-  "signature": "+gAdfkJxVPoM8NenV1a3mRWVLo63M7q5te4B/hxxvWUUpxymZtien/i4rABBdcET/go2r+KUEuJ9cDxSRcLK8Q==",
+  "signature": "XHWh/LkiGz/JQCGGh2Vh4FaMp70wyY+crxpQO/E4FZMbTuKlhPHqn3CJ4Gn1RVKjKoDrnLDtKeCDyjJ0i1lLqQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

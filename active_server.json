@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://causes-misc-satisfy-marketing.trycloudflare.com",
-  "httpUrl": "https://causes-misc-satisfy-marketing.trycloudflare.com",
-  "updatedAt": "2026-11-13T02:12:48.118Z",
-  "expiresAt": "2026-12-13T02:12:48.118Z",
-  "nonce": "26b1e4e955646fae04380887015d084b",
+  "wsUrl": "wss://mysterious-webcams-bars-impact.trycloudflare.com",
+  "httpUrl": "https://mysterious-webcams-bars-impact.trycloudflare.com",
+  "updatedAt": "2026-11-13T02:18:00.324Z",
+  "expiresAt": "2026-12-13T02:18:00.324Z",
+  "nonce": "ba1dd1db7b2d67c17b32ef69f00ca0c5",
   "payload": {
-    "wsUrl": "wss://causes-misc-satisfy-marketing.trycloudflare.com",
-    "httpUrl": "https://causes-misc-satisfy-marketing.trycloudflare.com",
-    "issuedAt": "2026-11-13T02:12:48.118Z",
-    "expiresAt": "2026-12-13T02:12:48.118Z",
-    "nonce": "26b1e4e955646fae04380887015d084b"
+    "wsUrl": "wss://mysterious-webcams-bars-impact.trycloudflare.com",
+    "httpUrl": "https://mysterious-webcams-bars-impact.trycloudflare.com",
+    "issuedAt": "2026-11-13T02:18:00.324Z",
+    "expiresAt": "2026-12-13T02:18:00.324Z",
+    "nonce": "ba1dd1db7b2d67c17b32ef69f00ca0c5"
   },
-  "signature": "ShdpaAAoZgnqutmBSR4ll541HKqDTyoqPuKuwy5O6Vdk/s0hcT3elcqm8504DSEFA+LL5rOSKxXv6t7LphnD2g==",
+  "signature": "vaogmCKrK9qiEhL4zH3NCk1OGjhnNsG7M5bxpB10Dy8MDHSSjaNOUGuhwK3mtrOGmIJy48jGQL3IEQcEqb8aRA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

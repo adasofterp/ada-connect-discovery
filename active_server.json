@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://porter-incorporated-saskatchewan-summer.trycloudflare.com",
-  "httpUrl": "https://porter-incorporated-saskatchewan-summer.trycloudflare.com",
-  "updatedAt": "2026-11-13T02:55:37.157Z",
-  "expiresAt": "2026-12-13T02:55:37.157Z",
-  "nonce": "729966f68143448041ee61d63e53e235",
+  "wsUrl": "wss://mailing-ladder-was-moral.trycloudflare.com",
+  "httpUrl": "https://mailing-ladder-was-moral.trycloudflare.com",
+  "updatedAt": "2026-11-13T03:06:06.100Z",
+  "expiresAt": "2026-12-13T03:06:06.100Z",
+  "nonce": "b19c0222d2f17008783926135c97c38b",
   "payload": {
-    "wsUrl": "wss://porter-incorporated-saskatchewan-summer.trycloudflare.com",
-    "httpUrl": "https://porter-incorporated-saskatchewan-summer.trycloudflare.com",
-    "issuedAt": "2026-11-13T02:55:37.157Z",
-    "expiresAt": "2026-12-13T02:55:37.157Z",
-    "nonce": "729966f68143448041ee61d63e53e235"
+    "wsUrl": "wss://mailing-ladder-was-moral.trycloudflare.com",
+    "httpUrl": "https://mailing-ladder-was-moral.trycloudflare.com",
+    "issuedAt": "2026-11-13T03:06:06.100Z",
+    "expiresAt": "2026-12-13T03:06:06.100Z",
+    "nonce": "b19c0222d2f17008783926135c97c38b"
   },
-  "signature": "HsYJLwJaFk3rXY1jpCZ1/wILgjhnucLcz2b9zNnRFbExc8VX1N0ghLrZHB9iqfZnS9+wi4INW5PPJUcd63bE0A==",
+  "signature": "gZo/hGcfmem6R9RhCvyxO8oJOcFptX1yDbg1NkeqY+9cmsBnfUFoILoN3Q1r2fQPavWxNI3iw+VIS2wel3t35g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

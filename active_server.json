@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://interfaces-fingers-spring-aus.trycloudflare.com",
-  "httpUrl": "https://interfaces-fingers-spring-aus.trycloudflare.com",
-  "updatedAt": "2026-11-13T00:16:07.848Z",
-  "expiresAt": "2026-12-13T00:16:07.848Z",
-  "nonce": "f946ba12258f2e55a6dfc0da9978a9d3",
+  "wsUrl": "wss://shore-spray-expand-sec.trycloudflare.com",
+  "httpUrl": "https://shore-spray-expand-sec.trycloudflare.com",
+  "updatedAt": "2026-11-13T00:27:24.306Z",
+  "expiresAt": "2026-12-13T00:27:24.306Z",
+  "nonce": "2d389adaaeaec3388dbdcecd11f47541",
   "payload": {
-    "wsUrl": "wss://interfaces-fingers-spring-aus.trycloudflare.com",
-    "httpUrl": "https://interfaces-fingers-spring-aus.trycloudflare.com",
-    "issuedAt": "2026-11-13T00:16:07.848Z",
-    "expiresAt": "2026-12-13T00:16:07.848Z",
-    "nonce": "f946ba12258f2e55a6dfc0da9978a9d3"
+    "wsUrl": "wss://shore-spray-expand-sec.trycloudflare.com",
+    "httpUrl": "https://shore-spray-expand-sec.trycloudflare.com",
+    "issuedAt": "2026-11-13T00:27:24.306Z",
+    "expiresAt": "2026-12-13T00:27:24.306Z",
+    "nonce": "2d389adaaeaec3388dbdcecd11f47541"
   },
-  "signature": "FtO28PH93413npTGDZJ1hn/cnGOUfL4vXTW9YbMOEfVlnOwsFscz7LKV2ISE3bAdDrd07TWZMgbwTeWPgF6x4w==",
+  "signature": "UUFf8gdKw1iOoLye9OPaspY8xsx+JHdFRf74K6UD/r087WrsjP6uj4k/7Qvsuk2AEyeAwJIjSM7qmK8YSyYCHg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

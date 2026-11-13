@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://classics-bedrooms-vessels-twenty.trycloudflare.com",
-  "httpUrl": "https://classics-bedrooms-vessels-twenty.trycloudflare.com",
-  "updatedAt": "2026-11-13T12:59:43.011Z",
-  "expiresAt": "2026-12-13T12:59:43.011Z",
-  "nonce": "9690028a5b481278c05dde5cf98f49f7",
+  "wsUrl": "wss://nam-viewpicture-cancel-capabilities.trycloudflare.com",
+  "httpUrl": "https://nam-viewpicture-cancel-capabilities.trycloudflare.com",
+  "updatedAt": "2026-11-13T13:16:16.930Z",
+  "expiresAt": "2026-12-13T13:16:16.930Z",
+  "nonce": "fe40029f158a1eecb3c13b021319e35e",
   "payload": {
-    "wsUrl": "wss://classics-bedrooms-vessels-twenty.trycloudflare.com",
-    "httpUrl": "https://classics-bedrooms-vessels-twenty.trycloudflare.com",
-    "issuedAt": "2026-11-13T12:59:43.011Z",
-    "expiresAt": "2026-12-13T12:59:43.011Z",
-    "nonce": "9690028a5b481278c05dde5cf98f49f7"
+    "wsUrl": "wss://nam-viewpicture-cancel-capabilities.trycloudflare.com",
+    "httpUrl": "https://nam-viewpicture-cancel-capabilities.trycloudflare.com",
+    "issuedAt": "2026-11-13T13:16:16.930Z",
+    "expiresAt": "2026-12-13T13:16:16.930Z",
+    "nonce": "fe40029f158a1eecb3c13b021319e35e"
   },
-  "signature": "c3xpWi0aHQgSYd1mlnfxKPav+mSSH0bLUqkQTqz2MZ2bI4BcwnECnUdV5fRIFZ2d8APxYAgdmTfo0RYikjuM9w==",
+  "signature": "G7XYjzJpK3/SCh0k27jtyGZa9cvSpkcSfbhFmik1uBnvFTJbHGlOV5Owpczsts0zxtW130RQVQC7W9hphH8HOw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

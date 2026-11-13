@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shoot-marketing-grams-advertise.trycloudflare.com",
-  "httpUrl": "https://shoot-marketing-grams-advertise.trycloudflare.com",
-  "updatedAt": "2026-11-13T12:17:51.271Z",
-  "expiresAt": "2026-12-13T12:17:51.271Z",
-  "nonce": "65c46864dd500789251dd4dba00d653e",
+  "wsUrl": "wss://then-ceiling-themes-mere.trycloudflare.com",
+  "httpUrl": "https://then-ceiling-themes-mere.trycloudflare.com",
+  "updatedAt": "2026-11-13T12:50:40.274Z",
+  "expiresAt": "2026-12-13T12:50:40.274Z",
+  "nonce": "0b2fab786e529f569196ecb4ca66cf59",
   "payload": {
-    "wsUrl": "wss://shoot-marketing-grams-advertise.trycloudflare.com",
-    "httpUrl": "https://shoot-marketing-grams-advertise.trycloudflare.com",
-    "issuedAt": "2026-11-13T12:17:51.271Z",
-    "expiresAt": "2026-12-13T12:17:51.271Z",
-    "nonce": "65c46864dd500789251dd4dba00d653e"
+    "wsUrl": "wss://then-ceiling-themes-mere.trycloudflare.com",
+    "httpUrl": "https://then-ceiling-themes-mere.trycloudflare.com",
+    "issuedAt": "2026-11-13T12:50:40.274Z",
+    "expiresAt": "2026-12-13T12:50:40.274Z",
+    "nonce": "0b2fab786e529f569196ecb4ca66cf59"
   },
-  "signature": "N1vH+Upa8eDtHWvSv86kCh0FOL0dLdnOC/aDDVegOY14J5EKaBwtC42PV6Jq9zgA98OyE8ybLhP8A4Z0chYJHA==",
+  "signature": "wpqIfNa+KS5fhwB4UzcnqiHiHm0+N1j4dNN/i8mfVfIAV15VpNP5VgiLKQkQqq7ZdgmvcX2E6Ca5v/qcgv3cWA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://disciplines-mention-metallica-corner.trycloudflare.com",
-  "httpUrl": "https://disciplines-mention-metallica-corner.trycloudflare.com",
-  "updatedAt": "2026-11-13T14:03:03.811Z",
-  "expiresAt": "2026-12-13T14:03:03.811Z",
-  "nonce": "10eb8daec57a12c948d01798473fda1c",
+  "wsUrl": "wss://seafood-msgstr-literally-involvement.trycloudflare.com",
+  "httpUrl": "https://seafood-msgstr-literally-involvement.trycloudflare.com",
+  "updatedAt": "2026-11-13T14:21:31.431Z",
+  "expiresAt": "2026-12-13T14:21:31.431Z",
+  "nonce": "95dd78af6d2f357dbbc35dbb0c13d333",
   "payload": {
-    "wsUrl": "wss://disciplines-mention-metallica-corner.trycloudflare.com",
-    "httpUrl": "https://disciplines-mention-metallica-corner.trycloudflare.com",
-    "issuedAt": "2026-11-13T14:03:03.811Z",
-    "expiresAt": "2026-12-13T14:03:03.811Z",
-    "nonce": "10eb8daec57a12c948d01798473fda1c"
+    "wsUrl": "wss://seafood-msgstr-literally-involvement.trycloudflare.com",
+    "httpUrl": "https://seafood-msgstr-literally-involvement.trycloudflare.com",
+    "issuedAt": "2026-11-13T14:21:31.431Z",
+    "expiresAt": "2026-12-13T14:21:31.431Z",
+    "nonce": "95dd78af6d2f357dbbc35dbb0c13d333"
   },
-  "signature": "xeNPTRaYh4SN47LwVZDGNMcvJnA8/rumZZool4jE5iGt4gvyiVGlmx0Lh7DbNXHh+sIGl8npfE1JfeI0UC9Ggw==",
+  "signature": "gpC48l4t4ssb70nXwpFr5S0uEZu/dbPMVgon2cshm5hGyXZLZzz3Qbts5daZCDNmFbuRCkNfeuh2AFAtoH48Hg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

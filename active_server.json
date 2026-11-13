@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://isbn-calendars-feeding-stopped.trycloudflare.com",
-  "httpUrl": "https://isbn-calendars-feeding-stopped.trycloudflare.com",
-  "updatedAt": "2026-11-12T23:31:19.123Z",
-  "expiresAt": "2026-12-12T23:31:19.123Z",
-  "nonce": "95919ec7f9217cde55f98be8aabd4fd2",
+  "wsUrl": "wss://ratings-tulsa-ana-stylish.trycloudflare.com",
+  "httpUrl": "https://ratings-tulsa-ana-stylish.trycloudflare.com",
+  "updatedAt": "2026-11-13T00:03:52.000Z",
+  "expiresAt": "2026-12-13T00:03:52.000Z",
+  "nonce": "629c6ae3e18b128d18f68076e6779c41",
   "payload": {
-    "wsUrl": "wss://isbn-calendars-feeding-stopped.trycloudflare.com",
-    "httpUrl": "https://isbn-calendars-feeding-stopped.trycloudflare.com",
-    "issuedAt": "2026-11-12T23:31:19.123Z",
-    "expiresAt": "2026-12-12T23:31:19.123Z",
-    "nonce": "95919ec7f9217cde55f98be8aabd4fd2"
+    "wsUrl": "wss://ratings-tulsa-ana-stylish.trycloudflare.com",
+    "httpUrl": "https://ratings-tulsa-ana-stylish.trycloudflare.com",
+    "issuedAt": "2026-11-13T00:03:52.000Z",
+    "expiresAt": "2026-12-13T00:03:52.000Z",
+    "nonce": "629c6ae3e18b128d18f68076e6779c41"
   },
-  "signature": "NYASg3tWVvQiI4gFWGJ8AbeAJk3+JKtgQ98Li5eIUeK397K7rFQX4cVXPZRRFF/BwGjmKJiAZ1HZZk5T3yvs2Q==",
+  "signature": "PUG+nAZ9HF9FMMftOrySwm3p7ph333qpZ03BnOhs44eis6KNaIILNOVCBF8P3Y5OM4BCFzEKuE2f4hivBeh48g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

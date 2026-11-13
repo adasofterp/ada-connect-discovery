@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://enable-weekend-performances-daisy.trycloudflare.com",
-  "httpUrl": "https://enable-weekend-performances-daisy.trycloudflare.com",
-  "updatedAt": "2026-11-13T06:26:12.117Z",
-  "expiresAt": "2026-12-13T06:26:12.117Z",
-  "nonce": "6d346614be745bdab71a65257938ad37",
+  "wsUrl": "wss://adds-spanking-sam-mass.trycloudflare.com",
+  "httpUrl": "https://adds-spanking-sam-mass.trycloudflare.com",
+  "updatedAt": "2026-11-13T07:06:11.619Z",
+  "expiresAt": "2026-12-13T07:06:11.619Z",
+  "nonce": "3bea05444ea9ee83d81baa0ceb9c848c",
   "payload": {
-    "wsUrl": "wss://enable-weekend-performances-daisy.trycloudflare.com",
-    "httpUrl": "https://enable-weekend-performances-daisy.trycloudflare.com",
-    "issuedAt": "2026-11-13T06:26:12.117Z",
-    "expiresAt": "2026-12-13T06:26:12.117Z",
-    "nonce": "6d346614be745bdab71a65257938ad37"
+    "wsUrl": "wss://adds-spanking-sam-mass.trycloudflare.com",
+    "httpUrl": "https://adds-spanking-sam-mass.trycloudflare.com",
+    "issuedAt": "2026-11-13T07:06:11.619Z",
+    "expiresAt": "2026-12-13T07:06:11.619Z",
+    "nonce": "3bea05444ea9ee83d81baa0ceb9c848c"
   },
-  "signature": "f5fBYUyJqnNPP49K3b2UyE/EjsVHBXD+ArEKSNeE+fl7v3+aMQoJhoeMYUwXTE7SG8PkOYZdEoOi6RGogUrLCQ==",
+  "signature": "Q6wJSIOXO1JcZFH+Fr7ry+KTWCOaI23g4m7R+Y2l2dzdrlfdxBPYpP1qEAMCg6rBiXEV7TS71TnOLu7I7OxEjg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

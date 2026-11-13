@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shed-driven-professor-pack.trycloudflare.com",
-  "httpUrl": "https://shed-driven-professor-pack.trycloudflare.com",
-  "updatedAt": "2026-11-13T09:57:33.966Z",
-  "expiresAt": "2026-12-13T09:57:33.966Z",
-  "nonce": "5c27db629daf57356be881fcc3900e75",
+  "wsUrl": "wss://skilled-valentine-charter-smooth.trycloudflare.com",
+  "httpUrl": "https://skilled-valentine-charter-smooth.trycloudflare.com",
+  "updatedAt": "2026-11-13T11:45:19.696Z",
+  "expiresAt": "2026-12-13T11:45:19.696Z",
+  "nonce": "e79c6e182f239e3dbfc1d7ecad999c8c",
   "payload": {
-    "wsUrl": "wss://shed-driven-professor-pack.trycloudflare.com",
-    "httpUrl": "https://shed-driven-professor-pack.trycloudflare.com",
-    "issuedAt": "2026-11-13T09:57:33.966Z",
-    "expiresAt": "2026-12-13T09:57:33.966Z",
-    "nonce": "5c27db629daf57356be881fcc3900e75"
+    "wsUrl": "wss://skilled-valentine-charter-smooth.trycloudflare.com",
+    "httpUrl": "https://skilled-valentine-charter-smooth.trycloudflare.com",
+    "issuedAt": "2026-11-13T11:45:19.696Z",
+    "expiresAt": "2026-12-13T11:45:19.696Z",
+    "nonce": "e79c6e182f239e3dbfc1d7ecad999c8c"
   },
-  "signature": "2CQUcR8bDlDcyQJe+kc1Ksjckr6BNSF0ZvGYE7J0/ezsFtCfunSWQr0NsFez+EWh3YIff8u5fUbVdNELbZ5JRw==",
+  "signature": "yJUr1ODthf3bjCVArLtla5UiUrBhsKUwpywwe4ZIoR2hHRJjlw8tVJmJsAWH6OG8dD1VRwGvKdclC/CIYdX8oQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

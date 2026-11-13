@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://mailing-ladder-was-moral.trycloudflare.com",
-  "httpUrl": "https://mailing-ladder-was-moral.trycloudflare.com",
-  "updatedAt": "2026-11-13T03:06:06.100Z",
-  "expiresAt": "2026-12-13T03:06:06.100Z",
-  "nonce": "b19c0222d2f17008783926135c97c38b",
+  "wsUrl": "wss://drum-omaha-allows-exclusion.trycloudflare.com",
+  "httpUrl": "https://drum-omaha-allows-exclusion.trycloudflare.com",
+  "updatedAt": "2026-11-13T03:13:52.825Z",
+  "expiresAt": "2026-12-13T03:13:52.825Z",
+  "nonce": "a4babaae55dd63ed3411cad581def050",
   "payload": {
-    "wsUrl": "wss://mailing-ladder-was-moral.trycloudflare.com",
-    "httpUrl": "https://mailing-ladder-was-moral.trycloudflare.com",
-    "issuedAt": "2026-11-13T03:06:06.100Z",
-    "expiresAt": "2026-12-13T03:06:06.100Z",
-    "nonce": "b19c0222d2f17008783926135c97c38b"
+    "wsUrl": "wss://drum-omaha-allows-exclusion.trycloudflare.com",
+    "httpUrl": "https://drum-omaha-allows-exclusion.trycloudflare.com",
+    "issuedAt": "2026-11-13T03:13:52.825Z",
+    "expiresAt": "2026-12-13T03:13:52.825Z",
+    "nonce": "a4babaae55dd63ed3411cad581def050"
   },
-  "signature": "gZo/hGcfmem6R9RhCvyxO8oJOcFptX1yDbg1NkeqY+9cmsBnfUFoILoN3Q1r2fQPavWxNI3iw+VIS2wel3t35g==",
+  "signature": "HKyj21jqIeeB76XcxbVyuTUQ1ECAbbIBONlH6jkILzYqYlCeKvikt/kMUkmDcxfAfA8aU3T5eNXkK9VE+nAIiw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

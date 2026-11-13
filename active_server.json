@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://result-vic-summaries-road.trycloudflare.com",
-  "httpUrl": "https://result-vic-summaries-road.trycloudflare.com",
-  "updatedAt": "2026-11-13T02:29:20.090Z",
-  "expiresAt": "2026-12-13T02:29:20.090Z",
-  "nonce": "2cb9f2a632237a2d3f46868b3c455558",
+  "wsUrl": "wss://doc-lid-alabama-spiritual.trycloudflare.com",
+  "httpUrl": "https://doc-lid-alabama-spiritual.trycloudflare.com",
+  "updatedAt": "2026-11-13T02:45:17.020Z",
+  "expiresAt": "2026-12-13T02:45:17.020Z",
+  "nonce": "ee8ec5ac3b0543ed5e44d7d75b065f14",
   "payload": {
-    "wsUrl": "wss://result-vic-summaries-road.trycloudflare.com",
-    "httpUrl": "https://result-vic-summaries-road.trycloudflare.com",
-    "issuedAt": "2026-11-13T02:29:20.090Z",
-    "expiresAt": "2026-12-13T02:29:20.090Z",
-    "nonce": "2cb9f2a632237a2d3f46868b3c455558"
+    "wsUrl": "wss://doc-lid-alabama-spiritual.trycloudflare.com",
+    "httpUrl": "https://doc-lid-alabama-spiritual.trycloudflare.com",
+    "issuedAt": "2026-11-13T02:45:17.020Z",
+    "expiresAt": "2026-12-13T02:45:17.020Z",
+    "nonce": "ee8ec5ac3b0543ed5e44d7d75b065f14"
   },
-  "signature": "0iPrxtwlGBzd4X12jTZ3CdxtXEi1Tf0Pq+PLcedhyWaPScrZuWL2yduHTGpijfr6HBcavkNCE6cNrX4NUCTdkQ==",
+  "signature": "8NnmYYeEVeh/iUuyX3ZbVxymoxx+uY2OKFMeHEInVRHmwKvUvXuuaEFKs2mUzIhevqdDQA8NANQ/HWUDlX5/pg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

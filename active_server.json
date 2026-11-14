@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://concluded-holder-mounted-agent.trycloudflare.com",
   "httpUrl": "https://concluded-holder-mounted-agent.trycloudflare.com",
-  "updatedAt": "2026-11-14T17:43:21.539Z",
-  "expiresAt": "2026-12-14T17:43:21.539Z",
-  "nonce": "119c83e942b0ca57d6a982dc509ac2c4",
+  "updatedAt": "2026-11-14T18:44:18.733Z",
+  "expiresAt": "2026-12-14T18:44:18.733Z",
+  "nonce": "c7f9d216c57866bae8cfd10c86d90c34",
   "payload": {
     "wsUrl": "wss://concluded-holder-mounted-agent.trycloudflare.com",
     "httpUrl": "https://concluded-holder-mounted-agent.trycloudflare.com",
-    "issuedAt": "2026-11-14T17:43:21.539Z",
-    "expiresAt": "2026-12-14T17:43:21.539Z",
-    "nonce": "119c83e942b0ca57d6a982dc509ac2c4"
+    "issuedAt": "2026-11-14T18:44:18.733Z",
+    "expiresAt": "2026-12-14T18:44:18.733Z",
+    "nonce": "c7f9d216c57866bae8cfd10c86d90c34"
   },
-  "signature": "LHA2Nop5dd1W+mQekHl2aZ84wylm57+4jV0zIrdUVmx0KMxU02s3wdhW8rX63Spd/quwelEg7FHQfucLrOELFg==",
+  "signature": "3QXOUCdqxcqGjE7Y8BEyTPZ29PgdyeTWQ6h5IgZQjq+97MRkRaXK/VynEuGrBdIwi1N4QNRTEkwS8C0bIxEywQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

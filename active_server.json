@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://broadway-oops-theme-helped.trycloudflare.com",
-  "httpUrl": "https://broadway-oops-theme-helped.trycloudflare.com",
-  "updatedAt": "2026-11-14T15:01:03.947Z",
-  "expiresAt": "2026-12-14T15:01:03.947Z",
-  "nonce": "9ef0bf7529f0412d7102ebceffb2e245",
+  "wsUrl": "wss://glory-manufacturing-division-exhaust.trycloudflare.com",
+  "httpUrl": "https://glory-manufacturing-division-exhaust.trycloudflare.com",
+  "updatedAt": "2026-11-14T15:39:41.173Z",
+  "expiresAt": "2026-12-14T15:39:41.173Z",
+  "nonce": "e2008189362f34432223edc630a907cc",
   "payload": {
-    "wsUrl": "wss://broadway-oops-theme-helped.trycloudflare.com",
-    "httpUrl": "https://broadway-oops-theme-helped.trycloudflare.com",
-    "issuedAt": "2026-11-14T15:01:03.947Z",
-    "expiresAt": "2026-12-14T15:01:03.947Z",
-    "nonce": "9ef0bf7529f0412d7102ebceffb2e245"
+    "wsUrl": "wss://glory-manufacturing-division-exhaust.trycloudflare.com",
+    "httpUrl": "https://glory-manufacturing-division-exhaust.trycloudflare.com",
+    "issuedAt": "2026-11-14T15:39:41.173Z",
+    "expiresAt": "2026-12-14T15:39:41.173Z",
+    "nonce": "e2008189362f34432223edc630a907cc"
   },
-  "signature": "fLVgrUjVARLg77ODzkTugESFDSJD+7MDfBpDeCrSMlBBUTE2dGmKQIULJMlULUar/0aahfHziKhO5/7sbX+ZLg==",
+  "signature": "UHxMQgi9/EDy3QD0ouLXIxVHm5uLwQ12PQ2Q/E0tHKN6GHunRE59MeFFFYVXbsMgg4yW6eAEACP8eqf/qfU6QQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://arab-present-infants-mph.trycloudflare.com",
-  "httpUrl": "https://arab-present-infants-mph.trycloudflare.com",
-  "updatedAt": "2026-11-14T21:17:38.076Z",
-  "expiresAt": "2026-12-14T21:17:38.076Z",
-  "nonce": "c75eb37c3689c416ec5b1793274e7a72",
+  "wsUrl": "wss://complete-corresponding-titten-badge.trycloudflare.com",
+  "httpUrl": "https://complete-corresponding-titten-badge.trycloudflare.com",
+  "updatedAt": "2026-11-14T21:28:06.686Z",
+  "expiresAt": "2026-12-14T21:28:06.686Z",
+  "nonce": "e3cc32a489edab3ac7dfccb183216750",
   "payload": {
-    "wsUrl": "wss://arab-present-infants-mph.trycloudflare.com",
-    "httpUrl": "https://arab-present-infants-mph.trycloudflare.com",
-    "issuedAt": "2026-11-14T21:17:38.076Z",
-    "expiresAt": "2026-12-14T21:17:38.076Z",
-    "nonce": "c75eb37c3689c416ec5b1793274e7a72"
+    "wsUrl": "wss://complete-corresponding-titten-badge.trycloudflare.com",
+    "httpUrl": "https://complete-corresponding-titten-badge.trycloudflare.com",
+    "issuedAt": "2026-11-14T21:28:06.686Z",
+    "expiresAt": "2026-12-14T21:28:06.686Z",
+    "nonce": "e3cc32a489edab3ac7dfccb183216750"
   },
-  "signature": "qM5StoJoVH/p13WCNJDkFJXb5BUkBiYoDHG1E5IG2Mkf6vjaub/TPdMdbcAU7/kmlOypPbA1CHWpAHZH2xcdKw==",
+  "signature": "elzbiH7rcX5t/3CrSV7ZZjImwuuAy9zOTK4C+hHX6eSw/G0OI8gZ3qQvGprfo7P+Z1poZuZoa0XbXANfrjI6Bg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

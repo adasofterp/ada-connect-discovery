@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://glory-manufacturing-division-exhaust.trycloudflare.com",
-  "httpUrl": "https://glory-manufacturing-division-exhaust.trycloudflare.com",
-  "updatedAt": "2026-11-14T15:39:41.173Z",
-  "expiresAt": "2026-12-14T15:39:41.173Z",
-  "nonce": "e2008189362f34432223edc630a907cc",
+  "wsUrl": "wss://savings-cook-going-perfume.trycloudflare.com",
+  "httpUrl": "https://savings-cook-going-perfume.trycloudflare.com",
+  "updatedAt": "2026-11-14T16:05:20.069Z",
+  "expiresAt": "2026-12-14T16:05:20.069Z",
+  "nonce": "6c817a962c50ed8ee7a1d2577b24c901",
   "payload": {
-    "wsUrl": "wss://glory-manufacturing-division-exhaust.trycloudflare.com",
-    "httpUrl": "https://glory-manufacturing-division-exhaust.trycloudflare.com",
-    "issuedAt": "2026-11-14T15:39:41.173Z",
-    "expiresAt": "2026-12-14T15:39:41.173Z",
-    "nonce": "e2008189362f34432223edc630a907cc"
+    "wsUrl": "wss://savings-cook-going-perfume.trycloudflare.com",
+    "httpUrl": "https://savings-cook-going-perfume.trycloudflare.com",
+    "issuedAt": "2026-11-14T16:05:20.069Z",
+    "expiresAt": "2026-12-14T16:05:20.069Z",
+    "nonce": "6c817a962c50ed8ee7a1d2577b24c901"
   },
-  "signature": "UHxMQgi9/EDy3QD0ouLXIxVHm5uLwQ12PQ2Q/E0tHKN6GHunRE59MeFFFYVXbsMgg4yW6eAEACP8eqf/qfU6QQ==",
+  "signature": "mg+Z7i9/Vh7Pm+A9DYbuTjbv6V+etkh0KUWKaLT002X8AL9jyunAZ7rDYpFOmk9Ub0L9UAct0ggrs44h0Bub9g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://friendship-mineral-marking-available.trycloudflare.com",
   "httpUrl": "https://friendship-mineral-marking-available.trycloudflare.com",
-  "updatedAt": "2026-11-14T22:34:13.078Z",
-  "expiresAt": "2026-12-14T22:34:13.078Z",
-  "nonce": "cfa4884f3f804b33769982caef9d8d50",
+  "updatedAt": "2026-11-14T22:44:36.971Z",
+  "expiresAt": "2026-12-14T22:44:36.971Z",
+  "nonce": "2318a32e2e61b93d9c85eac9cf599b67",
   "payload": {
     "wsUrl": "wss://friendship-mineral-marking-available.trycloudflare.com",
     "httpUrl": "https://friendship-mineral-marking-available.trycloudflare.com",
-    "issuedAt": "2026-11-14T22:34:13.078Z",
-    "expiresAt": "2026-12-14T22:34:13.078Z",
-    "nonce": "cfa4884f3f804b33769982caef9d8d50"
+    "issuedAt": "2026-11-14T22:44:36.971Z",
+    "expiresAt": "2026-12-14T22:44:36.971Z",
+    "nonce": "2318a32e2e61b93d9c85eac9cf599b67"
   },
-  "signature": "EEqMd+POIRT6xL+PLhLKWAJP3DAlhReQmjwq92iySU0jfxUrv4rzA7LblJ4NjnoPt8cdX7I8WUk4eTvDswZIsg==",
+  "signature": "EPMQtGx8u9YrJyy4igdcDkt5GkoFONExi+wlK7PUEzDlrcdcvRwjbCKMBRrNVhS2hS+Jvl8peYtR/wnqku6XUQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

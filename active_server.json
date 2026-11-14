@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://seek-miles-vegetables-buffer.trycloudflare.com",
-  "httpUrl": "https://seek-miles-vegetables-buffer.trycloudflare.com",
-  "updatedAt": "2026-11-14T22:13:24.552Z",
-  "expiresAt": "2026-12-14T22:13:24.552Z",
-  "nonce": "c3bfa95021085c5e1d621e52c103aa3e",
+  "wsUrl": "wss://friendship-mineral-marking-available.trycloudflare.com",
+  "httpUrl": "https://friendship-mineral-marking-available.trycloudflare.com",
+  "updatedAt": "2026-11-14T22:34:13.078Z",
+  "expiresAt": "2026-12-14T22:34:13.078Z",
+  "nonce": "cfa4884f3f804b33769982caef9d8d50",
   "payload": {
-    "wsUrl": "wss://seek-miles-vegetables-buffer.trycloudflare.com",
-    "httpUrl": "https://seek-miles-vegetables-buffer.trycloudflare.com",
-    "issuedAt": "2026-11-14T22:13:24.552Z",
-    "expiresAt": "2026-12-14T22:13:24.552Z",
-    "nonce": "c3bfa95021085c5e1d621e52c103aa3e"
+    "wsUrl": "wss://friendship-mineral-marking-available.trycloudflare.com",
+    "httpUrl": "https://friendship-mineral-marking-available.trycloudflare.com",
+    "issuedAt": "2026-11-14T22:34:13.078Z",
+    "expiresAt": "2026-12-14T22:34:13.078Z",
+    "nonce": "cfa4884f3f804b33769982caef9d8d50"
   },
-  "signature": "si5zMzMHvN6IynXXM53dCLnWS61oN6L2WYBxboZKi9d/2mzonJB1BCdYwyKP2Hlb/1/lPoaILH0IlIQonLXYLw==",
+  "signature": "EEqMd+POIRT6xL+PLhLKWAJP3DAlhReQmjwq92iySU0jfxUrv4rzA7LblJ4NjnoPt8cdX7I8WUk4eTvDswZIsg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

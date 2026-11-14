@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://ribbon-rod-penalty-with.trycloudflare.com",
   "httpUrl": "https://ribbon-rod-penalty-with.trycloudflare.com",
-  "updatedAt": "2026-11-14T06:39:49.771Z",
-  "expiresAt": "2026-12-14T06:39:49.771Z",
-  "nonce": "31143072c7bd6105d984e06115473aeb",
+  "updatedAt": "2026-11-14T10:39:32.651Z",
+  "expiresAt": "2026-12-14T10:39:32.651Z",
+  "nonce": "15b778bf8087601ed6994366e30043e8",
   "payload": {
     "wsUrl": "wss://ribbon-rod-penalty-with.trycloudflare.com",
     "httpUrl": "https://ribbon-rod-penalty-with.trycloudflare.com",
-    "issuedAt": "2026-11-14T06:39:49.771Z",
-    "expiresAt": "2026-12-14T06:39:49.771Z",
-    "nonce": "31143072c7bd6105d984e06115473aeb"
+    "issuedAt": "2026-11-14T10:39:32.651Z",
+    "expiresAt": "2026-12-14T10:39:32.651Z",
+    "nonce": "15b778bf8087601ed6994366e30043e8"
   },
-  "signature": "DiI4dBiLZWDE5YtK6M1kLkDAbWVS2FFW6KfTDXbWQtdN2HE/3g9s3dHon/d4SQSqAkC4wCUgKWdyE/4LAqHHdw==",
+  "signature": "i+PERNTmTmA36AUPvGpH3d6Ww04wlrEWD4dnG3yKw/+zdrMPjpZTthBaYkyVRCRaPzDC2rXK6hAVfYmZuhlSCQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

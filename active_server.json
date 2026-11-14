@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://complete-corresponding-titten-badge.trycloudflare.com",
-  "httpUrl": "https://complete-corresponding-titten-badge.trycloudflare.com",
-  "updatedAt": "2026-11-14T21:28:06.686Z",
-  "expiresAt": "2026-12-14T21:28:06.686Z",
-  "nonce": "e3cc32a489edab3ac7dfccb183216750",
+  "wsUrl": "wss://respondent-bryant-searching-smithsonian.trycloudflare.com",
+  "httpUrl": "https://respondent-bryant-searching-smithsonian.trycloudflare.com",
+  "updatedAt": "2026-11-14T21:38:29.590Z",
+  "expiresAt": "2026-12-14T21:38:29.590Z",
+  "nonce": "374a99787349d557816a584ced0266a9",
   "payload": {
-    "wsUrl": "wss://complete-corresponding-titten-badge.trycloudflare.com",
-    "httpUrl": "https://complete-corresponding-titten-badge.trycloudflare.com",
-    "issuedAt": "2026-11-14T21:28:06.686Z",
-    "expiresAt": "2026-12-14T21:28:06.686Z",
-    "nonce": "e3cc32a489edab3ac7dfccb183216750"
+    "wsUrl": "wss://respondent-bryant-searching-smithsonian.trycloudflare.com",
+    "httpUrl": "https://respondent-bryant-searching-smithsonian.trycloudflare.com",
+    "issuedAt": "2026-11-14T21:38:29.590Z",
+    "expiresAt": "2026-12-14T21:38:29.590Z",
+    "nonce": "374a99787349d557816a584ced0266a9"
   },
-  "signature": "elzbiH7rcX5t/3CrSV7ZZjImwuuAy9zOTK4C+hHX6eSw/G0OI8gZ3qQvGprfo7P+Z1poZuZoa0XbXANfrjI6Bg==",
+  "signature": "CANxxuN8Sn371NHi2mgMWtHrCVlv4kNBFhnzHkN2sOzhAMxgTHJBjqWKrByw+Wn/17e4bkj58nZKJ4d2aGP0jA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

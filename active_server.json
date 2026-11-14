@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://drunk-found-born-mrs.trycloudflare.com",
-  "httpUrl": "https://drunk-found-born-mrs.trycloudflare.com",
-  "updatedAt": "2026-11-14T19:45:23.434Z",
-  "expiresAt": "2026-12-14T19:45:23.434Z",
-  "nonce": "533e3b26ce91e112b6b23aaafd0cb804",
+  "wsUrl": "wss://realize-proud-translated-stop.trycloudflare.com",
+  "httpUrl": "https://realize-proud-translated-stop.trycloudflare.com",
+  "updatedAt": "2026-11-14T20:41:58.503Z",
+  "expiresAt": "2026-12-14T20:41:58.503Z",
+  "nonce": "55d22bfdb47100951cb4a1a8784ff305",
   "payload": {
-    "wsUrl": "wss://drunk-found-born-mrs.trycloudflare.com",
-    "httpUrl": "https://drunk-found-born-mrs.trycloudflare.com",
-    "issuedAt": "2026-11-14T19:45:23.434Z",
-    "expiresAt": "2026-12-14T19:45:23.434Z",
-    "nonce": "533e3b26ce91e112b6b23aaafd0cb804"
+    "wsUrl": "wss://realize-proud-translated-stop.trycloudflare.com",
+    "httpUrl": "https://realize-proud-translated-stop.trycloudflare.com",
+    "issuedAt": "2026-11-14T20:41:58.503Z",
+    "expiresAt": "2026-12-14T20:41:58.503Z",
+    "nonce": "55d22bfdb47100951cb4a1a8784ff305"
   },
-  "signature": "6ZtMcAcp0RuZ2Is9plAztyIWYe0e0DwdIb7QXRhFKYmMhC8PaR4//RRSrG0gIqI1U8DXh3rRMwXCkQEhTXznEw==",
+  "signature": "xPqy2vu5C0GA5BzDcDWA64ArU72WdlH5k5pXPYdlTnvCjaLB2CLy4oKom85ELSadiNVC9S2fKjZrFC5HlikeiA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

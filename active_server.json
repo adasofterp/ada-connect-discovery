@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://repairs-gospel-fort-pack.trycloudflare.com",
-  "httpUrl": "https://repairs-gospel-fort-pack.trycloudflare.com",
-  "updatedAt": "2026-11-14T20:56:47.567Z",
-  "expiresAt": "2026-12-14T20:56:47.567Z",
-  "nonce": "36277cdba03d2a9a7b0db65fc18d2ea4",
+  "wsUrl": "wss://arab-present-infants-mph.trycloudflare.com",
+  "httpUrl": "https://arab-present-infants-mph.trycloudflare.com",
+  "updatedAt": "2026-11-14T21:17:38.076Z",
+  "expiresAt": "2026-12-14T21:17:38.076Z",
+  "nonce": "c75eb37c3689c416ec5b1793274e7a72",
   "payload": {
-    "wsUrl": "wss://repairs-gospel-fort-pack.trycloudflare.com",
-    "httpUrl": "https://repairs-gospel-fort-pack.trycloudflare.com",
-    "issuedAt": "2026-11-14T20:56:47.567Z",
-    "expiresAt": "2026-12-14T20:56:47.567Z",
-    "nonce": "36277cdba03d2a9a7b0db65fc18d2ea4"
+    "wsUrl": "wss://arab-present-infants-mph.trycloudflare.com",
+    "httpUrl": "https://arab-present-infants-mph.trycloudflare.com",
+    "issuedAt": "2026-11-14T21:17:38.076Z",
+    "expiresAt": "2026-12-14T21:17:38.076Z",
+    "nonce": "c75eb37c3689c416ec5b1793274e7a72"
   },
-  "signature": "xEzTj3aL8/l6D8zljwCWXd/IdElTJd1U8UnwDXodjIzA3suFfXo/1rxazOmvZA0l+a3KsU6IYtPEDJ45rSJ6Vw==",
+  "signature": "qM5StoJoVH/p13WCNJDkFJXb5BUkBiYoDHG1E5IG2Mkf6vjaub/TPdMdbcAU7/kmlOypPbA1CHWpAHZH2xcdKw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

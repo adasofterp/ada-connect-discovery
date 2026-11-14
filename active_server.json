@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://realize-proud-translated-stop.trycloudflare.com",
-  "httpUrl": "https://realize-proud-translated-stop.trycloudflare.com",
-  "updatedAt": "2026-11-14T20:41:58.503Z",
-  "expiresAt": "2026-12-14T20:41:58.503Z",
-  "nonce": "55d22bfdb47100951cb4a1a8784ff305",
+  "wsUrl": "wss://repairs-gospel-fort-pack.trycloudflare.com",
+  "httpUrl": "https://repairs-gospel-fort-pack.trycloudflare.com",
+  "updatedAt": "2026-11-14T20:56:47.567Z",
+  "expiresAt": "2026-12-14T20:56:47.567Z",
+  "nonce": "36277cdba03d2a9a7b0db65fc18d2ea4",
   "payload": {
-    "wsUrl": "wss://realize-proud-translated-stop.trycloudflare.com",
-    "httpUrl": "https://realize-proud-translated-stop.trycloudflare.com",
-    "issuedAt": "2026-11-14T20:41:58.503Z",
-    "expiresAt": "2026-12-14T20:41:58.503Z",
-    "nonce": "55d22bfdb47100951cb4a1a8784ff305"
+    "wsUrl": "wss://repairs-gospel-fort-pack.trycloudflare.com",
+    "httpUrl": "https://repairs-gospel-fort-pack.trycloudflare.com",
+    "issuedAt": "2026-11-14T20:56:47.567Z",
+    "expiresAt": "2026-12-14T20:56:47.567Z",
+    "nonce": "36277cdba03d2a9a7b0db65fc18d2ea4"
   },
-  "signature": "xPqy2vu5C0GA5BzDcDWA64ArU72WdlH5k5pXPYdlTnvCjaLB2CLy4oKom85ELSadiNVC9S2fKjZrFC5HlikeiA==",
+  "signature": "xEzTj3aL8/l6D8zljwCWXd/IdElTJd1U8UnwDXodjIzA3suFfXo/1rxazOmvZA0l+a3KsU6IYtPEDJ45rSJ6Vw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

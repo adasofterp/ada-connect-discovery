@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-14T22:08:11.081Z",
-  "expiresAt": "2026-12-14T22:08:11.081Z",
-  "nonce": "1e7c3c8abf1de10be312736222b99842",
+  "wsUrl": "wss://seek-miles-vegetables-buffer.trycloudflare.com",
+  "httpUrl": "https://seek-miles-vegetables-buffer.trycloudflare.com",
+  "updatedAt": "2026-11-14T22:13:24.552Z",
+  "expiresAt": "2026-12-14T22:13:24.552Z",
+  "nonce": "c3bfa95021085c5e1d621e52c103aa3e",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-14T22:08:11.081Z",
-    "expiresAt": "2026-12-14T22:08:11.081Z",
-    "nonce": "1e7c3c8abf1de10be312736222b99842"
+    "wsUrl": "wss://seek-miles-vegetables-buffer.trycloudflare.com",
+    "httpUrl": "https://seek-miles-vegetables-buffer.trycloudflare.com",
+    "issuedAt": "2026-11-14T22:13:24.552Z",
+    "expiresAt": "2026-12-14T22:13:24.552Z",
+    "nonce": "c3bfa95021085c5e1d621e52c103aa3e"
   },
-  "signature": "GIt00cDVd8TXwE3cM8IRTRYF37yCQ5lGZH4rRcTOzd3Zdxc3mETgvVjzN2h8C/fdpuCxa+GqvqtfP3agSxg2YQ==",
+  "signature": "si5zMzMHvN6IynXXM53dCLnWS61oN6L2WYBxboZKi9d/2mzonJB1BCdYwyKP2Hlb/1/lPoaILH0IlIQonLXYLw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

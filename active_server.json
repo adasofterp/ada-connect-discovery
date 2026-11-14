@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://respondent-bryant-searching-smithsonian.trycloudflare.com",
-  "httpUrl": "https://respondent-bryant-searching-smithsonian.trycloudflare.com",
-  "updatedAt": "2026-11-14T21:38:29.590Z",
-  "expiresAt": "2026-12-14T21:38:29.590Z",
-  "nonce": "374a99787349d557816a584ced0266a9",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-14T21:57:43.136Z",
+  "expiresAt": "2026-12-14T21:57:43.136Z",
+  "nonce": "7d40b12a2fe4258b40785e71e494a51d",
   "payload": {
-    "wsUrl": "wss://respondent-bryant-searching-smithsonian.trycloudflare.com",
-    "httpUrl": "https://respondent-bryant-searching-smithsonian.trycloudflare.com",
-    "issuedAt": "2026-11-14T21:38:29.590Z",
-    "expiresAt": "2026-12-14T21:38:29.590Z",
-    "nonce": "374a99787349d557816a584ced0266a9"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-14T21:57:43.136Z",
+    "expiresAt": "2026-12-14T21:57:43.136Z",
+    "nonce": "7d40b12a2fe4258b40785e71e494a51d"
   },
-  "signature": "CANxxuN8Sn371NHi2mgMWtHrCVlv4kNBFhnzHkN2sOzhAMxgTHJBjqWKrByw+Wn/17e4bkj58nZKJ4d2aGP0jA==",
+  "signature": "5FJM0F/ZCd3kTNs55e7FCPDEQ/QEbwatxMQMw2yTYC+C6YUqkKfqkN3CZC3U4Yo+I/xdwTAF/3PQhIm4E7MYmQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

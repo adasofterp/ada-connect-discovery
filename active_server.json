@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://prophet-attacked-responsibilities-hospital.trycloudflare.com",
-  "httpUrl": "https://prophet-attacked-responsibilities-hospital.trycloudflare.com",
-  "updatedAt": "2026-11-14T23:21:14.131Z",
-  "expiresAt": "2026-12-14T23:21:14.131Z",
-  "nonce": "3439b6ee82a301ba7cef52d428511328",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-14T23:49:20.627Z",
+  "expiresAt": "2026-12-14T23:49:20.627Z",
+  "nonce": "53ab4470d0e0bee8e5585187a191f2b5",
   "payload": {
-    "wsUrl": "wss://prophet-attacked-responsibilities-hospital.trycloudflare.com",
-    "httpUrl": "https://prophet-attacked-responsibilities-hospital.trycloudflare.com",
-    "issuedAt": "2026-11-14T23:21:14.131Z",
-    "expiresAt": "2026-12-14T23:21:14.131Z",
-    "nonce": "3439b6ee82a301ba7cef52d428511328"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-14T23:49:20.627Z",
+    "expiresAt": "2026-12-14T23:49:20.627Z",
+    "nonce": "53ab4470d0e0bee8e5585187a191f2b5"
   },
-  "signature": "JkxrL+8iPHBfR2codnZXzQsoosg7zbvyhbVjMKRtrpAdxQawWzyPXVT24zn0e3WejjK2Qn97a34Zu/ecSBa/aw==",
+  "signature": "a+RoEkCVZpJ4+Mew4vQsT7V6Y0SmnSX/tNrgwYL6G+4RyppT29K/rbNxHftB+x4Kk4NaMeRPA3oco/Ge/THtoA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

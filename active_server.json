@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://flame-recovery-practitioner-walking.trycloudflare.com",
-  "httpUrl": "https://flame-recovery-practitioner-walking.trycloudflare.com",
-  "updatedAt": "2026-11-14T18:44:24.250Z",
-  "expiresAt": "2026-12-14T18:44:24.250Z",
-  "nonce": "423dd4f085d9d01e62c60be0bdfb4dbd",
+  "wsUrl": "wss://drunk-found-born-mrs.trycloudflare.com",
+  "httpUrl": "https://drunk-found-born-mrs.trycloudflare.com",
+  "updatedAt": "2026-11-14T19:45:23.434Z",
+  "expiresAt": "2026-12-14T19:45:23.434Z",
+  "nonce": "533e3b26ce91e112b6b23aaafd0cb804",
   "payload": {
-    "wsUrl": "wss://flame-recovery-practitioner-walking.trycloudflare.com",
-    "httpUrl": "https://flame-recovery-practitioner-walking.trycloudflare.com",
-    "issuedAt": "2026-11-14T18:44:24.250Z",
-    "expiresAt": "2026-12-14T18:44:24.250Z",
-    "nonce": "423dd4f085d9d01e62c60be0bdfb4dbd"
+    "wsUrl": "wss://drunk-found-born-mrs.trycloudflare.com",
+    "httpUrl": "https://drunk-found-born-mrs.trycloudflare.com",
+    "issuedAt": "2026-11-14T19:45:23.434Z",
+    "expiresAt": "2026-12-14T19:45:23.434Z",
+    "nonce": "533e3b26ce91e112b6b23aaafd0cb804"
   },
-  "signature": "8DvQIOj+F64OaASm0TVWhNkrvhzJGeZaOYxiSkK8KKpN8/ibSssPu9E6Kkjq/2JPUGoO2EvNHPt95t7RnOXddg==",
+  "signature": "6ZtMcAcp0RuZ2Is9plAztyIWYe0e0DwdIb7QXRhFKYmMhC8PaR4//RRSrG0gIqI1U8DXh3rRMwXCkQEhTXznEw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

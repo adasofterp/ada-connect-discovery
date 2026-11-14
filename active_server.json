@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bin-bull-academics-sheriff.trycloudflare.com",
-  "httpUrl": "https://bin-bull-academics-sheriff.trycloudflare.com",
-  "updatedAt": "2026-11-14T14:45:37.934Z",
-  "expiresAt": "2026-12-14T14:45:37.934Z",
-  "nonce": "04a7f3e9e35175d1be8fae78be4f7b2f",
+  "wsUrl": "wss://broadway-oops-theme-helped.trycloudflare.com",
+  "httpUrl": "https://broadway-oops-theme-helped.trycloudflare.com",
+  "updatedAt": "2026-11-14T15:01:03.947Z",
+  "expiresAt": "2026-12-14T15:01:03.947Z",
+  "nonce": "9ef0bf7529f0412d7102ebceffb2e245",
   "payload": {
-    "wsUrl": "wss://bin-bull-academics-sheriff.trycloudflare.com",
-    "httpUrl": "https://bin-bull-academics-sheriff.trycloudflare.com",
-    "issuedAt": "2026-11-14T14:45:37.934Z",
-    "expiresAt": "2026-12-14T14:45:37.934Z",
-    "nonce": "04a7f3e9e35175d1be8fae78be4f7b2f"
+    "wsUrl": "wss://broadway-oops-theme-helped.trycloudflare.com",
+    "httpUrl": "https://broadway-oops-theme-helped.trycloudflare.com",
+    "issuedAt": "2026-11-14T15:01:03.947Z",
+    "expiresAt": "2026-12-14T15:01:03.947Z",
+    "nonce": "9ef0bf7529f0412d7102ebceffb2e245"
   },
-  "signature": "2nX/FND/Pb5J+lCIGGv/8m7XfU/SNBYIQwKqPU3qH1VWyPfrSBPnRwnrWIxLn4QxomB0z6v+n/arEMjIbOsVCg==",
+  "signature": "fLVgrUjVARLg77ODzkTugESFDSJD+7MDfBpDeCrSMlBBUTE2dGmKQIULJMlULUar/0aahfHziKhO5/7sbX+ZLg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

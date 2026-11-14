@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://progressive-troops-smoke-them.trycloudflare.com",
-  "httpUrl": "https://progressive-troops-smoke-them.trycloudflare.com",
-  "updatedAt": "2026-11-13T21:59:26.809Z",
-  "expiresAt": "2026-12-13T21:59:26.809Z",
-  "nonce": "bdcb7d0a53a04ffeb5fb4f9ff5a989ce",
+  "wsUrl": "wss://ribbon-rod-penalty-with.trycloudflare.com",
+  "httpUrl": "https://ribbon-rod-penalty-with.trycloudflare.com",
+  "updatedAt": "2026-11-14T06:39:49.771Z",
+  "expiresAt": "2026-12-14T06:39:49.771Z",
+  "nonce": "31143072c7bd6105d984e06115473aeb",
   "payload": {
-    "wsUrl": "wss://progressive-troops-smoke-them.trycloudflare.com",
-    "httpUrl": "https://progressive-troops-smoke-them.trycloudflare.com",
-    "issuedAt": "2026-11-13T21:59:26.809Z",
-    "expiresAt": "2026-12-13T21:59:26.809Z",
-    "nonce": "bdcb7d0a53a04ffeb5fb4f9ff5a989ce"
+    "wsUrl": "wss://ribbon-rod-penalty-with.trycloudflare.com",
+    "httpUrl": "https://ribbon-rod-penalty-with.trycloudflare.com",
+    "issuedAt": "2026-11-14T06:39:49.771Z",
+    "expiresAt": "2026-12-14T06:39:49.771Z",
+    "nonce": "31143072c7bd6105d984e06115473aeb"
   },
-  "signature": "QnPOY6FVcEEvPIgNnXvuKYYbCjnwbzVSCoZtlXH4HQ9dDLygyovrpjPf8wUUjikoSauLD9+EyenISG8cpmDo+Q==",
+  "signature": "DiI4dBiLZWDE5YtK6M1kLkDAbWVS2FFW6KfTDXbWQtdN2HE/3g9s3dHon/d4SQSqAkC4wCUgKWdyE/4LAqHHdw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

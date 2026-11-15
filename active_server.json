@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://chairman-duration-examinations-bars.trycloudflare.com",
-  "httpUrl": "https://chairman-duration-examinations-bars.trycloudflare.com",
-  "updatedAt": "2026-11-15T10:54:11.544Z",
-  "expiresAt": "2026-12-15T10:54:11.544Z",
-  "nonce": "c0ffcbc5c645d4e3f246d49ce0ef9b11",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-15T11:18:08.239Z",
+  "expiresAt": "2026-12-15T11:18:08.239Z",
+  "nonce": "8790f4255bc8b4f7ce77cbc7c2ad0bd9",
   "payload": {
-    "wsUrl": "wss://chairman-duration-examinations-bars.trycloudflare.com",
-    "httpUrl": "https://chairman-duration-examinations-bars.trycloudflare.com",
-    "issuedAt": "2026-11-15T10:54:11.544Z",
-    "expiresAt": "2026-12-15T10:54:11.544Z",
-    "nonce": "c0ffcbc5c645d4e3f246d49ce0ef9b11"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-15T11:18:08.239Z",
+    "expiresAt": "2026-12-15T11:18:08.239Z",
+    "nonce": "8790f4255bc8b4f7ce77cbc7c2ad0bd9"
   },
-  "signature": "ktHQUUg4QwTZ3DbmNAoEXGfn+z0XbiwWW1POOTPa/GWLKnijKd8wqKwHAI5jjWiRd/vf77XyueDRTe7U/7zNkQ==",
+  "signature": "8/BvceHlvuXkaCVkgXzLNUsyUJ22EPo7OYLhR4TG9tZ74KOtqw5jWdkt9NkWCy+KaBNxdIiwJgxMh5AAD0pK4Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

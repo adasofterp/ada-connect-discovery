@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://chart-infinite-carter-odds.trycloudflare.com",
-  "httpUrl": "https://chart-infinite-carter-odds.trycloudflare.com",
-  "updatedAt": "2026-11-15T06:52:33.342Z",
-  "expiresAt": "2026-12-15T06:52:33.342Z",
-  "nonce": "cd23aad341ce272a26440465a0ee9027",
+  "wsUrl": "wss://nhs-luck-pop-dns.trycloudflare.com",
+  "httpUrl": "https://nhs-luck-pop-dns.trycloudflare.com",
+  "updatedAt": "2026-11-15T06:56:23.853Z",
+  "expiresAt": "2026-12-15T06:56:23.853Z",
+  "nonce": "b4550e17db2cf0f0587d516efd7a5c00",
   "payload": {
-    "wsUrl": "wss://chart-infinite-carter-odds.trycloudflare.com",
-    "httpUrl": "https://chart-infinite-carter-odds.trycloudflare.com",
-    "issuedAt": "2026-11-15T06:52:33.342Z",
-    "expiresAt": "2026-12-15T06:52:33.342Z",
-    "nonce": "cd23aad341ce272a26440465a0ee9027"
+    "wsUrl": "wss://nhs-luck-pop-dns.trycloudflare.com",
+    "httpUrl": "https://nhs-luck-pop-dns.trycloudflare.com",
+    "issuedAt": "2026-11-15T06:56:23.853Z",
+    "expiresAt": "2026-12-15T06:56:23.853Z",
+    "nonce": "b4550e17db2cf0f0587d516efd7a5c00"
   },
-  "signature": "eHNvvCAU2MFiVeZgDUUYgxSvwL5CKIwtQrSy9bKSN8PppM4hfK98cNnwECzvMOTqDBLyt0iweOxfJI0rCxmdKA==",
+  "signature": "BtOOn2BBJt2xeaCepc5WxJZwx35vLXTFbJKyqrEouIo/b0xFS1lRLnF8kfk6R4Yu65cKRe1uv868H8CYnqaheg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

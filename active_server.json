@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://compression-dependent-shares-legends.trycloudflare.com",
-  "httpUrl": "https://compression-dependent-shares-legends.trycloudflare.com",
-  "updatedAt": "2026-11-15T03:23:39.686Z",
-  "expiresAt": "2026-12-15T03:23:39.686Z",
-  "nonce": "7cfde0240adbe9dcf72091ac599cd8f4",
+  "wsUrl": "wss://supplied-tires-sight-aircraft.trycloudflare.com",
+  "httpUrl": "https://supplied-tires-sight-aircraft.trycloudflare.com",
+  "updatedAt": "2026-11-15T03:44:30.622Z",
+  "expiresAt": "2026-12-15T03:44:30.622Z",
+  "nonce": "75882adbfeeca19f35d012b6541c6dba",
   "payload": {
-    "wsUrl": "wss://compression-dependent-shares-legends.trycloudflare.com",
-    "httpUrl": "https://compression-dependent-shares-legends.trycloudflare.com",
-    "issuedAt": "2026-11-15T03:23:39.686Z",
-    "expiresAt": "2026-12-15T03:23:39.686Z",
-    "nonce": "7cfde0240adbe9dcf72091ac599cd8f4"
+    "wsUrl": "wss://supplied-tires-sight-aircraft.trycloudflare.com",
+    "httpUrl": "https://supplied-tires-sight-aircraft.trycloudflare.com",
+    "issuedAt": "2026-11-15T03:44:30.622Z",
+    "expiresAt": "2026-12-15T03:44:30.622Z",
+    "nonce": "75882adbfeeca19f35d012b6541c6dba"
   },
-  "signature": "fOHvihxcmr7XvCoJD4fQeBs48s5uOLzmcqPdkLTNWKRfmpWhElpPj3scSEXJYOk5c77MWLv24LULylxuNGZ+Sg==",
+  "signature": "wpLM07BdiAm/Ogn8apcm/M+KSUz3XgToe5I7E087jYS5dkMze/BjWzA3GkTbp17XHqxh+PcnAIp4Pp/4C8xxIg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

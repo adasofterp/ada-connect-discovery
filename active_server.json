@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nhs-luck-pop-dns.trycloudflare.com",
-  "httpUrl": "https://nhs-luck-pop-dns.trycloudflare.com",
-  "updatedAt": "2026-11-15T06:56:23.853Z",
-  "expiresAt": "2026-12-15T06:56:23.853Z",
-  "nonce": "b4550e17db2cf0f0587d516efd7a5c00",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-15T09:15:19.606Z",
+  "expiresAt": "2026-12-15T09:15:19.606Z",
+  "nonce": "e13ee351d70bed99bcd6094339e27f5d",
   "payload": {
-    "wsUrl": "wss://nhs-luck-pop-dns.trycloudflare.com",
-    "httpUrl": "https://nhs-luck-pop-dns.trycloudflare.com",
-    "issuedAt": "2026-11-15T06:56:23.853Z",
-    "expiresAt": "2026-12-15T06:56:23.853Z",
-    "nonce": "b4550e17db2cf0f0587d516efd7a5c00"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-15T09:15:19.606Z",
+    "expiresAt": "2026-12-15T09:15:19.606Z",
+    "nonce": "e13ee351d70bed99bcd6094339e27f5d"
   },
-  "signature": "BtOOn2BBJt2xeaCepc5WxJZwx35vLXTFbJKyqrEouIo/b0xFS1lRLnF8kfk6R4Yu65cKRe1uv868H8CYnqaheg==",
+  "signature": "l++OE2j3XWOJ09BXJ8QdBXt9gkqpcTyGVAuHm8stWlGSQDCmQO+o0+hG/NwW10tghRrUdB6UFcobH+DJmVm6bw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

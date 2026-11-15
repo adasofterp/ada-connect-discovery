@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cross-wedding-information-film.trycloudflare.com",
-  "httpUrl": "https://cross-wedding-information-film.trycloudflare.com",
-  "updatedAt": "2026-11-15T00:05:02.580Z",
-  "expiresAt": "2026-12-15T00:05:02.580Z",
-  "nonce": "f5b8a52f3949b8d9ca73059cee91e64d",
+  "wsUrl": "wss://plus-cemetery-biological-remained.trycloudflare.com",
+  "httpUrl": "https://plus-cemetery-biological-remained.trycloudflare.com",
+  "updatedAt": "2026-11-15T00:15:26.772Z",
+  "expiresAt": "2026-12-15T00:15:26.772Z",
+  "nonce": "854bac3b8a3dbb3b96acd8efd5b34a49",
   "payload": {
-    "wsUrl": "wss://cross-wedding-information-film.trycloudflare.com",
-    "httpUrl": "https://cross-wedding-information-film.trycloudflare.com",
-    "issuedAt": "2026-11-15T00:05:02.580Z",
-    "expiresAt": "2026-12-15T00:05:02.580Z",
-    "nonce": "f5b8a52f3949b8d9ca73059cee91e64d"
+    "wsUrl": "wss://plus-cemetery-biological-remained.trycloudflare.com",
+    "httpUrl": "https://plus-cemetery-biological-remained.trycloudflare.com",
+    "issuedAt": "2026-11-15T00:15:26.772Z",
+    "expiresAt": "2026-12-15T00:15:26.772Z",
+    "nonce": "854bac3b8a3dbb3b96acd8efd5b34a49"
   },
-  "signature": "4POBvp/uo0QLKQy0h6FPQ7aAb6xQrIAPHnCRG2Hpl4XuN5AWxAv6O7eNn+uMDW0XJjKH7quSi1ztReJUR38AVg==",
+  "signature": "ffHmHdUS//E2nNFHUtsDnDrN3NOxJ1LXGVA+gto75XrxhZqxl9OagUiGM4dqoa0bpxdcOWnR5oOL8snxVY0ZoQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

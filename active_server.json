@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://volleyball-sides-aging-disciplinary.trycloudflare.com",
-  "httpUrl": "https://volleyball-sides-aging-disciplinary.trycloudflare.com",
-  "updatedAt": "2026-11-15T06:16:14.112Z",
-  "expiresAt": "2026-12-15T06:16:14.112Z",
-  "nonce": "a2f3a9fc4e3388c41fbc35344410fafa",
+  "wsUrl": "wss://chart-infinite-carter-odds.trycloudflare.com",
+  "httpUrl": "https://chart-infinite-carter-odds.trycloudflare.com",
+  "updatedAt": "2026-11-15T06:37:02.853Z",
+  "expiresAt": "2026-12-15T06:37:02.853Z",
+  "nonce": "a8dff42f63495623d6719232ed8e6e72",
   "payload": {
-    "wsUrl": "wss://volleyball-sides-aging-disciplinary.trycloudflare.com",
-    "httpUrl": "https://volleyball-sides-aging-disciplinary.trycloudflare.com",
-    "issuedAt": "2026-11-15T06:16:14.112Z",
-    "expiresAt": "2026-12-15T06:16:14.112Z",
-    "nonce": "a2f3a9fc4e3388c41fbc35344410fafa"
+    "wsUrl": "wss://chart-infinite-carter-odds.trycloudflare.com",
+    "httpUrl": "https://chart-infinite-carter-odds.trycloudflare.com",
+    "issuedAt": "2026-11-15T06:37:02.853Z",
+    "expiresAt": "2026-12-15T06:37:02.853Z",
+    "nonce": "a8dff42f63495623d6719232ed8e6e72"
   },
-  "signature": "eX6bgxSrExWuJgVCGIUyZJ0SR5UH/Jb58r64r8wpRme4nzvlqPgicR9fM7xCAj49qRe4kenRf851yn7ilLBPTg==",
+  "signature": "oAt1wftTgG+Cv6DpJNwPDDabNf3iMHWmOgaiy9ZbGeo8JFwLKQ3emkhsfM3y7Zf3m7p/C3Pyi6jozdIT0UjGuQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

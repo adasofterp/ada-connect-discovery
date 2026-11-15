@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-15T22:09:13.987Z",
-  "expiresAt": "2026-12-15T22:09:13.987Z",
-  "nonce": "4e2327ed93aa6efc32016bb0b9155ed7",
+  "wsUrl": "wss://washington-missed-window-opportunity.trycloudflare.com",
+  "httpUrl": "https://washington-missed-window-opportunity.trycloudflare.com",
+  "updatedAt": "2026-11-15T23:06:25.912Z",
+  "expiresAt": "2026-12-15T23:06:25.912Z",
+  "nonce": "7def00079f241b145e72df80d40d3c78",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-15T22:09:13.987Z",
-    "expiresAt": "2026-12-15T22:09:13.987Z",
-    "nonce": "4e2327ed93aa6efc32016bb0b9155ed7"
+    "wsUrl": "wss://washington-missed-window-opportunity.trycloudflare.com",
+    "httpUrl": "https://washington-missed-window-opportunity.trycloudflare.com",
+    "issuedAt": "2026-11-15T23:06:25.912Z",
+    "expiresAt": "2026-12-15T23:06:25.912Z",
+    "nonce": "7def00079f241b145e72df80d40d3c78"
   },
-  "signature": "oSTdIEHdsC/x6C0a1r09TPWj1t9ym9x8G9eUgE6u+i1GPBO94VX6dz/AidUSf80e69U4C0mK84sXgdTZCatk9g==",
+  "signature": "imOEuO4B3NNghX3+z3OmxwUq9GuDhYmYhyEPLmhhIB6UbpB+ouekts92l6lC6OlhYMiw6giMbrwREHHDWSezHA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

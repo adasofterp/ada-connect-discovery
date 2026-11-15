@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-14T23:59:48.767Z",
-  "expiresAt": "2026-12-14T23:59:48.767Z",
-  "nonce": "fdf5d8cf684da3bacfe3c07244d0192a",
+  "wsUrl": "wss://cross-wedding-information-film.trycloudflare.com",
+  "httpUrl": "https://cross-wedding-information-film.trycloudflare.com",
+  "updatedAt": "2026-11-15T00:05:02.580Z",
+  "expiresAt": "2026-12-15T00:05:02.580Z",
+  "nonce": "f5b8a52f3949b8d9ca73059cee91e64d",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-14T23:59:48.767Z",
-    "expiresAt": "2026-12-14T23:59:48.767Z",
-    "nonce": "fdf5d8cf684da3bacfe3c07244d0192a"
+    "wsUrl": "wss://cross-wedding-information-film.trycloudflare.com",
+    "httpUrl": "https://cross-wedding-information-film.trycloudflare.com",
+    "issuedAt": "2026-11-15T00:05:02.580Z",
+    "expiresAt": "2026-12-15T00:05:02.580Z",
+    "nonce": "f5b8a52f3949b8d9ca73059cee91e64d"
   },
-  "signature": "Ig041mvdsvkpxPCGgfW6D6gsNhPQqoq5rDfdriG9j490j7jX4yXoXiKR+ccndXxnHl2Y7Jc95rROrCJ4BtPlDw==",
+  "signature": "4POBvp/uo0QLKQy0h6FPQ7aAb6xQrIAPHnCRG2Hpl4XuN5AWxAv6O7eNn+uMDW0XJjKH7quSi1ztReJUR38AVg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-15T20:10:50.081Z",
-  "expiresAt": "2026-12-15T20:10:50.081Z",
-  "nonce": "f1706cbe662f7a81825baad3eb859b01",
+  "wsUrl": "wss://shoes-commented-tractor-featured.trycloudflare.com",
+  "httpUrl": "https://shoes-commented-tractor-featured.trycloudflare.com",
+  "updatedAt": "2026-11-15T20:57:51.430Z",
+  "expiresAt": "2026-12-15T20:57:51.430Z",
+  "nonce": "f644413ce39cf7bc9fdeb67b8bc05e75",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-15T20:10:50.081Z",
-    "expiresAt": "2026-12-15T20:10:50.081Z",
-    "nonce": "f1706cbe662f7a81825baad3eb859b01"
+    "wsUrl": "wss://shoes-commented-tractor-featured.trycloudflare.com",
+    "httpUrl": "https://shoes-commented-tractor-featured.trycloudflare.com",
+    "issuedAt": "2026-11-15T20:57:51.430Z",
+    "expiresAt": "2026-12-15T20:57:51.430Z",
+    "nonce": "f644413ce39cf7bc9fdeb67b8bc05e75"
   },
-  "signature": "cWwCgtNDpRnLydphlLvUbR/gjvP2FxQXDpP1xdtAD1EuWEp3+NSipwBLPQ+ZXgEe/1mUBTpOHal4HtQkbA2Q0A==",
+  "signature": "xoh0uLeBzxez4FYCsrOWOAogjwME4L0PxoxXNDSFoRxRgFvGtcprJvbsbOS5DTPyV9dPZuCntgtSP4Nflr2UpA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

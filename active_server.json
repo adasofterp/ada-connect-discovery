@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ext-jpeg-differently-controversy.trycloudflare.com",
-  "httpUrl": "https://ext-jpeg-differently-controversy.trycloudflare.com",
-  "updatedAt": "2026-11-15T13:48:29.217Z",
-  "expiresAt": "2026-12-15T13:48:29.217Z",
-  "nonce": "64bccfa30db7db59378b0facdfad1f79",
+  "wsUrl": "wss://intimate-screenshots-enemies-jaguar.trycloudflare.com",
+  "httpUrl": "https://intimate-screenshots-enemies-jaguar.trycloudflare.com",
+  "updatedAt": "2026-11-15T14:02:23.813Z",
+  "expiresAt": "2026-12-15T14:02:23.813Z",
+  "nonce": "15cb36143a2509a968eec33eb93d31a5",
   "payload": {
-    "wsUrl": "wss://ext-jpeg-differently-controversy.trycloudflare.com",
-    "httpUrl": "https://ext-jpeg-differently-controversy.trycloudflare.com",
-    "issuedAt": "2026-11-15T13:48:29.217Z",
-    "expiresAt": "2026-12-15T13:48:29.217Z",
-    "nonce": "64bccfa30db7db59378b0facdfad1f79"
+    "wsUrl": "wss://intimate-screenshots-enemies-jaguar.trycloudflare.com",
+    "httpUrl": "https://intimate-screenshots-enemies-jaguar.trycloudflare.com",
+    "issuedAt": "2026-11-15T14:02:23.813Z",
+    "expiresAt": "2026-12-15T14:02:23.813Z",
+    "nonce": "15cb36143a2509a968eec33eb93d31a5"
   },
-  "signature": "HREqkz/SbR2KKgI59hVNAD4M8y3PBrRJIrorX9w/fKxkQOpkBiBCxrlbeHy3ocKuWgNZEYDP26eUHxHnSHsUCw==",
+  "signature": "jfkDnYG5KgxdjZmpocW30kOTNRiKetlBp1z+bj0qikgqy1pfufBgAiCw1RZQUrWM960njYPvMuQCYrSg6UAvHA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

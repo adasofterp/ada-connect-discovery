@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://popular-projector-bought-blogging.trycloudflare.com",
-  "httpUrl": "https://popular-projector-bought-blogging.trycloudflare.com",
-  "updatedAt": "2026-11-15T23:25:51.902Z",
-  "expiresAt": "2026-12-15T23:25:51.902Z",
-  "nonce": "caee3fa88609dba2691f8fec1d362325",
+  "wsUrl": "wss://providers-mass-underlying-moments.trycloudflare.com",
+  "httpUrl": "https://providers-mass-underlying-moments.trycloudflare.com",
+  "updatedAt": "2026-11-15T23:41:28.589Z",
+  "expiresAt": "2026-12-15T23:41:28.589Z",
+  "nonce": "ed33b05951a623f3298891490963ab24",
   "payload": {
-    "wsUrl": "wss://popular-projector-bought-blogging.trycloudflare.com",
-    "httpUrl": "https://popular-projector-bought-blogging.trycloudflare.com",
-    "issuedAt": "2026-11-15T23:25:51.902Z",
-    "expiresAt": "2026-12-15T23:25:51.902Z",
-    "nonce": "caee3fa88609dba2691f8fec1d362325"
+    "wsUrl": "wss://providers-mass-underlying-moments.trycloudflare.com",
+    "httpUrl": "https://providers-mass-underlying-moments.trycloudflare.com",
+    "issuedAt": "2026-11-15T23:41:28.589Z",
+    "expiresAt": "2026-12-15T23:41:28.589Z",
+    "nonce": "ed33b05951a623f3298891490963ab24"
   },
-  "signature": "pK6VCKWJQ/3ukW7YWr8IptumXKHlzSueU1+eBCsqq/Ko3pf/ZJkYCvNQKrElWTyU2MHkoWBr8vlaR4d7nBiwDQ==",
+  "signature": "upZSf+Ml01PuSz5rvMQL/OoHC/JmsBLKIH0XHUEv0Be32BW2q7Ry0qcTC0cbH0Si7gkkhbrhEgyh2oFpEGSRmw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

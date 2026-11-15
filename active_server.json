@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-15T01:42:35.268Z",
-  "expiresAt": "2026-12-15T01:42:35.268Z",
-  "nonce": "e29387625efe387b822e05c45f168ca3",
+  "wsUrl": "wss://visiting-tender-bouquet-proceeds.trycloudflare.com",
+  "httpUrl": "https://visiting-tender-bouquet-proceeds.trycloudflare.com",
+  "updatedAt": "2026-11-15T01:47:48.952Z",
+  "expiresAt": "2026-12-15T01:47:48.952Z",
+  "nonce": "b8621777861600b70c696824f5bf5f8f",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-15T01:42:35.268Z",
-    "expiresAt": "2026-12-15T01:42:35.268Z",
-    "nonce": "e29387625efe387b822e05c45f168ca3"
+    "wsUrl": "wss://visiting-tender-bouquet-proceeds.trycloudflare.com",
+    "httpUrl": "https://visiting-tender-bouquet-proceeds.trycloudflare.com",
+    "issuedAt": "2026-11-15T01:47:48.952Z",
+    "expiresAt": "2026-12-15T01:47:48.952Z",
+    "nonce": "b8621777861600b70c696824f5bf5f8f"
   },
-  "signature": "dkQC7rFHgI/RXGYlAaHCNc9BX+LZQK6Vhww700HVtmquN446uRaqcTXg2nLEfRsGzGhgLShQB3N2MHczPh+Aaw==",
+  "signature": "2MPv78kUCAnuBe6l0OCJbW+QWYswWNE886wnErOANrrLaSgDsKqyxDwwJzGbft2aYudXljcSxcDslca9WHZIOQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

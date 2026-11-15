@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://las-toolbox-bulk-creates.trycloudflare.com",
-  "httpUrl": "https://las-toolbox-bulk-creates.trycloudflare.com",
-  "updatedAt": "2026-11-15T01:06:01.312Z",
-  "expiresAt": "2026-12-15T01:06:01.312Z",
-  "nonce": "115b83a7cfa4b545e1f39003cdf6374c",
+  "wsUrl": "wss://rim-music-attorneys-looking.trycloudflare.com",
+  "httpUrl": "https://rim-music-attorneys-looking.trycloudflare.com",
+  "updatedAt": "2026-11-15T01:26:55.826Z",
+  "expiresAt": "2026-12-15T01:26:55.826Z",
+  "nonce": "9aad32b94ec41de116cde2f01f9cf475",
   "payload": {
-    "wsUrl": "wss://las-toolbox-bulk-creates.trycloudflare.com",
-    "httpUrl": "https://las-toolbox-bulk-creates.trycloudflare.com",
-    "issuedAt": "2026-11-15T01:06:01.312Z",
-    "expiresAt": "2026-12-15T01:06:01.312Z",
-    "nonce": "115b83a7cfa4b545e1f39003cdf6374c"
+    "wsUrl": "wss://rim-music-attorneys-looking.trycloudflare.com",
+    "httpUrl": "https://rim-music-attorneys-looking.trycloudflare.com",
+    "issuedAt": "2026-11-15T01:26:55.826Z",
+    "expiresAt": "2026-12-15T01:26:55.826Z",
+    "nonce": "9aad32b94ec41de116cde2f01f9cf475"
   },
-  "signature": "9UYo2Dwq2YAKUYvd5Cp8nOFZQ2PdjgL9vo2L43/9TKv/7YTMhsFsRp7fxckkm+yQsUJ5t/1FRykqYUhW7YyTjA==",
+  "signature": "vnQDnqpIvq9RJ+6SwZoUN15CJ//7zcSH6CoS68oHCYn9rJppCYOYjntBBWyQkmQ7mlH9ti5BYxQYbF9kLEZ44A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

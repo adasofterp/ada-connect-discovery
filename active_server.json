@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://washington-missed-window-opportunity.trycloudflare.com",
-  "httpUrl": "https://washington-missed-window-opportunity.trycloudflare.com",
-  "updatedAt": "2026-11-15T23:06:25.912Z",
-  "expiresAt": "2026-12-15T23:06:25.912Z",
-  "nonce": "7def00079f241b145e72df80d40d3c78",
+  "wsUrl": "wss://ton-makes-korea-republic.trycloudflare.com",
+  "httpUrl": "https://ton-makes-korea-republic.trycloudflare.com",
+  "updatedAt": "2026-11-15T23:07:44.827Z",
+  "expiresAt": "2026-12-15T23:07:44.827Z",
+  "nonce": "de842b9c5e6a30bab349051f3b0b6a54",
   "payload": {
-    "wsUrl": "wss://washington-missed-window-opportunity.trycloudflare.com",
-    "httpUrl": "https://washington-missed-window-opportunity.trycloudflare.com",
-    "issuedAt": "2026-11-15T23:06:25.912Z",
-    "expiresAt": "2026-12-15T23:06:25.912Z",
-    "nonce": "7def00079f241b145e72df80d40d3c78"
+    "wsUrl": "wss://ton-makes-korea-republic.trycloudflare.com",
+    "httpUrl": "https://ton-makes-korea-republic.trycloudflare.com",
+    "issuedAt": "2026-11-15T23:07:44.827Z",
+    "expiresAt": "2026-12-15T23:07:44.827Z",
+    "nonce": "de842b9c5e6a30bab349051f3b0b6a54"
   },
-  "signature": "imOEuO4B3NNghX3+z3OmxwUq9GuDhYmYhyEPLmhhIB6UbpB+ouekts92l6lC6OlhYMiw6giMbrwREHHDWSezHA==",
+  "signature": "7NkBt7bkAXhWWy2ECFf8xOJV4eAYZ7/MPakwz1Asveo+ArqVotTyJGPG+/qHJ0f4+WAwF2gEHmhsxBOK6c+SsQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://belt-chamber-reproduce-generations.trycloudflare.com",
-  "httpUrl": "https://belt-chamber-reproduce-generations.trycloudflare.com",
-  "updatedAt": "2026-11-15T12:00:18.226Z",
-  "expiresAt": "2026-12-15T12:00:18.226Z",
-  "nonce": "bc238e7314b416cf3fa3c6552371e078",
+  "wsUrl": "wss://drove-journey-fans-theoretical.trycloudflare.com",
+  "httpUrl": "https://drove-journey-fans-theoretical.trycloudflare.com",
+  "updatedAt": "2026-11-15T12:02:11.300Z",
+  "expiresAt": "2026-12-15T12:02:11.300Z",
+  "nonce": "82e6f9d2aa080aeb3eb8a89c13699aae",
   "payload": {
-    "wsUrl": "wss://belt-chamber-reproduce-generations.trycloudflare.com",
-    "httpUrl": "https://belt-chamber-reproduce-generations.trycloudflare.com",
-    "issuedAt": "2026-11-15T12:00:18.226Z",
-    "expiresAt": "2026-12-15T12:00:18.226Z",
-    "nonce": "bc238e7314b416cf3fa3c6552371e078"
+    "wsUrl": "wss://drove-journey-fans-theoretical.trycloudflare.com",
+    "httpUrl": "https://drove-journey-fans-theoretical.trycloudflare.com",
+    "issuedAt": "2026-11-15T12:02:11.300Z",
+    "expiresAt": "2026-12-15T12:02:11.300Z",
+    "nonce": "82e6f9d2aa080aeb3eb8a89c13699aae"
   },
-  "signature": "7kTkmdPCUptlXhU1duCOjCRXE76CLw6JV/xmsVyGrFqMgTLXU8c/WqvcjMMDAmFMIHpwMtdzlvvYyGo4hHOQPw==",
+  "signature": "6ihXk1I2YE3Yi960VsjKUZZuMULYMLADHM+uQ2CvIy6edCksx0cOKzd8McHb6SjuJwJmmMVznqLt+NzR5Zfqsg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

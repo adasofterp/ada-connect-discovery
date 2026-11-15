@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://challenging-tunes-cricket-budgets.trycloudflare.com",
-  "httpUrl": "https://challenging-tunes-cricket-budgets.trycloudflare.com",
-  "updatedAt": "2026-11-15T21:39:31.351Z",
-  "expiresAt": "2026-12-15T21:39:31.351Z",
-  "nonce": "3cb0b9cbdf2618aa731d319893b879a3",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-15T22:00:20.961Z",
+  "expiresAt": "2026-12-15T22:00:20.961Z",
+  "nonce": "2895ce5278a8828954b89ee061a5164f",
   "payload": {
-    "wsUrl": "wss://challenging-tunes-cricket-budgets.trycloudflare.com",
-    "httpUrl": "https://challenging-tunes-cricket-budgets.trycloudflare.com",
-    "issuedAt": "2026-11-15T21:39:31.351Z",
-    "expiresAt": "2026-12-15T21:39:31.351Z",
-    "nonce": "3cb0b9cbdf2618aa731d319893b879a3"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-15T22:00:20.961Z",
+    "expiresAt": "2026-12-15T22:00:20.961Z",
+    "nonce": "2895ce5278a8828954b89ee061a5164f"
   },
-  "signature": "y7EoSiwKyHYQsJ5yAosLSc7x5BD5SLvBJueBNgz8WdZNmwxY/J/t1R+Pi827Y8xCT4xIicLU1TuCKAJExjeMqw==",
+  "signature": "JP+yHfPBuZV3VVnkKUst+pui5gN91nyuxw93lKgvZdASn4rT0/tP4Hyt16UDqf/6a350BzvU/Ye9A4IMAdo0Qw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

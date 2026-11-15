@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://networking-civilization-biography-substance.trycloudflare.com",
-  "httpUrl": "https://networking-civilization-biography-substance.trycloudflare.com",
-  "updatedAt": "2026-11-15T15:31:33.815Z",
-  "expiresAt": "2026-12-15T15:31:33.815Z",
-  "nonce": "3cc242de049dd9452c4c2bb90e7bc0cd",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-15T16:43:32.906Z",
+  "expiresAt": "2026-12-15T16:43:32.906Z",
+  "nonce": "c7b75722bd6114a80810aee76809d907",
   "payload": {
-    "wsUrl": "wss://networking-civilization-biography-substance.trycloudflare.com",
-    "httpUrl": "https://networking-civilization-biography-substance.trycloudflare.com",
-    "issuedAt": "2026-11-15T15:31:33.815Z",
-    "expiresAt": "2026-12-15T15:31:33.815Z",
-    "nonce": "3cc242de049dd9452c4c2bb90e7bc0cd"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-15T16:43:32.906Z",
+    "expiresAt": "2026-12-15T16:43:32.906Z",
+    "nonce": "c7b75722bd6114a80810aee76809d907"
   },
-  "signature": "BPAxZ0OKdiaga7PbJ+GuoKiORhub0YOkO4bmqjFthCITGArFK05P/EByi2rmuFN0WxnIlJO6S4HRNwF6snzTsA==",
+  "signature": "4hg8WgBFJ30BjyIrh+aV0CkpkmA+WbTACSQh+71jQeUkSfcOZ+A1JbXAwgQevN9r/hpBgWUuTjgtDu5NPgbayA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

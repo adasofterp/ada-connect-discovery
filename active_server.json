@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bbs-deviation-sugar-scan.trycloudflare.com",
-  "httpUrl": "https://bbs-deviation-sugar-scan.trycloudflare.com",
-  "updatedAt": "2026-11-15T13:01:23.723Z",
-  "expiresAt": "2026-12-15T13:01:23.723Z",
-  "nonce": "9ac5f6d78fa2f584639bc2460993f8fc",
+  "wsUrl": "wss://ext-jpeg-differently-controversy.trycloudflare.com",
+  "httpUrl": "https://ext-jpeg-differently-controversy.trycloudflare.com",
+  "updatedAt": "2026-11-15T13:48:29.217Z",
+  "expiresAt": "2026-12-15T13:48:29.217Z",
+  "nonce": "64bccfa30db7db59378b0facdfad1f79",
   "payload": {
-    "wsUrl": "wss://bbs-deviation-sugar-scan.trycloudflare.com",
-    "httpUrl": "https://bbs-deviation-sugar-scan.trycloudflare.com",
-    "issuedAt": "2026-11-15T13:01:23.723Z",
-    "expiresAt": "2026-12-15T13:01:23.723Z",
-    "nonce": "9ac5f6d78fa2f584639bc2460993f8fc"
+    "wsUrl": "wss://ext-jpeg-differently-controversy.trycloudflare.com",
+    "httpUrl": "https://ext-jpeg-differently-controversy.trycloudflare.com",
+    "issuedAt": "2026-11-15T13:48:29.217Z",
+    "expiresAt": "2026-12-15T13:48:29.217Z",
+    "nonce": "64bccfa30db7db59378b0facdfad1f79"
   },
-  "signature": "kx+/4OieAheXo3u8MchDiSpi8l/qntQAbUdAxsUQZnBBBAiT51M8lcgLXQuF9WszCcDiNpzN/BT+64VbGzQk1g==",
+  "signature": "HREqkz/SbR2KKgI59hVNAD4M8y3PBrRJIrorX9w/fKxkQOpkBiBCxrlbeHy3ocKuWgNZEYDP26eUHxHnSHsUCw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

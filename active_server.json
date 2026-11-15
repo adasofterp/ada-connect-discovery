@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://visiting-tender-bouquet-proceeds.trycloudflare.com",
-  "httpUrl": "https://visiting-tender-bouquet-proceeds.trycloudflare.com",
-  "updatedAt": "2026-11-15T01:47:48.952Z",
-  "expiresAt": "2026-12-15T01:47:48.952Z",
-  "nonce": "b8621777861600b70c696824f5bf5f8f",
+  "wsUrl": "wss://yearly-compiler-hollywood-taught.trycloudflare.com",
+  "httpUrl": "https://yearly-compiler-hollywood-taught.trycloudflare.com",
+  "updatedAt": "2026-11-15T02:07:02.829Z",
+  "expiresAt": "2026-12-15T02:07:02.829Z",
+  "nonce": "7b027e3fa7eaafe4b7409270ea01f7bc",
   "payload": {
-    "wsUrl": "wss://visiting-tender-bouquet-proceeds.trycloudflare.com",
-    "httpUrl": "https://visiting-tender-bouquet-proceeds.trycloudflare.com",
-    "issuedAt": "2026-11-15T01:47:48.952Z",
-    "expiresAt": "2026-12-15T01:47:48.952Z",
-    "nonce": "b8621777861600b70c696824f5bf5f8f"
+    "wsUrl": "wss://yearly-compiler-hollywood-taught.trycloudflare.com",
+    "httpUrl": "https://yearly-compiler-hollywood-taught.trycloudflare.com",
+    "issuedAt": "2026-11-15T02:07:02.829Z",
+    "expiresAt": "2026-12-15T02:07:02.829Z",
+    "nonce": "7b027e3fa7eaafe4b7409270ea01f7bc"
   },
-  "signature": "2MPv78kUCAnuBe6l0OCJbW+QWYswWNE886wnErOANrrLaSgDsKqyxDwwJzGbft2aYudXljcSxcDslca9WHZIOQ==",
+  "signature": "1ch04n+PXd8b6NBcZ5Q+4SLXsfkt6u/tnIXXA8JbOwAgIzkaH02t4UYJGHTiba5eZkmdsnARGSBKUeN0mb8SUA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

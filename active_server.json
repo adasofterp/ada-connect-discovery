@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://plus-cemetery-biological-remained.trycloudflare.com",
-  "httpUrl": "https://plus-cemetery-biological-remained.trycloudflare.com",
-  "updatedAt": "2026-11-15T00:15:26.772Z",
-  "expiresAt": "2026-12-15T00:15:26.772Z",
-  "nonce": "854bac3b8a3dbb3b96acd8efd5b34a49",
+  "wsUrl": "wss://fathers-twenty-advisory-since.trycloudflare.com",
+  "httpUrl": "https://fathers-twenty-advisory-since.trycloudflare.com",
+  "updatedAt": "2026-11-15T00:46:44.294Z",
+  "expiresAt": "2026-12-15T00:46:44.294Z",
+  "nonce": "adf8d8ae6d9d27e060b04be61cf78291",
   "payload": {
-    "wsUrl": "wss://plus-cemetery-biological-remained.trycloudflare.com",
-    "httpUrl": "https://plus-cemetery-biological-remained.trycloudflare.com",
-    "issuedAt": "2026-11-15T00:15:26.772Z",
-    "expiresAt": "2026-12-15T00:15:26.772Z",
-    "nonce": "854bac3b8a3dbb3b96acd8efd5b34a49"
+    "wsUrl": "wss://fathers-twenty-advisory-since.trycloudflare.com",
+    "httpUrl": "https://fathers-twenty-advisory-since.trycloudflare.com",
+    "issuedAt": "2026-11-15T00:46:44.294Z",
+    "expiresAt": "2026-12-15T00:46:44.294Z",
+    "nonce": "adf8d8ae6d9d27e060b04be61cf78291"
   },
-  "signature": "ffHmHdUS//E2nNFHUtsDnDrN3NOxJ1LXGVA+gto75XrxhZqxl9OagUiGM4dqoa0bpxdcOWnR5oOL8snxVY0ZoQ==",
+  "signature": "4u+ZvMKhVVNXVibh9VfShmIXRvTiRtLEWDv3URe4oxQaAWqK8tLOwxB/rOu18b7lMjtlqgklMiVtEvc6IeswAw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

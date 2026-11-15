@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-15T11:18:08.239Z",
-  "expiresAt": "2026-12-15T11:18:08.239Z",
-  "nonce": "8790f4255bc8b4f7ce77cbc7c2ad0bd9",
+  "wsUrl": "wss://tri-urge-buses-specialty.trycloudflare.com",
+  "httpUrl": "https://tri-urge-buses-specialty.trycloudflare.com",
+  "updatedAt": "2026-11-15T11:18:23.334Z",
+  "expiresAt": "2026-12-15T11:18:23.334Z",
+  "nonce": "d5e0fae4561b4976c44b8e4a2898ae9b",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-15T11:18:08.239Z",
-    "expiresAt": "2026-12-15T11:18:08.239Z",
-    "nonce": "8790f4255bc8b4f7ce77cbc7c2ad0bd9"
+    "wsUrl": "wss://tri-urge-buses-specialty.trycloudflare.com",
+    "httpUrl": "https://tri-urge-buses-specialty.trycloudflare.com",
+    "issuedAt": "2026-11-15T11:18:23.334Z",
+    "expiresAt": "2026-12-15T11:18:23.334Z",
+    "nonce": "d5e0fae4561b4976c44b8e4a2898ae9b"
   },
-  "signature": "8/BvceHlvuXkaCVkgXzLNUsyUJ22EPo7OYLhR4TG9tZ74KOtqw5jWdkt9NkWCy+KaBNxdIiwJgxMh5AAD0pK4Q==",
+  "signature": "wN868PnA1oiddLccBqEtsbGnLerZn+SlLRWhNPNnEywIK5mzvVOF/Wn1jyK2itedmmrDnL4AAUGz9hEmfKck4Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

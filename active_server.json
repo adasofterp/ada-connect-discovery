@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://intimate-screenshots-enemies-jaguar.trycloudflare.com",
-  "httpUrl": "https://intimate-screenshots-enemies-jaguar.trycloudflare.com",
-  "updatedAt": "2026-11-15T15:03:18.207Z",
-  "expiresAt": "2026-12-15T15:03:18.207Z",
-  "nonce": "804c4151946f24f34f385b6a6f89bcb2",
+  "wsUrl": "wss://ipaq-treasures-pictures-links.trycloudflare.com",
+  "httpUrl": "https://ipaq-treasures-pictures-links.trycloudflare.com",
+  "updatedAt": "2026-11-15T15:03:24.395Z",
+  "expiresAt": "2026-12-15T15:03:24.395Z",
+  "nonce": "bb5e966f68a3599965ccb2697f28ff47",
   "payload": {
-    "wsUrl": "wss://intimate-screenshots-enemies-jaguar.trycloudflare.com",
-    "httpUrl": "https://intimate-screenshots-enemies-jaguar.trycloudflare.com",
-    "issuedAt": "2026-11-15T15:03:18.207Z",
-    "expiresAt": "2026-12-15T15:03:18.207Z",
-    "nonce": "804c4151946f24f34f385b6a6f89bcb2"
+    "wsUrl": "wss://ipaq-treasures-pictures-links.trycloudflare.com",
+    "httpUrl": "https://ipaq-treasures-pictures-links.trycloudflare.com",
+    "issuedAt": "2026-11-15T15:03:24.395Z",
+    "expiresAt": "2026-12-15T15:03:24.395Z",
+    "nonce": "bb5e966f68a3599965ccb2697f28ff47"
   },
-  "signature": "wOAn+q9h2Y4dLDxZrO23HVqwNikAdRADgr3FhJH/B95vQHghjqos79gFBOMc0SZ6YgSF3c6MfIzoiyKzL3BS2Q==",
+  "signature": "x0xDzbyyZHr0qs1JOvNhT93wADZrkbdSPxCQ55+Ah97ntdaM7pCWj8Twublxt4WthFKjNw1tyXNcNO9fG/NIGw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://chart-infinite-carter-odds.trycloudflare.com",
   "httpUrl": "https://chart-infinite-carter-odds.trycloudflare.com",
-  "updatedAt": "2026-11-15T06:37:02.853Z",
-  "expiresAt": "2026-12-15T06:37:02.853Z",
-  "nonce": "a8dff42f63495623d6719232ed8e6e72",
+  "updatedAt": "2026-11-15T06:52:33.342Z",
+  "expiresAt": "2026-12-15T06:52:33.342Z",
+  "nonce": "cd23aad341ce272a26440465a0ee9027",
   "payload": {
     "wsUrl": "wss://chart-infinite-carter-odds.trycloudflare.com",
     "httpUrl": "https://chart-infinite-carter-odds.trycloudflare.com",
-    "issuedAt": "2026-11-15T06:37:02.853Z",
-    "expiresAt": "2026-12-15T06:37:02.853Z",
-    "nonce": "a8dff42f63495623d6719232ed8e6e72"
+    "issuedAt": "2026-11-15T06:52:33.342Z",
+    "expiresAt": "2026-12-15T06:52:33.342Z",
+    "nonce": "cd23aad341ce272a26440465a0ee9027"
   },
-  "signature": "oAt1wftTgG+Cv6DpJNwPDDabNf3iMHWmOgaiy9ZbGeo8JFwLKQ3emkhsfM3y7Zf3m7p/C3Pyi6jozdIT0UjGuQ==",
+  "signature": "eHNvvCAU2MFiVeZgDUUYgxSvwL5CKIwtQrSy9bKSN8PppM4hfK98cNnwECzvMOTqDBLyt0iweOxfJI0rCxmdKA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

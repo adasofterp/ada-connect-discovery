@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://checking-answers-jackie-confidence.trycloudflare.com",
-  "httpUrl": "https://checking-answers-jackie-confidence.trycloudflare.com",
-  "updatedAt": "2026-11-15T03:02:48.517Z",
-  "expiresAt": "2026-12-15T03:02:48.517Z",
-  "nonce": "3eb01b460df8b2650e45b365c73dcc32",
+  "wsUrl": "wss://compression-dependent-shares-legends.trycloudflare.com",
+  "httpUrl": "https://compression-dependent-shares-legends.trycloudflare.com",
+  "updatedAt": "2026-11-15T03:23:39.686Z",
+  "expiresAt": "2026-12-15T03:23:39.686Z",
+  "nonce": "7cfde0240adbe9dcf72091ac599cd8f4",
   "payload": {
-    "wsUrl": "wss://checking-answers-jackie-confidence.trycloudflare.com",
-    "httpUrl": "https://checking-answers-jackie-confidence.trycloudflare.com",
-    "issuedAt": "2026-11-15T03:02:48.517Z",
-    "expiresAt": "2026-12-15T03:02:48.517Z",
-    "nonce": "3eb01b460df8b2650e45b365c73dcc32"
+    "wsUrl": "wss://compression-dependent-shares-legends.trycloudflare.com",
+    "httpUrl": "https://compression-dependent-shares-legends.trycloudflare.com",
+    "issuedAt": "2026-11-15T03:23:39.686Z",
+    "expiresAt": "2026-12-15T03:23:39.686Z",
+    "nonce": "7cfde0240adbe9dcf72091ac599cd8f4"
   },
-  "signature": "O9HpPx8lGH55uB/BSnuKfVtuaOOCF/WT8rfM4TT80yh+kO5/xo7K3VDGb+Mw7slgxOHz7/+uXI12argw5Dk3Xw==",
+  "signature": "fOHvihxcmr7XvCoJD4fQeBs48s5uOLzmcqPdkLTNWKRfmpWhElpPj3scSEXJYOk5c77MWLv24LULylxuNGZ+Sg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

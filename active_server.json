@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ipaq-treasures-pictures-links.trycloudflare.com",
-  "httpUrl": "https://ipaq-treasures-pictures-links.trycloudflare.com",
-  "updatedAt": "2026-11-15T15:03:24.395Z",
-  "expiresAt": "2026-12-15T15:03:24.395Z",
-  "nonce": "bb5e966f68a3599965ccb2697f28ff47",
+  "wsUrl": "wss://networking-civilization-biography-substance.trycloudflare.com",
+  "httpUrl": "https://networking-civilization-biography-substance.trycloudflare.com",
+  "updatedAt": "2026-11-15T15:31:33.815Z",
+  "expiresAt": "2026-12-15T15:31:33.815Z",
+  "nonce": "3cc242de049dd9452c4c2bb90e7bc0cd",
   "payload": {
-    "wsUrl": "wss://ipaq-treasures-pictures-links.trycloudflare.com",
-    "httpUrl": "https://ipaq-treasures-pictures-links.trycloudflare.com",
-    "issuedAt": "2026-11-15T15:03:24.395Z",
-    "expiresAt": "2026-12-15T15:03:24.395Z",
-    "nonce": "bb5e966f68a3599965ccb2697f28ff47"
+    "wsUrl": "wss://networking-civilization-biography-substance.trycloudflare.com",
+    "httpUrl": "https://networking-civilization-biography-substance.trycloudflare.com",
+    "issuedAt": "2026-11-15T15:31:33.815Z",
+    "expiresAt": "2026-12-15T15:31:33.815Z",
+    "nonce": "3cc242de049dd9452c4c2bb90e7bc0cd"
   },
-  "signature": "x0xDzbyyZHr0qs1JOvNhT93wADZrkbdSPxCQ55+Ah97ntdaM7pCWj8Twublxt4WthFKjNw1tyXNcNO9fG/NIGw==",
+  "signature": "BPAxZ0OKdiaga7PbJ+GuoKiORhub0YOkO4bmqjFthCITGArFK05P/EByi2rmuFN0WxnIlJO6S4HRNwF6snzTsA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

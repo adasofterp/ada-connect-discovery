@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://enzyme-entities-enlargement-stolen.trycloudflare.com",
-  "httpUrl": "https://enzyme-entities-enlargement-stolen.trycloudflare.com",
-  "updatedAt": "2026-11-15T03:53:23.892Z",
-  "expiresAt": "2026-12-15T03:53:23.892Z",
-  "nonce": "00701cdf1b83c449feb27f2ddb3abbf2",
+  "wsUrl": "wss://gossip-grey-focus-silk.trycloudflare.com",
+  "httpUrl": "https://gossip-grey-focus-silk.trycloudflare.com",
+  "updatedAt": "2026-11-15T04:14:13.107Z",
+  "expiresAt": "2026-12-15T04:14:13.107Z",
+  "nonce": "6340aee8b131d90a29e26907a6d513c1",
   "payload": {
-    "wsUrl": "wss://enzyme-entities-enlargement-stolen.trycloudflare.com",
-    "httpUrl": "https://enzyme-entities-enlargement-stolen.trycloudflare.com",
-    "issuedAt": "2026-11-15T03:53:23.892Z",
-    "expiresAt": "2026-12-15T03:53:23.892Z",
-    "nonce": "00701cdf1b83c449feb27f2ddb3abbf2"
+    "wsUrl": "wss://gossip-grey-focus-silk.trycloudflare.com",
+    "httpUrl": "https://gossip-grey-focus-silk.trycloudflare.com",
+    "issuedAt": "2026-11-15T04:14:13.107Z",
+    "expiresAt": "2026-12-15T04:14:13.107Z",
+    "nonce": "6340aee8b131d90a29e26907a6d513c1"
   },
-  "signature": "nxjbtwfu4L+hKWyozv6LnTS7aQ4bkvDlqwh8tza+kFx3ShYJPlzviBVgLfTXRsRihv5tA5JflEvZ6CrLaIOpZQ==",
+  "signature": "pUIwDsuaR0oqJljFIxmxxO1QelUUA7TfR39QHdrdZXXiicbAnYotQDmQ0jwoVYYNoXgUWYR14ztfVsdnayCu2Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

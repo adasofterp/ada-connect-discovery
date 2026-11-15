@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ton-makes-korea-republic.trycloudflare.com",
-  "httpUrl": "https://ton-makes-korea-republic.trycloudflare.com",
-  "updatedAt": "2026-11-15T23:07:44.827Z",
-  "expiresAt": "2026-12-15T23:07:44.827Z",
-  "nonce": "de842b9c5e6a30bab349051f3b0b6a54",
+  "wsUrl": "wss://popular-projector-bought-blogging.trycloudflare.com",
+  "httpUrl": "https://popular-projector-bought-blogging.trycloudflare.com",
+  "updatedAt": "2026-11-15T23:25:51.902Z",
+  "expiresAt": "2026-12-15T23:25:51.902Z",
+  "nonce": "caee3fa88609dba2691f8fec1d362325",
   "payload": {
-    "wsUrl": "wss://ton-makes-korea-republic.trycloudflare.com",
-    "httpUrl": "https://ton-makes-korea-republic.trycloudflare.com",
-    "issuedAt": "2026-11-15T23:07:44.827Z",
-    "expiresAt": "2026-12-15T23:07:44.827Z",
-    "nonce": "de842b9c5e6a30bab349051f3b0b6a54"
+    "wsUrl": "wss://popular-projector-bought-blogging.trycloudflare.com",
+    "httpUrl": "https://popular-projector-bought-blogging.trycloudflare.com",
+    "issuedAt": "2026-11-15T23:25:51.902Z",
+    "expiresAt": "2026-12-15T23:25:51.902Z",
+    "nonce": "caee3fa88609dba2691f8fec1d362325"
   },
-  "signature": "7NkBt7bkAXhWWy2ECFf8xOJV4eAYZ7/MPakwz1Asveo+ArqVotTyJGPG+/qHJ0f4+WAwF2gEHmhsxBOK6c+SsQ==",
+  "signature": "pK6VCKWJQ/3ukW7YWr8IptumXKHlzSueU1+eBCsqq/Ko3pf/ZJkYCvNQKrElWTyU2MHkoWBr8vlaR4d7nBiwDQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

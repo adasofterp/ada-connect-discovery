@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://tri-urge-buses-specialty.trycloudflare.com",
-  "httpUrl": "https://tri-urge-buses-specialty.trycloudflare.com",
-  "updatedAt": "2026-11-15T11:18:23.334Z",
-  "expiresAt": "2026-12-15T11:18:23.334Z",
-  "nonce": "d5e0fae4561b4976c44b8e4a2898ae9b",
+  "wsUrl": "wss://belt-chamber-reproduce-generations.trycloudflare.com",
+  "httpUrl": "https://belt-chamber-reproduce-generations.trycloudflare.com",
+  "updatedAt": "2026-11-15T12:00:18.226Z",
+  "expiresAt": "2026-12-15T12:00:18.226Z",
+  "nonce": "bc238e7314b416cf3fa3c6552371e078",
   "payload": {
-    "wsUrl": "wss://tri-urge-buses-specialty.trycloudflare.com",
-    "httpUrl": "https://tri-urge-buses-specialty.trycloudflare.com",
-    "issuedAt": "2026-11-15T11:18:23.334Z",
-    "expiresAt": "2026-12-15T11:18:23.334Z",
-    "nonce": "d5e0fae4561b4976c44b8e4a2898ae9b"
+    "wsUrl": "wss://belt-chamber-reproduce-generations.trycloudflare.com",
+    "httpUrl": "https://belt-chamber-reproduce-generations.trycloudflare.com",
+    "issuedAt": "2026-11-15T12:00:18.226Z",
+    "expiresAt": "2026-12-15T12:00:18.226Z",
+    "nonce": "bc238e7314b416cf3fa3c6552371e078"
   },
-  "signature": "wN868PnA1oiddLccBqEtsbGnLerZn+SlLRWhNPNnEywIK5mzvVOF/Wn1jyK2itedmmrDnL4AAUGz9hEmfKck4Q==",
+  "signature": "7kTkmdPCUptlXhU1duCOjCRXE76CLw6JV/xmsVyGrFqMgTLXU8c/WqvcjMMDAmFMIHpwMtdzlvvYyGo4hHOQPw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

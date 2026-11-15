@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ssl-apart-predicted-imports.trycloudflare.com",
-  "httpUrl": "https://ssl-apart-predicted-imports.trycloudflare.com",
-  "updatedAt": "2026-11-15T02:52:24.105Z",
-  "expiresAt": "2026-12-15T02:52:24.105Z",
-  "nonce": "0efa269a6b428b3e2c0e128b13c1b2c3",
+  "wsUrl": "wss://checking-answers-jackie-confidence.trycloudflare.com",
+  "httpUrl": "https://checking-answers-jackie-confidence.trycloudflare.com",
+  "updatedAt": "2026-11-15T03:02:48.517Z",
+  "expiresAt": "2026-12-15T03:02:48.517Z",
+  "nonce": "3eb01b460df8b2650e45b365c73dcc32",
   "payload": {
-    "wsUrl": "wss://ssl-apart-predicted-imports.trycloudflare.com",
-    "httpUrl": "https://ssl-apart-predicted-imports.trycloudflare.com",
-    "issuedAt": "2026-11-15T02:52:24.105Z",
-    "expiresAt": "2026-12-15T02:52:24.105Z",
-    "nonce": "0efa269a6b428b3e2c0e128b13c1b2c3"
+    "wsUrl": "wss://checking-answers-jackie-confidence.trycloudflare.com",
+    "httpUrl": "https://checking-answers-jackie-confidence.trycloudflare.com",
+    "issuedAt": "2026-11-15T03:02:48.517Z",
+    "expiresAt": "2026-12-15T03:02:48.517Z",
+    "nonce": "3eb01b460df8b2650e45b365c73dcc32"
   },
-  "signature": "czUoDoRjWHG/+xyYHk/2JHtCCnHicNVDQxEo+caIyqgH2wV0BSglg2Ww9mOObv063F5HjsEkWK/iFBy1euOB1A==",
+  "signature": "O9HpPx8lGH55uB/BSnuKfVtuaOOCF/WT8rfM4TT80yh+kO5/xo7K3VDGb+Mw7slgxOHz7/+uXI12argw5Dk3Xw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

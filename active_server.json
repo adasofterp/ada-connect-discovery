@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shakira-behaviour-freight-strip.trycloudflare.com",
-  "httpUrl": "https://shakira-behaviour-freight-strip.trycloudflare.com",
-  "updatedAt": "2026-11-15T05:55:24.129Z",
-  "expiresAt": "2026-12-15T05:55:24.129Z",
-  "nonce": "f9265480c7fe0406c14cea77cc360e31",
+  "wsUrl": "wss://volleyball-sides-aging-disciplinary.trycloudflare.com",
+  "httpUrl": "https://volleyball-sides-aging-disciplinary.trycloudflare.com",
+  "updatedAt": "2026-11-15T06:16:14.112Z",
+  "expiresAt": "2026-12-15T06:16:14.112Z",
+  "nonce": "a2f3a9fc4e3388c41fbc35344410fafa",
   "payload": {
-    "wsUrl": "wss://shakira-behaviour-freight-strip.trycloudflare.com",
-    "httpUrl": "https://shakira-behaviour-freight-strip.trycloudflare.com",
-    "issuedAt": "2026-11-15T05:55:24.129Z",
-    "expiresAt": "2026-12-15T05:55:24.129Z",
-    "nonce": "f9265480c7fe0406c14cea77cc360e31"
+    "wsUrl": "wss://volleyball-sides-aging-disciplinary.trycloudflare.com",
+    "httpUrl": "https://volleyball-sides-aging-disciplinary.trycloudflare.com",
+    "issuedAt": "2026-11-15T06:16:14.112Z",
+    "expiresAt": "2026-12-15T06:16:14.112Z",
+    "nonce": "a2f3a9fc4e3388c41fbc35344410fafa"
   },
-  "signature": "VpkYBUJQ1jYuVX+IGRHYDXWq1mEA+nL1vrfXGdHbL33VZnbzRJCK20yiY3q+8Kz5yNTSRPePdNq8GjImpptzsA==",
+  "signature": "eX6bgxSrExWuJgVCGIUyZJ0SR5UH/Jb58r64r8wpRme4nzvlqPgicR9fM7xCAj49qRe4kenRf851yn7ilLBPTg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

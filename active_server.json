@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://vinyl-gras-chances-effectiveness.trycloudflare.com",
-  "httpUrl": "https://vinyl-gras-chances-effectiveness.trycloudflare.com",
-  "updatedAt": "2026-11-16T04:05:37.842Z",
-  "expiresAt": "2026-12-16T04:05:37.842Z",
-  "nonce": "73e55d4c5b7f7fc5748e67964f2a4674",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-16T04:24:55.079Z",
+  "expiresAt": "2026-12-16T04:24:55.079Z",
+  "nonce": "ac3b886a5c6ebb4b913d937d9a5e8776",
   "payload": {
-    "wsUrl": "wss://vinyl-gras-chances-effectiveness.trycloudflare.com",
-    "httpUrl": "https://vinyl-gras-chances-effectiveness.trycloudflare.com",
-    "issuedAt": "2026-11-16T04:05:37.842Z",
-    "expiresAt": "2026-12-16T04:05:37.842Z",
-    "nonce": "73e55d4c5b7f7fc5748e67964f2a4674"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-16T04:24:55.079Z",
+    "expiresAt": "2026-12-16T04:24:55.079Z",
+    "nonce": "ac3b886a5c6ebb4b913d937d9a5e8776"
   },
-  "signature": "zrtWvkJnnYDmqxxbkoJqr1KB8kQsEymyNQFYl2kx6RovQXtJ0plRps/+7+DjvfIcf7dkV+32zx61UbE/2E3c1g==",
+  "signature": "m/XPn75Fbx0pXKVRmrddTKaGLnpfJXYCOC1zjC6IQDCIu0MF2VHocR2U/JQftjWahTc1X58KtNRb+FB/aZU6tg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

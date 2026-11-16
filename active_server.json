@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://result-trigger-preserve-devon.trycloudflare.com",
   "httpUrl": "https://result-trigger-preserve-devon.trycloudflare.com",
-  "updatedAt": "2026-11-16T13:55:46.828Z",
-  "expiresAt": "2026-12-16T13:55:46.830Z",
-  "nonce": "00af5092687ff727559cca14f54b095e",
+  "updatedAt": "2026-11-16T15:17:32.159Z",
+  "expiresAt": "2026-12-16T15:17:32.159Z",
+  "nonce": "1f8eb853e18a9793f0cf8322a547a133",
   "payload": {
     "wsUrl": "wss://result-trigger-preserve-devon.trycloudflare.com",
     "httpUrl": "https://result-trigger-preserve-devon.trycloudflare.com",
-    "issuedAt": "2026-11-16T13:55:46.828Z",
-    "expiresAt": "2026-12-16T13:55:46.830Z",
-    "nonce": "00af5092687ff727559cca14f54b095e"
+    "issuedAt": "2026-11-16T15:17:32.159Z",
+    "expiresAt": "2026-12-16T15:17:32.159Z",
+    "nonce": "1f8eb853e18a9793f0cf8322a547a133"
   },
-  "signature": "sQ+Njln5XXcQ1jdvYvcxB9cv+fwPW2lmmhjJ8QVdeVwVDblRGoaY18IWUPY6mvjy0WlzHV8G5pK27hGSYk3uAw==",
+  "signature": "S7uCEakxX+kOghdvjuhl28glY/Dtglv1oBPhRi4rWww0/MpNAxCBONWdXi5+gZSwsFYdon7CFkPCMeZoVxOrOg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

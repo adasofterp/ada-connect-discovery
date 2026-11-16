@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-16T20:20:01.015Z",
-  "expiresAt": "2026-12-16T20:20:01.015Z",
-  "nonce": "7507d3d39a3aa5e39fc9f64b465abecb",
+  "wsUrl": "wss://link-playback-pensions-ward.trycloudflare.com",
+  "httpUrl": "https://link-playback-pensions-ward.trycloudflare.com",
+  "updatedAt": "2026-11-16T20:20:16.155Z",
+  "expiresAt": "2026-12-16T20:20:16.155Z",
+  "nonce": "82bcda4d747ecd0dfcf8a796d2868a67",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-16T20:20:01.015Z",
-    "expiresAt": "2026-12-16T20:20:01.015Z",
-    "nonce": "7507d3d39a3aa5e39fc9f64b465abecb"
+    "wsUrl": "wss://link-playback-pensions-ward.trycloudflare.com",
+    "httpUrl": "https://link-playback-pensions-ward.trycloudflare.com",
+    "issuedAt": "2026-11-16T20:20:16.155Z",
+    "expiresAt": "2026-12-16T20:20:16.155Z",
+    "nonce": "82bcda4d747ecd0dfcf8a796d2868a67"
   },
-  "signature": "KgfsZhMFSrwjXWKrAN+8CwqZnMv2JGPKnJYEP4wd20t7SVrN8aCDsjijDlu0ECDcG3Fn4Pg+qrB/y7F+oeDiyA==",
+  "signature": "cMtD0f0/MNh2QuKjNAFAALJMXmHJtRvr/IrZhsy9knZE8MTfdLVq0LZsgpZeoxPaA2YGnCZsS93aIS9sI5km7g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

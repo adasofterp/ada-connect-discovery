@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://greater-tubes-interactions-secrets.trycloudflare.com",
-  "httpUrl": "https://greater-tubes-interactions-secrets.trycloudflare.com",
-  "updatedAt": "2026-11-16T20:50:25.279Z",
-  "expiresAt": "2026-12-16T20:50:25.279Z",
-  "nonce": "101289fefc5ef96e9b9aaee917c98afa",
+  "wsUrl": "wss://lounge-carriers-representing-magnificent.trycloudflare.com",
+  "httpUrl": "https://lounge-carriers-representing-magnificent.trycloudflare.com",
+  "updatedAt": "2026-11-16T22:04:37.472Z",
+  "expiresAt": "2026-12-16T22:04:37.472Z",
+  "nonce": "c55e4a55044d3e51973842f5cd557d04",
   "payload": {
-    "wsUrl": "wss://greater-tubes-interactions-secrets.trycloudflare.com",
-    "httpUrl": "https://greater-tubes-interactions-secrets.trycloudflare.com",
-    "issuedAt": "2026-11-16T20:50:25.279Z",
-    "expiresAt": "2026-12-16T20:50:25.279Z",
-    "nonce": "101289fefc5ef96e9b9aaee917c98afa"
+    "wsUrl": "wss://lounge-carriers-representing-magnificent.trycloudflare.com",
+    "httpUrl": "https://lounge-carriers-representing-magnificent.trycloudflare.com",
+    "issuedAt": "2026-11-16T22:04:37.472Z",
+    "expiresAt": "2026-12-16T22:04:37.472Z",
+    "nonce": "c55e4a55044d3e51973842f5cd557d04"
   },
-  "signature": "KSLqdgzSvcwqdcGeNqkvwpqa2T7QjhVarBfgLbAE4FkhwkXEQS/cEvwHR16F4KwhkKAKkybO+ZzlvvlOSbYZHg==",
+  "signature": "S1vyf8LSgJJ7FkFHPw6+VR0pdvwWpTvhf8eVT7j8SsD5jj4S+VXtW6tlsHlnQHLJvjk6NRq+QMofS3uMXBEzCQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

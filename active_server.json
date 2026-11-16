@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://weddings-organic-dana-stones.trycloudflare.com",
   "httpUrl": "https://weddings-organic-dana-stones.trycloudflare.com",
-  "updatedAt": "2026-11-16T02:59:25.981Z",
-  "expiresAt": "2026-12-16T02:59:25.981Z",
-  "nonce": "a2e21109d350f16f019c33f6c5ee07e3",
+  "updatedAt": "2026-11-16T03:09:46.786Z",
+  "expiresAt": "2026-12-16T03:09:46.786Z",
+  "nonce": "b65810b0670d7c50babc1729cd451d10",
   "payload": {
     "wsUrl": "wss://weddings-organic-dana-stones.trycloudflare.com",
     "httpUrl": "https://weddings-organic-dana-stones.trycloudflare.com",
-    "issuedAt": "2026-11-16T02:59:25.981Z",
-    "expiresAt": "2026-12-16T02:59:25.981Z",
-    "nonce": "a2e21109d350f16f019c33f6c5ee07e3"
+    "issuedAt": "2026-11-16T03:09:46.786Z",
+    "expiresAt": "2026-12-16T03:09:46.786Z",
+    "nonce": "b65810b0670d7c50babc1729cd451d10"
   },
-  "signature": "bo4AP3uvsuqVQQfZJzz2Xyfs/Z5n0CkmxcXn7vVpBtc2+adn1dMDkCvLVzqRyj4FkOtPSpid/Z59q/K7i11blg==",
+  "signature": "DHdpSIZ0gMuLd+d2YHywFFXMOdyjRl5INERctvYlqX0S4Wb0a3FwSvJtehJO4z4Lkxy4KsVUN6xSEMm4ckAZUg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

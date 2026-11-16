@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://comparisons-observe-societies-warrant.trycloudflare.com",
-  "httpUrl": "https://comparisons-observe-societies-warrant.trycloudflare.com",
-  "updatedAt": "2026-11-16T00:52:11.831Z",
-  "expiresAt": "2026-12-16T00:52:11.831Z",
-  "nonce": "fdaccba5de5e4601ded37b5b8bf812e0",
+  "wsUrl": "wss://nature-ppm-instruments-executives.trycloudflare.com",
+  "httpUrl": "https://nature-ppm-instruments-executives.trycloudflare.com",
+  "updatedAt": "2026-11-16T01:02:37.265Z",
+  "expiresAt": "2026-12-16T01:02:37.265Z",
+  "nonce": "f3d5d60740f41e60ce73129edea72cb3",
   "payload": {
-    "wsUrl": "wss://comparisons-observe-societies-warrant.trycloudflare.com",
-    "httpUrl": "https://comparisons-observe-societies-warrant.trycloudflare.com",
-    "issuedAt": "2026-11-16T00:52:11.831Z",
-    "expiresAt": "2026-12-16T00:52:11.831Z",
-    "nonce": "fdaccba5de5e4601ded37b5b8bf812e0"
+    "wsUrl": "wss://nature-ppm-instruments-executives.trycloudflare.com",
+    "httpUrl": "https://nature-ppm-instruments-executives.trycloudflare.com",
+    "issuedAt": "2026-11-16T01:02:37.265Z",
+    "expiresAt": "2026-12-16T01:02:37.265Z",
+    "nonce": "f3d5d60740f41e60ce73129edea72cb3"
   },
-  "signature": "zpHA4IJ2gxl6OX3jZi7Nl+Qt3tZ9W4ndt9VTKxYr7eLU/PGpxNnN3V4I0CaH2bC2S8XRE5EHDlwqWL7l9uD4Rw==",
+  "signature": "iwTIum9CNwRPBpqemp76ZUbOGYB1fBYyvLYye4lhHjNyt6NVIpG/rvCsG5KzjXEah46dB+63UdaLoAKRpbgBxw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://leasing-motorcycles-disk-weekends.trycloudflare.com",
-  "httpUrl": "https://leasing-motorcycles-disk-weekends.trycloudflare.com",
-  "updatedAt": "2026-11-16T07:21:14.679Z",
-  "expiresAt": "2026-12-16T07:21:14.679Z",
-  "nonce": "471913fd235108761ae808ca66d4c678",
+  "wsUrl": "wss://kid-directed-keith-gui.trycloudflare.com",
+  "httpUrl": "https://kid-directed-keith-gui.trycloudflare.com",
+  "updatedAt": "2026-11-16T10:18:46.671Z",
+  "expiresAt": "2026-12-16T10:18:46.671Z",
+  "nonce": "27db05493521410f48099a0c32a837d1",
   "payload": {
-    "wsUrl": "wss://leasing-motorcycles-disk-weekends.trycloudflare.com",
-    "httpUrl": "https://leasing-motorcycles-disk-weekends.trycloudflare.com",
-    "issuedAt": "2026-11-16T07:21:14.679Z",
-    "expiresAt": "2026-12-16T07:21:14.679Z",
-    "nonce": "471913fd235108761ae808ca66d4c678"
+    "wsUrl": "wss://kid-directed-keith-gui.trycloudflare.com",
+    "httpUrl": "https://kid-directed-keith-gui.trycloudflare.com",
+    "issuedAt": "2026-11-16T10:18:46.671Z",
+    "expiresAt": "2026-12-16T10:18:46.671Z",
+    "nonce": "27db05493521410f48099a0c32a837d1"
   },
-  "signature": "yMae+Y0M1j/2moFdJvCNSZ7/7vR+/Eb3rcWRvG/eYdAJhqLbengixWrsflNC+raOiAOpsL4qBkbLx2v+0/u2rA==",
+  "signature": "boVytUAxNKrDpf56GcvdxwTHDpGXp+kTyGgquoZsd0t17xTyBRmBgpMw2gZh4fbdtmq6+4qmtfbNric7i4QMYg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

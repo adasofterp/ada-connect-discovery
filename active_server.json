@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://maryland-may-launches-phd.trycloudflare.com",
-  "httpUrl": "https://maryland-may-launches-phd.trycloudflare.com",
-  "updatedAt": "2026-11-16T10:28:57.227Z",
-  "expiresAt": "2026-12-16T10:28:57.227Z",
-  "nonce": "fe702d31564ec7542adea73d83f1437c",
+  "wsUrl": "wss://nashville-centuries-bringing-reach.trycloudflare.com",
+  "httpUrl": "https://nashville-centuries-bringing-reach.trycloudflare.com",
+  "updatedAt": "2026-11-16T10:45:22.759Z",
+  "expiresAt": "2026-12-16T10:45:22.759Z",
+  "nonce": "8580562ce60097e71a095a641ba68e1f",
   "payload": {
-    "wsUrl": "wss://maryland-may-launches-phd.trycloudflare.com",
-    "httpUrl": "https://maryland-may-launches-phd.trycloudflare.com",
-    "issuedAt": "2026-11-16T10:28:57.227Z",
-    "expiresAt": "2026-12-16T10:28:57.227Z",
-    "nonce": "fe702d31564ec7542adea73d83f1437c"
+    "wsUrl": "wss://nashville-centuries-bringing-reach.trycloudflare.com",
+    "httpUrl": "https://nashville-centuries-bringing-reach.trycloudflare.com",
+    "issuedAt": "2026-11-16T10:45:22.759Z",
+    "expiresAt": "2026-12-16T10:45:22.759Z",
+    "nonce": "8580562ce60097e71a095a641ba68e1f"
   },
-  "signature": "lmbHOAxXWDM8ztb53BoJvagFm3Vqu8u39XJ38O8HhgRflrMPPULC9RcxfZ8pDBNmkd7GeOJGXxX9hhduUFgLYQ==",
+  "signature": "agMmssUV+d2iSgtHYV+WUgAw4Af98DFoRumeMIkGqQrz+1PD1q2xup8wAbE9/Er/hyjLey8YzOKnBZB6a4b66Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

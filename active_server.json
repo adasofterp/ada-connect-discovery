@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://precisely-infrared-okay-min.trycloudflare.com",
   "httpUrl": "https://precisely-infrared-okay-min.trycloudflare.com",
-  "updatedAt": "2026-11-16T18:38:59.839Z",
-  "expiresAt": "2026-12-16T18:38:59.839Z",
-  "nonce": "842b610be6fcaa5e4e48413b7231f4c9",
+  "updatedAt": "2026-11-16T19:17:32.146Z",
+  "expiresAt": "2026-12-16T19:17:32.147Z",
+  "nonce": "508fe7245043d870a7246a97c2cdad13",
   "payload": {
     "wsUrl": "wss://precisely-infrared-okay-min.trycloudflare.com",
     "httpUrl": "https://precisely-infrared-okay-min.trycloudflare.com",
-    "issuedAt": "2026-11-16T18:38:59.839Z",
-    "expiresAt": "2026-12-16T18:38:59.839Z",
-    "nonce": "842b610be6fcaa5e4e48413b7231f4c9"
+    "issuedAt": "2026-11-16T19:17:32.146Z",
+    "expiresAt": "2026-12-16T19:17:32.147Z",
+    "nonce": "508fe7245043d870a7246a97c2cdad13"
   },
-  "signature": "L4hgQ9bwxkv/N6mLpufpZ8Rj5w9i7hnlTLRddzJKhGVurt1JWddwST6h2Q1wLrqHREKfKR4feazjILM5hGIuxA==",
+  "signature": "otGOFwjL2wRbh8wUdGU4Hv3UfqMEYxv9KjDtZrJfWdFoJOBBpWk/sT++wi5+dS7G+uuDO3ukS6guVfhzvM7MBg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

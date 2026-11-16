@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://organizational-humanitarian-dated-rochester.trycloudflare.com",
-  "httpUrl": "https://organizational-humanitarian-dated-rochester.trycloudflare.com",
-  "updatedAt": "2026-11-15T23:49:45.925Z",
-  "expiresAt": "2026-12-15T23:49:45.925Z",
-  "nonce": "190188a26804291f89d99511d54bab71",
+  "wsUrl": "wss://disc-luxury-hire-reader.trycloudflare.com",
+  "httpUrl": "https://disc-luxury-hire-reader.trycloudflare.com",
+  "updatedAt": "2026-11-16T00:00:10.742Z",
+  "expiresAt": "2026-12-16T00:00:10.742Z",
+  "nonce": "f153c92ca392b1a1dddfc89be11dfe2e",
   "payload": {
-    "wsUrl": "wss://organizational-humanitarian-dated-rochester.trycloudflare.com",
-    "httpUrl": "https://organizational-humanitarian-dated-rochester.trycloudflare.com",
-    "issuedAt": "2026-11-15T23:49:45.925Z",
-    "expiresAt": "2026-12-15T23:49:45.925Z",
-    "nonce": "190188a26804291f89d99511d54bab71"
+    "wsUrl": "wss://disc-luxury-hire-reader.trycloudflare.com",
+    "httpUrl": "https://disc-luxury-hire-reader.trycloudflare.com",
+    "issuedAt": "2026-11-16T00:00:10.742Z",
+    "expiresAt": "2026-12-16T00:00:10.742Z",
+    "nonce": "f153c92ca392b1a1dddfc89be11dfe2e"
   },
-  "signature": "f7r1LsWUqwNRnrCOlZ64HVBpJd4/WFl7ma5SJlXc2TmWxVwlQCiGneCu1M5IluZEvIc2TIVvsNDsr4Tn5y1MkQ==",
+  "signature": "9VOI5vZ8xme9kC5YEuJmdpEO5hehaF3766OwyRRx0nJKqIfFKwyN5eEprJpLuTL0EN7v8ocXNXGSoN922ogTgQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

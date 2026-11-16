@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://descriptions-sport-convergence-lay.trycloudflare.com",
-  "httpUrl": "https://descriptions-sport-convergence-lay.trycloudflare.com",
-  "updatedAt": "2026-11-16T04:40:35.654Z",
-  "expiresAt": "2026-12-16T04:40:35.654Z",
-  "nonce": "e6247cc0350315066a44bf400a5cd539",
+  "wsUrl": "wss://camps-juvenile-comparing-oecd.trycloudflare.com",
+  "httpUrl": "https://camps-juvenile-comparing-oecd.trycloudflare.com",
+  "updatedAt": "2026-11-16T04:56:12.716Z",
+  "expiresAt": "2026-12-16T04:56:12.716Z",
+  "nonce": "940a41f99cd1482fbc419cb5b8be43df",
   "payload": {
-    "wsUrl": "wss://descriptions-sport-convergence-lay.trycloudflare.com",
-    "httpUrl": "https://descriptions-sport-convergence-lay.trycloudflare.com",
-    "issuedAt": "2026-11-16T04:40:35.654Z",
-    "expiresAt": "2026-12-16T04:40:35.654Z",
-    "nonce": "e6247cc0350315066a44bf400a5cd539"
+    "wsUrl": "wss://camps-juvenile-comparing-oecd.trycloudflare.com",
+    "httpUrl": "https://camps-juvenile-comparing-oecd.trycloudflare.com",
+    "issuedAt": "2026-11-16T04:56:12.716Z",
+    "expiresAt": "2026-12-16T04:56:12.716Z",
+    "nonce": "940a41f99cd1482fbc419cb5b8be43df"
   },
-  "signature": "HdPs78bMjVN6DwKW7az4tELOJAbS7Zvk9pzBlS4l4ErShiuLqbRIMUEXlsYIy3uJPueJNNDJxsj/XWf6e4CO3g==",
+  "signature": "ewatyHGx2Ma8hrh/A0ZSd9mKxXNXfq+q+nP9g5e42CtLOyC5JYqJuAI/cJZwzY4LyJs/7ZSORNUXl6AfEaY26A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

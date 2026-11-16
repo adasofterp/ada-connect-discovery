@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://link-playback-pensions-ward.trycloudflare.com",
-  "httpUrl": "https://link-playback-pensions-ward.trycloudflare.com",
-  "updatedAt": "2026-11-16T20:20:16.155Z",
-  "expiresAt": "2026-12-16T20:20:16.155Z",
-  "nonce": "82bcda4d747ecd0dfcf8a796d2868a67",
+  "wsUrl": "wss://seemed-pound-karma-forget.trycloudflare.com",
+  "httpUrl": "https://seemed-pound-karma-forget.trycloudflare.com",
+  "updatedAt": "2026-11-16T20:45:39.527Z",
+  "expiresAt": "2026-12-16T20:45:39.527Z",
+  "nonce": "7a29f03c12e5b6418c5c28eb2edc7988",
   "payload": {
-    "wsUrl": "wss://link-playback-pensions-ward.trycloudflare.com",
-    "httpUrl": "https://link-playback-pensions-ward.trycloudflare.com",
-    "issuedAt": "2026-11-16T20:20:16.155Z",
-    "expiresAt": "2026-12-16T20:20:16.155Z",
-    "nonce": "82bcda4d747ecd0dfcf8a796d2868a67"
+    "wsUrl": "wss://seemed-pound-karma-forget.trycloudflare.com",
+    "httpUrl": "https://seemed-pound-karma-forget.trycloudflare.com",
+    "issuedAt": "2026-11-16T20:45:39.527Z",
+    "expiresAt": "2026-12-16T20:45:39.527Z",
+    "nonce": "7a29f03c12e5b6418c5c28eb2edc7988"
   },
-  "signature": "cMtD0f0/MNh2QuKjNAFAALJMXmHJtRvr/IrZhsy9knZE8MTfdLVq0LZsgpZeoxPaA2YGnCZsS93aIS9sI5km7g==",
+  "signature": "TMRc/DGwC83ApZFVkU8ouBSFU7ATMGKhYVN69tOLJFx/18lJ9zZaLP/67+KeWcYa7w7Ai3JH5MjTgkE+FXQt4Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

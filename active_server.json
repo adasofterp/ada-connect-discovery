@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://beta-photographic-seminar-morris.trycloudflare.com",
-  "httpUrl": "https://beta-photographic-seminar-morris.trycloudflare.com",
-  "updatedAt": "2026-11-16T01:48:01.449Z",
-  "expiresAt": "2026-12-16T01:48:01.449Z",
-  "nonce": "a0faeeafa0d3ebb1a85979c3c2a250f4",
+  "wsUrl": "wss://viruses-wales-judgment-mount.trycloudflare.com",
+  "httpUrl": "https://viruses-wales-judgment-mount.trycloudflare.com",
+  "updatedAt": "2026-11-16T02:08:52.282Z",
+  "expiresAt": "2026-12-16T02:08:52.282Z",
+  "nonce": "f480a9413fd968ef5039e74aa873f881",
   "payload": {
-    "wsUrl": "wss://beta-photographic-seminar-morris.trycloudflare.com",
-    "httpUrl": "https://beta-photographic-seminar-morris.trycloudflare.com",
-    "issuedAt": "2026-11-16T01:48:01.449Z",
-    "expiresAt": "2026-12-16T01:48:01.449Z",
-    "nonce": "a0faeeafa0d3ebb1a85979c3c2a250f4"
+    "wsUrl": "wss://viruses-wales-judgment-mount.trycloudflare.com",
+    "httpUrl": "https://viruses-wales-judgment-mount.trycloudflare.com",
+    "issuedAt": "2026-11-16T02:08:52.282Z",
+    "expiresAt": "2026-12-16T02:08:52.282Z",
+    "nonce": "f480a9413fd968ef5039e74aa873f881"
   },
-  "signature": "Ff7L/QjmMBZoF0PI3nOGvEqEU2X82bTPl6XqqQo7QRGDyIpBnLTNUoG98wxFHlcyCUaq3qXTpPyTz2kr5ckUDA==",
+  "signature": "cvy8FMQqbvsAeDzMbu/VXmrZVvuWp9Z7OBW0im5g6GNn04Z3IiSqslZHiqRa013Hoxio2rhH0409Qp5rDGc3YA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

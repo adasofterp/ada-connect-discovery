@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://kruger-aimed-earth-exceptional.trycloudflare.com",
-  "httpUrl": "https://kruger-aimed-earth-exceptional.trycloudflare.com",
-  "updatedAt": "2026-11-16T03:44:49.605Z",
-  "expiresAt": "2026-12-16T03:44:49.605Z",
-  "nonce": "f2acf16969839ea7e17c04a348b6ce86",
+  "wsUrl": "wss://lined-acc-bills-studied.trycloudflare.com",
+  "httpUrl": "https://lined-acc-bills-studied.trycloudflare.com",
+  "updatedAt": "2026-11-16T03:55:13.263Z",
+  "expiresAt": "2026-12-16T03:55:13.263Z",
+  "nonce": "dd1a2fc4fb237beb15ce61163999d0fd",
   "payload": {
-    "wsUrl": "wss://kruger-aimed-earth-exceptional.trycloudflare.com",
-    "httpUrl": "https://kruger-aimed-earth-exceptional.trycloudflare.com",
-    "issuedAt": "2026-11-16T03:44:49.605Z",
-    "expiresAt": "2026-12-16T03:44:49.605Z",
-    "nonce": "f2acf16969839ea7e17c04a348b6ce86"
+    "wsUrl": "wss://lined-acc-bills-studied.trycloudflare.com",
+    "httpUrl": "https://lined-acc-bills-studied.trycloudflare.com",
+    "issuedAt": "2026-11-16T03:55:13.263Z",
+    "expiresAt": "2026-12-16T03:55:13.263Z",
+    "nonce": "dd1a2fc4fb237beb15ce61163999d0fd"
   },
-  "signature": "mdcKLF2ieJZspcnD5bgAGMmzYcJbN5dFlXt24Axui4/uLTJHCB3OTeMKQjPUvVlLqx1YRFDYH116xdLh6xdJrg==",
+  "signature": "IfcPJvWoUEYiY/so1oZ0/EqOjWBy1BQcbrUQPfw07M90il6ckVIKbmTN+S7wDThUUAa6Hku7fgsK1GgXMEvCqg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

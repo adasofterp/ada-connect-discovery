@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-16T01:42:48.171Z",
-  "expiresAt": "2026-12-16T01:42:48.171Z",
-  "nonce": "6f7f4afeac9f9ff81c4aa110eeaa8b7d",
+  "wsUrl": "wss://beta-photographic-seminar-morris.trycloudflare.com",
+  "httpUrl": "https://beta-photographic-seminar-morris.trycloudflare.com",
+  "updatedAt": "2026-11-16T01:48:01.449Z",
+  "expiresAt": "2026-12-16T01:48:01.449Z",
+  "nonce": "a0faeeafa0d3ebb1a85979c3c2a250f4",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-16T01:42:48.171Z",
-    "expiresAt": "2026-12-16T01:42:48.171Z",
-    "nonce": "6f7f4afeac9f9ff81c4aa110eeaa8b7d"
+    "wsUrl": "wss://beta-photographic-seminar-morris.trycloudflare.com",
+    "httpUrl": "https://beta-photographic-seminar-morris.trycloudflare.com",
+    "issuedAt": "2026-11-16T01:48:01.449Z",
+    "expiresAt": "2026-12-16T01:48:01.449Z",
+    "nonce": "a0faeeafa0d3ebb1a85979c3c2a250f4"
   },
-  "signature": "2XGLzKEEzXg3CFLIR/CzymKhGwBIcmrLdoSGjQBHxihzZBbq5Zv9JNpz0qCMQF5RLGBDsDwSrCXtN4LQBe7kFQ==",
+  "signature": "Ff7L/QjmMBZoF0PI3nOGvEqEU2X82bTPl6XqqQo7QRGDyIpBnLTNUoG98wxFHlcyCUaq3qXTpPyTz2kr5ckUDA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

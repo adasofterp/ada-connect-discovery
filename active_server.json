@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://select-mileage-uncle-casa.trycloudflare.com",
-  "httpUrl": "https://select-mileage-uncle-casa.trycloudflare.com",
-  "updatedAt": "2026-11-16T05:06:36.245Z",
-  "expiresAt": "2026-12-16T05:06:36.245Z",
-  "nonce": "f716ba3f2c2f24f2d9e4fa91665fa5f1",
+  "wsUrl": "wss://objectives-attract-globe-employment.trycloudflare.com",
+  "httpUrl": "https://objectives-attract-globe-employment.trycloudflare.com",
+  "updatedAt": "2026-11-16T05:15:36.197Z",
+  "expiresAt": "2026-12-16T05:15:36.197Z",
+  "nonce": "6f2e3c31f4227bafec380711ab102a5c",
   "payload": {
-    "wsUrl": "wss://select-mileage-uncle-casa.trycloudflare.com",
-    "httpUrl": "https://select-mileage-uncle-casa.trycloudflare.com",
-    "issuedAt": "2026-11-16T05:06:36.245Z",
-    "expiresAt": "2026-12-16T05:06:36.245Z",
-    "nonce": "f716ba3f2c2f24f2d9e4fa91665fa5f1"
+    "wsUrl": "wss://objectives-attract-globe-employment.trycloudflare.com",
+    "httpUrl": "https://objectives-attract-globe-employment.trycloudflare.com",
+    "issuedAt": "2026-11-16T05:15:36.197Z",
+    "expiresAt": "2026-12-16T05:15:36.197Z",
+    "nonce": "6f2e3c31f4227bafec380711ab102a5c"
   },
-  "signature": "osDI104VnTMjsc0RUxVykFwgbGgVJObP3MmiLlB/B3YSvUrSNpG43QRB5OZbOBCJOsaTnDg7aP+Ia5uL3rKHcA==",
+  "signature": "uBYNKb3YLA9BFfE8kq7u7Hav8wj4Wg3Lr06QneL+/O7za4SH2c51hieghtPcbKch9ot9B+dNo202P/3Q7v4fGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nashville-centuries-bringing-reach.trycloudflare.com",
-  "httpUrl": "https://nashville-centuries-bringing-reach.trycloudflare.com",
-  "updatedAt": "2026-11-16T10:45:22.759Z",
-  "expiresAt": "2026-12-16T10:45:22.759Z",
-  "nonce": "8580562ce60097e71a095a641ba68e1f",
+  "wsUrl": "wss://accent-artist-fiction-farmers.trycloudflare.com",
+  "httpUrl": "https://accent-artist-fiction-farmers.trycloudflare.com",
+  "updatedAt": "2026-11-16T11:05:26.953Z",
+  "expiresAt": "2026-12-16T11:05:26.953Z",
+  "nonce": "5ab3eb86a29cae1de96e46e96afd1a0d",
   "payload": {
-    "wsUrl": "wss://nashville-centuries-bringing-reach.trycloudflare.com",
-    "httpUrl": "https://nashville-centuries-bringing-reach.trycloudflare.com",
-    "issuedAt": "2026-11-16T10:45:22.759Z",
-    "expiresAt": "2026-12-16T10:45:22.759Z",
-    "nonce": "8580562ce60097e71a095a641ba68e1f"
+    "wsUrl": "wss://accent-artist-fiction-farmers.trycloudflare.com",
+    "httpUrl": "https://accent-artist-fiction-farmers.trycloudflare.com",
+    "issuedAt": "2026-11-16T11:05:26.953Z",
+    "expiresAt": "2026-12-16T11:05:26.953Z",
+    "nonce": "5ab3eb86a29cae1de96e46e96afd1a0d"
   },
-  "signature": "agMmssUV+d2iSgtHYV+WUgAw4Af98DFoRumeMIkGqQrz+1PD1q2xup8wAbE9/Er/hyjLey8YzOKnBZB6a4b66Q==",
+  "signature": "4D1mIKTeab1b3Xe+BQhOCvY4tDO1Y6x5TgAyM71E8FaO2GAYnqZE/qn6yys1tIO4FuWph7eJzkrqrmIjbbjK1A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

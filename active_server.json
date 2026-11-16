@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://seasonal-virgin-hobby-threshold.trycloudflare.com",
-  "httpUrl": "https://seasonal-virgin-hobby-threshold.trycloudflare.com",
-  "updatedAt": "2026-11-16T02:17:47.579Z",
-  "expiresAt": "2026-12-16T02:17:47.579Z",
-  "nonce": "5ae84c11eba060fa6e1a79e572e40491",
+  "wsUrl": "wss://rent-those-boulevard-scheduling.trycloudflare.com",
+  "httpUrl": "https://rent-those-boulevard-scheduling.trycloudflare.com",
+  "updatedAt": "2026-11-16T02:28:12.123Z",
+  "expiresAt": "2026-12-16T02:28:12.123Z",
+  "nonce": "214e3eebcb2ad8b5306833afa201ef91",
   "payload": {
-    "wsUrl": "wss://seasonal-virgin-hobby-threshold.trycloudflare.com",
-    "httpUrl": "https://seasonal-virgin-hobby-threshold.trycloudflare.com",
-    "issuedAt": "2026-11-16T02:17:47.579Z",
-    "expiresAt": "2026-12-16T02:17:47.579Z",
-    "nonce": "5ae84c11eba060fa6e1a79e572e40491"
+    "wsUrl": "wss://rent-those-boulevard-scheduling.trycloudflare.com",
+    "httpUrl": "https://rent-those-boulevard-scheduling.trycloudflare.com",
+    "issuedAt": "2026-11-16T02:28:12.123Z",
+    "expiresAt": "2026-12-16T02:28:12.123Z",
+    "nonce": "214e3eebcb2ad8b5306833afa201ef91"
   },
-  "signature": "+kAgDFcxiepYUKZZiuK1bsBm7AJuXAHi98/qGG6TWLFKcKJLnUqCkJVAU3bvWza6yqcVxNLmlFFkD6JZk/RQ5A==",
+  "signature": "Y2hAb+c/fSC7UEHuvGFpxRz6q/8sGIOJKvyrSsWHxj/WHX7rnjcDOkN3JlX9CmHqFQjsrxHIImIOFwu5Afpe7g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

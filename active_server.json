@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rent-those-boulevard-scheduling.trycloudflare.com",
-  "httpUrl": "https://rent-those-boulevard-scheduling.trycloudflare.com",
-  "updatedAt": "2026-11-16T02:28:12.123Z",
-  "expiresAt": "2026-12-16T02:28:12.123Z",
-  "nonce": "214e3eebcb2ad8b5306833afa201ef91",
+  "wsUrl": "wss://weddings-organic-dana-stones.trycloudflare.com",
+  "httpUrl": "https://weddings-organic-dana-stones.trycloudflare.com",
+  "updatedAt": "2026-11-16T02:59:25.981Z",
+  "expiresAt": "2026-12-16T02:59:25.981Z",
+  "nonce": "a2e21109d350f16f019c33f6c5ee07e3",
   "payload": {
-    "wsUrl": "wss://rent-those-boulevard-scheduling.trycloudflare.com",
-    "httpUrl": "https://rent-those-boulevard-scheduling.trycloudflare.com",
-    "issuedAt": "2026-11-16T02:28:12.123Z",
-    "expiresAt": "2026-12-16T02:28:12.123Z",
-    "nonce": "214e3eebcb2ad8b5306833afa201ef91"
+    "wsUrl": "wss://weddings-organic-dana-stones.trycloudflare.com",
+    "httpUrl": "https://weddings-organic-dana-stones.trycloudflare.com",
+    "issuedAt": "2026-11-16T02:59:25.981Z",
+    "expiresAt": "2026-12-16T02:59:25.981Z",
+    "nonce": "a2e21109d350f16f019c33f6c5ee07e3"
   },
-  "signature": "Y2hAb+c/fSC7UEHuvGFpxRz6q/8sGIOJKvyrSsWHxj/WHX7rnjcDOkN3JlX9CmHqFQjsrxHIImIOFwu5Afpe7g==",
+  "signature": "bo4AP3uvsuqVQQfZJzz2Xyfs/Z5n0CkmxcXn7vVpBtc2+adn1dMDkCvLVzqRyj4FkOtPSpid/Z59q/K7i11blg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

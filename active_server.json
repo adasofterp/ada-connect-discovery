@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-16T04:35:23.116Z",
-  "expiresAt": "2026-12-16T04:35:23.116Z",
-  "nonce": "82c6155910b89195f9c8283a138d7720",
+  "wsUrl": "wss://descriptions-sport-convergence-lay.trycloudflare.com",
+  "httpUrl": "https://descriptions-sport-convergence-lay.trycloudflare.com",
+  "updatedAt": "2026-11-16T04:40:35.654Z",
+  "expiresAt": "2026-12-16T04:40:35.654Z",
+  "nonce": "e6247cc0350315066a44bf400a5cd539",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-16T04:35:23.116Z",
-    "expiresAt": "2026-12-16T04:35:23.116Z",
-    "nonce": "82c6155910b89195f9c8283a138d7720"
+    "wsUrl": "wss://descriptions-sport-convergence-lay.trycloudflare.com",
+    "httpUrl": "https://descriptions-sport-convergence-lay.trycloudflare.com",
+    "issuedAt": "2026-11-16T04:40:35.654Z",
+    "expiresAt": "2026-12-16T04:40:35.654Z",
+    "nonce": "e6247cc0350315066a44bf400a5cd539"
   },
-  "signature": "NHXTGFcClvI4Bigi54a16SjaAuIVFyvJPmC8FrLOrAVp2Tj7axStOl7709UZ0q4I8CwFYeCdi4I4sXrO/n9WMg==",
+  "signature": "HdPs78bMjVN6DwKW7az4tELOJAbS7Zvk9pzBlS4l4ErShiuLqbRIMUEXlsYIy3uJPueJNNDJxsj/XWf6e4CO3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

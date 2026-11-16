@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://regarding-campaign-country-bull.trycloudflare.com",
-  "httpUrl": "https://regarding-campaign-country-bull.trycloudflare.com",
-  "updatedAt": "2026-11-16T03:34:25.282Z",
-  "expiresAt": "2026-12-16T03:34:25.282Z",
-  "nonce": "98e401a89d58faf891079c2d23c86a82",
+  "wsUrl": "wss://kruger-aimed-earth-exceptional.trycloudflare.com",
+  "httpUrl": "https://kruger-aimed-earth-exceptional.trycloudflare.com",
+  "updatedAt": "2026-11-16T03:44:49.605Z",
+  "expiresAt": "2026-12-16T03:44:49.605Z",
+  "nonce": "f2acf16969839ea7e17c04a348b6ce86",
   "payload": {
-    "wsUrl": "wss://regarding-campaign-country-bull.trycloudflare.com",
-    "httpUrl": "https://regarding-campaign-country-bull.trycloudflare.com",
-    "issuedAt": "2026-11-16T03:34:25.282Z",
-    "expiresAt": "2026-12-16T03:34:25.282Z",
-    "nonce": "98e401a89d58faf891079c2d23c86a82"
+    "wsUrl": "wss://kruger-aimed-earth-exceptional.trycloudflare.com",
+    "httpUrl": "https://kruger-aimed-earth-exceptional.trycloudflare.com",
+    "issuedAt": "2026-11-16T03:44:49.605Z",
+    "expiresAt": "2026-12-16T03:44:49.605Z",
+    "nonce": "f2acf16969839ea7e17c04a348b6ce86"
   },
-  "signature": "bHKM8ziSnjDEp1BXHo4Zc1dRB2O5qRSyOMhxGCqMDtMBmzynvIoLjoRGsiu/dde/s2TT7Z6Gtd/pPH3qHIT9xw==",
+  "signature": "mdcKLF2ieJZspcnD5bgAGMmzYcJbN5dFlXt24Axui4/uLTJHCB3OTeMKQjPUvVlLqx1YRFDYH116xdLh6xdJrg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

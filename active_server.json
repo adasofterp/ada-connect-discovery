@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-16T20:50:17.264Z",
-  "expiresAt": "2026-12-16T20:50:17.264Z",
-  "nonce": "b957b930b99ef4b278305c0e1ad8efc8",
+  "wsUrl": "wss://greater-tubes-interactions-secrets.trycloudflare.com",
+  "httpUrl": "https://greater-tubes-interactions-secrets.trycloudflare.com",
+  "updatedAt": "2026-11-16T20:50:25.279Z",
+  "expiresAt": "2026-12-16T20:50:25.279Z",
+  "nonce": "101289fefc5ef96e9b9aaee917c98afa",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-16T20:50:17.264Z",
-    "expiresAt": "2026-12-16T20:50:17.264Z",
-    "nonce": "b957b930b99ef4b278305c0e1ad8efc8"
+    "wsUrl": "wss://greater-tubes-interactions-secrets.trycloudflare.com",
+    "httpUrl": "https://greater-tubes-interactions-secrets.trycloudflare.com",
+    "issuedAt": "2026-11-16T20:50:25.279Z",
+    "expiresAt": "2026-12-16T20:50:25.279Z",
+    "nonce": "101289fefc5ef96e9b9aaee917c98afa"
   },
-  "signature": "ZMdqFT64aO16223uyFKhqag0nMKdLY47RwFUEjq166HA7dkTNqudihhN51EhT6UQk1IOmOYGRLVgV62pkiPgkA==",
+  "signature": "KSLqdgzSvcwqdcGeNqkvwpqa2T7QjhVarBfgLbAE4FkhwkXEQS/cEvwHR16F4KwhkKAKkybO+ZzlvvlOSbYZHg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

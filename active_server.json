@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://constructed-cure-numeric-subdivision.trycloudflare.com",
-  "httpUrl": "https://constructed-cure-numeric-subdivision.trycloudflare.com",
-  "updatedAt": "2026-11-16T06:24:49.791Z",
-  "expiresAt": "2026-12-16T06:24:49.791Z",
-  "nonce": "0f4f8befb19c9e90f0360b7e92271316",
+  "wsUrl": "wss://genealogy-shake-typical-influenced.trycloudflare.com",
+  "httpUrl": "https://genealogy-shake-typical-influenced.trycloudflare.com",
+  "updatedAt": "2026-11-16T06:40:55.330Z",
+  "expiresAt": "2026-12-16T06:40:55.330Z",
+  "nonce": "56df6e3b510a2da855bcc25f9eef01fb",
   "payload": {
-    "wsUrl": "wss://constructed-cure-numeric-subdivision.trycloudflare.com",
-    "httpUrl": "https://constructed-cure-numeric-subdivision.trycloudflare.com",
-    "issuedAt": "2026-11-16T06:24:49.791Z",
-    "expiresAt": "2026-12-16T06:24:49.791Z",
-    "nonce": "0f4f8befb19c9e90f0360b7e92271316"
+    "wsUrl": "wss://genealogy-shake-typical-influenced.trycloudflare.com",
+    "httpUrl": "https://genealogy-shake-typical-influenced.trycloudflare.com",
+    "issuedAt": "2026-11-16T06:40:55.330Z",
+    "expiresAt": "2026-12-16T06:40:55.330Z",
+    "nonce": "56df6e3b510a2da855bcc25f9eef01fb"
   },
-  "signature": "c8DncB7SuO/Z3Q9NLABn+ltEXi3kxUbrgcuaGgNnYDpfjD4vCyCjAGSLcUaUtLkhU1QkkkyIIgX2IGxeTlA2uw==",
+  "signature": "BybOGTXyzKrugawckt7r3sVRE3526UCTmSwB0Bgzoyonw5mWuvfOYooBilleOZVg/qiAGrEMtkT6JTaCzJYa5g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

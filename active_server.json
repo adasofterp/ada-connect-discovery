@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://disc-luxury-hire-reader.trycloudflare.com",
-  "httpUrl": "https://disc-luxury-hire-reader.trycloudflare.com",
-  "updatedAt": "2026-11-16T00:00:10.742Z",
-  "expiresAt": "2026-12-16T00:00:10.742Z",
-  "nonce": "f153c92ca392b1a1dddfc89be11dfe2e",
+  "wsUrl": "wss://copyrights-version-agents-navy.trycloudflare.com",
+  "httpUrl": "https://copyrights-version-agents-navy.trycloudflare.com",
+  "updatedAt": "2026-11-16T00:41:46.756Z",
+  "expiresAt": "2026-12-16T00:41:46.756Z",
+  "nonce": "bda0cb476199fac892cd74a0ab286e52",
   "payload": {
-    "wsUrl": "wss://disc-luxury-hire-reader.trycloudflare.com",
-    "httpUrl": "https://disc-luxury-hire-reader.trycloudflare.com",
-    "issuedAt": "2026-11-16T00:00:10.742Z",
-    "expiresAt": "2026-12-16T00:00:10.742Z",
-    "nonce": "f153c92ca392b1a1dddfc89be11dfe2e"
+    "wsUrl": "wss://copyrights-version-agents-navy.trycloudflare.com",
+    "httpUrl": "https://copyrights-version-agents-navy.trycloudflare.com",
+    "issuedAt": "2026-11-16T00:41:46.756Z",
+    "expiresAt": "2026-12-16T00:41:46.756Z",
+    "nonce": "bda0cb476199fac892cd74a0ab286e52"
   },
-  "signature": "9VOI5vZ8xme9kC5YEuJmdpEO5hehaF3766OwyRRx0nJKqIfFKwyN5eEprJpLuTL0EN7v8ocXNXGSoN922ogTgQ==",
+  "signature": "VXR6HGoXe5Kp87TcpLGJ35yllsRNOZk9jtTGqfIXowdzz1StzgoIyVck4QYX74BvNK3UPeUe6bdn0oI8x+yg+A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

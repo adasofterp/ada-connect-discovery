@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://accent-artist-fiction-farmers.trycloudflare.com",
-  "httpUrl": "https://accent-artist-fiction-farmers.trycloudflare.com",
-  "updatedAt": "2026-11-16T11:17:32.133Z",
-  "expiresAt": "2026-12-16T11:17:32.133Z",
-  "nonce": "b94a282c421f876057299d25f6510552",
+  "wsUrl": "wss://result-trigger-preserve-devon.trycloudflare.com",
+  "httpUrl": "https://result-trigger-preserve-devon.trycloudflare.com",
+  "updatedAt": "2026-11-16T13:55:46.828Z",
+  "expiresAt": "2026-12-16T13:55:46.830Z",
+  "nonce": "00af5092687ff727559cca14f54b095e",
   "payload": {
-    "wsUrl": "wss://accent-artist-fiction-farmers.trycloudflare.com",
-    "httpUrl": "https://accent-artist-fiction-farmers.trycloudflare.com",
-    "issuedAt": "2026-11-16T11:17:32.133Z",
-    "expiresAt": "2026-12-16T11:17:32.133Z",
-    "nonce": "b94a282c421f876057299d25f6510552"
+    "wsUrl": "wss://result-trigger-preserve-devon.trycloudflare.com",
+    "httpUrl": "https://result-trigger-preserve-devon.trycloudflare.com",
+    "issuedAt": "2026-11-16T13:55:46.828Z",
+    "expiresAt": "2026-12-16T13:55:46.830Z",
+    "nonce": "00af5092687ff727559cca14f54b095e"
   },
-  "signature": "TlLXASDWD9Tx3drxS7w5jViWZEN8VyHI9PgvimKgtrDa43DM5GLVhtiq53Tn7bGdJu9QcM2LMDAXuKieLe7BMw==",
+  "signature": "sQ+Njln5XXcQ1jdvYvcxB9cv+fwPW2lmmhjJ8QVdeVwVDblRGoaY18IWUPY6mvjy0WlzHV8G5pK27hGSYk3uAw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

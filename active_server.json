@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://accent-artist-fiction-farmers.trycloudflare.com",
   "httpUrl": "https://accent-artist-fiction-farmers.trycloudflare.com",
-  "updatedAt": "2026-11-16T11:05:26.953Z",
-  "expiresAt": "2026-12-16T11:05:26.953Z",
-  "nonce": "5ab3eb86a29cae1de96e46e96afd1a0d",
+  "updatedAt": "2026-11-16T11:17:32.133Z",
+  "expiresAt": "2026-12-16T11:17:32.133Z",
+  "nonce": "b94a282c421f876057299d25f6510552",
   "payload": {
     "wsUrl": "wss://accent-artist-fiction-farmers.trycloudflare.com",
     "httpUrl": "https://accent-artist-fiction-farmers.trycloudflare.com",
-    "issuedAt": "2026-11-16T11:05:26.953Z",
-    "expiresAt": "2026-12-16T11:05:26.953Z",
-    "nonce": "5ab3eb86a29cae1de96e46e96afd1a0d"
+    "issuedAt": "2026-11-16T11:17:32.133Z",
+    "expiresAt": "2026-12-16T11:17:32.133Z",
+    "nonce": "b94a282c421f876057299d25f6510552"
   },
-  "signature": "4D1mIKTeab1b3Xe+BQhOCvY4tDO1Y6x5TgAyM71E8FaO2GAYnqZE/qn6yys1tIO4FuWph7eJzkrqrmIjbbjK1A==",
+  "signature": "TlLXASDWD9Tx3drxS7w5jViWZEN8VyHI9PgvimKgtrDa43DM5GLVhtiq53Tn7bGdJu9QcM2LMDAXuKieLe7BMw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

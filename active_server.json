@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ampland-buy-broadcast-camcorders.trycloudflare.com",
-  "httpUrl": "https://ampland-buy-broadcast-camcorders.trycloudflare.com",
-  "updatedAt": "2026-11-16T15:29:55.100Z",
-  "expiresAt": "2026-12-16T15:29:55.100Z",
-  "nonce": "be10601a02bc7dc1735f82cc50928296",
+  "wsUrl": "wss://jill-feof-cameron-cookbook.trycloudflare.com",
+  "httpUrl": "https://jill-feof-cameron-cookbook.trycloudflare.com",
+  "updatedAt": "2026-11-16T15:44:51.367Z",
+  "expiresAt": "2026-12-16T15:44:51.367Z",
+  "nonce": "6392d5c1436a6b5441f7898dd970dd5f",
   "payload": {
-    "wsUrl": "wss://ampland-buy-broadcast-camcorders.trycloudflare.com",
-    "httpUrl": "https://ampland-buy-broadcast-camcorders.trycloudflare.com",
-    "issuedAt": "2026-11-16T15:29:55.100Z",
-    "expiresAt": "2026-12-16T15:29:55.100Z",
-    "nonce": "be10601a02bc7dc1735f82cc50928296"
+    "wsUrl": "wss://jill-feof-cameron-cookbook.trycloudflare.com",
+    "httpUrl": "https://jill-feof-cameron-cookbook.trycloudflare.com",
+    "issuedAt": "2026-11-16T15:44:51.367Z",
+    "expiresAt": "2026-12-16T15:44:51.367Z",
+    "nonce": "6392d5c1436a6b5441f7898dd970dd5f"
   },
-  "signature": "5GxJyYdHMKDcB9XnbHXOPflhLY2TUn7inCIaMx5JBl1FzNsm0QzVQRgceimfs9RLvnWlF4AipNGuKKzE7dfpxA==",
+  "signature": "vustKYU/XR8Pi6RNqkJidpURqXWqAi9OE1WoO45ZEYg/oF6BpV+rHmgAWX/zf3vlder7BcrYv/qK70TkuARgJg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://result-trigger-preserve-devon.trycloudflare.com",
-  "httpUrl": "https://result-trigger-preserve-devon.trycloudflare.com",
-  "updatedAt": "2026-11-16T15:17:32.159Z",
-  "expiresAt": "2026-12-16T15:17:32.159Z",
-  "nonce": "1f8eb853e18a9793f0cf8322a547a133",
+  "wsUrl": "wss://ampland-buy-broadcast-camcorders.trycloudflare.com",
+  "httpUrl": "https://ampland-buy-broadcast-camcorders.trycloudflare.com",
+  "updatedAt": "2026-11-16T15:29:55.100Z",
+  "expiresAt": "2026-12-16T15:29:55.100Z",
+  "nonce": "be10601a02bc7dc1735f82cc50928296",
   "payload": {
-    "wsUrl": "wss://result-trigger-preserve-devon.trycloudflare.com",
-    "httpUrl": "https://result-trigger-preserve-devon.trycloudflare.com",
-    "issuedAt": "2026-11-16T15:17:32.159Z",
-    "expiresAt": "2026-12-16T15:17:32.159Z",
-    "nonce": "1f8eb853e18a9793f0cf8322a547a133"
+    "wsUrl": "wss://ampland-buy-broadcast-camcorders.trycloudflare.com",
+    "httpUrl": "https://ampland-buy-broadcast-camcorders.trycloudflare.com",
+    "issuedAt": "2026-11-16T15:29:55.100Z",
+    "expiresAt": "2026-12-16T15:29:55.100Z",
+    "nonce": "be10601a02bc7dc1735f82cc50928296"
   },
-  "signature": "S7uCEakxX+kOghdvjuhl28glY/Dtglv1oBPhRi4rWww0/MpNAxCBONWdXi5+gZSwsFYdon7CFkPCMeZoVxOrOg==",
+  "signature": "5GxJyYdHMKDcB9XnbHXOPflhLY2TUn7inCIaMx5JBl1FzNsm0QzVQRgceimfs9RLvnWlF4AipNGuKKzE7dfpxA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

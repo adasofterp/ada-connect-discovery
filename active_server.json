@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://kid-directed-keith-gui.trycloudflare.com",
-  "httpUrl": "https://kid-directed-keith-gui.trycloudflare.com",
-  "updatedAt": "2026-11-16T10:18:46.671Z",
-  "expiresAt": "2026-12-16T10:18:46.671Z",
-  "nonce": "27db05493521410f48099a0c32a837d1",
+  "wsUrl": "wss://maryland-may-launches-phd.trycloudflare.com",
+  "httpUrl": "https://maryland-may-launches-phd.trycloudflare.com",
+  "updatedAt": "2026-11-16T10:28:57.227Z",
+  "expiresAt": "2026-12-16T10:28:57.227Z",
+  "nonce": "fe702d31564ec7542adea73d83f1437c",
   "payload": {
-    "wsUrl": "wss://kid-directed-keith-gui.trycloudflare.com",
-    "httpUrl": "https://kid-directed-keith-gui.trycloudflare.com",
-    "issuedAt": "2026-11-16T10:18:46.671Z",
-    "expiresAt": "2026-12-16T10:18:46.671Z",
-    "nonce": "27db05493521410f48099a0c32a837d1"
+    "wsUrl": "wss://maryland-may-launches-phd.trycloudflare.com",
+    "httpUrl": "https://maryland-may-launches-phd.trycloudflare.com",
+    "issuedAt": "2026-11-16T10:28:57.227Z",
+    "expiresAt": "2026-12-16T10:28:57.227Z",
+    "nonce": "fe702d31564ec7542adea73d83f1437c"
   },
-  "signature": "boVytUAxNKrDpf56GcvdxwTHDpGXp+kTyGgquoZsd0t17xTyBRmBgpMw2gZh4fbdtmq6+4qmtfbNric7i4QMYg==",
+  "signature": "lmbHOAxXWDM8ztb53BoJvagFm3Vqu8u39XJ38O8HhgRflrMPPULC9RcxfZ8pDBNmkd7GeOJGXxX9hhduUFgLYQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

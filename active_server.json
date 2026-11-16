@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nature-ppm-instruments-executives.trycloudflare.com",
-  "httpUrl": "https://nature-ppm-instruments-executives.trycloudflare.com",
-  "updatedAt": "2026-11-16T01:02:37.265Z",
-  "expiresAt": "2026-12-16T01:02:37.265Z",
-  "nonce": "f3d5d60740f41e60ce73129edea72cb3",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-16T01:32:20.165Z",
+  "expiresAt": "2026-12-16T01:32:20.165Z",
+  "nonce": "a7979e0b82148ce64ec8555714c65fb3",
   "payload": {
-    "wsUrl": "wss://nature-ppm-instruments-executives.trycloudflare.com",
-    "httpUrl": "https://nature-ppm-instruments-executives.trycloudflare.com",
-    "issuedAt": "2026-11-16T01:02:37.265Z",
-    "expiresAt": "2026-12-16T01:02:37.265Z",
-    "nonce": "f3d5d60740f41e60ce73129edea72cb3"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-16T01:32:20.165Z",
+    "expiresAt": "2026-12-16T01:32:20.165Z",
+    "nonce": "a7979e0b82148ce64ec8555714c65fb3"
   },
-  "signature": "iwTIum9CNwRPBpqemp76ZUbOGYB1fBYyvLYye4lhHjNyt6NVIpG/rvCsG5KzjXEah46dB+63UdaLoAKRpbgBxw==",
+  "signature": "UO9/QrEEbSVlECjf+zQCwM3WPwPkBIiv1hWgsuhc6oeKRxlVIKnlR/cOOXCilXk789gHVGWwHzWi+0Gf+snMug==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

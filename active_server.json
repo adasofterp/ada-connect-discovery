@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://lounge-carriers-representing-magnificent.trycloudflare.com",
-  "httpUrl": "https://lounge-carriers-representing-magnificent.trycloudflare.com",
-  "updatedAt": "2026-11-16T23:21:38.591Z",
-  "expiresAt": "2026-12-16T23:21:38.591Z",
-  "nonce": "c8b55eb78beb1c86ae7aa0483613a3ba",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-17T00:06:41.588Z",
+  "expiresAt": "2026-12-17T00:06:41.588Z",
+  "nonce": "461e12d084fa24a8b9a21ef815feed16",
   "payload": {
-    "wsUrl": "wss://lounge-carriers-representing-magnificent.trycloudflare.com",
-    "httpUrl": "https://lounge-carriers-representing-magnificent.trycloudflare.com",
-    "issuedAt": "2026-11-16T23:21:38.591Z",
-    "expiresAt": "2026-12-16T23:21:38.591Z",
-    "nonce": "c8b55eb78beb1c86ae7aa0483613a3ba"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-17T00:06:41.588Z",
+    "expiresAt": "2026-12-17T00:06:41.588Z",
+    "nonce": "461e12d084fa24a8b9a21ef815feed16"
   },
-  "signature": "uxy0sbVfppdUolzw9VqoiQrBwM2P8jCGBuP+fzS/kDU3FCVCUZI4xdmLkRwyN8r92P2A6bAdu/2/Hl8Vyk2ZMw==",
+  "signature": "MYzzZZ9Z7WgDh+xEfvfj+gI90QwaQftJdk8sb4tiu4jZLc/AZWUmqupo6v2XAVPky9DoBzUR6+UsGPeQEWJqlQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

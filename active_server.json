@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://ref-jets-montana-pressure.trycloudflare.com",
   "httpUrl": "https://ref-jets-montana-pressure.trycloudflare.com",
-  "updatedAt": "2026-11-17T06:22:55.839Z",
-  "expiresAt": "2026-12-17T06:22:55.839Z",
-  "nonce": "7a00ddce286e12db29d895cfaee5bfba",
+  "updatedAt": "2026-11-17T07:25:29.449Z",
+  "expiresAt": "2026-12-17T07:25:29.449Z",
+  "nonce": "5e259e6bdf3389542f9034e91cc52393",
   "payload": {
     "wsUrl": "wss://ref-jets-montana-pressure.trycloudflare.com",
     "httpUrl": "https://ref-jets-montana-pressure.trycloudflare.com",
-    "issuedAt": "2026-11-17T06:22:55.839Z",
-    "expiresAt": "2026-12-17T06:22:55.839Z",
-    "nonce": "7a00ddce286e12db29d895cfaee5bfba"
+    "issuedAt": "2026-11-17T07:25:29.449Z",
+    "expiresAt": "2026-12-17T07:25:29.449Z",
+    "nonce": "5e259e6bdf3389542f9034e91cc52393"
   },
-  "signature": "WJdFPn57tzhoaifVAQV7Y2bvfDgM2O58v9FerdpiJ6QjFT02pKzp3azLKm+wL7KZ9Vm/UQ64DSs76QQhvEwQEQ==",
+  "signature": "9awnyF18rcQ7a38zGzKwausOHF5Ti7G0UUnuDI9C5otkmCTNlIHQTI/pT32/xx53HAsQfnLWX0w0X8hNEFYOVg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

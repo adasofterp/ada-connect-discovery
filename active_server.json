@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://tied-photography-guests-writings.trycloudflare.com",
-  "httpUrl": "https://tied-photography-guests-writings.trycloudflare.com",
-  "updatedAt": "2026-11-17T03:25:29.469Z",
-  "expiresAt": "2026-12-17T03:25:29.469Z",
-  "nonce": "b90bf19dca4e5cb94a9b310b63bbffce",
+  "wsUrl": "wss://translator-frames-uncle-kits.trycloudflare.com",
+  "httpUrl": "https://translator-frames-uncle-kits.trycloudflare.com",
+  "updatedAt": "2026-11-17T04:10:42.517Z",
+  "expiresAt": "2026-12-17T04:10:42.517Z",
+  "nonce": "a788a7e523cdd2e7f1472442cf239f6a",
   "payload": {
-    "wsUrl": "wss://tied-photography-guests-writings.trycloudflare.com",
-    "httpUrl": "https://tied-photography-guests-writings.trycloudflare.com",
-    "issuedAt": "2026-11-17T03:25:29.469Z",
-    "expiresAt": "2026-12-17T03:25:29.469Z",
-    "nonce": "b90bf19dca4e5cb94a9b310b63bbffce"
+    "wsUrl": "wss://translator-frames-uncle-kits.trycloudflare.com",
+    "httpUrl": "https://translator-frames-uncle-kits.trycloudflare.com",
+    "issuedAt": "2026-11-17T04:10:42.517Z",
+    "expiresAt": "2026-12-17T04:10:42.517Z",
+    "nonce": "a788a7e523cdd2e7f1472442cf239f6a"
   },
-  "signature": "Vlskju97mZ7RjTTipAy0XjKld/hcmsQ2qHyrGV5jg6zEPO07c89ckm1h88Geg0UH/x/lM3Ncod4TKyhRy/18VA==",
+  "signature": "SiohdOFPSTvDHEXzmRCXj0xVGuaOTXmaEiXeEkQpU5oELUSClhvwAOhZoaUOM6UrUV4+IreyoLyUkSs0uxzUYw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ref-jets-montana-pressure.trycloudflare.com",
-  "httpUrl": "https://ref-jets-montana-pressure.trycloudflare.com",
-  "updatedAt": "2026-11-17T07:25:29.449Z",
-  "expiresAt": "2026-12-17T07:25:29.449Z",
-  "nonce": "5e259e6bdf3389542f9034e91cc52393",
+  "wsUrl": "wss://highest-pencil-web-uniprotkb.trycloudflare.com",
+  "httpUrl": "https://highest-pencil-web-uniprotkb.trycloudflare.com",
+  "updatedAt": "2026-11-17T08:24:10.587Z",
+  "expiresAt": "2026-12-17T08:24:10.587Z",
+  "nonce": "a143999c161a637e92a4111e62d85313",
   "payload": {
-    "wsUrl": "wss://ref-jets-montana-pressure.trycloudflare.com",
-    "httpUrl": "https://ref-jets-montana-pressure.trycloudflare.com",
-    "issuedAt": "2026-11-17T07:25:29.449Z",
-    "expiresAt": "2026-12-17T07:25:29.449Z",
-    "nonce": "5e259e6bdf3389542f9034e91cc52393"
+    "wsUrl": "wss://highest-pencil-web-uniprotkb.trycloudflare.com",
+    "httpUrl": "https://highest-pencil-web-uniprotkb.trycloudflare.com",
+    "issuedAt": "2026-11-17T08:24:10.587Z",
+    "expiresAt": "2026-12-17T08:24:10.587Z",
+    "nonce": "a143999c161a637e92a4111e62d85313"
   },
-  "signature": "9awnyF18rcQ7a38zGzKwausOHF5Ti7G0UUnuDI9C5otkmCTNlIHQTI/pT32/xx53HAsQfnLWX0w0X8hNEFYOVg==",
+  "signature": "gTAunOr0xfA8aWXBP0WAkJCYHtLsKznqWxj32eemtO3yta7EwuX98mUM+MU53fOxW75oU0eTcXEEXb72oYZrCw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

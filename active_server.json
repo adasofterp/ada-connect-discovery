@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://highest-pencil-web-uniprotkb.trycloudflare.com",
-  "httpUrl": "https://highest-pencil-web-uniprotkb.trycloudflare.com",
-  "updatedAt": "2026-11-17T11:25:29.479Z",
-  "expiresAt": "2026-12-17T11:25:29.479Z",
-  "nonce": "11c90ca6cc4dd503d91b7d73e2431be6",
+  "wsUrl": "wss://objectives-cartridges-published-independently.trycloudflare.com",
+  "httpUrl": "https://objectives-cartridges-published-independently.trycloudflare.com",
+  "updatedAt": "2026-11-17T14:12:15.224Z",
+  "expiresAt": "2026-12-17T14:12:15.224Z",
+  "nonce": "a71dff25b51c4687979ecf39a2b1b9cb",
   "payload": {
-    "wsUrl": "wss://highest-pencil-web-uniprotkb.trycloudflare.com",
-    "httpUrl": "https://highest-pencil-web-uniprotkb.trycloudflare.com",
-    "issuedAt": "2026-11-17T11:25:29.479Z",
-    "expiresAt": "2026-12-17T11:25:29.479Z",
-    "nonce": "11c90ca6cc4dd503d91b7d73e2431be6"
+    "wsUrl": "wss://objectives-cartridges-published-independently.trycloudflare.com",
+    "httpUrl": "https://objectives-cartridges-published-independently.trycloudflare.com",
+    "issuedAt": "2026-11-17T14:12:15.224Z",
+    "expiresAt": "2026-12-17T14:12:15.224Z",
+    "nonce": "a71dff25b51c4687979ecf39a2b1b9cb"
   },
-  "signature": "uoNn0N34V+SFHzlKc7huDdU/UzGGPYE8kIEIIsrr114qs6OaXdsQYpZ7y+hsUV94+roM+ew0zbihVWrxgQfTDQ==",
+  "signature": "peYMsm2kRoJaCARxTyiG0/X5QNmqjvvXiFvdxBmTn3cioQc81wp/jmbkY4rp1qv4vRxoT6JYCyFosfzPFFYUqg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

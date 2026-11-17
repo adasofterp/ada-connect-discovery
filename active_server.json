@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://moves-easter-agrees-photograph.trycloudflare.com",
-  "httpUrl": "https://moves-easter-agrees-photograph.trycloudflare.com",
-  "updatedAt": "2026-11-17T06:22:16.543Z",
-  "expiresAt": "2026-12-17T06:22:16.543Z",
-  "nonce": "758febbf95cfb7c325aad44c8ee77e57",
+  "wsUrl": "wss://ref-jets-montana-pressure.trycloudflare.com",
+  "httpUrl": "https://ref-jets-montana-pressure.trycloudflare.com",
+  "updatedAt": "2026-11-17T06:22:55.839Z",
+  "expiresAt": "2026-12-17T06:22:55.839Z",
+  "nonce": "7a00ddce286e12db29d895cfaee5bfba",
   "payload": {
-    "wsUrl": "wss://moves-easter-agrees-photograph.trycloudflare.com",
-    "httpUrl": "https://moves-easter-agrees-photograph.trycloudflare.com",
-    "issuedAt": "2026-11-17T06:22:16.543Z",
-    "expiresAt": "2026-12-17T06:22:16.543Z",
-    "nonce": "758febbf95cfb7c325aad44c8ee77e57"
+    "wsUrl": "wss://ref-jets-montana-pressure.trycloudflare.com",
+    "httpUrl": "https://ref-jets-montana-pressure.trycloudflare.com",
+    "issuedAt": "2026-11-17T06:22:55.839Z",
+    "expiresAt": "2026-12-17T06:22:55.839Z",
+    "nonce": "7a00ddce286e12db29d895cfaee5bfba"
   },
-  "signature": "cuPMUNhvcPJm75DWilWKoToje3eN2ZJqDtvj5pwhn5osrcQfNhhljLEuzGa6AVd26d+4Y06o7nHkioBF/pIYMA==",
+  "signature": "WJdFPn57tzhoaifVAQV7Y2bvfDgM2O58v9FerdpiJ6QjFT02pKzp3azLKm+wL7KZ9Vm/UQ64DSs76QQhvEwQEQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

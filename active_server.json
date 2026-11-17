@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://residential-judge-pairs-mask.trycloudflare.com",
-  "httpUrl": "https://residential-judge-pairs-mask.trycloudflare.com",
-  "updatedAt": "2026-11-17T05:14:47.073Z",
-  "expiresAt": "2026-12-17T05:14:47.073Z",
-  "nonce": "229ab927b86c7c47adf9bbd1cee77ba2",
+  "wsUrl": "wss://pages-known-willing-earlier.trycloudflare.com",
+  "httpUrl": "https://pages-known-willing-earlier.trycloudflare.com",
+  "updatedAt": "2026-11-17T05:56:03.002Z",
+  "expiresAt": "2026-12-17T05:56:03.002Z",
+  "nonce": "3a4d710fa4075e4b5dda00499a3c9943",
   "payload": {
-    "wsUrl": "wss://residential-judge-pairs-mask.trycloudflare.com",
-    "httpUrl": "https://residential-judge-pairs-mask.trycloudflare.com",
-    "issuedAt": "2026-11-17T05:14:47.073Z",
-    "expiresAt": "2026-12-17T05:14:47.073Z",
-    "nonce": "229ab927b86c7c47adf9bbd1cee77ba2"
+    "wsUrl": "wss://pages-known-willing-earlier.trycloudflare.com",
+    "httpUrl": "https://pages-known-willing-earlier.trycloudflare.com",
+    "issuedAt": "2026-11-17T05:56:03.002Z",
+    "expiresAt": "2026-12-17T05:56:03.002Z",
+    "nonce": "3a4d710fa4075e4b5dda00499a3c9943"
   },
-  "signature": "g1oC2d12xrWxAuky5F0PM7KZqv3aC7ubo/x5NOs604mzEgfzw82YMfSNci+asP3FvujVE4acI0GLcaYpXJOBOg==",
+  "signature": "YYXM0MmLLmygE6dAAWCSDXpCyG40BrvcEIK9SqMyuX+UGbjfDO8Mf9cIjuxX/FOIDWkxyJ9RD1wsY8tqJQ6MVQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

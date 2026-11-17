@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-17T14:38:35.907Z",
-  "expiresAt": "2026-12-17T14:38:35.907Z",
-  "nonce": "b5cf6e55b0536becb2f82716eb5906b7",
+  "wsUrl": "wss://trailer-bones-analytical-contacts.trycloudflare.com",
+  "httpUrl": "https://trailer-bones-analytical-contacts.trycloudflare.com",
+  "updatedAt": "2026-11-17T14:38:48.317Z",
+  "expiresAt": "2026-12-17T14:38:48.317Z",
+  "nonce": "3d5c0714225177ac33109c24db0807bd",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-17T14:38:35.907Z",
-    "expiresAt": "2026-12-17T14:38:35.907Z",
-    "nonce": "b5cf6e55b0536becb2f82716eb5906b7"
+    "wsUrl": "wss://trailer-bones-analytical-contacts.trycloudflare.com",
+    "httpUrl": "https://trailer-bones-analytical-contacts.trycloudflare.com",
+    "issuedAt": "2026-11-17T14:38:48.317Z",
+    "expiresAt": "2026-12-17T14:38:48.317Z",
+    "nonce": "3d5c0714225177ac33109c24db0807bd"
   },
-  "signature": "VVyLJwjXOEMzffGdZXU5mnQVHhQgaKwQHEk28kqItdnMAnIPR+nGdGVX/ST8FOOGVRUtWLSJEUWIoo41NPmwCw==",
+  "signature": "XlJ5vG27O2gl1Yuqji7fmZcekl7PkvtwqWvnDI2XiM3Y5M6BVBMc9i0CGhAb4L+btcPMniW95Dm8r3oxu85MHA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

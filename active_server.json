@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
-  "httpUrl": "https://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
-  "updatedAt": "2026-11-19T22:34:37.940Z",
-  "expiresAt": "2026-12-19T22:34:37.940Z",
-  "nonce": "6d04288c3481f98be344e69e03ce0a64",
+  "wsUrl": "wss://simpson-appointments-combinations-parcel.trycloudflare.com",
+  "httpUrl": "https://simpson-appointments-combinations-parcel.trycloudflare.com",
+  "updatedAt": "2026-11-19T22:34:42.827Z",
+  "expiresAt": "2026-12-19T22:34:42.827Z",
+  "nonce": "7a0e2223c4ca444a922dd71d3c04f5a9",
   "payload": {
-    "wsUrl": "wss://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
-    "httpUrl": "https://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
-    "issuedAt": "2026-11-19T22:34:37.940Z",
-    "expiresAt": "2026-12-19T22:34:37.940Z",
-    "nonce": "6d04288c3481f98be344e69e03ce0a64"
+    "wsUrl": "wss://simpson-appointments-combinations-parcel.trycloudflare.com",
+    "httpUrl": "https://simpson-appointments-combinations-parcel.trycloudflare.com",
+    "issuedAt": "2026-11-19T22:34:42.827Z",
+    "expiresAt": "2026-12-19T22:34:42.827Z",
+    "nonce": "7a0e2223c4ca444a922dd71d3c04f5a9"
   },
-  "signature": "ShGOYarebYBOMA2Ue6o64jF+w0jhW9WowWAk+by8X/nojSjyWJtQSpuEQX4B3tlFi3s4I75TdkecWAVI1ncSQA==",
+  "signature": "xOMHwFzWgpiRo5dIDv+v3H9jyHxnnSq9xMdaHdVlN8D5tBfEWz2rK6BKZWPXPT4ryoapSgvuJrp7NFDvK3roRw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

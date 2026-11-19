@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://wrapping-elimination-dealing-sherman.trycloudflare.com",
-  "httpUrl": "https://wrapping-elimination-dealing-sherman.trycloudflare.com",
-  "updatedAt": "2026-11-19T14:48:02.160Z",
-  "expiresAt": "2026-12-19T14:48:02.160Z",
-  "nonce": "4ca08dca6dc365299fd44f119c2294ef",
+  "wsUrl": "wss://arc-rolling-flu-max.trycloudflare.com",
+  "httpUrl": "https://arc-rolling-flu-max.trycloudflare.com",
+  "updatedAt": "2026-11-19T18:06:09.620Z",
+  "expiresAt": "2026-12-19T18:06:09.620Z",
+  "nonce": "170ff0782d02b893090d9a246317e198",
   "payload": {
-    "wsUrl": "wss://wrapping-elimination-dealing-sherman.trycloudflare.com",
-    "httpUrl": "https://wrapping-elimination-dealing-sherman.trycloudflare.com",
-    "issuedAt": "2026-11-19T14:48:02.160Z",
-    "expiresAt": "2026-12-19T14:48:02.160Z",
-    "nonce": "4ca08dca6dc365299fd44f119c2294ef"
+    "wsUrl": "wss://arc-rolling-flu-max.trycloudflare.com",
+    "httpUrl": "https://arc-rolling-flu-max.trycloudflare.com",
+    "issuedAt": "2026-11-19T18:06:09.620Z",
+    "expiresAt": "2026-12-19T18:06:09.620Z",
+    "nonce": "170ff0782d02b893090d9a246317e198"
   },
-  "signature": "8vZVYSaSDCs45ycYJcgEJg4w4XQALxhAbQKj3YrG+qPxpRhInAD+Eu+ZGBg5fGErvWJryJuY7HcaffMSwEM54A==",
+  "signature": "S963CYfO/QX5/DOXzYnQTX1F8lHHE03dMYOiT8diDQSNVGEscVzc3xQvWmM8yBpI3SQCHueEMSIpb5kWZNd9Hg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://funeral-fibre-incentives-pdas.trycloudflare.com",
-  "httpUrl": "https://funeral-fibre-incentives-pdas.trycloudflare.com",
-  "updatedAt": "2026-11-19T22:13:53.950Z",
-  "expiresAt": "2026-12-19T22:13:53.950Z",
-  "nonce": "1208625df8d111e68ba761ab262cf948",
+  "wsUrl": "wss://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
+  "httpUrl": "https://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
+  "updatedAt": "2026-11-19T22:24:18.110Z",
+  "expiresAt": "2026-12-19T22:24:18.110Z",
+  "nonce": "62903f09c2df126cea21c8da3d4772c4",
   "payload": {
-    "wsUrl": "wss://funeral-fibre-incentives-pdas.trycloudflare.com",
-    "httpUrl": "https://funeral-fibre-incentives-pdas.trycloudflare.com",
-    "issuedAt": "2026-11-19T22:13:53.950Z",
-    "expiresAt": "2026-12-19T22:13:53.950Z",
-    "nonce": "1208625df8d111e68ba761ab262cf948"
+    "wsUrl": "wss://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
+    "httpUrl": "https://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
+    "issuedAt": "2026-11-19T22:24:18.110Z",
+    "expiresAt": "2026-12-19T22:24:18.110Z",
+    "nonce": "62903f09c2df126cea21c8da3d4772c4"
   },
-  "signature": "7tL+gtY15F9B3WCJOtCA0Z9tL3NK7WQ3JPaeSZ0LszvJ9pG0PXHbi1jFNcLVV5qOXXuMq5G01OFac6RKnIlxHw==",
+  "signature": "p+tXu/MQrpKUjJ791dy8DY2jERfwl6to07zCchJtu1Z5xLbt7F9DGfRQj31QuH/+hbEyFRCijGxV8s2vsBwcgg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

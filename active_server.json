@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://simpson-appointments-combinations-parcel.trycloudflare.com",
-  "httpUrl": "https://simpson-appointments-combinations-parcel.trycloudflare.com",
-  "updatedAt": "2026-11-19T22:34:42.827Z",
-  "expiresAt": "2026-12-19T22:34:42.827Z",
-  "nonce": "7a0e2223c4ca444a922dd71d3c04f5a9",
+  "wsUrl": "wss://texas-between-mba-ant.trycloudflare.com",
+  "httpUrl": "https://texas-between-mba-ant.trycloudflare.com",
+  "updatedAt": "2026-11-19T22:45:08.710Z",
+  "expiresAt": "2026-12-19T22:45:08.710Z",
+  "nonce": "1fce7292e20be5e05e86d3e0876abdef",
   "payload": {
-    "wsUrl": "wss://simpson-appointments-combinations-parcel.trycloudflare.com",
-    "httpUrl": "https://simpson-appointments-combinations-parcel.trycloudflare.com",
-    "issuedAt": "2026-11-19T22:34:42.827Z",
-    "expiresAt": "2026-12-19T22:34:42.827Z",
-    "nonce": "7a0e2223c4ca444a922dd71d3c04f5a9"
+    "wsUrl": "wss://texas-between-mba-ant.trycloudflare.com",
+    "httpUrl": "https://texas-between-mba-ant.trycloudflare.com",
+    "issuedAt": "2026-11-19T22:45:08.710Z",
+    "expiresAt": "2026-12-19T22:45:08.710Z",
+    "nonce": "1fce7292e20be5e05e86d3e0876abdef"
   },
-  "signature": "xOMHwFzWgpiRo5dIDv+v3H9jyHxnnSq9xMdaHdVlN8D5tBfEWz2rK6BKZWPXPT4ryoapSgvuJrp7NFDvK3roRw==",
+  "signature": "xPxZ0+thzX2OdXIF2FnRMB+AYueqC1hBIUpMIzN8VXUJnwIcUx5YZT/dJPOt/EW7I6RIkEiAaV1pk2WeoEaaLw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

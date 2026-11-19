@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://trailer-bones-analytical-contacts.trycloudflare.com",
-  "httpUrl": "https://trailer-bones-analytical-contacts.trycloudflare.com",
-  "updatedAt": "2026-11-17T14:38:48.317Z",
-  "expiresAt": "2026-12-17T14:38:48.317Z",
-  "nonce": "3d5c0714225177ac33109c24db0807bd",
+  "wsUrl": "wss://arbor-lil-bristol-anyone.trycloudflare.com",
+  "httpUrl": "https://arbor-lil-bristol-anyone.trycloudflare.com",
+  "updatedAt": "2026-11-19T10:26:25.631Z",
+  "expiresAt": "2026-12-19T10:26:25.631Z",
+  "nonce": "a7d4c4cadfac2f7ac297530d48ffea19",
   "payload": {
-    "wsUrl": "wss://trailer-bones-analytical-contacts.trycloudflare.com",
-    "httpUrl": "https://trailer-bones-analytical-contacts.trycloudflare.com",
-    "issuedAt": "2026-11-17T14:38:48.317Z",
-    "expiresAt": "2026-12-17T14:38:48.317Z",
-    "nonce": "3d5c0714225177ac33109c24db0807bd"
+    "wsUrl": "wss://arbor-lil-bristol-anyone.trycloudflare.com",
+    "httpUrl": "https://arbor-lil-bristol-anyone.trycloudflare.com",
+    "issuedAt": "2026-11-19T10:26:25.631Z",
+    "expiresAt": "2026-12-19T10:26:25.631Z",
+    "nonce": "a7d4c4cadfac2f7ac297530d48ffea19"
   },
-  "signature": "XlJ5vG27O2gl1Yuqji7fmZcekl7PkvtwqWvnDI2XiM3Y5M6BVBMc9i0CGhAb4L+btcPMniW95Dm8r3oxu85MHA==",
+  "signature": "6WZKgnr3ZEYRL9D0ER2YABwwN6L/9J5fBx1JHMzjtKakig9eHBf8Xk/ABC2ddz7m6zHI6j57xNNTiJJz0JNOGA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

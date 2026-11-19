@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://arbor-lil-bristol-anyone.trycloudflare.com",
-  "httpUrl": "https://arbor-lil-bristol-anyone.trycloudflare.com",
-  "updatedAt": "2026-11-19T10:26:25.631Z",
-  "expiresAt": "2026-12-19T10:26:25.631Z",
-  "nonce": "a7d4c4cadfac2f7ac297530d48ffea19",
+  "wsUrl": "wss://allan-stones-calendars-climbing.trycloudflare.com",
+  "httpUrl": "https://allan-stones-calendars-climbing.trycloudflare.com",
+  "updatedAt": "2026-11-19T10:27:06.866Z",
+  "expiresAt": "2026-12-19T10:27:06.866Z",
+  "nonce": "53ff156c9f130f31910893b811a3b1af",
   "payload": {
-    "wsUrl": "wss://arbor-lil-bristol-anyone.trycloudflare.com",
-    "httpUrl": "https://arbor-lil-bristol-anyone.trycloudflare.com",
-    "issuedAt": "2026-11-19T10:26:25.631Z",
-    "expiresAt": "2026-12-19T10:26:25.631Z",
-    "nonce": "a7d4c4cadfac2f7ac297530d48ffea19"
+    "wsUrl": "wss://allan-stones-calendars-climbing.trycloudflare.com",
+    "httpUrl": "https://allan-stones-calendars-climbing.trycloudflare.com",
+    "issuedAt": "2026-11-19T10:27:06.866Z",
+    "expiresAt": "2026-12-19T10:27:06.866Z",
+    "nonce": "53ff156c9f130f31910893b811a3b1af"
   },
-  "signature": "6WZKgnr3ZEYRL9D0ER2YABwwN6L/9J5fBx1JHMzjtKakig9eHBf8Xk/ABC2ddz7m6zHI6j57xNNTiJJz0JNOGA==",
+  "signature": "xVq9FAYKzOEUkg55DUsYWg1oE3qbC+GMQWUO1klzkWVgZn9kaj9rIapRIBlQFYlOw83qBwAsmeoIdvb0DKjLVw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

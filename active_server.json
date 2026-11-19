@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://allan-stones-calendars-climbing.trycloudflare.com",
   "httpUrl": "https://allan-stones-calendars-climbing.trycloudflare.com",
-  "updatedAt": "2026-11-19T10:27:06.866Z",
-  "expiresAt": "2026-12-19T10:27:06.866Z",
-  "nonce": "53ff156c9f130f31910893b811a3b1af",
+  "updatedAt": "2026-11-19T14:26:20.802Z",
+  "expiresAt": "2026-12-19T14:26:20.802Z",
+  "nonce": "b93aba9a5f18e37f1ae335d29e5dfe87",
   "payload": {
     "wsUrl": "wss://allan-stones-calendars-climbing.trycloudflare.com",
     "httpUrl": "https://allan-stones-calendars-climbing.trycloudflare.com",
-    "issuedAt": "2026-11-19T10:27:06.866Z",
-    "expiresAt": "2026-12-19T10:27:06.866Z",
-    "nonce": "53ff156c9f130f31910893b811a3b1af"
+    "issuedAt": "2026-11-19T14:26:20.802Z",
+    "expiresAt": "2026-12-19T14:26:20.802Z",
+    "nonce": "b93aba9a5f18e37f1ae335d29e5dfe87"
   },
-  "signature": "xVq9FAYKzOEUkg55DUsYWg1oE3qbC+GMQWUO1klzkWVgZn9kaj9rIapRIBlQFYlOw83qBwAsmeoIdvb0DKjLVw==",
+  "signature": "tOUnspE/V5D3CXv57yjwiCnS2F9n0yzlOgOYRonTaGnTWYS0YKuByiMSbYxaHhxuROBAkIJtIGsyketwGXulsg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

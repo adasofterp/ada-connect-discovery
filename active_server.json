@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://consider-extreme-mailed-neon.trycloudflare.com",
-  "httpUrl": "https://consider-extreme-mailed-neon.trycloudflare.com",
-  "updatedAt": "2026-11-19T18:51:59.603Z",
-  "expiresAt": "2026-12-19T18:51:59.603Z",
-  "nonce": "3543f6da7384917e2801375c874bf2a3",
+  "wsUrl": "wss://funeral-fibre-incentives-pdas.trycloudflare.com",
+  "httpUrl": "https://funeral-fibre-incentives-pdas.trycloudflare.com",
+  "updatedAt": "2026-11-19T22:13:53.950Z",
+  "expiresAt": "2026-12-19T22:13:53.950Z",
+  "nonce": "1208625df8d111e68ba761ab262cf948",
   "payload": {
-    "wsUrl": "wss://consider-extreme-mailed-neon.trycloudflare.com",
-    "httpUrl": "https://consider-extreme-mailed-neon.trycloudflare.com",
-    "issuedAt": "2026-11-19T18:51:59.603Z",
-    "expiresAt": "2026-12-19T18:51:59.603Z",
-    "nonce": "3543f6da7384917e2801375c874bf2a3"
+    "wsUrl": "wss://funeral-fibre-incentives-pdas.trycloudflare.com",
+    "httpUrl": "https://funeral-fibre-incentives-pdas.trycloudflare.com",
+    "issuedAt": "2026-11-19T22:13:53.950Z",
+    "expiresAt": "2026-12-19T22:13:53.950Z",
+    "nonce": "1208625df8d111e68ba761ab262cf948"
   },
-  "signature": "vcgDC3wu8uYjp5mUjoaH/uVNTnrq8AYt8k3c+BaOwZPFXCyimBQPJu+i8E/jt569bdYuEAEAbu8FVDxAVOTYbw==",
+  "signature": "7tL+gtY15F9B3WCJOtCA0Z9tL3NK7WQ3JPaeSZ0LszvJ9pG0PXHbi1jFNcLVV5qOXXuMq5G01OFac6RKnIlxHw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

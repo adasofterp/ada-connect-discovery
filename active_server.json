@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://epic-speakers-dealt-mouse.trycloudflare.com",
-  "httpUrl": "https://epic-speakers-dealt-mouse.trycloudflare.com",
-  "updatedAt": "2026-11-19T14:47:22.444Z",
-  "expiresAt": "2026-12-19T14:47:22.444Z",
-  "nonce": "615e0107ff66fab917fe54890782c493",
+  "wsUrl": "wss://wrapping-elimination-dealing-sherman.trycloudflare.com",
+  "httpUrl": "https://wrapping-elimination-dealing-sherman.trycloudflare.com",
+  "updatedAt": "2026-11-19T14:48:02.160Z",
+  "expiresAt": "2026-12-19T14:48:02.160Z",
+  "nonce": "4ca08dca6dc365299fd44f119c2294ef",
   "payload": {
-    "wsUrl": "wss://epic-speakers-dealt-mouse.trycloudflare.com",
-    "httpUrl": "https://epic-speakers-dealt-mouse.trycloudflare.com",
-    "issuedAt": "2026-11-19T14:47:22.444Z",
-    "expiresAt": "2026-12-19T14:47:22.444Z",
-    "nonce": "615e0107ff66fab917fe54890782c493"
+    "wsUrl": "wss://wrapping-elimination-dealing-sherman.trycloudflare.com",
+    "httpUrl": "https://wrapping-elimination-dealing-sherman.trycloudflare.com",
+    "issuedAt": "2026-11-19T14:48:02.160Z",
+    "expiresAt": "2026-12-19T14:48:02.160Z",
+    "nonce": "4ca08dca6dc365299fd44f119c2294ef"
   },
-  "signature": "pYp2mJ/hU9iRf6vQBDW9Uh2zU6Oa5YiWh4FYLxXaCEu+Ak0MRzfVCqFscKDjQ15A938bii2S+grBStFZ2DJmdQ==",
+  "signature": "8vZVYSaSDCs45ycYJcgEJg4w4XQALxhAbQKj3YrG+qPxpRhInAD+Eu+ZGBg5fGErvWJryJuY7HcaffMSwEM54A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
   "httpUrl": "https://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
-  "updatedAt": "2026-11-19T22:24:18.110Z",
-  "expiresAt": "2026-12-19T22:24:18.110Z",
-  "nonce": "62903f09c2df126cea21c8da3d4772c4",
+  "updatedAt": "2026-11-19T22:34:37.940Z",
+  "expiresAt": "2026-12-19T22:34:37.940Z",
+  "nonce": "6d04288c3481f98be344e69e03ce0a64",
   "payload": {
     "wsUrl": "wss://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
     "httpUrl": "https://bloomberg-disciplinary-virtual-choices.trycloudflare.com",
-    "issuedAt": "2026-11-19T22:24:18.110Z",
-    "expiresAt": "2026-12-19T22:24:18.110Z",
-    "nonce": "62903f09c2df126cea21c8da3d4772c4"
+    "issuedAt": "2026-11-19T22:34:37.940Z",
+    "expiresAt": "2026-12-19T22:34:37.940Z",
+    "nonce": "6d04288c3481f98be344e69e03ce0a64"
   },
-  "signature": "p+tXu/MQrpKUjJ791dy8DY2jERfwl6to07zCchJtu1Z5xLbt7F9DGfRQj31QuH/+hbEyFRCijGxV8s2vsBwcgg==",
+  "signature": "ShGOYarebYBOMA2Ue6o64jF+w0jhW9WowWAk+by8X/nojSjyWJtQSpuEQX4B3tlFi3s4I75TdkecWAVI1ncSQA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

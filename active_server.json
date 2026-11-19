@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://binary-permits-protocol-sunset.trycloudflare.com",
   "httpUrl": "https://binary-permits-protocol-sunset.trycloudflare.com",
-  "updatedAt": "2026-11-19T18:22:22.552Z",
-  "expiresAt": "2026-12-19T18:22:22.552Z",
-  "nonce": "7d47e80f2c639bc184fd2a984838dead",
+  "updatedAt": "2026-11-19T18:30:28.222Z",
+  "expiresAt": "2026-12-19T18:30:28.222Z",
+  "nonce": "14459fbb00a28f63bb90397958418ccd",
   "payload": {
     "wsUrl": "wss://binary-permits-protocol-sunset.trycloudflare.com",
     "httpUrl": "https://binary-permits-protocol-sunset.trycloudflare.com",
-    "issuedAt": "2026-11-19T18:22:22.552Z",
-    "expiresAt": "2026-12-19T18:22:22.552Z",
-    "nonce": "7d47e80f2c639bc184fd2a984838dead"
+    "issuedAt": "2026-11-19T18:30:28.222Z",
+    "expiresAt": "2026-12-19T18:30:28.222Z",
+    "nonce": "14459fbb00a28f63bb90397958418ccd"
   },
-  "signature": "aRubRCZvEMXc+F/H3AmMKk+YPcTmEVNeLx1oWDBMCgD/SFTWeQsjRrTIXV0YWcmCI5RANSZSh/gzsETT3pYAkw==",
+  "signature": "hQG1ICq5uhkQiT3EYLr0R8pvRxfPn3AUjHOpZRf7eXHgFvaA+ixtMoYROh8uJvk5oNEwCKRuP73B3AVkpNAerQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

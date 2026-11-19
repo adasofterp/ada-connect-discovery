@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://accountability-crucial-ana-prescribed.trycloudflare.com",
-  "httpUrl": "https://accountability-crucial-ana-prescribed.trycloudflare.com",
-  "updatedAt": "2026-11-19T23:03:53.598Z",
-  "expiresAt": "2026-12-19T23:03:53.598Z",
-  "nonce": "383bd98ba5eef324b603c425fa5d0829",
+  "wsUrl": "wss://mortgages-announcements-judgment-stopping.trycloudflare.com",
+  "httpUrl": "https://mortgages-announcements-judgment-stopping.trycloudflare.com",
+  "updatedAt": "2026-11-19T23:14:31.347Z",
+  "expiresAt": "2026-12-19T23:14:31.347Z",
+  "nonce": "202d1114cde64df7189a3bb2a4e87212",
   "payload": {
-    "wsUrl": "wss://accountability-crucial-ana-prescribed.trycloudflare.com",
-    "httpUrl": "https://accountability-crucial-ana-prescribed.trycloudflare.com",
-    "issuedAt": "2026-11-19T23:03:53.598Z",
-    "expiresAt": "2026-12-19T23:03:53.598Z",
-    "nonce": "383bd98ba5eef324b603c425fa5d0829"
+    "wsUrl": "wss://mortgages-announcements-judgment-stopping.trycloudflare.com",
+    "httpUrl": "https://mortgages-announcements-judgment-stopping.trycloudflare.com",
+    "issuedAt": "2026-11-19T23:14:31.347Z",
+    "expiresAt": "2026-12-19T23:14:31.347Z",
+    "nonce": "202d1114cde64df7189a3bb2a4e87212"
   },
-  "signature": "TOjLKLoWYQ/3YgsvLdECIjQ0JKfvdbYj89ZoD9Vmhds54fxGKAQU+rQOmWKh/fLcAD8pMuR9L7zBmHkqRcjEgg==",
+  "signature": "3bSC/kQrHvNggjIVG+0GS/d1M4/6Xfe8710IVgAjK7dtHPMa/O6KrOvR6PbvyPaq2Ncb/P5piDT1A2VIHt48MA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

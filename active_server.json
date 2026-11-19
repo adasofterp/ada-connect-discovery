@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://texas-between-mba-ant.trycloudflare.com",
-  "httpUrl": "https://texas-between-mba-ant.trycloudflare.com",
-  "updatedAt": "2026-11-19T22:45:08.710Z",
-  "expiresAt": "2026-12-19T22:45:08.710Z",
-  "nonce": "1fce7292e20be5e05e86d3e0876abdef",
+  "wsUrl": "wss://tours-browse-tab-exists.trycloudflare.com",
+  "httpUrl": "https://tours-browse-tab-exists.trycloudflare.com",
+  "updatedAt": "2026-11-19T22:55:29.547Z",
+  "expiresAt": "2026-12-19T22:55:29.547Z",
+  "nonce": "7f1c3c5e4d9604020d8c358d1eb6d271",
   "payload": {
-    "wsUrl": "wss://texas-between-mba-ant.trycloudflare.com",
-    "httpUrl": "https://texas-between-mba-ant.trycloudflare.com",
-    "issuedAt": "2026-11-19T22:45:08.710Z",
-    "expiresAt": "2026-12-19T22:45:08.710Z",
-    "nonce": "1fce7292e20be5e05e86d3e0876abdef"
+    "wsUrl": "wss://tours-browse-tab-exists.trycloudflare.com",
+    "httpUrl": "https://tours-browse-tab-exists.trycloudflare.com",
+    "issuedAt": "2026-11-19T22:55:29.547Z",
+    "expiresAt": "2026-12-19T22:55:29.547Z",
+    "nonce": "7f1c3c5e4d9604020d8c358d1eb6d271"
   },
-  "signature": "xPxZ0+thzX2OdXIF2FnRMB+AYueqC1hBIUpMIzN8VXUJnwIcUx5YZT/dJPOt/EW7I6RIkEiAaV1pk2WeoEaaLw==",
+  "signature": "zB2d8+qtD+UKy+NoJ0Fgskg/LPHbzJbHCCPR49PM+vKRcf9WkY+yo32j/Tjpfq6pLCAwtVv25BoiXzVMZX+DWg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

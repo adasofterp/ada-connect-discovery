@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-20T19:23:19.139Z",
-  "expiresAt": "2026-12-20T19:23:19.139Z",
-  "nonce": "091254ff40c95458be848cb15ea897ac",
+  "wsUrl": "wss://gazette-runtime-lady-guest.trycloudflare.com",
+  "httpUrl": "https://gazette-runtime-lady-guest.trycloudflare.com",
+  "updatedAt": "2026-11-20T19:23:35.706Z",
+  "expiresAt": "2026-12-20T19:23:35.706Z",
+  "nonce": "4d60b55b963d55db9029752d5952eab3",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-20T19:23:19.139Z",
-    "expiresAt": "2026-12-20T19:23:19.139Z",
-    "nonce": "091254ff40c95458be848cb15ea897ac"
+    "wsUrl": "wss://gazette-runtime-lady-guest.trycloudflare.com",
+    "httpUrl": "https://gazette-runtime-lady-guest.trycloudflare.com",
+    "issuedAt": "2026-11-20T19:23:35.706Z",
+    "expiresAt": "2026-12-20T19:23:35.706Z",
+    "nonce": "4d60b55b963d55db9029752d5952eab3"
   },
-  "signature": "WOd36r8fqGVhHATdR63aKHmoOOxf7Gc/LnM6iTqHT9BleJcI+AQP4tFjwem5Tm5qjLUVDaT6Amu/szXwORspkA==",
+  "signature": "UV53DcWsasKmslOho+w1/sfYcYQK1NqSPiZy1v1d2OvstPKHq1gr2lG/DVeB4QHM8za/DhlFtQROv8MLEHiKAA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

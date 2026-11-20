@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
-  "httpUrl": "https://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
-  "updatedAt": "2026-11-20T04:27:16.987Z",
-  "expiresAt": "2026-12-20T04:27:16.987Z",
-  "nonce": "8eb946b9138b7aab095161a9be8ca484",
+  "wsUrl": "wss://windsor-other-dictionary-teaches.trycloudflare.com",
+  "httpUrl": "https://windsor-other-dictionary-teaches.trycloudflare.com",
+  "updatedAt": "2026-11-20T04:37:42.726Z",
+  "expiresAt": "2026-12-20T04:37:42.726Z",
+  "nonce": "9d5597267e886b279fcfac4f7a055cc4",
   "payload": {
-    "wsUrl": "wss://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
-    "httpUrl": "https://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
-    "issuedAt": "2026-11-20T04:27:16.987Z",
-    "expiresAt": "2026-12-20T04:27:16.987Z",
-    "nonce": "8eb946b9138b7aab095161a9be8ca484"
+    "wsUrl": "wss://windsor-other-dictionary-teaches.trycloudflare.com",
+    "httpUrl": "https://windsor-other-dictionary-teaches.trycloudflare.com",
+    "issuedAt": "2026-11-20T04:37:42.726Z",
+    "expiresAt": "2026-12-20T04:37:42.726Z",
+    "nonce": "9d5597267e886b279fcfac4f7a055cc4"
   },
-  "signature": "yZBJtKyqTVooyWfPejiZDS2kGJSp6Ogm5w+A7vXp11ovacjcRVuSCLx9oeFbNNvr2h5rX/wJ1dV/kZOp9S/LTg==",
+  "signature": "Ukyxvr+jC9/BItOdleS46ITShWxiGbVaAfARxWtA90vR6IRrMi1xDnAFqagU83GzeOqNLSKYPt7pTRJdtsP4hQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

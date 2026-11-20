@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-20T06:44:01.267Z",
-  "expiresAt": "2026-12-20T06:44:01.267Z",
-  "nonce": "b184df526099db35b284884019e0046c",
+  "wsUrl": "wss://appreciation-cemetery-concord-protected.trycloudflare.com",
+  "httpUrl": "https://appreciation-cemetery-concord-protected.trycloudflare.com",
+  "updatedAt": "2026-11-20T06:44:09.969Z",
+  "expiresAt": "2026-12-20T06:44:09.969Z",
+  "nonce": "41947536edbad0efd1c0dd3b568ec234",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-20T06:44:01.267Z",
-    "expiresAt": "2026-12-20T06:44:01.267Z",
-    "nonce": "b184df526099db35b284884019e0046c"
+    "wsUrl": "wss://appreciation-cemetery-concord-protected.trycloudflare.com",
+    "httpUrl": "https://appreciation-cemetery-concord-protected.trycloudflare.com",
+    "issuedAt": "2026-11-20T06:44:09.969Z",
+    "expiresAt": "2026-12-20T06:44:09.969Z",
+    "nonce": "41947536edbad0efd1c0dd3b568ec234"
   },
-  "signature": "OOIm6lxZd7dYgOjyBdymFLgZvpSaz3nxjU+AIfXX/0xaF36q0kcb8E24KJhHq3WxUvNhEZqVnJ7O1Foz2XpAJw==",
+  "signature": "aA8eWosAJ4BULdFUxleNf+7Fi7Vp/h3lB8Miytuj6P6yuQdlpxAkka5qZE9FEjNN9vRLpkW742x1ApHrcwvWEQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

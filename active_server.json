@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://wrap-harold-distances-testament.trycloudflare.com",
-  "httpUrl": "https://wrap-harold-distances-testament.trycloudflare.com",
-  "updatedAt": "2026-11-20T04:58:38.881Z",
-  "expiresAt": "2026-12-20T04:58:38.881Z",
-  "nonce": "ba1da839a0bcc5c4e4f6820f6c8eef79",
+  "wsUrl": "wss://registered-giants-reprints-pleased.trycloudflare.com",
+  "httpUrl": "https://registered-giants-reprints-pleased.trycloudflare.com",
+  "updatedAt": "2026-11-20T05:09:04.851Z",
+  "expiresAt": "2026-12-20T05:09:04.851Z",
+  "nonce": "7ccb136aecc4eaf17dfb59aa120deb8f",
   "payload": {
-    "wsUrl": "wss://wrap-harold-distances-testament.trycloudflare.com",
-    "httpUrl": "https://wrap-harold-distances-testament.trycloudflare.com",
-    "issuedAt": "2026-11-20T04:58:38.881Z",
-    "expiresAt": "2026-12-20T04:58:38.881Z",
-    "nonce": "ba1da839a0bcc5c4e4f6820f6c8eef79"
+    "wsUrl": "wss://registered-giants-reprints-pleased.trycloudflare.com",
+    "httpUrl": "https://registered-giants-reprints-pleased.trycloudflare.com",
+    "issuedAt": "2026-11-20T05:09:04.851Z",
+    "expiresAt": "2026-12-20T05:09:04.851Z",
+    "nonce": "7ccb136aecc4eaf17dfb59aa120deb8f"
   },
-  "signature": "bbz7DQRx7AFxLUIyNpRSSiALV1yHKqCw1xNFOSptXSDLjI8mz7Cgn6406da87Tn5PHh4rfrZKqqwBCn+kMyBZg==",
+  "signature": "neLMj3uGALb3HiTW/6rN1XDDzeL/t9qgmhxYeUFSEZEJB5c5ssO7zokwSRsd6V8OlUM9VLRuzoLsLlqfYR3cPw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

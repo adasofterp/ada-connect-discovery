@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://upgrades-assessed-eagle-convergence.trycloudflare.com",
-  "httpUrl": "https://upgrades-assessed-eagle-convergence.trycloudflare.com",
-  "updatedAt": "2026-11-20T02:46:54.495Z",
-  "expiresAt": "2026-12-20T02:46:54.495Z",
-  "nonce": "60d812237509ae9ae363b5a2e4a7d86f",
+  "wsUrl": "wss://bottom-energy-tobago-gardens.trycloudflare.com",
+  "httpUrl": "https://bottom-energy-tobago-gardens.trycloudflare.com",
+  "updatedAt": "2026-11-20T02:57:23.439Z",
+  "expiresAt": "2026-12-20T02:57:23.439Z",
+  "nonce": "43941a8e18dbe18fecfbc355dd09dbf9",
   "payload": {
-    "wsUrl": "wss://upgrades-assessed-eagle-convergence.trycloudflare.com",
-    "httpUrl": "https://upgrades-assessed-eagle-convergence.trycloudflare.com",
-    "issuedAt": "2026-11-20T02:46:54.495Z",
-    "expiresAt": "2026-12-20T02:46:54.495Z",
-    "nonce": "60d812237509ae9ae363b5a2e4a7d86f"
+    "wsUrl": "wss://bottom-energy-tobago-gardens.trycloudflare.com",
+    "httpUrl": "https://bottom-energy-tobago-gardens.trycloudflare.com",
+    "issuedAt": "2026-11-20T02:57:23.439Z",
+    "expiresAt": "2026-12-20T02:57:23.439Z",
+    "nonce": "43941a8e18dbe18fecfbc355dd09dbf9"
   },
-  "signature": "qxabir01oHz5WwQespiUB/CY4XjSiqgmHlEpIKj5kQCgDE+4meChw8qDygpUvO7J7R5Gi+1zGwpuw0l1Fl4IQQ==",
+  "signature": "nM8LJGK/Kua5IDZE3Dfh+5X/UUGXg7iY+uHh+S8DyZk3VciqguIkNA/fMBvTrpmn+RVxNHUGf/dSm1RW2f/f2A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

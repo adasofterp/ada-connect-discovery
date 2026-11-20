@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://advisor-home-reduces-wright.trycloudflare.com",
   "httpUrl": "https://advisor-home-reduces-wright.trycloudflare.com",
-  "updatedAt": "2026-11-20T06:34:46.950Z",
-  "expiresAt": "2026-12-20T06:34:46.950Z",
-  "nonce": "703d68fda8371b00fd4655a0039eaf8c",
+  "updatedAt": "2026-11-20T06:42:51.757Z",
+  "expiresAt": "2026-12-20T06:42:51.757Z",
+  "nonce": "833e07649da7357dd72ed51268bd285e",
   "payload": {
     "wsUrl": "wss://advisor-home-reduces-wright.trycloudflare.com",
     "httpUrl": "https://advisor-home-reduces-wright.trycloudflare.com",
-    "issuedAt": "2026-11-20T06:34:46.950Z",
-    "expiresAt": "2026-12-20T06:34:46.950Z",
-    "nonce": "703d68fda8371b00fd4655a0039eaf8c"
+    "issuedAt": "2026-11-20T06:42:51.757Z",
+    "expiresAt": "2026-12-20T06:42:51.757Z",
+    "nonce": "833e07649da7357dd72ed51268bd285e"
   },
-  "signature": "wDxClmbzc3e2RlagHm0MSunI19mvW0XE0Mp/5eY4Ni7H5YDVXUqsZWn2aptrzBcb96O5DwR902+UB+Qqo7Pv0Q==",
+  "signature": "pn8Y3kag4CyzytTBj8PlvR0EGe/AmA0POHrdKpmLJFmIXfr+A6e+/QyeKgh8wiv8XIzZFBRifH5k/Z4JCru9mw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

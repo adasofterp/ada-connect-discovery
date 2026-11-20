@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-20T00:36:01.038Z",
-  "expiresAt": "2026-12-20T00:36:01.038Z",
-  "nonce": "7724211b4e8949e6934a600718821cb7",
+  "wsUrl": "wss://ottawa-coalition-oxygen-framing.trycloudflare.com",
+  "httpUrl": "https://ottawa-coalition-oxygen-framing.trycloudflare.com",
+  "updatedAt": "2026-11-20T00:36:09.555Z",
+  "expiresAt": "2026-12-20T00:36:09.555Z",
+  "nonce": "7d6df3d5a20fe3ee7cf59dadc615ea91",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-20T00:36:01.038Z",
-    "expiresAt": "2026-12-20T00:36:01.038Z",
-    "nonce": "7724211b4e8949e6934a600718821cb7"
+    "wsUrl": "wss://ottawa-coalition-oxygen-framing.trycloudflare.com",
+    "httpUrl": "https://ottawa-coalition-oxygen-framing.trycloudflare.com",
+    "issuedAt": "2026-11-20T00:36:09.555Z",
+    "expiresAt": "2026-12-20T00:36:09.555Z",
+    "nonce": "7d6df3d5a20fe3ee7cf59dadc615ea91"
   },
-  "signature": "f0dXFlZXy+LpseWy7aImcPmgvR3JK2rtKVqlMhwxSBLcO6j1Mn65/EctaRuhQJjbVL0QfVVMo7C64XTnErGfug==",
+  "signature": "1Ox4GB+5uI0QVzTtDTvSsBJ5HCaXYZgMCaROaJHha4wFdqXBl393UjTF8K48O3vCac1lLFuehnKiwHpmQoMBNQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

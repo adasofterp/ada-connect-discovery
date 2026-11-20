@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ottawa-coalition-oxygen-framing.trycloudflare.com",
-  "httpUrl": "https://ottawa-coalition-oxygen-framing.trycloudflare.com",
-  "updatedAt": "2026-11-20T00:36:09.555Z",
-  "expiresAt": "2026-12-20T00:36:09.555Z",
-  "nonce": "7d6df3d5a20fe3ee7cf59dadc615ea91",
+  "wsUrl": "wss://strap-hook-fantasy-departmental.trycloudflare.com",
+  "httpUrl": "https://strap-hook-fantasy-departmental.trycloudflare.com",
+  "updatedAt": "2026-11-20T00:46:41.790Z",
+  "expiresAt": "2026-12-20T00:46:41.790Z",
+  "nonce": "f0e036083150fdbcaf49e01a1c5ac060",
   "payload": {
-    "wsUrl": "wss://ottawa-coalition-oxygen-framing.trycloudflare.com",
-    "httpUrl": "https://ottawa-coalition-oxygen-framing.trycloudflare.com",
-    "issuedAt": "2026-11-20T00:36:09.555Z",
-    "expiresAt": "2026-12-20T00:36:09.555Z",
-    "nonce": "7d6df3d5a20fe3ee7cf59dadc615ea91"
+    "wsUrl": "wss://strap-hook-fantasy-departmental.trycloudflare.com",
+    "httpUrl": "https://strap-hook-fantasy-departmental.trycloudflare.com",
+    "issuedAt": "2026-11-20T00:46:41.790Z",
+    "expiresAt": "2026-12-20T00:46:41.790Z",
+    "nonce": "f0e036083150fdbcaf49e01a1c5ac060"
   },
-  "signature": "1Ox4GB+5uI0QVzTtDTvSsBJ5HCaXYZgMCaROaJHha4wFdqXBl393UjTF8K48O3vCac1lLFuehnKiwHpmQoMBNQ==",
+  "signature": "bfA6bUVBWp8Qr+TY9mLloU6ORgaW7kQgVLJOv896JItQRe8dpkzYwixFvAsam5C4xH7yGlMjFtm1i4FE4Sq+rg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

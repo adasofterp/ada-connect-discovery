@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://bottom-energy-tobago-gardens.trycloudflare.com",
-  "httpUrl": "https://bottom-energy-tobago-gardens.trycloudflare.com",
-  "updatedAt": "2026-11-20T02:57:23.439Z",
-  "expiresAt": "2026-12-20T02:57:23.439Z",
-  "nonce": "43941a8e18dbe18fecfbc355dd09dbf9",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-20T03:13:15.341Z",
+  "expiresAt": "2026-12-20T03:13:15.341Z",
+  "nonce": "ff1029387ad932cb26fad1ec66a8b363",
   "payload": {
-    "wsUrl": "wss://bottom-energy-tobago-gardens.trycloudflare.com",
-    "httpUrl": "https://bottom-energy-tobago-gardens.trycloudflare.com",
-    "issuedAt": "2026-11-20T02:57:23.439Z",
-    "expiresAt": "2026-12-20T02:57:23.439Z",
-    "nonce": "43941a8e18dbe18fecfbc355dd09dbf9"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-20T03:13:15.341Z",
+    "expiresAt": "2026-12-20T03:13:15.341Z",
+    "nonce": "ff1029387ad932cb26fad1ec66a8b363"
   },
-  "signature": "nM8LJGK/Kua5IDZE3Dfh+5X/UUGXg7iY+uHh+S8DyZk3VciqguIkNA/fMBvTrpmn+RVxNHUGf/dSm1RW2f/f2A==",
+  "signature": "AqONSLqTP5n9ogM9BnmbvKCR5Uch6VpYYsDjUD4D+EH3M+kqY3R6k09KtPP5EgMVZfip3E/JlEd+r7NUBWKB8w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

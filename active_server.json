@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://characteristics-fields-innovation-front.trycloudflare.com",
   "httpUrl": "https://characteristics-fields-innovation-front.trycloudflare.com",
-  "updatedAt": "2026-11-20T02:25:59.184Z",
-  "expiresAt": "2026-12-20T02:25:59.184Z",
-  "nonce": "3ece6db2305a28c6396bb2106c2a88af",
+  "updatedAt": "2026-11-20T02:36:21.258Z",
+  "expiresAt": "2026-12-20T02:36:21.258Z",
+  "nonce": "bd0ba8d36b54484f1468fe8f641af6f8",
   "payload": {
     "wsUrl": "wss://characteristics-fields-innovation-front.trycloudflare.com",
     "httpUrl": "https://characteristics-fields-innovation-front.trycloudflare.com",
-    "issuedAt": "2026-11-20T02:25:59.184Z",
-    "expiresAt": "2026-12-20T02:25:59.184Z",
-    "nonce": "3ece6db2305a28c6396bb2106c2a88af"
+    "issuedAt": "2026-11-20T02:36:21.258Z",
+    "expiresAt": "2026-12-20T02:36:21.258Z",
+    "nonce": "bd0ba8d36b54484f1468fe8f641af6f8"
   },
-  "signature": "RTKxKEBmV70I2Wv8k7FaWWap0bxAqUY5M6f2dwSin9j249ydcb4V37qvdP828HMx4x9wVHsfhfuMTX/98kPVFw==",
+  "signature": "XetkyfJMeqj929mUBEcsz8MkMoC8uWo61ZOQ/SjuvPXvQHHKrp0xMjw5c0y+j4svqkybVmXeuuhpPf0yNp2GYw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

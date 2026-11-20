@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://diversity-amd-director-driven.trycloudflare.com",
-  "httpUrl": "https://diversity-amd-director-driven.trycloudflare.com",
-  "updatedAt": "2026-11-20T01:07:31.949Z",
-  "expiresAt": "2026-12-20T01:07:31.949Z",
-  "nonce": "7343469de7e52438cdb1540254dceea9",
+  "wsUrl": "wss://rebates-thesaurus-maintaining-fairy.trycloudflare.com",
+  "httpUrl": "https://rebates-thesaurus-maintaining-fairy.trycloudflare.com",
+  "updatedAt": "2026-11-20T01:28:32.946Z",
+  "expiresAt": "2026-12-20T01:28:32.946Z",
+  "nonce": "dbe09513bb59f959973745786f127797",
   "payload": {
-    "wsUrl": "wss://diversity-amd-director-driven.trycloudflare.com",
-    "httpUrl": "https://diversity-amd-director-driven.trycloudflare.com",
-    "issuedAt": "2026-11-20T01:07:31.949Z",
-    "expiresAt": "2026-12-20T01:07:31.949Z",
-    "nonce": "7343469de7e52438cdb1540254dceea9"
+    "wsUrl": "wss://rebates-thesaurus-maintaining-fairy.trycloudflare.com",
+    "httpUrl": "https://rebates-thesaurus-maintaining-fairy.trycloudflare.com",
+    "issuedAt": "2026-11-20T01:28:32.946Z",
+    "expiresAt": "2026-12-20T01:28:32.946Z",
+    "nonce": "dbe09513bb59f959973745786f127797"
   },
-  "signature": "lPfWxfBKNsSrBXS4MW250gIlsMGSTTEJyppE8UZbAkWMdhmzP+PhQZ31ndavWC0NLeMriNtqlyBgqqyQg6hy0A==",
+  "signature": "H0vSfEyOq7lp+sDQzzOaMxZiXVU4PJSUlbip0oZcNPtf9AGJX9n08QGbikUnuNNGzSEm3HL/PN32yRTyfot7mg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

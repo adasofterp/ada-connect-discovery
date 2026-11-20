@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://chevy-funeral-dimensional-processes.trycloudflare.com",
-  "httpUrl": "https://chevy-funeral-dimensional-processes.trycloudflare.com",
-  "updatedAt": "2026-11-20T00:57:04.078Z",
-  "expiresAt": "2026-12-20T00:57:04.078Z",
-  "nonce": "c8bdda982f1a3079497da7e051e1c5b9",
+  "wsUrl": "wss://diversity-amd-director-driven.trycloudflare.com",
+  "httpUrl": "https://diversity-amd-director-driven.trycloudflare.com",
+  "updatedAt": "2026-11-20T01:07:31.949Z",
+  "expiresAt": "2026-12-20T01:07:31.949Z",
+  "nonce": "7343469de7e52438cdb1540254dceea9",
   "payload": {
-    "wsUrl": "wss://chevy-funeral-dimensional-processes.trycloudflare.com",
-    "httpUrl": "https://chevy-funeral-dimensional-processes.trycloudflare.com",
-    "issuedAt": "2026-11-20T00:57:04.078Z",
-    "expiresAt": "2026-12-20T00:57:04.078Z",
-    "nonce": "c8bdda982f1a3079497da7e051e1c5b9"
+    "wsUrl": "wss://diversity-amd-director-driven.trycloudflare.com",
+    "httpUrl": "https://diversity-amd-director-driven.trycloudflare.com",
+    "issuedAt": "2026-11-20T01:07:31.949Z",
+    "expiresAt": "2026-12-20T01:07:31.949Z",
+    "nonce": "7343469de7e52438cdb1540254dceea9"
   },
-  "signature": "3qh4lL+Bm5jndiW5UrqYunOSVJ0B/yrGBNY3W4v6A+9OORs9uMgvdI0QGHRj+1gV34LdIXUSNw2/aniz7r1jHQ==",
+  "signature": "lPfWxfBKNsSrBXS4MW250gIlsMGSTTEJyppE8UZbAkWMdhmzP+PhQZ31ndavWC0NLeMriNtqlyBgqqyQg6hy0A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

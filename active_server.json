@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://famous-treatments-cbs-neighborhood.trycloudflare.com",
-  "httpUrl": "https://famous-treatments-cbs-neighborhood.trycloudflare.com",
-  "updatedAt": "2026-11-20T04:48:13.588Z",
-  "expiresAt": "2026-12-20T04:48:13.588Z",
-  "nonce": "a9b4b3250143486a49fd500615ac5cfd",
+  "wsUrl": "wss://wrap-harold-distances-testament.trycloudflare.com",
+  "httpUrl": "https://wrap-harold-distances-testament.trycloudflare.com",
+  "updatedAt": "2026-11-20T04:58:38.881Z",
+  "expiresAt": "2026-12-20T04:58:38.881Z",
+  "nonce": "ba1da839a0bcc5c4e4f6820f6c8eef79",
   "payload": {
-    "wsUrl": "wss://famous-treatments-cbs-neighborhood.trycloudflare.com",
-    "httpUrl": "https://famous-treatments-cbs-neighborhood.trycloudflare.com",
-    "issuedAt": "2026-11-20T04:48:13.588Z",
-    "expiresAt": "2026-12-20T04:48:13.588Z",
-    "nonce": "a9b4b3250143486a49fd500615ac5cfd"
+    "wsUrl": "wss://wrap-harold-distances-testament.trycloudflare.com",
+    "httpUrl": "https://wrap-harold-distances-testament.trycloudflare.com",
+    "issuedAt": "2026-11-20T04:58:38.881Z",
+    "expiresAt": "2026-12-20T04:58:38.881Z",
+    "nonce": "ba1da839a0bcc5c4e4f6820f6c8eef79"
   },
-  "signature": "duw85T0Zzpo9LxmvTxDOG8zq7VfhWFz4aHkT7cUH4mp7ECH5+On5UQZBaE5utvAiw1C8+uM+ZHelRI9ViGfqcA==",
+  "signature": "bbz7DQRx7AFxLUIyNpRSSiALV1yHKqCw1xNFOSptXSDLjI8mz7Cgn6406da87Tn5PHh4rfrZKqqwBCn+kMyBZg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

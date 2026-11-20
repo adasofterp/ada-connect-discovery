@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://contributed-makeup-documentary-law.trycloudflare.com",
-  "httpUrl": "https://contributed-makeup-documentary-law.trycloudflare.com",
-  "updatedAt": "2026-11-20T04:16:50.451Z",
-  "expiresAt": "2026-12-20T04:16:50.451Z",
-  "nonce": "d51408a6f550925f8f6bc4c1aa6f59a7",
+  "wsUrl": "wss://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
+  "httpUrl": "https://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
+  "updatedAt": "2026-11-20T04:27:16.987Z",
+  "expiresAt": "2026-12-20T04:27:16.987Z",
+  "nonce": "8eb946b9138b7aab095161a9be8ca484",
   "payload": {
-    "wsUrl": "wss://contributed-makeup-documentary-law.trycloudflare.com",
-    "httpUrl": "https://contributed-makeup-documentary-law.trycloudflare.com",
-    "issuedAt": "2026-11-20T04:16:50.451Z",
-    "expiresAt": "2026-12-20T04:16:50.451Z",
-    "nonce": "d51408a6f550925f8f6bc4c1aa6f59a7"
+    "wsUrl": "wss://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
+    "httpUrl": "https://correspondence-atmosphere-brunette-sticky.trycloudflare.com",
+    "issuedAt": "2026-11-20T04:27:16.987Z",
+    "expiresAt": "2026-12-20T04:27:16.987Z",
+    "nonce": "8eb946b9138b7aab095161a9be8ca484"
   },
-  "signature": "nSLsKZLLCMViSJxoM7wOVpvU9hNOPW6uCUScwNcCF0wAUnsHJPqWh+QEw6BsCaFTF9un3H1jcyn7yiHhXy81sw==",
+  "signature": "yZBJtKyqTVooyWfPejiZDS2kGJSp6Ogm5w+A7vXp11ovacjcRVuSCLx9oeFbNNvr2h5rX/wJ1dV/kZOp9S/LTg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

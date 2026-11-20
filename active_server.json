@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ide-cdt-austin-tier.trycloudflare.com",
-  "httpUrl": "https://ide-cdt-austin-tier.trycloudflare.com",
-  "updatedAt": "2026-11-20T03:55:56.806Z",
-  "expiresAt": "2026-12-20T03:55:56.806Z",
-  "nonce": "266faf90d6d88af396abf82af71af866",
+  "wsUrl": "wss://contributed-makeup-documentary-law.trycloudflare.com",
+  "httpUrl": "https://contributed-makeup-documentary-law.trycloudflare.com",
+  "updatedAt": "2026-11-20T04:16:50.451Z",
+  "expiresAt": "2026-12-20T04:16:50.451Z",
+  "nonce": "d51408a6f550925f8f6bc4c1aa6f59a7",
   "payload": {
-    "wsUrl": "wss://ide-cdt-austin-tier.trycloudflare.com",
-    "httpUrl": "https://ide-cdt-austin-tier.trycloudflare.com",
-    "issuedAt": "2026-11-20T03:55:56.806Z",
-    "expiresAt": "2026-12-20T03:55:56.806Z",
-    "nonce": "266faf90d6d88af396abf82af71af866"
+    "wsUrl": "wss://contributed-makeup-documentary-law.trycloudflare.com",
+    "httpUrl": "https://contributed-makeup-documentary-law.trycloudflare.com",
+    "issuedAt": "2026-11-20T04:16:50.451Z",
+    "expiresAt": "2026-12-20T04:16:50.451Z",
+    "nonce": "d51408a6f550925f8f6bc4c1aa6f59a7"
   },
-  "signature": "0rZ4ki2ES/dV+VeHk1z9pTEbTlbtvzLiMMdktMj8c8rP2RdE2qSni9AFZVhZV85ce6zrZY2UW/Xv9LNEkUiPYQ==",
+  "signature": "nSLsKZLLCMViSJxoM7wOVpvU9hNOPW6uCUScwNcCF0wAUnsHJPqWh+QEw6BsCaFTF9un3H1jcyn7yiHhXy81sw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

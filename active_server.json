@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://genes-resolved-label-simulations.trycloudflare.com",
-  "httpUrl": "https://genes-resolved-label-simulations.trycloudflare.com",
-  "updatedAt": "2026-11-20T03:39:19.950Z",
-  "expiresAt": "2026-12-20T03:39:19.950Z",
-  "nonce": "254c958b008507039838d4f29d5f03f7",
+  "wsUrl": "wss://represented-sticks-gorgeous-worthy.trycloudflare.com",
+  "httpUrl": "https://represented-sticks-gorgeous-worthy.trycloudflare.com",
+  "updatedAt": "2026-11-20T03:49:43.717Z",
+  "expiresAt": "2026-12-20T03:49:43.717Z",
+  "nonce": "3a38d3f86209974b38db69584a1df1e8",
   "payload": {
-    "wsUrl": "wss://genes-resolved-label-simulations.trycloudflare.com",
-    "httpUrl": "https://genes-resolved-label-simulations.trycloudflare.com",
-    "issuedAt": "2026-11-20T03:39:19.950Z",
-    "expiresAt": "2026-12-20T03:39:19.950Z",
-    "nonce": "254c958b008507039838d4f29d5f03f7"
+    "wsUrl": "wss://represented-sticks-gorgeous-worthy.trycloudflare.com",
+    "httpUrl": "https://represented-sticks-gorgeous-worthy.trycloudflare.com",
+    "issuedAt": "2026-11-20T03:49:43.717Z",
+    "expiresAt": "2026-12-20T03:49:43.717Z",
+    "nonce": "3a38d3f86209974b38db69584a1df1e8"
   },
-  "signature": "0UGhvOsIe9rw9VGrZBNTlQTPNfMHdzfkhgVNZrkrFQHY9UR6EHwikhcZFd0+YFrcXd/kGtFpRm8yqS+Zviwwqg==",
+  "signature": "Gfh89qUyLUHBLsHCW0bOOQGVuIUKEtqPS4nNRlreR/ObexV7xywytsUexyaDweO6Lp8Ss7w6D8mX1Akniucmlg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

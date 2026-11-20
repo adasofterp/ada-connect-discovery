@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://been-tract-interval-stadium.trycloudflare.com",
-  "httpUrl": "https://been-tract-interval-stadium.trycloudflare.com",
-  "updatedAt": "2026-11-20T18:01:29.825Z",
-  "expiresAt": "2026-12-20T18:01:29.825Z",
-  "nonce": "6800c679b7ebce8423080a555db757b3",
+  "wsUrl": "wss://membrane-state-hidden-comm.trycloudflare.com",
+  "httpUrl": "https://membrane-state-hidden-comm.trycloudflare.com",
+  "updatedAt": "2026-11-20T18:02:10.586Z",
+  "expiresAt": "2026-12-20T18:02:10.586Z",
+  "nonce": "a05833654899ad228844c37334de2923",
   "payload": {
-    "wsUrl": "wss://been-tract-interval-stadium.trycloudflare.com",
-    "httpUrl": "https://been-tract-interval-stadium.trycloudflare.com",
-    "issuedAt": "2026-11-20T18:01:29.825Z",
-    "expiresAt": "2026-12-20T18:01:29.825Z",
-    "nonce": "6800c679b7ebce8423080a555db757b3"
+    "wsUrl": "wss://membrane-state-hidden-comm.trycloudflare.com",
+    "httpUrl": "https://membrane-state-hidden-comm.trycloudflare.com",
+    "issuedAt": "2026-11-20T18:02:10.586Z",
+    "expiresAt": "2026-12-20T18:02:10.586Z",
+    "nonce": "a05833654899ad228844c37334de2923"
   },
-  "signature": "EiTY6mJmzSGhnsoNGi+CI3fM70nTQNrRazEAyuY5nPJjXusu6SHTvq6lJT6CQ9DL4CV2yT2VJQX+zGpQb3Jw5A==",
+  "signature": "41bSmcZkpPqqdWSr069Q9KEpyHxlN+Hs/U1bdjFVZCImwaHGy2mCz9pX1TE+3vkZ/yq+6aWMTHLMeXx5w98aBw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

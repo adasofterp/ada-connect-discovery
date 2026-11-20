@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://characteristics-fields-innovation-front.trycloudflare.com",
-  "httpUrl": "https://characteristics-fields-innovation-front.trycloudflare.com",
-  "updatedAt": "2026-11-20T02:36:21.258Z",
-  "expiresAt": "2026-12-20T02:36:21.258Z",
-  "nonce": "bd0ba8d36b54484f1468fe8f641af6f8",
+  "wsUrl": "wss://implied-knowledge-studio-attempting.trycloudflare.com",
+  "httpUrl": "https://implied-knowledge-studio-attempting.trycloudflare.com",
+  "updatedAt": "2026-11-20T02:36:26.706Z",
+  "expiresAt": "2026-12-20T02:36:26.706Z",
+  "nonce": "7e4ec04302c819a4ba55effbbcbbf598",
   "payload": {
-    "wsUrl": "wss://characteristics-fields-innovation-front.trycloudflare.com",
-    "httpUrl": "https://characteristics-fields-innovation-front.trycloudflare.com",
-    "issuedAt": "2026-11-20T02:36:21.258Z",
-    "expiresAt": "2026-12-20T02:36:21.258Z",
-    "nonce": "bd0ba8d36b54484f1468fe8f641af6f8"
+    "wsUrl": "wss://implied-knowledge-studio-attempting.trycloudflare.com",
+    "httpUrl": "https://implied-knowledge-studio-attempting.trycloudflare.com",
+    "issuedAt": "2026-11-20T02:36:26.706Z",
+    "expiresAt": "2026-12-20T02:36:26.706Z",
+    "nonce": "7e4ec04302c819a4ba55effbbcbbf598"
   },
-  "signature": "XetkyfJMeqj929mUBEcsz8MkMoC8uWo61ZOQ/SjuvPXvQHHKrp0xMjw5c0y+j4svqkybVmXeuuhpPf0yNp2GYw==",
+  "signature": "+JubcGsdtd5ZPIEjP0Ev1cNJqc4fD+rR9DUseqiykC+NsrkSCxHySQg/5ASaHAh04ExdZjwgHOrAHXarUGwmGQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

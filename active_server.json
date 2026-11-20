@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://represented-sticks-gorgeous-worthy.trycloudflare.com",
-  "httpUrl": "https://represented-sticks-gorgeous-worthy.trycloudflare.com",
-  "updatedAt": "2026-11-20T03:49:43.717Z",
-  "expiresAt": "2026-12-20T03:49:43.717Z",
-  "nonce": "3a38d3f86209974b38db69584a1df1e8",
+  "wsUrl": "wss://ide-cdt-austin-tier.trycloudflare.com",
+  "httpUrl": "https://ide-cdt-austin-tier.trycloudflare.com",
+  "updatedAt": "2026-11-20T03:55:56.806Z",
+  "expiresAt": "2026-12-20T03:55:56.806Z",
+  "nonce": "266faf90d6d88af396abf82af71af866",
   "payload": {
-    "wsUrl": "wss://represented-sticks-gorgeous-worthy.trycloudflare.com",
-    "httpUrl": "https://represented-sticks-gorgeous-worthy.trycloudflare.com",
-    "issuedAt": "2026-11-20T03:49:43.717Z",
-    "expiresAt": "2026-12-20T03:49:43.717Z",
-    "nonce": "3a38d3f86209974b38db69584a1df1e8"
+    "wsUrl": "wss://ide-cdt-austin-tier.trycloudflare.com",
+    "httpUrl": "https://ide-cdt-austin-tier.trycloudflare.com",
+    "issuedAt": "2026-11-20T03:55:56.806Z",
+    "expiresAt": "2026-12-20T03:55:56.806Z",
+    "nonce": "266faf90d6d88af396abf82af71af866"
   },
-  "signature": "Gfh89qUyLUHBLsHCW0bOOQGVuIUKEtqPS4nNRlreR/ObexV7xywytsUexyaDweO6Lp8Ss7w6D8mX1Akniucmlg==",
+  "signature": "0rZ4ki2ES/dV+VeHk1z9pTEbTlbtvzLiMMdktMj8c8rP2RdE2qSni9AFZVhZV85ce6zrZY2UW/Xv9LNEkUiPYQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

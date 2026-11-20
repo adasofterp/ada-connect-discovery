@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://var-cigarette-keeping-frozen.trycloudflare.com",
-  "httpUrl": "https://var-cigarette-keeping-frozen.trycloudflare.com",
-  "updatedAt": "2026-11-20T03:18:27.462Z",
-  "expiresAt": "2026-12-20T03:18:27.462Z",
-  "nonce": "b00559621582f9b32515140afc67e91d",
+  "wsUrl": "wss://navigation-tri-wrist-platinum.trycloudflare.com",
+  "httpUrl": "https://navigation-tri-wrist-platinum.trycloudflare.com",
+  "updatedAt": "2026-11-20T03:28:52.851Z",
+  "expiresAt": "2026-12-20T03:28:52.851Z",
+  "nonce": "6684b8b4f8c616cae4372585bdf36b20",
   "payload": {
-    "wsUrl": "wss://var-cigarette-keeping-frozen.trycloudflare.com",
-    "httpUrl": "https://var-cigarette-keeping-frozen.trycloudflare.com",
-    "issuedAt": "2026-11-20T03:18:27.462Z",
-    "expiresAt": "2026-12-20T03:18:27.462Z",
-    "nonce": "b00559621582f9b32515140afc67e91d"
+    "wsUrl": "wss://navigation-tri-wrist-platinum.trycloudflare.com",
+    "httpUrl": "https://navigation-tri-wrist-platinum.trycloudflare.com",
+    "issuedAt": "2026-11-20T03:28:52.851Z",
+    "expiresAt": "2026-12-20T03:28:52.851Z",
+    "nonce": "6684b8b4f8c616cae4372585bdf36b20"
   },
-  "signature": "UfdN+b/SCpYatBm83BX8A00BoAWLNHwpjvNbCpCmkZtgQ2PvtlzL1dOqs+N3bQFcb5TWm7CDiL2qiYTGAkl2KQ==",
+  "signature": "YTB2nKJhVKl96yUMqDpU3CqhT8sfw7hOeq80kz1UXxumFn9vT3odFOssBA1H1UTQa1VTE0tWJLYEbnZ5BVX4iw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

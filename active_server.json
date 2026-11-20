@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://thoughts-circular-become-addresses.trycloudflare.com",
-  "httpUrl": "https://thoughts-circular-become-addresses.trycloudflare.com",
-  "updatedAt": "2026-11-20T15:26:25.600Z",
-  "expiresAt": "2026-12-20T15:26:25.601Z",
-  "nonce": "2b8bfddfd6240ba5758336c6cf34e05e",
+  "wsUrl": "wss://eden-bonus-character-memorial.trycloudflare.com",
+  "httpUrl": "https://eden-bonus-character-memorial.trycloudflare.com",
+  "updatedAt": "2026-11-20T15:27:03.336Z",
+  "expiresAt": "2026-12-20T15:27:03.336Z",
+  "nonce": "8724f706ee7eb6249f3cf63c3788dcdd",
   "payload": {
-    "wsUrl": "wss://thoughts-circular-become-addresses.trycloudflare.com",
-    "httpUrl": "https://thoughts-circular-become-addresses.trycloudflare.com",
-    "issuedAt": "2026-11-20T15:26:25.600Z",
-    "expiresAt": "2026-12-20T15:26:25.601Z",
-    "nonce": "2b8bfddfd6240ba5758336c6cf34e05e"
+    "wsUrl": "wss://eden-bonus-character-memorial.trycloudflare.com",
+    "httpUrl": "https://eden-bonus-character-memorial.trycloudflare.com",
+    "issuedAt": "2026-11-20T15:27:03.336Z",
+    "expiresAt": "2026-12-20T15:27:03.336Z",
+    "nonce": "8724f706ee7eb6249f3cf63c3788dcdd"
   },
-  "signature": "wf0Cqdc1CDZUBiINX+UNDPKTZNVtQ5YYIbbXLEboJuQFV3yIx8aRiMnCJPm1ELJSbqUMHw4owqle1O8IASKsgw==",
+  "signature": "M9o+ZaVh6TpaOTipQp6UkAXASHwuVgx8Pn+wN6oPipooj7P+TZeqatudugZf6BS5ynRyyvQRttcedUVC1R9k+Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

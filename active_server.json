@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://parks-referral-arabic-consumption.trycloudflare.com",
-  "httpUrl": "https://parks-referral-arabic-consumption.trycloudflare.com",
-  "updatedAt": "2026-11-20T15:12:50.189Z",
-  "expiresAt": "2026-12-20T15:12:50.189Z",
-  "nonce": "189ca2a69c166a3bb772efb72d07edc4",
+  "wsUrl": "wss://armed-streams-shown-bag.trycloudflare.com",
+  "httpUrl": "https://armed-streams-shown-bag.trycloudflare.com",
+  "updatedAt": "2026-11-20T15:20:42.526Z",
+  "expiresAt": "2026-12-20T15:20:42.526Z",
+  "nonce": "783652ac988015f3b62a65d3b664410f",
   "payload": {
-    "wsUrl": "wss://parks-referral-arabic-consumption.trycloudflare.com",
-    "httpUrl": "https://parks-referral-arabic-consumption.trycloudflare.com",
-    "issuedAt": "2026-11-20T15:12:50.189Z",
-    "expiresAt": "2026-12-20T15:12:50.189Z",
-    "nonce": "189ca2a69c166a3bb772efb72d07edc4"
+    "wsUrl": "wss://armed-streams-shown-bag.trycloudflare.com",
+    "httpUrl": "https://armed-streams-shown-bag.trycloudflare.com",
+    "issuedAt": "2026-11-20T15:20:42.526Z",
+    "expiresAt": "2026-12-20T15:20:42.526Z",
+    "nonce": "783652ac988015f3b62a65d3b664410f"
   },
-  "signature": "U/gBMSw5pTFhv3g0OFLGO0qLJJUrTG2bHdh3XKgL77TVo3dJOoCDyy+nVYSEijHmZ4/b2ULnotxMVStOdiGWvA==",
+  "signature": "heCSQ+aLcL/9BVbnXUHa/875434MFUmp1sIM4inDvpX9my+YAsJxHZ9Crarq3DFKioXn9siYFSF7Je/owb8FSQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

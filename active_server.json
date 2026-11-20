@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-20T05:59:09.234Z",
-  "expiresAt": "2026-12-20T05:59:09.234Z",
-  "nonce": "db6d105575da9c6a311e162f7a2828e7",
+  "wsUrl": "wss://advisor-home-reduces-wright.trycloudflare.com",
+  "httpUrl": "https://advisor-home-reduces-wright.trycloudflare.com",
+  "updatedAt": "2026-11-20T06:34:46.950Z",
+  "expiresAt": "2026-12-20T06:34:46.950Z",
+  "nonce": "703d68fda8371b00fd4655a0039eaf8c",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-20T05:59:09.234Z",
-    "expiresAt": "2026-12-20T05:59:09.234Z",
-    "nonce": "db6d105575da9c6a311e162f7a2828e7"
+    "wsUrl": "wss://advisor-home-reduces-wright.trycloudflare.com",
+    "httpUrl": "https://advisor-home-reduces-wright.trycloudflare.com",
+    "issuedAt": "2026-11-20T06:34:46.950Z",
+    "expiresAt": "2026-12-20T06:34:46.950Z",
+    "nonce": "703d68fda8371b00fd4655a0039eaf8c"
   },
-  "signature": "/HO5HvR0QgViQ1W7njFRk6OXGKiv+hw9KCslEAyouG93VUY5RQr8qd8R5lW8V0cKCHhrqBmSLJnBO/qyoVQHbg==",
+  "signature": "wDxClmbzc3e2RlagHm0MSunI19mvW0XE0Mp/5eY4Ni7H5YDVXUqsZWn2aptrzBcb96O5DwR902+UB+Qqo7Pv0Q==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://registered-giants-reprints-pleased.trycloudflare.com",
-  "httpUrl": "https://registered-giants-reprints-pleased.trycloudflare.com",
-  "updatedAt": "2026-11-20T05:09:04.851Z",
-  "expiresAt": "2026-12-20T05:09:04.851Z",
-  "nonce": "7ccb136aecc4eaf17dfb59aa120deb8f",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-20T05:31:01.303Z",
+  "expiresAt": "2026-12-20T05:31:01.303Z",
+  "nonce": "7c3b5dfff44705cf77f4a79698e0860f",
   "payload": {
-    "wsUrl": "wss://registered-giants-reprints-pleased.trycloudflare.com",
-    "httpUrl": "https://registered-giants-reprints-pleased.trycloudflare.com",
-    "issuedAt": "2026-11-20T05:09:04.851Z",
-    "expiresAt": "2026-12-20T05:09:04.851Z",
-    "nonce": "7ccb136aecc4eaf17dfb59aa120deb8f"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-20T05:31:01.303Z",
+    "expiresAt": "2026-12-20T05:31:01.303Z",
+    "nonce": "7c3b5dfff44705cf77f4a79698e0860f"
   },
-  "signature": "neLMj3uGALb3HiTW/6rN1XDDzeL/t9qgmhxYeUFSEZEJB5c5ssO7zokwSRsd6V8OlUM9VLRuzoLsLlqfYR3cPw==",
+  "signature": "bmX1qxnJ772LypHCEtk/4IY0JzTLL5oYzsLnJA8mf+ohG5ZsTO0j2yYe54xEfhP2jT/KTjTuKZDJtOEPGM1pFw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

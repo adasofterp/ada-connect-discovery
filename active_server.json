@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://appreciation-cemetery-concord-protected.trycloudflare.com",
-  "httpUrl": "https://appreciation-cemetery-concord-protected.trycloudflare.com",
-  "updatedAt": "2026-11-20T10:42:51.822Z",
-  "expiresAt": "2026-12-20T10:42:51.822Z",
-  "nonce": "efd694f1ea158285eb0044ab066ffbd4",
+  "wsUrl": "wss://area-develops-sussex-advocate.trycloudflare.com",
+  "httpUrl": "https://area-develops-sussex-advocate.trycloudflare.com",
+  "updatedAt": "2026-11-20T13:29:39.993Z",
+  "expiresAt": "2026-12-20T13:29:39.993Z",
+  "nonce": "61c1cf7f837a038184243657600f5428",
   "payload": {
-    "wsUrl": "wss://appreciation-cemetery-concord-protected.trycloudflare.com",
-    "httpUrl": "https://appreciation-cemetery-concord-protected.trycloudflare.com",
-    "issuedAt": "2026-11-20T10:42:51.822Z",
-    "expiresAt": "2026-12-20T10:42:51.822Z",
-    "nonce": "efd694f1ea158285eb0044ab066ffbd4"
+    "wsUrl": "wss://area-develops-sussex-advocate.trycloudflare.com",
+    "httpUrl": "https://area-develops-sussex-advocate.trycloudflare.com",
+    "issuedAt": "2026-11-20T13:29:39.993Z",
+    "expiresAt": "2026-12-20T13:29:39.993Z",
+    "nonce": "61c1cf7f837a038184243657600f5428"
   },
-  "signature": "wwPpnQ7V2wQI3zc8m904WU8xo7KsnknGFqRPkrgmUaTUpYJAwau91Eym+wqcWnTz2nmupGpUYHRNu9ul9EGg3Q==",
+  "signature": "d37+9x/njcImwQpGNwoYe5aRNHi2ALV2csqUiWbBtRzRvKqvXa1/77oRxyKmUziJPiXpVQK5ofnYMHN8bHg6RQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

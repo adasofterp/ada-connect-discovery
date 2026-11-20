@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://area-develops-sussex-advocate.trycloudflare.com",
-  "httpUrl": "https://area-develops-sussex-advocate.trycloudflare.com",
-  "updatedAt": "2026-11-20T13:29:39.993Z",
-  "expiresAt": "2026-12-20T13:29:39.993Z",
-  "nonce": "61c1cf7f837a038184243657600f5428",
+  "wsUrl": "wss://packets-results-flooring-patch.trycloudflare.com",
+  "httpUrl": "https://packets-results-flooring-patch.trycloudflare.com",
+  "updatedAt": "2026-11-20T14:19:39.877Z",
+  "expiresAt": "2026-12-20T14:19:39.877Z",
+  "nonce": "ffd3fe6e66d5c119343e66b56f99983c",
   "payload": {
-    "wsUrl": "wss://area-develops-sussex-advocate.trycloudflare.com",
-    "httpUrl": "https://area-develops-sussex-advocate.trycloudflare.com",
-    "issuedAt": "2026-11-20T13:29:39.993Z",
-    "expiresAt": "2026-12-20T13:29:39.993Z",
-    "nonce": "61c1cf7f837a038184243657600f5428"
+    "wsUrl": "wss://packets-results-flooring-patch.trycloudflare.com",
+    "httpUrl": "https://packets-results-flooring-patch.trycloudflare.com",
+    "issuedAt": "2026-11-20T14:19:39.877Z",
+    "expiresAt": "2026-12-20T14:19:39.877Z",
+    "nonce": "ffd3fe6e66d5c119343e66b56f99983c"
   },
-  "signature": "d37+9x/njcImwQpGNwoYe5aRNHi2ALV2csqUiWbBtRzRvKqvXa1/77oRxyKmUziJPiXpVQK5ofnYMHN8bHg6RQ==",
+  "signature": "UjRZb054WmmT0KnFAWrMnfuUQ0VNAiL7kh7HpgekqfbfF4hSz/QI9BhVUZ/WmHp3HeWo3xtplcEBXNpjF8SLXg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

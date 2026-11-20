@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://integrity-ruled-shed-year.trycloudflare.com",
-  "httpUrl": "https://integrity-ruled-shed-year.trycloudflare.com",
-  "updatedAt": "2026-11-20T02:15:31.718Z",
-  "expiresAt": "2026-12-20T02:15:31.718Z",
-  "nonce": "7e04d148afedcba269cd77813b1c4f01",
+  "wsUrl": "wss://characteristics-fields-innovation-front.trycloudflare.com",
+  "httpUrl": "https://characteristics-fields-innovation-front.trycloudflare.com",
+  "updatedAt": "2026-11-20T02:25:59.184Z",
+  "expiresAt": "2026-12-20T02:25:59.184Z",
+  "nonce": "3ece6db2305a28c6396bb2106c2a88af",
   "payload": {
-    "wsUrl": "wss://integrity-ruled-shed-year.trycloudflare.com",
-    "httpUrl": "https://integrity-ruled-shed-year.trycloudflare.com",
-    "issuedAt": "2026-11-20T02:15:31.718Z",
-    "expiresAt": "2026-12-20T02:15:31.718Z",
-    "nonce": "7e04d148afedcba269cd77813b1c4f01"
+    "wsUrl": "wss://characteristics-fields-innovation-front.trycloudflare.com",
+    "httpUrl": "https://characteristics-fields-innovation-front.trycloudflare.com",
+    "issuedAt": "2026-11-20T02:25:59.184Z",
+    "expiresAt": "2026-12-20T02:25:59.184Z",
+    "nonce": "3ece6db2305a28c6396bb2106c2a88af"
   },
-  "signature": "j6LREaMfR6eathgkqnwDYjZ76kze0eu/20WDMUhPsJ33vrW6GNhGfXrNNqhPLkAP+h5wc5qUCLiW8ZTNecZHSg==",
+  "signature": "RTKxKEBmV70I2Wv8k7FaWWap0bxAqUY5M6f2dwSin9j249ydcb4V37qvdP828HMx4x9wVHsfhfuMTX/98kPVFw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

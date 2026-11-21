@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://louisiana-thereof-recipes-stage.trycloudflare.com",
-  "httpUrl": "https://louisiana-thereof-recipes-stage.trycloudflare.com",
-  "updatedAt": "2026-11-21T10:33:11.074Z",
-  "expiresAt": "2026-12-21T10:33:11.074Z",
-  "nonce": "b07dbca43e948c850fb71787e751309d",
+  "wsUrl": "wss://interactive-logging-tim-mechanism.trycloudflare.com",
+  "httpUrl": "https://interactive-logging-tim-mechanism.trycloudflare.com",
+  "updatedAt": "2026-11-21T11:49:33.053Z",
+  "expiresAt": "2026-12-21T11:49:33.053Z",
+  "nonce": "d80ccca77c5c7a2e298c07be76747145",
   "payload": {
-    "wsUrl": "wss://louisiana-thereof-recipes-stage.trycloudflare.com",
-    "httpUrl": "https://louisiana-thereof-recipes-stage.trycloudflare.com",
-    "issuedAt": "2026-11-21T10:33:11.074Z",
-    "expiresAt": "2026-12-21T10:33:11.074Z",
-    "nonce": "b07dbca43e948c850fb71787e751309d"
+    "wsUrl": "wss://interactive-logging-tim-mechanism.trycloudflare.com",
+    "httpUrl": "https://interactive-logging-tim-mechanism.trycloudflare.com",
+    "issuedAt": "2026-11-21T11:49:33.053Z",
+    "expiresAt": "2026-12-21T11:49:33.053Z",
+    "nonce": "d80ccca77c5c7a2e298c07be76747145"
   },
-  "signature": "Z7Jp0a/Rv6klc3j0Hulnlpovd+LwqNSnh77XAjj3xWeQQtlXorfd7zCyM8mvA1QmGL8zOSv041F9VACoVv31RA==",
+  "signature": "/geFcb4ZJDaGwkB4rAMDh8bLE2PpQpbPcPx5ZesnFLmwIsLbCIRO5Ylep9olOHtEGLISBoFU7f1EFCrb3ZLUWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

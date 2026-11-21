@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://goals-leisure-aim-buzz.trycloudflare.com",
-  "httpUrl": "https://goals-leisure-aim-buzz.trycloudflare.com",
-  "updatedAt": "2026-11-21T15:13:38.061Z",
-  "expiresAt": "2026-12-21T15:13:38.061Z",
-  "nonce": "5eeb374180f1dec2c94548d91acf5abf",
+  "wsUrl": "wss://dana-cooper-reason-ala.trycloudflare.com",
+  "httpUrl": "https://dana-cooper-reason-ala.trycloudflare.com",
+  "updatedAt": "2026-11-21T15:21:53.635Z",
+  "expiresAt": "2026-12-21T15:21:53.635Z",
+  "nonce": "527b62aae1a700efdd4988ff7a043bf9",
   "payload": {
-    "wsUrl": "wss://goals-leisure-aim-buzz.trycloudflare.com",
-    "httpUrl": "https://goals-leisure-aim-buzz.trycloudflare.com",
-    "issuedAt": "2026-11-21T15:13:38.061Z",
-    "expiresAt": "2026-12-21T15:13:38.061Z",
-    "nonce": "5eeb374180f1dec2c94548d91acf5abf"
+    "wsUrl": "wss://dana-cooper-reason-ala.trycloudflare.com",
+    "httpUrl": "https://dana-cooper-reason-ala.trycloudflare.com",
+    "issuedAt": "2026-11-21T15:21:53.635Z",
+    "expiresAt": "2026-12-21T15:21:53.635Z",
+    "nonce": "527b62aae1a700efdd4988ff7a043bf9"
   },
-  "signature": "YRuk5wa4xjMyrQke09Ewz6Y661TQPnZxEaZ843Xh8IqNZf8fxLo+5E87E/vBw9LKoDgqQ79rRK6WYTbSFpCcSQ==",
+  "signature": "BBMO+kRK/JMzTr4bwS3XTB840Xr96oTQWDrrKkbs8c+vKLVRk3BNd4jhzrswlSBPhSbAKloR956/ZVBmHKoTxA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://gazette-runtime-lady-guest.trycloudflare.com",
-  "httpUrl": "https://gazette-runtime-lady-guest.trycloudflare.com",
-  "updatedAt": "2026-11-20T19:23:35.706Z",
-  "expiresAt": "2026-12-20T19:23:35.706Z",
-  "nonce": "4d60b55b963d55db9029752d5952eab3",
+  "wsUrl": "wss://disclose-municipal-compare-labeled.trycloudflare.com",
+  "httpUrl": "https://disclose-municipal-compare-labeled.trycloudflare.com",
+  "updatedAt": "2026-11-21T07:05:35.969Z",
+  "expiresAt": "2026-12-21T07:05:35.969Z",
+  "nonce": "871aa74de8a191c3f175016b6184973e",
   "payload": {
-    "wsUrl": "wss://gazette-runtime-lady-guest.trycloudflare.com",
-    "httpUrl": "https://gazette-runtime-lady-guest.trycloudflare.com",
-    "issuedAt": "2026-11-20T19:23:35.706Z",
-    "expiresAt": "2026-12-20T19:23:35.706Z",
-    "nonce": "4d60b55b963d55db9029752d5952eab3"
+    "wsUrl": "wss://disclose-municipal-compare-labeled.trycloudflare.com",
+    "httpUrl": "https://disclose-municipal-compare-labeled.trycloudflare.com",
+    "issuedAt": "2026-11-21T07:05:35.969Z",
+    "expiresAt": "2026-12-21T07:05:35.969Z",
+    "nonce": "871aa74de8a191c3f175016b6184973e"
   },
-  "signature": "UV53DcWsasKmslOho+w1/sfYcYQK1NqSPiZy1v1d2OvstPKHq1gr2lG/DVeB4QHM8za/DhlFtQROv8MLEHiKAA==",
+  "signature": "AHVPcS1lajPBABjL0ik2acH6b58uNNo0OgDjMKOv8OK/guuRHZDHSkXQidDtG+IIqYxbJygbUaapVBvZjoCUTg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

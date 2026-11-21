@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ken-rider-scheme-consultation.trycloudflare.com",
-  "httpUrl": "https://ken-rider-scheme-consultation.trycloudflare.com",
-  "updatedAt": "2026-11-21T13:22:07.505Z",
-  "expiresAt": "2026-12-21T13:22:07.505Z",
-  "nonce": "ece2cc09de60015804284b04c245c527",
+  "wsUrl": "wss://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
+  "httpUrl": "https://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
+  "updatedAt": "2026-11-21T14:02:11.685Z",
+  "expiresAt": "2026-12-21T14:02:11.685Z",
+  "nonce": "712d5691c22e36928db1ba33adb3695b",
   "payload": {
-    "wsUrl": "wss://ken-rider-scheme-consultation.trycloudflare.com",
-    "httpUrl": "https://ken-rider-scheme-consultation.trycloudflare.com",
-    "issuedAt": "2026-11-21T13:22:07.505Z",
-    "expiresAt": "2026-12-21T13:22:07.505Z",
-    "nonce": "ece2cc09de60015804284b04c245c527"
+    "wsUrl": "wss://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
+    "httpUrl": "https://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
+    "issuedAt": "2026-11-21T14:02:11.685Z",
+    "expiresAt": "2026-12-21T14:02:11.685Z",
+    "nonce": "712d5691c22e36928db1ba33adb3695b"
   },
-  "signature": "5TlrzauwBmXdnV7MsnvqrpqEqayROhy+GO0I6cNy2x7O/L3NI0CIW+3ZVM8/JXxo2ewd4yangwjpkDCSpfPhIQ==",
+  "signature": "82ZBTwnB2n/dnB0JgMfhMXkgm8Ft0+UXFfvokTS37GXRomJoF7IfR3d++w6AgRpn7mbguQEqhflKjonK1zrliQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

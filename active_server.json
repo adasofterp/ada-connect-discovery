@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://dana-cooper-reason-ala.trycloudflare.com",
-  "httpUrl": "https://dana-cooper-reason-ala.trycloudflare.com",
-  "updatedAt": "2026-11-21T15:21:53.635Z",
-  "expiresAt": "2026-12-21T15:21:53.635Z",
-  "nonce": "527b62aae1a700efdd4988ff7a043bf9",
+  "wsUrl": "wss://criticism-daisy-nathan-him.trycloudflare.com",
+  "httpUrl": "https://criticism-daisy-nathan-him.trycloudflare.com",
+  "updatedAt": "2026-11-21T15:38:16.504Z",
+  "expiresAt": "2026-12-21T15:38:16.504Z",
+  "nonce": "e601c69ca37504e723a8aad13237beef",
   "payload": {
-    "wsUrl": "wss://dana-cooper-reason-ala.trycloudflare.com",
-    "httpUrl": "https://dana-cooper-reason-ala.trycloudflare.com",
-    "issuedAt": "2026-11-21T15:21:53.635Z",
-    "expiresAt": "2026-12-21T15:21:53.635Z",
-    "nonce": "527b62aae1a700efdd4988ff7a043bf9"
+    "wsUrl": "wss://criticism-daisy-nathan-him.trycloudflare.com",
+    "httpUrl": "https://criticism-daisy-nathan-him.trycloudflare.com",
+    "issuedAt": "2026-11-21T15:38:16.504Z",
+    "expiresAt": "2026-12-21T15:38:16.504Z",
+    "nonce": "e601c69ca37504e723a8aad13237beef"
   },
-  "signature": "BBMO+kRK/JMzTr4bwS3XTB840Xr96oTQWDrrKkbs8c+vKLVRk3BNd4jhzrswlSBPhSbAKloR956/ZVBmHKoTxA==",
+  "signature": "lTH6EpzZhV6pDhDUjQ2X4SfVnk9lfCkzJCslanQFxPm/FgdyiRylsijDpWZDuJj6oaCprlFUwXBqDOzCKCJtPg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

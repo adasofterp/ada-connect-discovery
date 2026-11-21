@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://criticism-daisy-nathan-him.trycloudflare.com",
-  "httpUrl": "https://criticism-daisy-nathan-him.trycloudflare.com",
-  "updatedAt": "2026-11-21T15:38:16.504Z",
-  "expiresAt": "2026-12-21T15:38:16.504Z",
-  "nonce": "e601c69ca37504e723a8aad13237beef",
+  "wsUrl": "wss://dns-posts-roll-graphic.trycloudflare.com",
+  "httpUrl": "https://dns-posts-roll-graphic.trycloudflare.com",
+  "updatedAt": "2026-11-21T19:01:54.372Z",
+  "expiresAt": "2026-12-21T19:01:54.372Z",
+  "nonce": "bc9687216d25312c555b366085f6fa23",
   "payload": {
-    "wsUrl": "wss://criticism-daisy-nathan-him.trycloudflare.com",
-    "httpUrl": "https://criticism-daisy-nathan-him.trycloudflare.com",
-    "issuedAt": "2026-11-21T15:38:16.504Z",
-    "expiresAt": "2026-12-21T15:38:16.504Z",
-    "nonce": "e601c69ca37504e723a8aad13237beef"
+    "wsUrl": "wss://dns-posts-roll-graphic.trycloudflare.com",
+    "httpUrl": "https://dns-posts-roll-graphic.trycloudflare.com",
+    "issuedAt": "2026-11-21T19:01:54.372Z",
+    "expiresAt": "2026-12-21T19:01:54.372Z",
+    "nonce": "bc9687216d25312c555b366085f6fa23"
   },
-  "signature": "lTH6EpzZhV6pDhDUjQ2X4SfVnk9lfCkzJCslanQFxPm/FgdyiRylsijDpWZDuJj6oaCprlFUwXBqDOzCKCJtPg==",
+  "signature": "NaZwvJGQmB8w6/akZPW5jjsqsOcJOygw37YmPVdma35ID83IlWfeHHoe4K71Oqbhbzh+j+1DSyxSVAF6HM/wkQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

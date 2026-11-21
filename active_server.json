@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://rides-gbp-inkjet-fans.trycloudflare.com",
-  "httpUrl": "https://rides-gbp-inkjet-fans.trycloudflare.com",
-  "updatedAt": "2026-11-21T12:25:38.236Z",
-  "expiresAt": "2026-12-21T12:25:38.236Z",
-  "nonce": "4384b92729285697a10bea1c695a0446",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-21T12:50:54.048Z",
+  "expiresAt": "2026-12-21T12:50:54.048Z",
+  "nonce": "e3aea59b038f41c18aa10567cf35fdd4",
   "payload": {
-    "wsUrl": "wss://rides-gbp-inkjet-fans.trycloudflare.com",
-    "httpUrl": "https://rides-gbp-inkjet-fans.trycloudflare.com",
-    "issuedAt": "2026-11-21T12:25:38.236Z",
-    "expiresAt": "2026-12-21T12:25:38.236Z",
-    "nonce": "4384b92729285697a10bea1c695a0446"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-21T12:50:54.048Z",
+    "expiresAt": "2026-12-21T12:50:54.048Z",
+    "nonce": "e3aea59b038f41c18aa10567cf35fdd4"
   },
-  "signature": "wDwCFc9AwXQS8Arz8Beeuh61l9fmjEXlfzukQFDCh7asH6RitlEyiSsaYEqXBSCfa0habgnpwszt8ZG1wf1GFg==",
+  "signature": "flT6vXQ2r6hp5q0JFOTJ8ks6Nz/b6S20peD+Yvew8Y+Onns/4HOlw5JLKwI0CdmMF9EbUQFzJm7P7OA00jOnEA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

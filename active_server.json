@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://indie-top-digit-army.trycloudflare.com",
-  "httpUrl": "https://indie-top-digit-army.trycloudflare.com",
-  "updatedAt": "2026-11-21T12:00:02.088Z",
-  "expiresAt": "2026-12-21T12:00:02.088Z",
-  "nonce": "2e3fb94020fd4d67ed8d93dd9c3369b3",
+  "wsUrl": "wss://rides-gbp-inkjet-fans.trycloudflare.com",
+  "httpUrl": "https://rides-gbp-inkjet-fans.trycloudflare.com",
+  "updatedAt": "2026-11-21T12:25:38.236Z",
+  "expiresAt": "2026-12-21T12:25:38.236Z",
+  "nonce": "4384b92729285697a10bea1c695a0446",
   "payload": {
-    "wsUrl": "wss://indie-top-digit-army.trycloudflare.com",
-    "httpUrl": "https://indie-top-digit-army.trycloudflare.com",
-    "issuedAt": "2026-11-21T12:00:02.088Z",
-    "expiresAt": "2026-12-21T12:00:02.088Z",
-    "nonce": "2e3fb94020fd4d67ed8d93dd9c3369b3"
+    "wsUrl": "wss://rides-gbp-inkjet-fans.trycloudflare.com",
+    "httpUrl": "https://rides-gbp-inkjet-fans.trycloudflare.com",
+    "issuedAt": "2026-11-21T12:25:38.236Z",
+    "expiresAt": "2026-12-21T12:25:38.236Z",
+    "nonce": "4384b92729285697a10bea1c695a0446"
   },
-  "signature": "gsVzGmlumY5zuGsNv480ZszGqyPhItxJQTQs1xM9NT2zmRSrZeCp7RPMLJylUXhcNauJQus6OUYOSVDJtQQ33Q==",
+  "signature": "wDwCFc9AwXQS8Arz8Beeuh61l9fmjEXlfzukQFDCh7asH6RitlEyiSsaYEqXBSCfa0habgnpwszt8ZG1wf1GFg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

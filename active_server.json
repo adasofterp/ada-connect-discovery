@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
-  "httpUrl": "https://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
-  "updatedAt": "2026-11-21T14:02:11.685Z",
-  "expiresAt": "2026-12-21T14:02:11.685Z",
-  "nonce": "712d5691c22e36928db1ba33adb3695b",
+  "wsUrl": "wss://motion-talking-standings-vegetables.trycloudflare.com",
+  "httpUrl": "https://motion-talking-standings-vegetables.trycloudflare.com",
+  "updatedAt": "2026-11-21T14:23:01.403Z",
+  "expiresAt": "2026-12-21T14:23:01.403Z",
+  "nonce": "8860af06ec2229839208edf14cf8720a",
   "payload": {
-    "wsUrl": "wss://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
-    "httpUrl": "https://diagnostic-geometry-metals-effectiveness.trycloudflare.com",
-    "issuedAt": "2026-11-21T14:02:11.685Z",
-    "expiresAt": "2026-12-21T14:02:11.685Z",
-    "nonce": "712d5691c22e36928db1ba33adb3695b"
+    "wsUrl": "wss://motion-talking-standings-vegetables.trycloudflare.com",
+    "httpUrl": "https://motion-talking-standings-vegetables.trycloudflare.com",
+    "issuedAt": "2026-11-21T14:23:01.403Z",
+    "expiresAt": "2026-12-21T14:23:01.403Z",
+    "nonce": "8860af06ec2229839208edf14cf8720a"
   },
-  "signature": "82ZBTwnB2n/dnB0JgMfhMXkgm8Ft0+UXFfvokTS37GXRomJoF7IfR3d++w6AgRpn7mbguQEqhflKjonK1zrliQ==",
+  "signature": "flhxGCo9128z4kkz/mA597M1NhUId2o+7YhP/iS/zxDlqQE5vQtWr13QyZ3dpYjpoMJsimTgCgSpYB+KRAFSBA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

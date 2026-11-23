@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://franklin-dns-venues-ignored.trycloudflare.com",
-  "httpUrl": "https://franklin-dns-venues-ignored.trycloudflare.com",
-  "updatedAt": "2026-11-23T17:58:22.722Z",
-  "expiresAt": "2026-12-23T17:58:22.722Z",
-  "nonce": "769f073e8f3e62afcef64c345607ed80",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-23T20:42:43.358Z",
+  "expiresAt": "2026-12-23T20:42:43.358Z",
+  "nonce": "197fd08d8f3383f768fb8a3005658ce0",
   "payload": {
-    "wsUrl": "wss://franklin-dns-venues-ignored.trycloudflare.com",
-    "httpUrl": "https://franklin-dns-venues-ignored.trycloudflare.com",
-    "issuedAt": "2026-11-23T17:58:22.722Z",
-    "expiresAt": "2026-12-23T17:58:22.722Z",
-    "nonce": "769f073e8f3e62afcef64c345607ed80"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-23T20:42:43.358Z",
+    "expiresAt": "2026-12-23T20:42:43.358Z",
+    "nonce": "197fd08d8f3383f768fb8a3005658ce0"
   },
-  "signature": "dPFp1OoEFehjQemzYtc669GwnIeYNYxOOK7vuJRMMV24xhgqSTNdWU7E6KCYdnd9ZV59rZdG5rnI3UMuEvuhyg==",
+  "signature": "zCjIzG9xR8+qb3b5UO7yDt134MsnGHG8+c9XFf+f+G22XsY+MuJ5NKrygg2BnIAnUbx07ly5YoaF07iGcyIIzA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

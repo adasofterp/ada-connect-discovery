@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://travel-transit-stored-houses.trycloudflare.com",
-  "httpUrl": "https://travel-transit-stored-houses.trycloudflare.com",
-  "updatedAt": "2026-11-23T16:29:03.007Z",
-  "expiresAt": "2026-12-23T16:29:03.007Z",
-  "nonce": "543cbf8496b9ea45d41be88484a67551",
+  "wsUrl": "wss://franklin-dns-venues-ignored.trycloudflare.com",
+  "httpUrl": "https://franklin-dns-venues-ignored.trycloudflare.com",
+  "updatedAt": "2026-11-23T16:29:42.500Z",
+  "expiresAt": "2026-12-23T16:29:42.500Z",
+  "nonce": "c21afc05db46bd44d0207bb5fc58947e",
   "payload": {
-    "wsUrl": "wss://travel-transit-stored-houses.trycloudflare.com",
-    "httpUrl": "https://travel-transit-stored-houses.trycloudflare.com",
-    "issuedAt": "2026-11-23T16:29:03.007Z",
-    "expiresAt": "2026-12-23T16:29:03.007Z",
-    "nonce": "543cbf8496b9ea45d41be88484a67551"
+    "wsUrl": "wss://franklin-dns-venues-ignored.trycloudflare.com",
+    "httpUrl": "https://franklin-dns-venues-ignored.trycloudflare.com",
+    "issuedAt": "2026-11-23T16:29:42.500Z",
+    "expiresAt": "2026-12-23T16:29:42.500Z",
+    "nonce": "c21afc05db46bd44d0207bb5fc58947e"
   },
-  "signature": "cCwVKQw0NIR9Cj0TN0JeBiiCKOrYnFmEn5pXYWJBSXwM9DOvV/ZnznwkImo8UhYAAMDnJde9LuMqN+ofchNSmw==",
+  "signature": "Q5LO6/Why7jNapKj13bnLHfEc+IJVvLQciQgqrNaElGHaMMh+EzfDwk0Iz4y9j9oVVjUkWqlz4sQ22xeTLcArA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

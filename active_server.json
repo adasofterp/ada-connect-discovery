@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://cloud-invitation-gauge-vol.trycloudflare.com",
-  "httpUrl": "https://cloud-invitation-gauge-vol.trycloudflare.com",
-  "updatedAt": "2026-11-23T13:58:22.726Z",
-  "expiresAt": "2026-12-23T13:58:22.726Z",
-  "nonce": "294fe0f05517db5569728377ba4cf5d6",
+  "wsUrl": "wss://budgets-focal-invention-incorporate.trycloudflare.com",
+  "httpUrl": "https://budgets-focal-invention-incorporate.trycloudflare.com",
+  "updatedAt": "2026-11-23T16:27:34.144Z",
+  "expiresAt": "2026-12-23T16:27:34.144Z",
+  "nonce": "95707673c2f1fb6bd524d17df91a29a3",
   "payload": {
-    "wsUrl": "wss://cloud-invitation-gauge-vol.trycloudflare.com",
-    "httpUrl": "https://cloud-invitation-gauge-vol.trycloudflare.com",
-    "issuedAt": "2026-11-23T13:58:22.726Z",
-    "expiresAt": "2026-12-23T13:58:22.726Z",
-    "nonce": "294fe0f05517db5569728377ba4cf5d6"
+    "wsUrl": "wss://budgets-focal-invention-incorporate.trycloudflare.com",
+    "httpUrl": "https://budgets-focal-invention-incorporate.trycloudflare.com",
+    "issuedAt": "2026-11-23T16:27:34.144Z",
+    "expiresAt": "2026-12-23T16:27:34.144Z",
+    "nonce": "95707673c2f1fb6bd524d17df91a29a3"
   },
-  "signature": "YVPz96/oRx3fBypflQ/XWOI5o9yzKtnRqFlpniPanjBfZ7mY13xJ/YizC5SMkfGkkslbBilUJpQEFL5arpA8mA==",
+  "signature": "ajB8BEka+csdtgxqWQNBKablCo2QCCWg/mv5qgCBt+cViy2eZnBUoYdICzUxCzDAPlxHaq4UnM1uIlKRS1cnbw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

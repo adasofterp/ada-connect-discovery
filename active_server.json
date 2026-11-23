@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://budgets-focal-invention-incorporate.trycloudflare.com",
-  "httpUrl": "https://budgets-focal-invention-incorporate.trycloudflare.com",
-  "updatedAt": "2026-11-23T16:27:34.144Z",
-  "expiresAt": "2026-12-23T16:27:34.144Z",
-  "nonce": "95707673c2f1fb6bd524d17df91a29a3",
+  "wsUrl": "wss://travel-transit-stored-houses.trycloudflare.com",
+  "httpUrl": "https://travel-transit-stored-houses.trycloudflare.com",
+  "updatedAt": "2026-11-23T16:29:03.007Z",
+  "expiresAt": "2026-12-23T16:29:03.007Z",
+  "nonce": "543cbf8496b9ea45d41be88484a67551",
   "payload": {
-    "wsUrl": "wss://budgets-focal-invention-incorporate.trycloudflare.com",
-    "httpUrl": "https://budgets-focal-invention-incorporate.trycloudflare.com",
-    "issuedAt": "2026-11-23T16:27:34.144Z",
-    "expiresAt": "2026-12-23T16:27:34.144Z",
-    "nonce": "95707673c2f1fb6bd524d17df91a29a3"
+    "wsUrl": "wss://travel-transit-stored-houses.trycloudflare.com",
+    "httpUrl": "https://travel-transit-stored-houses.trycloudflare.com",
+    "issuedAt": "2026-11-23T16:29:03.007Z",
+    "expiresAt": "2026-12-23T16:29:03.007Z",
+    "nonce": "543cbf8496b9ea45d41be88484a67551"
   },
-  "signature": "ajB8BEka+csdtgxqWQNBKablCo2QCCWg/mv5qgCBt+cViy2eZnBUoYdICzUxCzDAPlxHaq4UnM1uIlKRS1cnbw==",
+  "signature": "cCwVKQw0NIR9Cj0TN0JeBiiCKOrYnFmEn5pXYWJBSXwM9DOvV/ZnznwkImo8UhYAAMDnJde9LuMqN+ofchNSmw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

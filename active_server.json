@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://eye-acrylic-exploring-should.trycloudflare.com",
-  "httpUrl": "https://eye-acrylic-exploring-should.trycloudflare.com",
-  "updatedAt": "2026-11-23T22:36:13.487Z",
-  "expiresAt": "2026-12-23T22:36:13.487Z",
-  "nonce": "26d8c1b5ae9553df657ce61209fe2e43",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-23T23:54:31.496Z",
+  "expiresAt": "2026-12-23T23:54:31.496Z",
+  "nonce": "eff16fbc6a713ad8f99cd3f6bbcfa839",
   "payload": {
-    "wsUrl": "wss://eye-acrylic-exploring-should.trycloudflare.com",
-    "httpUrl": "https://eye-acrylic-exploring-should.trycloudflare.com",
-    "issuedAt": "2026-11-23T22:36:13.487Z",
-    "expiresAt": "2026-12-23T22:36:13.487Z",
-    "nonce": "26d8c1b5ae9553df657ce61209fe2e43"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-23T23:54:31.496Z",
+    "expiresAt": "2026-12-23T23:54:31.496Z",
+    "nonce": "eff16fbc6a713ad8f99cd3f6bbcfa839"
   },
-  "signature": "xyBFq8pJI0xM6QT5d/28fUSJgzBt86yiFofFle34+7cmMlzl34gHS+hI4s7e58DAr8kiR5C4xWKMtLsiXY9NoA==",
+  "signature": "X65UewddppY4ap76y4xh84U0I9aCTFYFKxxmtvckc9KH45eP9nZPbDQUPjYqgGz2vJgUsp46uJoop0fRbzOKXQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

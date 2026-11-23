@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://semiconductor-latitude-dim-cookbook.trycloudflare.com",
-  "httpUrl": "https://semiconductor-latitude-dim-cookbook.trycloudflare.com",
-  "updatedAt": "2026-11-21T19:46:40.476Z",
-  "expiresAt": "2026-12-21T19:46:40.487Z",
-  "nonce": "f1ea519bdc2797af906e30cb4e1e828f",
+  "wsUrl": "wss://cloud-invitation-gauge-vol.trycloudflare.com",
+  "httpUrl": "https://cloud-invitation-gauge-vol.trycloudflare.com",
+  "updatedAt": "2026-11-23T09:58:29.249Z",
+  "expiresAt": "2026-12-23T09:58:29.249Z",
+  "nonce": "ce979760d430c7f983d5e3f522eacc2b",
   "payload": {
-    "wsUrl": "wss://semiconductor-latitude-dim-cookbook.trycloudflare.com",
-    "httpUrl": "https://semiconductor-latitude-dim-cookbook.trycloudflare.com",
-    "issuedAt": "2026-11-21T19:46:40.476Z",
-    "expiresAt": "2026-12-21T19:46:40.487Z",
-    "nonce": "f1ea519bdc2797af906e30cb4e1e828f"
+    "wsUrl": "wss://cloud-invitation-gauge-vol.trycloudflare.com",
+    "httpUrl": "https://cloud-invitation-gauge-vol.trycloudflare.com",
+    "issuedAt": "2026-11-23T09:58:29.249Z",
+    "expiresAt": "2026-12-23T09:58:29.249Z",
+    "nonce": "ce979760d430c7f983d5e3f522eacc2b"
   },
-  "signature": "ZH14TqYoeemMWq4PVY4X+MAP3fqoDs23Jh/Z4oMSvk3wvthiCBMxd0CDA6k6IO5KoF0UZfEE9aMrEejzw915gg==",
+  "signature": "wunJFexeXaL5TBPVIQVv4XpIgevzje8COyd5ihucsnlN4e7QCEvKvYrPH49afZKHNqdJ41YxguMVDz3h4wdrRA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

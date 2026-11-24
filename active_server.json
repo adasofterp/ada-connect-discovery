@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://poet-cursor-affects-findarticles.trycloudflare.com",
-  "httpUrl": "https://poet-cursor-affects-findarticles.trycloudflare.com",
-  "updatedAt": "2026-11-24T14:19:41.741Z",
-  "expiresAt": "2026-12-24T14:19:41.741Z",
-  "nonce": "c6651ea50fce3c8536d6d5b4a2b0ae0b",
+  "wsUrl": "wss://environments-renew-roll-worker.trycloudflare.com",
+  "httpUrl": "https://environments-renew-roll-worker.trycloudflare.com",
+  "updatedAt": "2026-11-24T14:27:58.905Z",
+  "expiresAt": "2026-12-24T14:27:58.905Z",
+  "nonce": "4c697b9274d489e1d27db45901475378",
   "payload": {
-    "wsUrl": "wss://poet-cursor-affects-findarticles.trycloudflare.com",
-    "httpUrl": "https://poet-cursor-affects-findarticles.trycloudflare.com",
-    "issuedAt": "2026-11-24T14:19:41.741Z",
-    "expiresAt": "2026-12-24T14:19:41.741Z",
-    "nonce": "c6651ea50fce3c8536d6d5b4a2b0ae0b"
+    "wsUrl": "wss://environments-renew-roll-worker.trycloudflare.com",
+    "httpUrl": "https://environments-renew-roll-worker.trycloudflare.com",
+    "issuedAt": "2026-11-24T14:27:58.905Z",
+    "expiresAt": "2026-12-24T14:27:58.905Z",
+    "nonce": "4c697b9274d489e1d27db45901475378"
   },
-  "signature": "oKjps0bDx4Gwa3gUzG/+4+JcmLWarF0OKL7ZhfNpk2tksmQUQbBajhv2s9ugBfc3H7c5D1rx1RWH07F4MQ7j4g==",
+  "signature": "cnETv6dS6yRSU9sUTjTLrv389MpA9nJCfohXY8b188JeBOR58fXmnCywnC8dyr1ncutbXsoePh7fJ91L0hntLQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

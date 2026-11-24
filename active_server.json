@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://crossing-venues-visual-village.trycloudflare.com",
   "httpUrl": "https://crossing-venues-visual-village.trycloudflare.com",
-  "updatedAt": "2026-11-24T14:38:54.482Z",
-  "expiresAt": "2026-12-24T14:38:54.482Z",
-  "nonce": "3ac90c4f26760e92555fd71f201ca11f",
+  "updatedAt": "2026-11-24T18:19:41.750Z",
+  "expiresAt": "2026-12-24T18:19:41.750Z",
+  "nonce": "cf57773b1cef0a0d96a663fcaa5fd1f5",
   "payload": {
     "wsUrl": "wss://crossing-venues-visual-village.trycloudflare.com",
     "httpUrl": "https://crossing-venues-visual-village.trycloudflare.com",
-    "issuedAt": "2026-11-24T14:38:54.482Z",
-    "expiresAt": "2026-12-24T14:38:54.482Z",
-    "nonce": "3ac90c4f26760e92555fd71f201ca11f"
+    "issuedAt": "2026-11-24T18:19:41.750Z",
+    "expiresAt": "2026-12-24T18:19:41.750Z",
+    "nonce": "cf57773b1cef0a0d96a663fcaa5fd1f5"
   },
-  "signature": "D/UwrY8bel75wrz4GEFqUB4punDHfJ65X3QMN8Gf0uO08C56KkrKOp3ul8Fzbkgsd9joDnx+V1iHFUE4QLXC8w==",
+  "signature": "Tk/YldKMp6Ks7zV68k6nUkhh8ka//ivl8dvTY1GpOoVyWW48QI7cNf+opPrnupZOv+eP6E2c69OylXCIfVM3ng==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

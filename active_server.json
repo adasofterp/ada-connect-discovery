@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://environments-renew-roll-worker.trycloudflare.com",
-  "httpUrl": "https://environments-renew-roll-worker.trycloudflare.com",
-  "updatedAt": "2026-11-24T14:27:58.905Z",
-  "expiresAt": "2026-12-24T14:27:58.905Z",
-  "nonce": "4c697b9274d489e1d27db45901475378",
+  "wsUrl": "wss://crossing-venues-visual-village.trycloudflare.com",
+  "httpUrl": "https://crossing-venues-visual-village.trycloudflare.com",
+  "updatedAt": "2026-11-24T14:38:54.482Z",
+  "expiresAt": "2026-12-24T14:38:54.482Z",
+  "nonce": "3ac90c4f26760e92555fd71f201ca11f",
   "payload": {
-    "wsUrl": "wss://environments-renew-roll-worker.trycloudflare.com",
-    "httpUrl": "https://environments-renew-roll-worker.trycloudflare.com",
-    "issuedAt": "2026-11-24T14:27:58.905Z",
-    "expiresAt": "2026-12-24T14:27:58.905Z",
-    "nonce": "4c697b9274d489e1d27db45901475378"
+    "wsUrl": "wss://crossing-venues-visual-village.trycloudflare.com",
+    "httpUrl": "https://crossing-venues-visual-village.trycloudflare.com",
+    "issuedAt": "2026-11-24T14:38:54.482Z",
+    "expiresAt": "2026-12-24T14:38:54.482Z",
+    "nonce": "3ac90c4f26760e92555fd71f201ca11f"
   },
-  "signature": "cnETv6dS6yRSU9sUTjTLrv389MpA9nJCfohXY8b188JeBOR58fXmnCywnC8dyr1ncutbXsoePh7fJ91L0hntLQ==",
+  "signature": "D/UwrY8bel75wrz4GEFqUB4punDHfJ65X3QMN8Gf0uO08C56KkrKOp3ul8Fzbkgsd9joDnx+V1iHFUE4QLXC8w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

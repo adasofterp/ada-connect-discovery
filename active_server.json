@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://university-plus-humans-focal.trycloudflare.com",
-  "httpUrl": "https://university-plus-humans-focal.trycloudflare.com",
-  "updatedAt": "2026-11-24T10:14:41.896Z",
-  "expiresAt": "2026-12-24T10:14:41.896Z",
-  "nonce": "4f9c0fd1918fae0ff0134d68029b78f4",
+  "wsUrl": "wss://tournaments-even-bought-racks.trycloudflare.com",
+  "httpUrl": "https://tournaments-even-bought-racks.trycloudflare.com",
+  "updatedAt": "2026-11-24T13:27:14.367Z",
+  "expiresAt": "2026-12-24T13:27:14.367Z",
+  "nonce": "5d588742f75c51813d6afc1477bd9c94",
   "payload": {
-    "wsUrl": "wss://university-plus-humans-focal.trycloudflare.com",
-    "httpUrl": "https://university-plus-humans-focal.trycloudflare.com",
-    "issuedAt": "2026-11-24T10:14:41.896Z",
-    "expiresAt": "2026-12-24T10:14:41.896Z",
-    "nonce": "4f9c0fd1918fae0ff0134d68029b78f4"
+    "wsUrl": "wss://tournaments-even-bought-racks.trycloudflare.com",
+    "httpUrl": "https://tournaments-even-bought-racks.trycloudflare.com",
+    "issuedAt": "2026-11-24T13:27:14.367Z",
+    "expiresAt": "2026-12-24T13:27:14.367Z",
+    "nonce": "5d588742f75c51813d6afc1477bd9c94"
   },
-  "signature": "g/bMJDyCPYuZ6EuyGL3bdGyJZxokL76nINsYQztEIgw+QCG0r8afMj4AyEUPnkYnh2h90uB8yqXEM3GRWFPJwA==",
+  "signature": "Xv1l50LC8WMfi+wJRkhzLwOsEWNTqAr1p3nnmTqZLFLQ+N3EojHcLTygR5ufuzpT3g86KocMqk26gDtCba50DA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

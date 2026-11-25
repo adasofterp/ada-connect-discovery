@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://chapters-bristol-genes-sms.trycloudflare.com",
-  "httpUrl": "https://chapters-bristol-genes-sms.trycloudflare.com",
-  "updatedAt": "2026-11-25T06:49:51.587Z",
-  "expiresAt": "2026-12-25T06:49:51.587Z",
-  "nonce": "e8bd3e945c9bb08579d2cb9ba7c22353",
+  "wsUrl": "wss://warehouse-circle-duty-mention.trycloudflare.com",
+  "httpUrl": "https://warehouse-circle-duty-mention.trycloudflare.com",
+  "updatedAt": "2026-11-25T07:09:29.202Z",
+  "expiresAt": "2026-12-25T07:09:29.202Z",
+  "nonce": "7939693a7f822546d58eafba0122a5c5",
   "payload": {
-    "wsUrl": "wss://chapters-bristol-genes-sms.trycloudflare.com",
-    "httpUrl": "https://chapters-bristol-genes-sms.trycloudflare.com",
-    "issuedAt": "2026-11-25T06:49:51.587Z",
-    "expiresAt": "2026-12-25T06:49:51.587Z",
-    "nonce": "e8bd3e945c9bb08579d2cb9ba7c22353"
+    "wsUrl": "wss://warehouse-circle-duty-mention.trycloudflare.com",
+    "httpUrl": "https://warehouse-circle-duty-mention.trycloudflare.com",
+    "issuedAt": "2026-11-25T07:09:29.202Z",
+    "expiresAt": "2026-12-25T07:09:29.202Z",
+    "nonce": "7939693a7f822546d58eafba0122a5c5"
   },
-  "signature": "QHbvKb9qNb7M8UtCGZRQtsoPBSuUxsdNqTPoFHM3AYEMDFazRXhpdyz9AVCW7zbXdx9hMNnZyrhnAq2cwf4BhA==",
+  "signature": "QHP0qYVHA0bEiUfeMj6npucx6JuM0J36SThsVN8IPXQRm8YjvudQ99rU0GjzWZfGB2k3fqsl6Tn5H0aSINCC5w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

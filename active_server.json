@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://deutschland-clearance-applying-shipment.trycloudflare.com",
-  "httpUrl": "https://deutschland-clearance-applying-shipment.trycloudflare.com",
-  "updatedAt": "2026-11-25T00:39:48.908Z",
-  "expiresAt": "2026-12-25T00:39:48.908Z",
-  "nonce": "c49cf51db7f782c32d4b75bb3f892bb2",
+  "wsUrl": "wss://ecology-three-obtaining-saver.trycloudflare.com",
+  "httpUrl": "https://ecology-three-obtaining-saver.trycloudflare.com",
+  "updatedAt": "2026-11-25T01:11:08.132Z",
+  "expiresAt": "2026-12-25T01:11:08.132Z",
+  "nonce": "b5a50b42ead86a6fd9620f39aa86f346",
   "payload": {
-    "wsUrl": "wss://deutschland-clearance-applying-shipment.trycloudflare.com",
-    "httpUrl": "https://deutschland-clearance-applying-shipment.trycloudflare.com",
-    "issuedAt": "2026-11-25T00:39:48.908Z",
-    "expiresAt": "2026-12-25T00:39:48.908Z",
-    "nonce": "c49cf51db7f782c32d4b75bb3f892bb2"
+    "wsUrl": "wss://ecology-three-obtaining-saver.trycloudflare.com",
+    "httpUrl": "https://ecology-three-obtaining-saver.trycloudflare.com",
+    "issuedAt": "2026-11-25T01:11:08.132Z",
+    "expiresAt": "2026-12-25T01:11:08.132Z",
+    "nonce": "b5a50b42ead86a6fd9620f39aa86f346"
   },
-  "signature": "tn9HkKYLu/Io2+OlpYk5MRQGGulKNlPYRdscp6JrcTXWkGtULvH7t22cTTYFKyRIrwFZfDZ57bA5qmpCeofe7g==",
+  "signature": "yqwNpxlkurXs8kWbyuW3kXxO7z8V7M52kpfcadA/u/6aeY+fk+VrL4v1yVsxb58G0CorhxW6D9/qWz5S/I2BXQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://curriculum-worthy-rom-permissions.trycloudflare.com",
-  "httpUrl": "https://curriculum-worthy-rom-permissions.trycloudflare.com",
-  "updatedAt": "2026-11-25T05:33:41.812Z",
-  "expiresAt": "2026-12-25T05:33:41.812Z",
-  "nonce": "acafe39773fbf637592c7b1a6067b18b",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-25T06:06:07.808Z",
+  "expiresAt": "2026-12-25T06:06:07.813Z",
+  "nonce": "6c32fe09926c5ec8421de73497b9b681",
   "payload": {
-    "wsUrl": "wss://curriculum-worthy-rom-permissions.trycloudflare.com",
-    "httpUrl": "https://curriculum-worthy-rom-permissions.trycloudflare.com",
-    "issuedAt": "2026-11-25T05:33:41.812Z",
-    "expiresAt": "2026-12-25T05:33:41.812Z",
-    "nonce": "acafe39773fbf637592c7b1a6067b18b"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-25T06:06:07.808Z",
+    "expiresAt": "2026-12-25T06:06:07.813Z",
+    "nonce": "6c32fe09926c5ec8421de73497b9b681"
   },
-  "signature": "/gjEa4qb7UGpHYouEhFUtE4EKJ4514udP85926/xQ58lvJuzysMnx02mSbwpTbc04Sy8QpCU5Bj5aaZIe//nvQ==",
+  "signature": "6LhSHxtRbZF48AU0qJikytv5ZtLNNTcOQtV7vILgzRFzMTzqvqYg2wJkPOHQFm3Zd0c+EJYp2me/GR5+mauccA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

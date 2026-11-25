@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://suggest-moreover-spelling-majority.trycloudflare.com",
-  "httpUrl": "https://suggest-moreover-spelling-majority.trycloudflare.com",
-  "updatedAt": "2026-11-25T05:14:51.074Z",
-  "expiresAt": "2026-12-25T05:14:51.074Z",
-  "nonce": "2bb3adefd47cdb77151c1c72055264ba",
+  "wsUrl": "wss://approach-expressions-granny-lifestyle.trycloudflare.com",
+  "httpUrl": "https://approach-expressions-granny-lifestyle.trycloudflare.com",
+  "updatedAt": "2026-11-25T05:17:44.235Z",
+  "expiresAt": "2026-12-25T05:17:44.235Z",
+  "nonce": "c738537b9a6b9c298dd49b0bb2055dc6",
   "payload": {
-    "wsUrl": "wss://suggest-moreover-spelling-majority.trycloudflare.com",
-    "httpUrl": "https://suggest-moreover-spelling-majority.trycloudflare.com",
-    "issuedAt": "2026-11-25T05:14:51.074Z",
-    "expiresAt": "2026-12-25T05:14:51.074Z",
-    "nonce": "2bb3adefd47cdb77151c1c72055264ba"
+    "wsUrl": "wss://approach-expressions-granny-lifestyle.trycloudflare.com",
+    "httpUrl": "https://approach-expressions-granny-lifestyle.trycloudflare.com",
+    "issuedAt": "2026-11-25T05:17:44.235Z",
+    "expiresAt": "2026-12-25T05:17:44.235Z",
+    "nonce": "c738537b9a6b9c298dd49b0bb2055dc6"
   },
-  "signature": "Ex5RwtCi0TXFPdsodW3NL7P0xnLOasj3LCqee3qeLYCBVWZvxgi5POPfd0D79RSuXDEOIrqOV4/5MIlDuil9yw==",
+  "signature": "Y6+VyQrXImfmzpSIY73u/40srGUzQ/UWJD96OMoT0J5WXa0lmJsZ8CnMVQzBxgSNEWhTtWPWr/K1v3taOYfs5g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://scoop-worth-poems-actually.trycloudflare.com",
-  "httpUrl": "https://scoop-worth-poems-actually.trycloudflare.com",
-  "updatedAt": "2026-11-25T15:15:45.851Z",
-  "expiresAt": "2026-12-25T15:15:45.851Z",
-  "nonce": "f3abba32132bc59bee421ad81ea16376",
+  "wsUrl": "wss://broken-concerned-training-belkin.trycloudflare.com",
+  "httpUrl": "https://broken-concerned-training-belkin.trycloudflare.com",
+  "updatedAt": "2026-11-25T15:40:53.841Z",
+  "expiresAt": "2026-12-25T15:40:53.841Z",
+  "nonce": "987d4e5bd191299b9b5d86464dea3d95",
   "payload": {
-    "wsUrl": "wss://scoop-worth-poems-actually.trycloudflare.com",
-    "httpUrl": "https://scoop-worth-poems-actually.trycloudflare.com",
-    "issuedAt": "2026-11-25T15:15:45.851Z",
-    "expiresAt": "2026-12-25T15:15:45.851Z",
-    "nonce": "f3abba32132bc59bee421ad81ea16376"
+    "wsUrl": "wss://broken-concerned-training-belkin.trycloudflare.com",
+    "httpUrl": "https://broken-concerned-training-belkin.trycloudflare.com",
+    "issuedAt": "2026-11-25T15:40:53.841Z",
+    "expiresAt": "2026-12-25T15:40:53.841Z",
+    "nonce": "987d4e5bd191299b9b5d86464dea3d95"
   },
-  "signature": "tQ1G5oHHZoDLAT74J4D/RuBkYY8CBTwLrBqa/2Pmikl7m6B+O/zNpvITlcnbZ+UUjmZ7cyJFaqH1NlIZImluEA==",
+  "signature": "uwVjdzmWUkrcESL+KnklwePB7oMeWlyhdB/1C4hVs+eX1NkNbsqI1YL3dsEQ83WIkvwNw4Oj5mJ1AIjdzIFxiw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

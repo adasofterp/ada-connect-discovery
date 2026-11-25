@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://essay-tail-till-deadline.trycloudflare.com",
-  "httpUrl": "https://essay-tail-till-deadline.trycloudflare.com",
-  "updatedAt": "2026-11-25T15:03:20.828Z",
-  "expiresAt": "2026-12-25T15:03:20.828Z",
-  "nonce": "85308c49b0f36e9738221b76a03c33e1",
+  "wsUrl": "wss://scoop-worth-poems-actually.trycloudflare.com",
+  "httpUrl": "https://scoop-worth-poems-actually.trycloudflare.com",
+  "updatedAt": "2026-11-25T15:15:45.851Z",
+  "expiresAt": "2026-12-25T15:15:45.851Z",
+  "nonce": "f3abba32132bc59bee421ad81ea16376",
   "payload": {
-    "wsUrl": "wss://essay-tail-till-deadline.trycloudflare.com",
-    "httpUrl": "https://essay-tail-till-deadline.trycloudflare.com",
-    "issuedAt": "2026-11-25T15:03:20.828Z",
-    "expiresAt": "2026-12-25T15:03:20.828Z",
-    "nonce": "85308c49b0f36e9738221b76a03c33e1"
+    "wsUrl": "wss://scoop-worth-poems-actually.trycloudflare.com",
+    "httpUrl": "https://scoop-worth-poems-actually.trycloudflare.com",
+    "issuedAt": "2026-11-25T15:15:45.851Z",
+    "expiresAt": "2026-12-25T15:15:45.851Z",
+    "nonce": "f3abba32132bc59bee421ad81ea16376"
   },
-  "signature": "3IEj+pmsYB62IbJxFrdRuqMtJm7GX6Ysx4oXdza89TrPQNNOb9jqAOFCm7ybLoj/jtDhxOcWW6UONEstEGfidw==",
+  "signature": "tQ1G5oHHZoDLAT74J4D/RuBkYY8CBTwLrBqa/2Pmikl7m6B+O/zNpvITlcnbZ+UUjmZ7cyJFaqH1NlIZImluEA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

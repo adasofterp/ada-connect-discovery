@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://adsl-metallic-status-holes.trycloudflare.com",
-  "httpUrl": "https://adsl-metallic-status-holes.trycloudflare.com",
-  "updatedAt": "2026-11-24T23:49:40.433Z",
-  "expiresAt": "2026-12-24T23:49:40.433Z",
-  "nonce": "2edbb4d7d8ae30c4dc168c8f09dd83e7",
+  "wsUrl": "wss://yours-electrical-further-cologne.trycloudflare.com",
+  "httpUrl": "https://yours-electrical-further-cologne.trycloudflare.com",
+  "updatedAt": "2026-11-25T00:10:29.774Z",
+  "expiresAt": "2026-12-25T00:10:29.774Z",
+  "nonce": "f169091f63f7339a814a0793317bcf29",
   "payload": {
-    "wsUrl": "wss://adsl-metallic-status-holes.trycloudflare.com",
-    "httpUrl": "https://adsl-metallic-status-holes.trycloudflare.com",
-    "issuedAt": "2026-11-24T23:49:40.433Z",
-    "expiresAt": "2026-12-24T23:49:40.433Z",
-    "nonce": "2edbb4d7d8ae30c4dc168c8f09dd83e7"
+    "wsUrl": "wss://yours-electrical-further-cologne.trycloudflare.com",
+    "httpUrl": "https://yours-electrical-further-cologne.trycloudflare.com",
+    "issuedAt": "2026-11-25T00:10:29.774Z",
+    "expiresAt": "2026-12-25T00:10:29.774Z",
+    "nonce": "f169091f63f7339a814a0793317bcf29"
   },
-  "signature": "irnrAcr1/HTZ/DlGGy4YPpx9NMfyi5aEAGEZICDCHf1HQJtgjicSuHBQLweynH1T3ELAmc03IM+stWMh8wQsLg==",
+  "signature": "IP/RrJK8VPx+W85BrHQyvdyhEhRJl5cjSlhT8a+bBk2kPvkoXAqLVjcpvCX7G7oBkpQiZu65R7Oe8eYry3WEkw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

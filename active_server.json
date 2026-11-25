@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://alexander-spelling-employees-cable.trycloudflare.com",
-  "httpUrl": "https://alexander-spelling-employees-cable.trycloudflare.com",
-  "updatedAt": "2026-11-25T01:18:23.398Z",
-  "expiresAt": "2026-12-25T01:18:23.398Z",
-  "nonce": "4b235fd7d2ac86aae7070efc2df28bb7",
+  "wsUrl": "wss://sympathy-cod-spray-barbie.trycloudflare.com",
+  "httpUrl": "https://sympathy-cod-spray-barbie.trycloudflare.com",
+  "updatedAt": "2026-11-25T01:28:48.010Z",
+  "expiresAt": "2026-12-25T01:28:48.010Z",
+  "nonce": "67a09bec3ba3bf884e72806a3c41a30e",
   "payload": {
-    "wsUrl": "wss://alexander-spelling-employees-cable.trycloudflare.com",
-    "httpUrl": "https://alexander-spelling-employees-cable.trycloudflare.com",
-    "issuedAt": "2026-11-25T01:18:23.398Z",
-    "expiresAt": "2026-12-25T01:18:23.398Z",
-    "nonce": "4b235fd7d2ac86aae7070efc2df28bb7"
+    "wsUrl": "wss://sympathy-cod-spray-barbie.trycloudflare.com",
+    "httpUrl": "https://sympathy-cod-spray-barbie.trycloudflare.com",
+    "issuedAt": "2026-11-25T01:28:48.010Z",
+    "expiresAt": "2026-12-25T01:28:48.010Z",
+    "nonce": "67a09bec3ba3bf884e72806a3c41a30e"
   },
-  "signature": "cMNM5Fk8YhKtlQGsephDbOTdcZXkAlHS5fbOApzdkwY+1I/e4F7nERKiy9cXl//bNJU5lyICibg9Jif64Snp/g==",
+  "signature": "OOH1ov6SP1lXeHGBuSdkXQTC6nrpoOEYSALyyvGaPJPqsUh5Xid4j/xaMIFIFZVU9bLz5EAM15hCfQxkIbXsrw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

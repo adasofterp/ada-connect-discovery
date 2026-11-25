@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://campaigns-nirvana-additional-police.trycloudflare.com",
-  "httpUrl": "https://campaigns-nirvana-additional-police.trycloudflare.com",
-  "updatedAt": "2026-11-25T00:29:16.896Z",
-  "expiresAt": "2026-12-25T00:29:16.896Z",
-  "nonce": "b5262a1529bfff021e15d71f212b5408",
+  "wsUrl": "wss://deutschland-clearance-applying-shipment.trycloudflare.com",
+  "httpUrl": "https://deutschland-clearance-applying-shipment.trycloudflare.com",
+  "updatedAt": "2026-11-25T00:39:48.908Z",
+  "expiresAt": "2026-12-25T00:39:48.908Z",
+  "nonce": "c49cf51db7f782c32d4b75bb3f892bb2",
   "payload": {
-    "wsUrl": "wss://campaigns-nirvana-additional-police.trycloudflare.com",
-    "httpUrl": "https://campaigns-nirvana-additional-police.trycloudflare.com",
-    "issuedAt": "2026-11-25T00:29:16.896Z",
-    "expiresAt": "2026-12-25T00:29:16.896Z",
-    "nonce": "b5262a1529bfff021e15d71f212b5408"
+    "wsUrl": "wss://deutschland-clearance-applying-shipment.trycloudflare.com",
+    "httpUrl": "https://deutschland-clearance-applying-shipment.trycloudflare.com",
+    "issuedAt": "2026-11-25T00:39:48.908Z",
+    "expiresAt": "2026-12-25T00:39:48.908Z",
+    "nonce": "c49cf51db7f782c32d4b75bb3f892bb2"
   },
-  "signature": "8Gna5cyAFDvBzucLRm2uGHz2TYL8w3QlxIYmbbJ8SyI3R3esE5qAV/HL1Ns/W0Tr8w5/Kzp4IgopgalpNuci3g==",
+  "signature": "tn9HkKYLu/Io2+OlpYk5MRQGGulKNlPYRdscp6JrcTXWkGtULvH7t22cTTYFKyRIrwFZfDZ57bA5qmpCeofe7g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

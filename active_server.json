@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://ecology-three-obtaining-saver.trycloudflare.com",
-  "httpUrl": "https://ecology-three-obtaining-saver.trycloudflare.com",
-  "updatedAt": "2026-11-25T01:11:08.132Z",
-  "expiresAt": "2026-12-25T01:11:08.132Z",
-  "nonce": "b5a50b42ead86a6fd9620f39aa86f346",
+  "wsUrl": "wss://alexander-spelling-employees-cable.trycloudflare.com",
+  "httpUrl": "https://alexander-spelling-employees-cable.trycloudflare.com",
+  "updatedAt": "2026-11-25T01:18:23.398Z",
+  "expiresAt": "2026-12-25T01:18:23.398Z",
+  "nonce": "4b235fd7d2ac86aae7070efc2df28bb7",
   "payload": {
-    "wsUrl": "wss://ecology-three-obtaining-saver.trycloudflare.com",
-    "httpUrl": "https://ecology-three-obtaining-saver.trycloudflare.com",
-    "issuedAt": "2026-11-25T01:11:08.132Z",
-    "expiresAt": "2026-12-25T01:11:08.132Z",
-    "nonce": "b5a50b42ead86a6fd9620f39aa86f346"
+    "wsUrl": "wss://alexander-spelling-employees-cable.trycloudflare.com",
+    "httpUrl": "https://alexander-spelling-employees-cable.trycloudflare.com",
+    "issuedAt": "2026-11-25T01:18:23.398Z",
+    "expiresAt": "2026-12-25T01:18:23.398Z",
+    "nonce": "4b235fd7d2ac86aae7070efc2df28bb7"
   },
-  "signature": "yqwNpxlkurXs8kWbyuW3kXxO7z8V7M52kpfcadA/u/6aeY+fk+VrL4v1yVsxb58G0CorhxW6D9/qWz5S/I2BXQ==",
+  "signature": "cMNM5Fk8YhKtlQGsephDbOTdcZXkAlHS5fbOApzdkwY+1I/e4F7nERKiy9cXl//bNJU5lyICibg9Jif64Snp/g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

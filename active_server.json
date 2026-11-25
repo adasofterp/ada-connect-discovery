@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://yours-electrical-further-cologne.trycloudflare.com",
-  "httpUrl": "https://yours-electrical-further-cologne.trycloudflare.com",
-  "updatedAt": "2026-11-25T00:10:29.774Z",
-  "expiresAt": "2026-12-25T00:10:29.774Z",
-  "nonce": "f169091f63f7339a814a0793317bcf29",
+  "wsUrl": "wss://campaigns-nirvana-additional-police.trycloudflare.com",
+  "httpUrl": "https://campaigns-nirvana-additional-police.trycloudflare.com",
+  "updatedAt": "2026-11-25T00:29:16.896Z",
+  "expiresAt": "2026-12-25T00:29:16.896Z",
+  "nonce": "b5262a1529bfff021e15d71f212b5408",
   "payload": {
-    "wsUrl": "wss://yours-electrical-further-cologne.trycloudflare.com",
-    "httpUrl": "https://yours-electrical-further-cologne.trycloudflare.com",
-    "issuedAt": "2026-11-25T00:10:29.774Z",
-    "expiresAt": "2026-12-25T00:10:29.774Z",
-    "nonce": "f169091f63f7339a814a0793317bcf29"
+    "wsUrl": "wss://campaigns-nirvana-additional-police.trycloudflare.com",
+    "httpUrl": "https://campaigns-nirvana-additional-police.trycloudflare.com",
+    "issuedAt": "2026-11-25T00:29:16.896Z",
+    "expiresAt": "2026-12-25T00:29:16.896Z",
+    "nonce": "b5262a1529bfff021e15d71f212b5408"
   },
-  "signature": "IP/RrJK8VPx+W85BrHQyvdyhEhRJl5cjSlhT8a+bBk2kPvkoXAqLVjcpvCX7G7oBkpQiZu65R7Oe8eYry3WEkw==",
+  "signature": "8Gna5cyAFDvBzucLRm2uGHz2TYL8w3QlxIYmbbJ8SyI3R3esE5qAV/HL1Ns/W0Tr8w5/Kzp4IgopgalpNuci3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

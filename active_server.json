@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://socket-grocery-issued-triangle.trycloudflare.com",
-  "httpUrl": "https://socket-grocery-issued-triangle.trycloudflare.com",
-  "updatedAt": "2026-11-25T03:12:49.417Z",
-  "expiresAt": "2026-12-25T03:12:49.418Z",
-  "nonce": "c555fb4be8c2d0f91dcc8ee19744eebb",
+  "wsUrl": "wss://leaves-brake-balloon-fork.trycloudflare.com",
+  "httpUrl": "https://leaves-brake-balloon-fork.trycloudflare.com",
+  "updatedAt": "2026-11-25T03:53:04.349Z",
+  "expiresAt": "2026-12-25T03:53:04.349Z",
+  "nonce": "aceaea9c57073336ef3cbaf99c640e5f",
   "payload": {
-    "wsUrl": "wss://socket-grocery-issued-triangle.trycloudflare.com",
-    "httpUrl": "https://socket-grocery-issued-triangle.trycloudflare.com",
-    "issuedAt": "2026-11-25T03:12:49.417Z",
-    "expiresAt": "2026-12-25T03:12:49.418Z",
-    "nonce": "c555fb4be8c2d0f91dcc8ee19744eebb"
+    "wsUrl": "wss://leaves-brake-balloon-fork.trycloudflare.com",
+    "httpUrl": "https://leaves-brake-balloon-fork.trycloudflare.com",
+    "issuedAt": "2026-11-25T03:53:04.349Z",
+    "expiresAt": "2026-12-25T03:53:04.349Z",
+    "nonce": "aceaea9c57073336ef3cbaf99c640e5f"
   },
-  "signature": "1EpYIcySDvDA1Gqg7CsaK3wLhH1tOHelS9ph4ImN91wXMw3ZzMoaROsjRTdrjY3w+p4eSktmhpCVY+31EftqUQ==",
+  "signature": "kXEQr3z3PTObtfBNsGIBPtIk+6A/xNxsMbK4qbLDXwwmjWPfhS5IzmFDSRopmT94peo15BRyOoZ70xHkNCDY4w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

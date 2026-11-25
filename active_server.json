@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://furnished-trees-rebound-ethics.trycloudflare.com",
-  "httpUrl": "https://furnished-trees-rebound-ethics.trycloudflare.com",
-  "updatedAt": "2026-11-25T05:04:30.147Z",
-  "expiresAt": "2026-12-25T05:04:30.147Z",
-  "nonce": "60e7f2f3e4b1aa5ffd8b6ba666dea1a7",
+  "wsUrl": "wss://suggest-moreover-spelling-majority.trycloudflare.com",
+  "httpUrl": "https://suggest-moreover-spelling-majority.trycloudflare.com",
+  "updatedAt": "2026-11-25T05:14:51.074Z",
+  "expiresAt": "2026-12-25T05:14:51.074Z",
+  "nonce": "2bb3adefd47cdb77151c1c72055264ba",
   "payload": {
-    "wsUrl": "wss://furnished-trees-rebound-ethics.trycloudflare.com",
-    "httpUrl": "https://furnished-trees-rebound-ethics.trycloudflare.com",
-    "issuedAt": "2026-11-25T05:04:30.147Z",
-    "expiresAt": "2026-12-25T05:04:30.147Z",
-    "nonce": "60e7f2f3e4b1aa5ffd8b6ba666dea1a7"
+    "wsUrl": "wss://suggest-moreover-spelling-majority.trycloudflare.com",
+    "httpUrl": "https://suggest-moreover-spelling-majority.trycloudflare.com",
+    "issuedAt": "2026-11-25T05:14:51.074Z",
+    "expiresAt": "2026-12-25T05:14:51.074Z",
+    "nonce": "2bb3adefd47cdb77151c1c72055264ba"
   },
-  "signature": "oJ5TLAV8fIVY/fv2I2BeSchycTwfDbatjqARbL0v2qCslDbI0/zxrtw0nl6xsZHEsOYZdFP28Hr6K9yiqy1lzA==",
+  "signature": "Ex5RwtCi0TXFPdsodW3NL7P0xnLOasj3LCqee3qeLYCBVWZvxgi5POPfd0D79RSuXDEOIrqOV4/5MIlDuil9yw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

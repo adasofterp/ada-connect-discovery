@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://yoga-boys-advanced-webmasters.trycloudflare.com",
   "httpUrl": "https://yoga-boys-advanced-webmasters.trycloudflare.com",
-  "updatedAt": "2026-11-25T06:16:35.882Z",
-  "expiresAt": "2026-12-25T06:16:35.882Z",
-  "nonce": "4aae67d6117a491ab950cae9cbacb48e",
+  "updatedAt": "2026-11-25T06:31:55.465Z",
+  "expiresAt": "2026-12-25T06:31:55.465Z",
+  "nonce": "05a5d092c894e6d257e3e4fe367dcbe3",
   "payload": {
     "wsUrl": "wss://yoga-boys-advanced-webmasters.trycloudflare.com",
     "httpUrl": "https://yoga-boys-advanced-webmasters.trycloudflare.com",
-    "issuedAt": "2026-11-25T06:16:35.882Z",
-    "expiresAt": "2026-12-25T06:16:35.882Z",
-    "nonce": "4aae67d6117a491ab950cae9cbacb48e"
+    "issuedAt": "2026-11-25T06:31:55.465Z",
+    "expiresAt": "2026-12-25T06:31:55.465Z",
+    "nonce": "05a5d092c894e6d257e3e4fe367dcbe3"
   },
-  "signature": "Lzv4DKqpoKfNJb+nmglSSIB196DREl2H1iJuWrt2Gqima5IFZqERRbORtyk2yDxIf/RTCL+bNyoalXIL/3LKaw==",
+  "signature": "fCTdwQjGvuCPle53axwzb/Op9zlWIQRKCaPZClPDfQH38jnplo6IE+1sTMoGzXPv0F7/9/Bur8I2xsaF6P8Xvg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

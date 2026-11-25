@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://approach-expressions-granny-lifestyle.trycloudflare.com",
-  "httpUrl": "https://approach-expressions-granny-lifestyle.trycloudflare.com",
-  "updatedAt": "2026-11-25T05:17:44.235Z",
-  "expiresAt": "2026-12-25T05:17:44.235Z",
-  "nonce": "c738537b9a6b9c298dd49b0bb2055dc6",
+  "wsUrl": "wss://curriculum-worthy-rom-permissions.trycloudflare.com",
+  "httpUrl": "https://curriculum-worthy-rom-permissions.trycloudflare.com",
+  "updatedAt": "2026-11-25T05:33:41.812Z",
+  "expiresAt": "2026-12-25T05:33:41.812Z",
+  "nonce": "acafe39773fbf637592c7b1a6067b18b",
   "payload": {
-    "wsUrl": "wss://approach-expressions-granny-lifestyle.trycloudflare.com",
-    "httpUrl": "https://approach-expressions-granny-lifestyle.trycloudflare.com",
-    "issuedAt": "2026-11-25T05:17:44.235Z",
-    "expiresAt": "2026-12-25T05:17:44.235Z",
-    "nonce": "c738537b9a6b9c298dd49b0bb2055dc6"
+    "wsUrl": "wss://curriculum-worthy-rom-permissions.trycloudflare.com",
+    "httpUrl": "https://curriculum-worthy-rom-permissions.trycloudflare.com",
+    "issuedAt": "2026-11-25T05:33:41.812Z",
+    "expiresAt": "2026-12-25T05:33:41.812Z",
+    "nonce": "acafe39773fbf637592c7b1a6067b18b"
   },
-  "signature": "Y6+VyQrXImfmzpSIY73u/40srGUzQ/UWJD96OMoT0J5WXa0lmJsZ8CnMVQzBxgSNEWhTtWPWr/K1v3taOYfs5g==",
+  "signature": "/gjEa4qb7UGpHYouEhFUtE4EKJ4514udP85926/xQ58lvJuzysMnx02mSbwpTbc04Sy8QpCU5Bj5aaZIe//nvQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

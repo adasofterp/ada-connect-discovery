@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://warehouse-circle-duty-mention.trycloudflare.com",
-  "httpUrl": "https://warehouse-circle-duty-mention.trycloudflare.com",
-  "updatedAt": "2026-11-25T10:31:55.491Z",
-  "expiresAt": "2026-12-25T10:31:55.491Z",
-  "nonce": "1cf35e1886d56e5206f77636cea1c21e",
+  "wsUrl": "wss://essay-tail-till-deadline.trycloudflare.com",
+  "httpUrl": "https://essay-tail-till-deadline.trycloudflare.com",
+  "updatedAt": "2026-11-25T15:03:20.828Z",
+  "expiresAt": "2026-12-25T15:03:20.828Z",
+  "nonce": "85308c49b0f36e9738221b76a03c33e1",
   "payload": {
-    "wsUrl": "wss://warehouse-circle-duty-mention.trycloudflare.com",
-    "httpUrl": "https://warehouse-circle-duty-mention.trycloudflare.com",
-    "issuedAt": "2026-11-25T10:31:55.491Z",
-    "expiresAt": "2026-12-25T10:31:55.491Z",
-    "nonce": "1cf35e1886d56e5206f77636cea1c21e"
+    "wsUrl": "wss://essay-tail-till-deadline.trycloudflare.com",
+    "httpUrl": "https://essay-tail-till-deadline.trycloudflare.com",
+    "issuedAt": "2026-11-25T15:03:20.828Z",
+    "expiresAt": "2026-12-25T15:03:20.828Z",
+    "nonce": "85308c49b0f36e9738221b76a03c33e1"
   },
-  "signature": "DuYbIgsmA0NU/myCb4Zs9BvjRrGZ2VrRPQDbeDyzky+wKb3y03UaDUGa0Q2Ilp/p2oAeR6k/TeGyBTkk/pD96g==",
+  "signature": "3IEj+pmsYB62IbJxFrdRuqMtJm7GX6Ysx4oXdza89TrPQNNOb9jqAOFCm7ybLoj/jtDhxOcWW6UONEstEGfidw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

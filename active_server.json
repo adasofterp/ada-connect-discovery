@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://broken-concerned-training-belkin.trycloudflare.com",
-  "httpUrl": "https://broken-concerned-training-belkin.trycloudflare.com",
-  "updatedAt": "2026-11-26T02:48:31.115Z",
-  "expiresAt": "2026-12-26T02:48:31.115Z",
-  "nonce": "279682465b245bfae06dcef4dfa5d1f2",
+  "wsUrl": "wss://multiple-floppy-behalf-particularly.trycloudflare.com",
+  "httpUrl": "https://multiple-floppy-behalf-particularly.trycloudflare.com",
+  "updatedAt": "2026-11-26T05:59:24.164Z",
+  "expiresAt": "2026-12-26T05:59:24.164Z",
+  "nonce": "a0c51f2a983f37a963d055bcc743991f",
   "payload": {
-    "wsUrl": "wss://broken-concerned-training-belkin.trycloudflare.com",
-    "httpUrl": "https://broken-concerned-training-belkin.trycloudflare.com",
-    "issuedAt": "2026-11-26T02:48:31.115Z",
-    "expiresAt": "2026-12-26T02:48:31.115Z",
-    "nonce": "279682465b245bfae06dcef4dfa5d1f2"
+    "wsUrl": "wss://multiple-floppy-behalf-particularly.trycloudflare.com",
+    "httpUrl": "https://multiple-floppy-behalf-particularly.trycloudflare.com",
+    "issuedAt": "2026-11-26T05:59:24.164Z",
+    "expiresAt": "2026-12-26T05:59:24.164Z",
+    "nonce": "a0c51f2a983f37a963d055bcc743991f"
   },
-  "signature": "9EL/qWxnCcK0zoDRfYcAzZTn8joCL33m4Pd+uAoIGKOcZ6rxskVFdJjeD1iYegENSveq6Gr66wQCGHUfIMmyAg==",
+  "signature": "nrCXvqb3qpetwmkUhk2JRh5+swY/cUgE10HoK+fENJg4HcSqk731xaXTUXA3Plpny3ZmtgyQUnJn06/PIeTWLg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

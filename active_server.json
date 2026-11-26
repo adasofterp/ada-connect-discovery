@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://delays-abc-cooked-warranties.trycloudflare.com",
-  "httpUrl": "https://delays-abc-cooked-warranties.trycloudflare.com",
-  "updatedAt": "2026-11-26T21:25:46.865Z",
-  "expiresAt": "2026-12-26T21:25:46.865Z",
-  "nonce": "6d8b1d236042ff68fa67b7b32f9740f2",
+  "wsUrl": "wss://beyond-yang-merit-diff.trycloudflare.com",
+  "httpUrl": "https://beyond-yang-merit-diff.trycloudflare.com",
+  "updatedAt": "2026-11-26T23:08:38.508Z",
+  "expiresAt": "2026-12-26T23:08:38.509Z",
+  "nonce": "e12267ce56570cd9993651fa56521671",
   "payload": {
-    "wsUrl": "wss://delays-abc-cooked-warranties.trycloudflare.com",
-    "httpUrl": "https://delays-abc-cooked-warranties.trycloudflare.com",
-    "issuedAt": "2026-11-26T21:25:46.865Z",
-    "expiresAt": "2026-12-26T21:25:46.865Z",
-    "nonce": "6d8b1d236042ff68fa67b7b32f9740f2"
+    "wsUrl": "wss://beyond-yang-merit-diff.trycloudflare.com",
+    "httpUrl": "https://beyond-yang-merit-diff.trycloudflare.com",
+    "issuedAt": "2026-11-26T23:08:38.508Z",
+    "expiresAt": "2026-12-26T23:08:38.509Z",
+    "nonce": "e12267ce56570cd9993651fa56521671"
   },
-  "signature": "dS/f2j8W2Dj+gKV1/WI6nsv0sPdGaFn6x0bnP0IqfsNZuN2o5KCh4XOf1w1twBqPcbhJMaw86psXlDeKNj56Zw==",
+  "signature": "btR8JPrAPTaPuVDevQG+mGij3b8QChkuN3+Y4ru7h83iIBum73DUufrN9K9EwRiiemUP+0u4iWs+kDh1lpeIsA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

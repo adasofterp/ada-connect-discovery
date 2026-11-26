@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://alive-font-class-aruba.trycloudflare.com",
   "httpUrl": "https://alive-font-class-aruba.trycloudflare.com",
-  "updatedAt": "2026-11-26T10:48:31.112Z",
-  "expiresAt": "2026-12-26T10:48:31.112Z",
-  "nonce": "df54804d3efe057c9c1548ad8a15e012",
+  "updatedAt": "2026-11-26T14:48:31.149Z",
+  "expiresAt": "2026-12-26T14:48:31.149Z",
+  "nonce": "bdf40a3685942dc213c8020fd98a56bd",
   "payload": {
     "wsUrl": "wss://alive-font-class-aruba.trycloudflare.com",
     "httpUrl": "https://alive-font-class-aruba.trycloudflare.com",
-    "issuedAt": "2026-11-26T10:48:31.112Z",
-    "expiresAt": "2026-12-26T10:48:31.112Z",
-    "nonce": "df54804d3efe057c9c1548ad8a15e012"
+    "issuedAt": "2026-11-26T14:48:31.149Z",
+    "expiresAt": "2026-12-26T14:48:31.149Z",
+    "nonce": "bdf40a3685942dc213c8020fd98a56bd"
   },
-  "signature": "JbC6PxCSz4Qn9Mcrfmk5P/kaGh/+hjBelKO6whWtYb/ab25Wl7jGGj/ffyVsbZ2lP7OjfPdahmv1AwWzJmgTbA==",
+  "signature": "a+3nKXdLCfLRQKO0kJRKEVKZ23sHQerGsyKRzuMu6tdO+F1dmIX190l4RASeUtPryrrc2WkX1m9X8OjPmyLr5w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://alive-font-class-aruba.trycloudflare.com",
-  "httpUrl": "https://alive-font-class-aruba.trycloudflare.com",
-  "updatedAt": "2026-11-26T14:48:31.149Z",
-  "expiresAt": "2026-12-26T14:48:31.149Z",
-  "nonce": "bdf40a3685942dc213c8020fd98a56bd",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-26T16:21:20.656Z",
+  "expiresAt": "2026-12-26T16:21:20.656Z",
+  "nonce": "4db0337e7eda188be2d09b3bbc05f714",
   "payload": {
-    "wsUrl": "wss://alive-font-class-aruba.trycloudflare.com",
-    "httpUrl": "https://alive-font-class-aruba.trycloudflare.com",
-    "issuedAt": "2026-11-26T14:48:31.149Z",
-    "expiresAt": "2026-12-26T14:48:31.149Z",
-    "nonce": "bdf40a3685942dc213c8020fd98a56bd"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-26T16:21:20.656Z",
+    "expiresAt": "2026-12-26T16:21:20.656Z",
+    "nonce": "4db0337e7eda188be2d09b3bbc05f714"
   },
-  "signature": "a+3nKXdLCfLRQKO0kJRKEVKZ23sHQerGsyKRzuMu6tdO+F1dmIX190l4RASeUtPryrrc2WkX1m9X8OjPmyLr5w==",
+  "signature": "266W3lPvrfTUDmkECHmv3s6eFx9DdPWyFcSZwJMhmbEhRO60ltrChpsNX1i5OfOsE/nPrFxiBOpakle8Gm+dtg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

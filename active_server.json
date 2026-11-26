@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-26T16:21:20.656Z",
-  "expiresAt": "2026-12-26T16:21:20.656Z",
-  "nonce": "4db0337e7eda188be2d09b3bbc05f714",
+  "wsUrl": "wss://pointed-lands-damages-sector.trycloudflare.com",
+  "httpUrl": "https://pointed-lands-damages-sector.trycloudflare.com",
+  "updatedAt": "2026-11-26T16:29:33.960Z",
+  "expiresAt": "2026-12-26T16:29:33.960Z",
+  "nonce": "3d08f25c93e3da994495c578560b7976",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-26T16:21:20.656Z",
-    "expiresAt": "2026-12-26T16:21:20.656Z",
-    "nonce": "4db0337e7eda188be2d09b3bbc05f714"
+    "wsUrl": "wss://pointed-lands-damages-sector.trycloudflare.com",
+    "httpUrl": "https://pointed-lands-damages-sector.trycloudflare.com",
+    "issuedAt": "2026-11-26T16:29:33.960Z",
+    "expiresAt": "2026-12-26T16:29:33.960Z",
+    "nonce": "3d08f25c93e3da994495c578560b7976"
   },
-  "signature": "266W3lPvrfTUDmkECHmv3s6eFx9DdPWyFcSZwJMhmbEhRO60ltrChpsNX1i5OfOsE/nPrFxiBOpakle8Gm+dtg==",
+  "signature": "a7B2Ox/l/fj3ggPqMmgf88mnDLRj3+b8gpqnigJBnDkDx/D7kDVc+ticmhNdE2GKsL2kmE1TdRipnqFvQJiLOA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

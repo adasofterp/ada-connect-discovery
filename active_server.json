@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://samples-tags-quit-injuries.trycloudflare.com",
   "httpUrl": "https://samples-tags-quit-injuries.trycloudflare.com",
-  "updatedAt": "2026-11-27T07:10:32.981Z",
-  "expiresAt": "2026-12-27T07:10:32.982Z",
-  "nonce": "969332c43839ab54e036a504d0ea01e8",
+  "updatedAt": "2026-11-27T07:12:38.505Z",
+  "expiresAt": "2026-12-27T07:12:38.505Z",
+  "nonce": "bb2e4d23175f0b53b7f020321037af5b",
   "payload": {
     "wsUrl": "wss://samples-tags-quit-injuries.trycloudflare.com",
     "httpUrl": "https://samples-tags-quit-injuries.trycloudflare.com",
-    "issuedAt": "2026-11-27T07:10:32.981Z",
-    "expiresAt": "2026-12-27T07:10:32.982Z",
-    "nonce": "969332c43839ab54e036a504d0ea01e8"
+    "issuedAt": "2026-11-27T07:12:38.505Z",
+    "expiresAt": "2026-12-27T07:12:38.505Z",
+    "nonce": "bb2e4d23175f0b53b7f020321037af5b"
   },
-  "signature": "l11E3Pjh/1A1xbmEc6qQmrjJP/fYtPRF0ZR+MtPPYVDNuBeViTwWTVEF3fkOeioUUHzMKcneBOwiFdr9veksmw==",
+  "signature": "8ivEGWFuOZCkB6SpatquhmYplhzflXaA6n/JwdFw9F/e0L2vl6E4UJHs9yctYmqDZ3mhgwniH+kf70TSsDM8pQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

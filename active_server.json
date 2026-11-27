@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://arrow-legendary-league-handhelds.trycloudflare.com",
-  "httpUrl": "https://arrow-legendary-league-handhelds.trycloudflare.com",
-  "updatedAt": "2026-11-27T21:04:03.404Z",
-  "expiresAt": "2026-12-27T21:04:03.404Z",
-  "nonce": "2cdeb7254b4ead849c0874ec70cc8679",
+  "wsUrl": "wss://cables-training-zoo-links.trycloudflare.com",
+  "httpUrl": "https://cables-training-zoo-links.trycloudflare.com",
+  "updatedAt": "2026-11-27T22:12:14.842Z",
+  "expiresAt": "2026-12-27T22:12:14.842Z",
+  "nonce": "a004ae1150d262ef935a7755d0d20e7a",
   "payload": {
-    "wsUrl": "wss://arrow-legendary-league-handhelds.trycloudflare.com",
-    "httpUrl": "https://arrow-legendary-league-handhelds.trycloudflare.com",
-    "issuedAt": "2026-11-27T21:04:03.404Z",
-    "expiresAt": "2026-12-27T21:04:03.404Z",
-    "nonce": "2cdeb7254b4ead849c0874ec70cc8679"
+    "wsUrl": "wss://cables-training-zoo-links.trycloudflare.com",
+    "httpUrl": "https://cables-training-zoo-links.trycloudflare.com",
+    "issuedAt": "2026-11-27T22:12:14.842Z",
+    "expiresAt": "2026-12-27T22:12:14.842Z",
+    "nonce": "a004ae1150d262ef935a7755d0d20e7a"
   },
-  "signature": "3RBHhjuBvc5YyFk6tlZgvUKnmLDiGYpuTj5re3y91hxaDTiu+1Holj+R3nIpgdwdWzRpV2nfNLp0RRAyENBHQw==",
+  "signature": "oZ4M1cVW+Rf8ml5trrCfQRQiBeG19o6WgocEKMr5gp8sgRNmFEm5j17q38WTpkh/EMXgUSwckmOWWSypWEY9Bg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

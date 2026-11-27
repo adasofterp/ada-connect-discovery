@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://downloads-yang-advert-messenger.trycloudflare.com",
-  "httpUrl": "https://downloads-yang-advert-messenger.trycloudflare.com",
-  "updatedAt": "2026-11-27T08:23:14.255Z",
-  "expiresAt": "2026-12-27T08:23:14.255Z",
-  "nonce": "c6816aa07126a8bd7ceb4f8cf3491448",
+  "wsUrl": "wss://birmingham-saturday-metropolitan-grace.trycloudflare.com",
+  "httpUrl": "https://birmingham-saturday-metropolitan-grace.trycloudflare.com",
+  "updatedAt": "2026-11-27T10:30:19.336Z",
+  "expiresAt": "2026-12-27T10:30:19.336Z",
+  "nonce": "95dd93418801c0249079f8b4c2c449e7",
   "payload": {
-    "wsUrl": "wss://downloads-yang-advert-messenger.trycloudflare.com",
-    "httpUrl": "https://downloads-yang-advert-messenger.trycloudflare.com",
-    "issuedAt": "2026-11-27T08:23:14.255Z",
-    "expiresAt": "2026-12-27T08:23:14.255Z",
-    "nonce": "c6816aa07126a8bd7ceb4f8cf3491448"
+    "wsUrl": "wss://birmingham-saturday-metropolitan-grace.trycloudflare.com",
+    "httpUrl": "https://birmingham-saturday-metropolitan-grace.trycloudflare.com",
+    "issuedAt": "2026-11-27T10:30:19.336Z",
+    "expiresAt": "2026-12-27T10:30:19.336Z",
+    "nonce": "95dd93418801c0249079f8b4c2c449e7"
   },
-  "signature": "jWnIcFCZAdYjHqV7g584rBtmUzSIrBDTXezenZBoZ3b8WQ9wNdYv7PoUGdDr3bzV5V+glb5/S5DGg8NO1GV3hg==",
+  "signature": "Wu7q6XNXg1iB+1atkxM2z9SAmWp0MXVam/kkVIyzTZYf6a7QKMXcdUY6UIPJcjI8H6pY9eN7WAZGayJzpyXWFw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

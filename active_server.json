@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-27T23:45:51.514Z",
-  "expiresAt": "2026-12-27T23:45:51.514Z",
-  "nonce": "469c2c850f30a5b05c063ff7b199b772",
+  "wsUrl": "wss://palestinian-stopped-strengths-stunning.trycloudflare.com",
+  "httpUrl": "https://palestinian-stopped-strengths-stunning.trycloudflare.com",
+  "updatedAt": "2026-11-27T23:50:09.804Z",
+  "expiresAt": "2026-12-27T23:50:09.804Z",
+  "nonce": "c7117410e9b059aa910bd4926a3158c2",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-27T23:45:51.514Z",
-    "expiresAt": "2026-12-27T23:45:51.514Z",
-    "nonce": "469c2c850f30a5b05c063ff7b199b772"
+    "wsUrl": "wss://palestinian-stopped-strengths-stunning.trycloudflare.com",
+    "httpUrl": "https://palestinian-stopped-strengths-stunning.trycloudflare.com",
+    "issuedAt": "2026-11-27T23:50:09.804Z",
+    "expiresAt": "2026-12-27T23:50:09.804Z",
+    "nonce": "c7117410e9b059aa910bd4926a3158c2"
   },
-  "signature": "qbQu7F0DuMJvNTdjkv058wGUzCUSNmlxFLvm60qz6xdbi0m957R+EgnA8DQnsd6w7Lcf1ac6gvPLqW/bDhGIgw==",
+  "signature": "JrdEP0hsh61q+0mJdOiShnsaHm5E3+Q7V/S/bxL3v6NS/knBz/m7KAy4ti6XQMP8Ql593sWpkk7PYmKog9JV9g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

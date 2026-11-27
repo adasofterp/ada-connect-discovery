@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://asking-cubic-hawk-plus.trycloudflare.com",
   "httpUrl": "https://asking-cubic-hawk-plus.trycloudflare.com",
-  "updatedAt": "2026-11-27T19:42:07.662Z",
-  "expiresAt": "2026-12-27T19:42:07.662Z",
-  "nonce": "86e971a199a36504b0e1b6001bf774b2",
+  "updatedAt": "2026-11-27T20:37:21.125Z",
+  "expiresAt": "2026-12-27T20:37:21.125Z",
+  "nonce": "1538c45b39455cf5f2349c157af6081e",
   "payload": {
     "wsUrl": "wss://asking-cubic-hawk-plus.trycloudflare.com",
     "httpUrl": "https://asking-cubic-hawk-plus.trycloudflare.com",
-    "issuedAt": "2026-11-27T19:42:07.662Z",
-    "expiresAt": "2026-12-27T19:42:07.662Z",
-    "nonce": "86e971a199a36504b0e1b6001bf774b2"
+    "issuedAt": "2026-11-27T20:37:21.125Z",
+    "expiresAt": "2026-12-27T20:37:21.125Z",
+    "nonce": "1538c45b39455cf5f2349c157af6081e"
   },
-  "signature": "sEKocPpBWuRllCvEddXWDvkWnphdxt6k9xkAnu5WnxSvZmnvD9fNDG1WKSZWT0RYI3+/cxTurW/2NJf+69qSCw==",
+  "signature": "E7U3xK7aXoaeEUekpM9EP7HC3f2d/kb0HxoRXhyqpemNNORfHrmBgVPlfL49N9TLY6ReD4yolZVjHMKHa/M+/w==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

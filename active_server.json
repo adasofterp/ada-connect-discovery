@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://infringement-workers-magnificent-employer.trycloudflare.com",
-  "httpUrl": "https://infringement-workers-magnificent-employer.trycloudflare.com",
-  "updatedAt": "2026-11-27T16:17:55.117Z",
-  "expiresAt": "2026-12-27T16:17:55.117Z",
-  "nonce": "3d922b387ef63eca781501a566e408be",
+  "wsUrl": "wss://explained-mayor-outstanding-counties.trycloudflare.com",
+  "httpUrl": "https://explained-mayor-outstanding-counties.trycloudflare.com",
+  "updatedAt": "2026-11-27T18:34:10.126Z",
+  "expiresAt": "2026-12-27T18:34:10.126Z",
+  "nonce": "5e9797c38dfe0997874fb5a853cc9dcf",
   "payload": {
-    "wsUrl": "wss://infringement-workers-magnificent-employer.trycloudflare.com",
-    "httpUrl": "https://infringement-workers-magnificent-employer.trycloudflare.com",
-    "issuedAt": "2026-11-27T16:17:55.117Z",
-    "expiresAt": "2026-12-27T16:17:55.117Z",
-    "nonce": "3d922b387ef63eca781501a566e408be"
+    "wsUrl": "wss://explained-mayor-outstanding-counties.trycloudflare.com",
+    "httpUrl": "https://explained-mayor-outstanding-counties.trycloudflare.com",
+    "issuedAt": "2026-11-27T18:34:10.126Z",
+    "expiresAt": "2026-12-27T18:34:10.126Z",
+    "nonce": "5e9797c38dfe0997874fb5a853cc9dcf"
   },
-  "signature": "J06nFMItAaQ6Yj3r0TcdqJix/maliebE+SWq+bqkE+I5QTcalMZsVNmKuizxnVKUUa5B4CpFfOeX/DJjJJJ1og==",
+  "signature": "copm4VjqvlilhhImw8RxKSqkfniexXMbLKGmUyG2rFZfJXop7X59ixFGf59/OFc1/g4+PoGIQmD5ur15yhT+Rg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

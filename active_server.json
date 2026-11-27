@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://accidents-installation-pdf-composite.trycloudflare.com",
-  "httpUrl": "https://accidents-installation-pdf-composite.trycloudflare.com",
-  "updatedAt": "2026-11-27T15:21:51.428Z",
-  "expiresAt": "2026-12-27T15:21:51.428Z",
-  "nonce": "5d7f569e11a01ee2e9519f37fc345218",
+  "wsUrl": "wss://fly-prozac-quotations-former.trycloudflare.com",
+  "httpUrl": "https://fly-prozac-quotations-former.trycloudflare.com",
+  "updatedAt": "2026-11-27T15:32:11.842Z",
+  "expiresAt": "2026-12-27T15:32:11.842Z",
+  "nonce": "a92adb9ef3ea4a2ebacb0ee1d56a67ac",
   "payload": {
-    "wsUrl": "wss://accidents-installation-pdf-composite.trycloudflare.com",
-    "httpUrl": "https://accidents-installation-pdf-composite.trycloudflare.com",
-    "issuedAt": "2026-11-27T15:21:51.428Z",
-    "expiresAt": "2026-12-27T15:21:51.428Z",
-    "nonce": "5d7f569e11a01ee2e9519f37fc345218"
+    "wsUrl": "wss://fly-prozac-quotations-former.trycloudflare.com",
+    "httpUrl": "https://fly-prozac-quotations-former.trycloudflare.com",
+    "issuedAt": "2026-11-27T15:32:11.842Z",
+    "expiresAt": "2026-12-27T15:32:11.842Z",
+    "nonce": "a92adb9ef3ea4a2ebacb0ee1d56a67ac"
   },
-  "signature": "nz280G/VqKkFBk8jf8trPCXPuNkDXOcckqStNtMTNT1S6D+Vxk7q40B5CXmJdxMkQR5qh5dHvY4rJAg1CG/+Aw==",
+  "signature": "fpswwcgYHs3y0cjP8y3fVxkT+60/VDM9oE3nFOC1odO/QNgRizQBQ6FRYGLjSSvZ/QEiE7DF7A299qtnuUazCA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

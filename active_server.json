@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://relatives-fork-duke-watt.trycloudflare.com",
-  "httpUrl": "https://relatives-fork-duke-watt.trycloudflare.com",
-  "updatedAt": "2026-11-27T04:13:43.898Z",
-  "expiresAt": "2026-12-27T04:13:43.898Z",
-  "nonce": "9d2e37b11017c25d0f1e720fbe5e647e",
+  "wsUrl": "wss://moms-southampton-consistent-lakes.trycloudflare.com",
+  "httpUrl": "https://moms-southampton-consistent-lakes.trycloudflare.com",
+  "updatedAt": "2026-11-27T05:58:36.431Z",
+  "expiresAt": "2026-12-27T05:58:36.431Z",
+  "nonce": "8f0b0faaad31cb48d25ea1a90a9627d8",
   "payload": {
-    "wsUrl": "wss://relatives-fork-duke-watt.trycloudflare.com",
-    "httpUrl": "https://relatives-fork-duke-watt.trycloudflare.com",
-    "issuedAt": "2026-11-27T04:13:43.898Z",
-    "expiresAt": "2026-12-27T04:13:43.898Z",
-    "nonce": "9d2e37b11017c25d0f1e720fbe5e647e"
+    "wsUrl": "wss://moms-southampton-consistent-lakes.trycloudflare.com",
+    "httpUrl": "https://moms-southampton-consistent-lakes.trycloudflare.com",
+    "issuedAt": "2026-11-27T05:58:36.431Z",
+    "expiresAt": "2026-12-27T05:58:36.431Z",
+    "nonce": "8f0b0faaad31cb48d25ea1a90a9627d8"
   },
-  "signature": "I94/Opxs5QvspMPdMovjgRLZOX+TbevH15XJFxSeOHuwjYio+S16omVOsDCV0GJvc2geXFB2v5RT3KW7IH8Vsg==",
+  "signature": "5BooVjBoq0JoaGpOpifJicaEACdD67pzME0jDKA7Wdda7l1G22PjvL8/xgQXupNlCMdk6ybAqaYO6z2npyolXA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

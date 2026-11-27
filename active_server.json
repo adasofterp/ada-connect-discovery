@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://fly-prozac-quotations-former.trycloudflare.com",
-  "httpUrl": "https://fly-prozac-quotations-former.trycloudflare.com",
-  "updatedAt": "2026-11-27T15:32:11.842Z",
-  "expiresAt": "2026-12-27T15:32:11.842Z",
-  "nonce": "a92adb9ef3ea4a2ebacb0ee1d56a67ac",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-27T16:02:22.149Z",
+  "expiresAt": "2026-12-27T16:02:22.149Z",
+  "nonce": "155f1b194370e5c77bc26a4f1bf49645",
   "payload": {
-    "wsUrl": "wss://fly-prozac-quotations-former.trycloudflare.com",
-    "httpUrl": "https://fly-prozac-quotations-former.trycloudflare.com",
-    "issuedAt": "2026-11-27T15:32:11.842Z",
-    "expiresAt": "2026-12-27T15:32:11.842Z",
-    "nonce": "a92adb9ef3ea4a2ebacb0ee1d56a67ac"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-27T16:02:22.149Z",
+    "expiresAt": "2026-12-27T16:02:22.149Z",
+    "nonce": "155f1b194370e5c77bc26a4f1bf49645"
   },
-  "signature": "fpswwcgYHs3y0cjP8y3fVxkT+60/VDM9oE3nFOC1odO/QNgRizQBQ6FRYGLjSSvZ/QEiE7DF7A299qtnuUazCA==",
+  "signature": "WIBR4TD8nt6SwsnHnRcuNmGb5ynOPZM8KYvwo8MnXL3KlVemG807IwDu7Lp+qOk9n7XVefPZjTGDwbDXk2LsRQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

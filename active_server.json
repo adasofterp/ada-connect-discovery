@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-27T15:21:43.128Z",
-  "expiresAt": "2026-12-27T15:21:43.128Z",
-  "nonce": "9bc9a096bb759aa8960b25407c297a36",
+  "wsUrl": "wss://accidents-installation-pdf-composite.trycloudflare.com",
+  "httpUrl": "https://accidents-installation-pdf-composite.trycloudflare.com",
+  "updatedAt": "2026-11-27T15:21:51.428Z",
+  "expiresAt": "2026-12-27T15:21:51.428Z",
+  "nonce": "5d7f569e11a01ee2e9519f37fc345218",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-27T15:21:43.128Z",
-    "expiresAt": "2026-12-27T15:21:43.128Z",
-    "nonce": "9bc9a096bb759aa8960b25407c297a36"
+    "wsUrl": "wss://accidents-installation-pdf-composite.trycloudflare.com",
+    "httpUrl": "https://accidents-installation-pdf-composite.trycloudflare.com",
+    "issuedAt": "2026-11-27T15:21:51.428Z",
+    "expiresAt": "2026-12-27T15:21:51.428Z",
+    "nonce": "5d7f569e11a01ee2e9519f37fc345218"
   },
-  "signature": "485VlYofvdTWnue69OqDYiW97/j0XoFBaCZZ79gKXGNIFtSfxHoT1KKRW+P0BD9+ro5k9n18kyfRuHHTOEG55A==",
+  "signature": "nz280G/VqKkFBk8jf8trPCXPuNkDXOcckqStNtMTNT1S6D+Vxk7q40B5CXmJdxMkQR5qh5dHvY4rJAg1CG/+Aw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

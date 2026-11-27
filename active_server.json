@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://shopping-grove-arrives-jun.trycloudflare.com",
-  "httpUrl": "https://shopping-grove-arrives-jun.trycloudflare.com",
-  "updatedAt": "2026-11-27T01:10:43.139Z",
-  "expiresAt": "2026-12-27T01:10:43.139Z",
-  "nonce": "ee02ad0a13c13e7bd92465f2d426b312",
+  "wsUrl": "wss://managed-detected-provided-traditional.trycloudflare.com",
+  "httpUrl": "https://managed-detected-provided-traditional.trycloudflare.com",
+  "updatedAt": "2026-11-27T02:11:43.902Z",
+  "expiresAt": "2026-12-27T02:11:43.902Z",
+  "nonce": "9bf29c265b1d0dbaab212033938da8f0",
   "payload": {
-    "wsUrl": "wss://shopping-grove-arrives-jun.trycloudflare.com",
-    "httpUrl": "https://shopping-grove-arrives-jun.trycloudflare.com",
-    "issuedAt": "2026-11-27T01:10:43.139Z",
-    "expiresAt": "2026-12-27T01:10:43.139Z",
-    "nonce": "ee02ad0a13c13e7bd92465f2d426b312"
+    "wsUrl": "wss://managed-detected-provided-traditional.trycloudflare.com",
+    "httpUrl": "https://managed-detected-provided-traditional.trycloudflare.com",
+    "issuedAt": "2026-11-27T02:11:43.902Z",
+    "expiresAt": "2026-12-27T02:11:43.902Z",
+    "nonce": "9bf29c265b1d0dbaab212033938da8f0"
   },
-  "signature": "9kbCj5ZunvMeKOO2J5Vrw1FKVcD/RBJC49cCCDWLyv8FhINU3o9ab14Dpl1rN8ahTUe2LRRRJ9o7Mv3yde2myg==",
+  "signature": "+hpF6k2+JoZI+tUZ5MOPcdVolsPL0Nwu9RVTEb+RLalMj2fZQuwbCyj9TrlcpBimFWePkGPnDDEW7mS0xMLfVg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

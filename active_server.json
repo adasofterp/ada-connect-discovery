@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://samples-tags-quit-injuries.trycloudflare.com",
-  "httpUrl": "https://samples-tags-quit-injuries.trycloudflare.com",
-  "updatedAt": "2026-11-27T07:12:38.505Z",
-  "expiresAt": "2026-12-27T07:12:38.505Z",
-  "nonce": "bb2e4d23175f0b53b7f020321037af5b",
+  "wsUrl": "wss://downloads-yang-advert-messenger.trycloudflare.com",
+  "httpUrl": "https://downloads-yang-advert-messenger.trycloudflare.com",
+  "updatedAt": "2026-11-27T08:23:14.255Z",
+  "expiresAt": "2026-12-27T08:23:14.255Z",
+  "nonce": "c6816aa07126a8bd7ceb4f8cf3491448",
   "payload": {
-    "wsUrl": "wss://samples-tags-quit-injuries.trycloudflare.com",
-    "httpUrl": "https://samples-tags-quit-injuries.trycloudflare.com",
-    "issuedAt": "2026-11-27T07:12:38.505Z",
-    "expiresAt": "2026-12-27T07:12:38.505Z",
-    "nonce": "bb2e4d23175f0b53b7f020321037af5b"
+    "wsUrl": "wss://downloads-yang-advert-messenger.trycloudflare.com",
+    "httpUrl": "https://downloads-yang-advert-messenger.trycloudflare.com",
+    "issuedAt": "2026-11-27T08:23:14.255Z",
+    "expiresAt": "2026-12-27T08:23:14.255Z",
+    "nonce": "c6816aa07126a8bd7ceb4f8cf3491448"
   },
-  "signature": "8ivEGWFuOZCkB6SpatquhmYplhzflXaA6n/JwdFw9F/e0L2vl6E4UJHs9yctYmqDZ3mhgwniH+kf70TSsDM8pQ==",
+  "signature": "jWnIcFCZAdYjHqV7g584rBtmUzSIrBDTXezenZBoZ3b8WQ9wNdYv7PoUGdDr3bzV5V+glb5/S5DGg8NO1GV3hg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

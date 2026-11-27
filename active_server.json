@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://you-recently-hydrocodone-settled.trycloudflare.com",
-  "httpUrl": "https://you-recently-hydrocodone-settled.trycloudflare.com",
-  "updatedAt": "2026-11-27T14:39:16.623Z",
-  "expiresAt": "2026-12-27T14:39:16.623Z",
-  "nonce": "123a3bb79d937ed5b3d55213be90000a",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-27T15:10:10.141Z",
+  "expiresAt": "2026-12-27T15:10:10.141Z",
+  "nonce": "102e7e837a2dbee31d472063486e404b",
   "payload": {
-    "wsUrl": "wss://you-recently-hydrocodone-settled.trycloudflare.com",
-    "httpUrl": "https://you-recently-hydrocodone-settled.trycloudflare.com",
-    "issuedAt": "2026-11-27T14:39:16.623Z",
-    "expiresAt": "2026-12-27T14:39:16.623Z",
-    "nonce": "123a3bb79d937ed5b3d55213be90000a"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-27T15:10:10.141Z",
+    "expiresAt": "2026-12-27T15:10:10.141Z",
+    "nonce": "102e7e837a2dbee31d472063486e404b"
   },
-  "signature": "T5/aaysEAYpOvkbJCSeokrYIjwjH/qoyCqdQAol8vcHDx8lFZfvOOwhwE1wRcS8WoVk8yJWANThW6lNaaCxUkg==",
+  "signature": "Z8IZ0I5qNn0gAiXvznJ7ojbt+ZDEEjcA7iK+T/72nHaJVA1e6qFRi9N0yrVKNo92DPWEWFC0s2IYmsWMc49fqg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

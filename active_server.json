@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://birmingham-saturday-metropolitan-grace.trycloudflare.com",
   "httpUrl": "https://birmingham-saturday-metropolitan-grace.trycloudflare.com",
-  "updatedAt": "2026-11-27T10:30:19.336Z",
-  "expiresAt": "2026-12-27T10:30:19.336Z",
-  "nonce": "95dd93418801c0249079f8b4c2c449e7",
+  "updatedAt": "2026-11-27T12:23:09.595Z",
+  "expiresAt": "2026-12-27T12:23:09.595Z",
+  "nonce": "bf647e65c721c4b3d429ebc59f3e174e",
   "payload": {
     "wsUrl": "wss://birmingham-saturday-metropolitan-grace.trycloudflare.com",
     "httpUrl": "https://birmingham-saturday-metropolitan-grace.trycloudflare.com",
-    "issuedAt": "2026-11-27T10:30:19.336Z",
-    "expiresAt": "2026-12-27T10:30:19.336Z",
-    "nonce": "95dd93418801c0249079f8b4c2c449e7"
+    "issuedAt": "2026-11-27T12:23:09.595Z",
+    "expiresAt": "2026-12-27T12:23:09.595Z",
+    "nonce": "bf647e65c721c4b3d429ebc59f3e174e"
   },
-  "signature": "Wu7q6XNXg1iB+1atkxM2z9SAmWp0MXVam/kkVIyzTZYf6a7QKMXcdUY6UIPJcjI8H6pY9eN7WAZGayJzpyXWFw==",
+  "signature": "ix7Hgz6aVMIn1g/mzR3JlTF5n9+S+Sq867xfCa11Ca4+lrlKhwit4wDc9ZS4RmYXP0j+wPsDa/k2LnhsrqBsrg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

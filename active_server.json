@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-27T16:02:22.149Z",
-  "expiresAt": "2026-12-27T16:02:22.149Z",
-  "nonce": "155f1b194370e5c77bc26a4f1bf49645",
+  "wsUrl": "wss://remainder-dresses-missions-incredible.trycloudflare.com",
+  "httpUrl": "https://remainder-dresses-missions-incredible.trycloudflare.com",
+  "updatedAt": "2026-11-27T16:02:32.148Z",
+  "expiresAt": "2026-12-27T16:02:32.148Z",
+  "nonce": "90028826dee73f9371757b72a38c7bb6",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-27T16:02:22.149Z",
-    "expiresAt": "2026-12-27T16:02:22.149Z",
-    "nonce": "155f1b194370e5c77bc26a4f1bf49645"
+    "wsUrl": "wss://remainder-dresses-missions-incredible.trycloudflare.com",
+    "httpUrl": "https://remainder-dresses-missions-incredible.trycloudflare.com",
+    "issuedAt": "2026-11-27T16:02:32.148Z",
+    "expiresAt": "2026-12-27T16:02:32.148Z",
+    "nonce": "90028826dee73f9371757b72a38c7bb6"
   },
-  "signature": "WIBR4TD8nt6SwsnHnRcuNmGb5ynOPZM8KYvwo8MnXL3KlVemG807IwDu7Lp+qOk9n7XVefPZjTGDwbDXk2LsRQ==",
+  "signature": "2wpYCz6f2rD2mOJk3L9OzbkMlA4irGIF5xxqmJT4f0ixv4mHe6x3If14ZVc7O8Y5VX2Atnq6XLHgW1P1zSh6Rw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

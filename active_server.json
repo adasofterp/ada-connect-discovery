@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://birmingham-saturday-metropolitan-grace.trycloudflare.com",
-  "httpUrl": "https://birmingham-saturday-metropolitan-grace.trycloudflare.com",
-  "updatedAt": "2026-11-27T12:23:09.595Z",
-  "expiresAt": "2026-12-27T12:23:09.595Z",
-  "nonce": "bf647e65c721c4b3d429ebc59f3e174e",
+  "wsUrl": "wss://you-recently-hydrocodone-settled.trycloudflare.com",
+  "httpUrl": "https://you-recently-hydrocodone-settled.trycloudflare.com",
+  "updatedAt": "2026-11-27T14:39:16.623Z",
+  "expiresAt": "2026-12-27T14:39:16.623Z",
+  "nonce": "123a3bb79d937ed5b3d55213be90000a",
   "payload": {
-    "wsUrl": "wss://birmingham-saturday-metropolitan-grace.trycloudflare.com",
-    "httpUrl": "https://birmingham-saturday-metropolitan-grace.trycloudflare.com",
-    "issuedAt": "2026-11-27T12:23:09.595Z",
-    "expiresAt": "2026-12-27T12:23:09.595Z",
-    "nonce": "bf647e65c721c4b3d429ebc59f3e174e"
+    "wsUrl": "wss://you-recently-hydrocodone-settled.trycloudflare.com",
+    "httpUrl": "https://you-recently-hydrocodone-settled.trycloudflare.com",
+    "issuedAt": "2026-11-27T14:39:16.623Z",
+    "expiresAt": "2026-12-27T14:39:16.623Z",
+    "nonce": "123a3bb79d937ed5b3d55213be90000a"
   },
-  "signature": "ix7Hgz6aVMIn1g/mzR3JlTF5n9+S+Sq867xfCa11Ca4+lrlKhwit4wDc9ZS4RmYXP0j+wPsDa/k2LnhsrqBsrg==",
+  "signature": "T5/aaysEAYpOvkbJCSeokrYIjwjH/qoyCqdQAol8vcHDx8lFZfvOOwhwE1wRcS8WoVk8yJWANThW6lNaaCxUkg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

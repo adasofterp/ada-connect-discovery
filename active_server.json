@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://api.trycloudflare.com",
-  "httpUrl": "https://api.trycloudflare.com",
-  "updatedAt": "2026-11-27T19:14:07.803Z",
-  "expiresAt": "2026-12-27T19:14:07.803Z",
-  "nonce": "83cab70373c631dfacc6778384333e30",
+  "wsUrl": "wss://massachusetts-resistance-occupations-graphs.trycloudflare.com",
+  "httpUrl": "https://massachusetts-resistance-occupations-graphs.trycloudflare.com",
+  "updatedAt": "2026-11-27T19:14:16.141Z",
+  "expiresAt": "2026-12-27T19:14:16.141Z",
+  "nonce": "a9b3309800066f74046f5499401d7428",
   "payload": {
-    "wsUrl": "wss://api.trycloudflare.com",
-    "httpUrl": "https://api.trycloudflare.com",
-    "issuedAt": "2026-11-27T19:14:07.803Z",
-    "expiresAt": "2026-12-27T19:14:07.803Z",
-    "nonce": "83cab70373c631dfacc6778384333e30"
+    "wsUrl": "wss://massachusetts-resistance-occupations-graphs.trycloudflare.com",
+    "httpUrl": "https://massachusetts-resistance-occupations-graphs.trycloudflare.com",
+    "issuedAt": "2026-11-27T19:14:16.141Z",
+    "expiresAt": "2026-12-27T19:14:16.141Z",
+    "nonce": "a9b3309800066f74046f5499401d7428"
   },
-  "signature": "uKmF27bB5pSRnkJYAbTV9wOEoLlJqKU2Ll63RMYMOywIkUTjd5c9YyhYZCWpwMB3mi8928+tUZlkxRRrliswjg==",
+  "signature": "li2UM+yiWeczZwcFDp4xTtXIpLK8QJqBh1u0hZWO6HetJwBA2vE4my2zeonsuNBhnJJUfQ4HfcMRRdaXNbaCgg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

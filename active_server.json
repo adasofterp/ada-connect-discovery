@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://sensors-core-olympic-revolution.trycloudflare.com",
-  "httpUrl": "https://sensors-core-olympic-revolution.trycloudflare.com",
-  "updatedAt": "2026-11-28T11:14:14.872Z",
-  "expiresAt": "2026-12-28T11:14:14.872Z",
-  "nonce": "d7a4711de3a87836ad6d8c684bcd5993",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-28T11:41:27.378Z",
+  "expiresAt": "2026-12-28T11:41:27.378Z",
+  "nonce": "49363b7e3a59b5349336710dde984b67",
   "payload": {
-    "wsUrl": "wss://sensors-core-olympic-revolution.trycloudflare.com",
-    "httpUrl": "https://sensors-core-olympic-revolution.trycloudflare.com",
-    "issuedAt": "2026-11-28T11:14:14.872Z",
-    "expiresAt": "2026-12-28T11:14:14.872Z",
-    "nonce": "d7a4711de3a87836ad6d8c684bcd5993"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-28T11:41:27.378Z",
+    "expiresAt": "2026-12-28T11:41:27.378Z",
+    "nonce": "49363b7e3a59b5349336710dde984b67"
   },
-  "signature": "Pnh3vL4mjDqetJ6YE9twe9TOtJ4e7uxSnf6EXqrGPZX32uxZoNy4HtTOvcQ1zTR7F5F4Sfp5RGd6/V8K4KPOMg==",
+  "signature": "rY3owX6HnuSNblycwU7yGbZXtZWzJ+EofPuZQqyBqvS8YFhwZ1R2c4CMhFm43zo0l4UE3dOZ9lpagsADEncitA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

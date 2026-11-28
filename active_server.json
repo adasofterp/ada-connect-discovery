@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://feat-movement-gates-pixels.trycloudflare.com",
-  "httpUrl": "https://feat-movement-gates-pixels.trycloudflare.com",
-  "updatedAt": "2026-11-28T13:24:21.129Z",
-  "expiresAt": "2026-12-28T13:24:21.129Z",
-  "nonce": "b316a239560dfc86946583915992639b",
+  "wsUrl": "wss://welding-facilitate-hayes-pit.trycloudflare.com",
+  "httpUrl": "https://welding-facilitate-hayes-pit.trycloudflare.com",
+  "updatedAt": "2026-11-28T13:39:59.738Z",
+  "expiresAt": "2026-12-28T13:39:59.738Z",
+  "nonce": "18f07b399312ebc09a3d59ef579e3a33",
   "payload": {
-    "wsUrl": "wss://feat-movement-gates-pixels.trycloudflare.com",
-    "httpUrl": "https://feat-movement-gates-pixels.trycloudflare.com",
-    "issuedAt": "2026-11-28T13:24:21.129Z",
-    "expiresAt": "2026-12-28T13:24:21.129Z",
-    "nonce": "b316a239560dfc86946583915992639b"
+    "wsUrl": "wss://welding-facilitate-hayes-pit.trycloudflare.com",
+    "httpUrl": "https://welding-facilitate-hayes-pit.trycloudflare.com",
+    "issuedAt": "2026-11-28T13:39:59.738Z",
+    "expiresAt": "2026-12-28T13:39:59.738Z",
+    "nonce": "18f07b399312ebc09a3d59ef579e3a33"
   },
-  "signature": "SwT9csxVbTEoWvX1RX9H5RC2XBFpjFb1MxK0w4ykyGOqsVvmC8LGkokCSo2ARYY4sYJn2j7QGRr+semHssFTWw==",
+  "signature": "Pz6hgMSc7EI+Kn00zOFlBLdQhg0AK/v2tQFwjW1LJOBCcAKfsWVSmotHHcJWbAzdLQZw+Ipf+95CktHNGoAQpA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

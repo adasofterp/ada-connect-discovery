@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
   "httpUrl": "https://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
-  "updatedAt": "2026-11-28T17:01:00.838Z",
-  "expiresAt": "2026-12-28T17:01:00.838Z",
-  "nonce": "2113c732d4edcbe981928284a2c007a7",
+  "updatedAt": "2026-11-28T17:17:39.670Z",
+  "expiresAt": "2026-12-28T17:17:39.670Z",
+  "nonce": "0910c2b3d6d85ab57625196c0ddb2c47",
   "payload": {
     "wsUrl": "wss://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
     "httpUrl": "https://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
-    "issuedAt": "2026-11-28T17:01:00.838Z",
-    "expiresAt": "2026-12-28T17:01:00.838Z",
-    "nonce": "2113c732d4edcbe981928284a2c007a7"
+    "issuedAt": "2026-11-28T17:17:39.670Z",
+    "expiresAt": "2026-12-28T17:17:39.670Z",
+    "nonce": "0910c2b3d6d85ab57625196c0ddb2c47"
   },
-  "signature": "legtzih6ECqJm681zpeS9bD0VVR71Kybt7mlnpm6CVi6RCCt11b4DZ2GCNNfMKr+vwjeqj9RNu7NIxtE7NJCyA==",
+  "signature": "32k8t5jDwRfGDdIu1nLznPEPtAyPkzyVdZVGMwGwNufHf3VLPqHWcCZ7BdizdG4iEgk9Rsuc773TBvwFVxXb4A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

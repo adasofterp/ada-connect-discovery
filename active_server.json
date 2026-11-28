@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
-  "httpUrl": "https://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
-  "updatedAt": "2026-11-28T17:17:39.670Z",
-  "expiresAt": "2026-12-28T17:17:39.670Z",
-  "nonce": "0910c2b3d6d85ab57625196c0ddb2c47",
+  "wsUrl": "wss://wednesday-lot-copies-manufacturers.trycloudflare.com",
+  "httpUrl": "https://wednesday-lot-copies-manufacturers.trycloudflare.com",
+  "updatedAt": "2026-11-28T18:02:02.378Z",
+  "expiresAt": "2026-12-28T18:02:02.378Z",
+  "nonce": "d8c99dd38a02ceff53e769c296d9ac8e",
   "payload": {
-    "wsUrl": "wss://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
-    "httpUrl": "https://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
-    "issuedAt": "2026-11-28T17:17:39.670Z",
-    "expiresAt": "2026-12-28T17:17:39.670Z",
-    "nonce": "0910c2b3d6d85ab57625196c0ddb2c47"
+    "wsUrl": "wss://wednesday-lot-copies-manufacturers.trycloudflare.com",
+    "httpUrl": "https://wednesday-lot-copies-manufacturers.trycloudflare.com",
+    "issuedAt": "2026-11-28T18:02:02.378Z",
+    "expiresAt": "2026-12-28T18:02:02.378Z",
+    "nonce": "d8c99dd38a02ceff53e769c296d9ac8e"
   },
-  "signature": "32k8t5jDwRfGDdIu1nLznPEPtAyPkzyVdZVGMwGwNufHf3VLPqHWcCZ7BdizdG4iEgk9Rsuc773TBvwFVxXb4A==",
+  "signature": "qIWO0P4tmnRqxX41oCdIZRYqMReumEB6wU0vCL5z47D5ZodWcFlmhgXt+a8SXOdycjc/y8KAijH44jXpNfOt3g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://beliefs-direct-encouraged-inquire.trycloudflare.com",
-  "httpUrl": "https://beliefs-direct-encouraged-inquire.trycloudflare.com",
-  "updatedAt": "2026-11-28T09:01:44.721Z",
-  "expiresAt": "2026-12-28T09:01:44.721Z",
-  "nonce": "ed8b1eb76064737b9198749b28bc4d16",
+  "wsUrl": "wss://colour-pillow-observation-air.trycloudflare.com",
+  "httpUrl": "https://colour-pillow-observation-air.trycloudflare.com",
+  "updatedAt": "2026-11-28T09:12:13.110Z",
+  "expiresAt": "2026-12-28T09:12:13.110Z",
+  "nonce": "f11dc0ef93fa5f5f295a2566b07df0bd",
   "payload": {
-    "wsUrl": "wss://beliefs-direct-encouraged-inquire.trycloudflare.com",
-    "httpUrl": "https://beliefs-direct-encouraged-inquire.trycloudflare.com",
-    "issuedAt": "2026-11-28T09:01:44.721Z",
-    "expiresAt": "2026-12-28T09:01:44.721Z",
-    "nonce": "ed8b1eb76064737b9198749b28bc4d16"
+    "wsUrl": "wss://colour-pillow-observation-air.trycloudflare.com",
+    "httpUrl": "https://colour-pillow-observation-air.trycloudflare.com",
+    "issuedAt": "2026-11-28T09:12:13.110Z",
+    "expiresAt": "2026-12-28T09:12:13.110Z",
+    "nonce": "f11dc0ef93fa5f5f295a2566b07df0bd"
   },
-  "signature": "jN/T6F6ZyG4CEVxlcf6IsVVW8GiCdstp5JdsbXAYK33pbEmLL6FCYtiWL/Eyr055wdieBPc2+RX4a8V8j4Bc8g==",
+  "signature": "0LvZN1gXMm1YLs61SjVCOiDFny3MEsHh3FmKkMJ6L/6krWWVW5SIefNp9A85I5j1FOS7qkZyqLxIOLIRg/WK9A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

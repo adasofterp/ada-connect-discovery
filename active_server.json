@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://chapel-subtle-analyzed-map.trycloudflare.com",
-  "httpUrl": "https://chapel-subtle-analyzed-map.trycloudflare.com",
-  "updatedAt": "2026-11-28T13:07:54.240Z",
-  "expiresAt": "2026-12-28T13:07:54.240Z",
-  "nonce": "baace5b7efc59eb72ab0254cfa77e1d4",
+  "wsUrl": "wss://feat-movement-gates-pixels.trycloudflare.com",
+  "httpUrl": "https://feat-movement-gates-pixels.trycloudflare.com",
+  "updatedAt": "2026-11-28T13:24:21.129Z",
+  "expiresAt": "2026-12-28T13:24:21.129Z",
+  "nonce": "b316a239560dfc86946583915992639b",
   "payload": {
-    "wsUrl": "wss://chapel-subtle-analyzed-map.trycloudflare.com",
-    "httpUrl": "https://chapel-subtle-analyzed-map.trycloudflare.com",
-    "issuedAt": "2026-11-28T13:07:54.240Z",
-    "expiresAt": "2026-12-28T13:07:54.240Z",
-    "nonce": "baace5b7efc59eb72ab0254cfa77e1d4"
+    "wsUrl": "wss://feat-movement-gates-pixels.trycloudflare.com",
+    "httpUrl": "https://feat-movement-gates-pixels.trycloudflare.com",
+    "issuedAt": "2026-11-28T13:24:21.129Z",
+    "expiresAt": "2026-12-28T13:24:21.129Z",
+    "nonce": "b316a239560dfc86946583915992639b"
   },
-  "signature": "7BYLsHOTlkfDcPJr5ktK1NN3MK+cPxK+5cPdBhSyeoumKMy3UD2BZGOFa9/yH24PnapcWWrkkAmoZyaZxhFFPA==",
+  "signature": "SwT9csxVbTEoWvX1RX9H5RC2XBFpjFb1MxK0w4ykyGOqsVvmC8LGkokCSo2ARYY4sYJn2j7QGRr+semHssFTWw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://wednesday-lot-copies-manufacturers.trycloudflare.com",
-  "httpUrl": "https://wednesday-lot-copies-manufacturers.trycloudflare.com",
-  "updatedAt": "2026-11-28T18:02:02.378Z",
-  "expiresAt": "2026-12-28T18:02:02.378Z",
-  "nonce": "d8c99dd38a02ceff53e769c296d9ac8e",
+  "wsUrl": "wss://api.trycloudflare.com",
+  "httpUrl": "https://api.trycloudflare.com",
+  "updatedAt": "2026-11-28T19:27:47.230Z",
+  "expiresAt": "2026-12-28T19:27:47.230Z",
+  "nonce": "840338c47c2789a7271f8d760e7cc6d0",
   "payload": {
-    "wsUrl": "wss://wednesday-lot-copies-manufacturers.trycloudflare.com",
-    "httpUrl": "https://wednesday-lot-copies-manufacturers.trycloudflare.com",
-    "issuedAt": "2026-11-28T18:02:02.378Z",
-    "expiresAt": "2026-12-28T18:02:02.378Z",
-    "nonce": "d8c99dd38a02ceff53e769c296d9ac8e"
+    "wsUrl": "wss://api.trycloudflare.com",
+    "httpUrl": "https://api.trycloudflare.com",
+    "issuedAt": "2026-11-28T19:27:47.230Z",
+    "expiresAt": "2026-12-28T19:27:47.230Z",
+    "nonce": "840338c47c2789a7271f8d760e7cc6d0"
   },
-  "signature": "qIWO0P4tmnRqxX41oCdIZRYqMReumEB6wU0vCL5z47D5ZodWcFlmhgXt+a8SXOdycjc/y8KAijH44jXpNfOt3g==",
+  "signature": "RAsUFLNOXj23NnhiQ8/x7l/PXO4bquSsYkbgMtEUaBO7K/04VX0xVvc2Vlg80jIgtxFZF/ITR7/lEyS+6hQ/+g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

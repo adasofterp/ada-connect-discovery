@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://beliefs-direct-encouraged-inquire.trycloudflare.com",
   "httpUrl": "https://beliefs-direct-encouraged-inquire.trycloudflare.com",
-  "updatedAt": "2026-11-28T08:11:15.652Z",
-  "expiresAt": "2026-12-28T08:11:15.652Z",
-  "nonce": "cb8919470cbe6299b9f5f0ad64eb083e",
+  "updatedAt": "2026-11-28T09:01:44.721Z",
+  "expiresAt": "2026-12-28T09:01:44.721Z",
+  "nonce": "ed8b1eb76064737b9198749b28bc4d16",
   "payload": {
     "wsUrl": "wss://beliefs-direct-encouraged-inquire.trycloudflare.com",
     "httpUrl": "https://beliefs-direct-encouraged-inquire.trycloudflare.com",
-    "issuedAt": "2026-11-28T08:11:15.652Z",
-    "expiresAt": "2026-12-28T08:11:15.652Z",
-    "nonce": "cb8919470cbe6299b9f5f0ad64eb083e"
+    "issuedAt": "2026-11-28T09:01:44.721Z",
+    "expiresAt": "2026-12-28T09:01:44.721Z",
+    "nonce": "ed8b1eb76064737b9198749b28bc4d16"
   },
-  "signature": "85c5ac5kvuyOsV7ulDQpX/z5vlNgDBbXQh20CccWa2Xqy2ExrlfKG3Pes1y53r4EhIAhYYxGZKvbYURpzCtTXg==",
+  "signature": "jN/T6F6ZyG4CEVxlcf6IsVVW8GiCdstp5JdsbXAYK33pbEmLL6FCYtiWL/Eyr055wdieBPc2+RX4a8V8j4Bc8g==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://colour-pillow-observation-air.trycloudflare.com",
-  "httpUrl": "https://colour-pillow-observation-air.trycloudflare.com",
-  "updatedAt": "2026-11-28T09:12:13.110Z",
-  "expiresAt": "2026-12-28T09:12:13.110Z",
-  "nonce": "f11dc0ef93fa5f5f295a2566b07df0bd",
+  "wsUrl": "wss://sensors-core-olympic-revolution.trycloudflare.com",
+  "httpUrl": "https://sensors-core-olympic-revolution.trycloudflare.com",
+  "updatedAt": "2026-11-28T11:14:14.872Z",
+  "expiresAt": "2026-12-28T11:14:14.872Z",
+  "nonce": "d7a4711de3a87836ad6d8c684bcd5993",
   "payload": {
-    "wsUrl": "wss://colour-pillow-observation-air.trycloudflare.com",
-    "httpUrl": "https://colour-pillow-observation-air.trycloudflare.com",
-    "issuedAt": "2026-11-28T09:12:13.110Z",
-    "expiresAt": "2026-12-28T09:12:13.110Z",
-    "nonce": "f11dc0ef93fa5f5f295a2566b07df0bd"
+    "wsUrl": "wss://sensors-core-olympic-revolution.trycloudflare.com",
+    "httpUrl": "https://sensors-core-olympic-revolution.trycloudflare.com",
+    "issuedAt": "2026-11-28T11:14:14.872Z",
+    "expiresAt": "2026-12-28T11:14:14.872Z",
+    "nonce": "d7a4711de3a87836ad6d8c684bcd5993"
   },
-  "signature": "0LvZN1gXMm1YLs61SjVCOiDFny3MEsHh3FmKkMJ6L/6krWWVW5SIefNp9A85I5j1FOS7qkZyqLxIOLIRg/WK9A==",
+  "signature": "Pnh3vL4mjDqetJ6YE9twe9TOtJ4e7uxSnf6EXqrGPZX32uxZoNy4HtTOvcQ1zTR7F5F4Sfp5RGd6/V8K4KPOMg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

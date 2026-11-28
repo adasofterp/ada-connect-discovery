@@ -1,17 +1,17 @@
 {
   "wsUrl": "wss://will-mode-mike-mutual.trycloudflare.com",
   "httpUrl": "https://will-mode-mike-mutual.trycloudflare.com",
-  "updatedAt": "2026-11-28T19:27:56.005Z",
-  "expiresAt": "2026-12-28T19:27:56.005Z",
-  "nonce": "a3667561798bcc0b648837f236a29691",
+  "updatedAt": "2026-11-28T21:17:39.650Z",
+  "expiresAt": "2026-12-28T21:17:39.650Z",
+  "nonce": "7e5e0bdad90457e5a044ca22517ce64d",
   "payload": {
     "wsUrl": "wss://will-mode-mike-mutual.trycloudflare.com",
     "httpUrl": "https://will-mode-mike-mutual.trycloudflare.com",
-    "issuedAt": "2026-11-28T19:27:56.005Z",
-    "expiresAt": "2026-12-28T19:27:56.005Z",
-    "nonce": "a3667561798bcc0b648837f236a29691"
+    "issuedAt": "2026-11-28T21:17:39.650Z",
+    "expiresAt": "2026-12-28T21:17:39.650Z",
+    "nonce": "7e5e0bdad90457e5a044ca22517ce64d"
   },
-  "signature": "QPwTIpZySvzc8K8djmGYmFHMeoY/8oKpkmh423BVFa3FDmizGvyd2bqtW8efD/QyxkfStxNVa3qTUNb8ixjlMw==",
+  "signature": "1qoo4slbRMrrPV6wRZXr5DlaDNfckLvBqUGXmr4kc/e1Zs2bAXq33qgDHPl3uXFy7Tqz5BxfvuvUQLokTjpV4A==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

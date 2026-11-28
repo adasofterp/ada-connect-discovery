@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://stored-deborah-salad-approaches.trycloudflare.com",
-  "httpUrl": "https://stored-deborah-salad-approaches.trycloudflare.com",
-  "updatedAt": "2026-11-28T14:28:41.748Z",
-  "expiresAt": "2026-12-28T14:28:41.748Z",
-  "nonce": "80a2a719312e35ff8ca1e9339264daac",
+  "wsUrl": "wss://poultry-excluding-priced-transformation.trycloudflare.com",
+  "httpUrl": "https://poultry-excluding-priced-transformation.trycloudflare.com",
+  "updatedAt": "2026-11-28T14:59:00.804Z",
+  "expiresAt": "2026-12-28T14:59:00.804Z",
+  "nonce": "c00bf2ee8a54fe75866169a1cd5a09e5",
   "payload": {
-    "wsUrl": "wss://stored-deborah-salad-approaches.trycloudflare.com",
-    "httpUrl": "https://stored-deborah-salad-approaches.trycloudflare.com",
-    "issuedAt": "2026-11-28T14:28:41.748Z",
-    "expiresAt": "2026-12-28T14:28:41.748Z",
-    "nonce": "80a2a719312e35ff8ca1e9339264daac"
+    "wsUrl": "wss://poultry-excluding-priced-transformation.trycloudflare.com",
+    "httpUrl": "https://poultry-excluding-priced-transformation.trycloudflare.com",
+    "issuedAt": "2026-11-28T14:59:00.804Z",
+    "expiresAt": "2026-12-28T14:59:00.804Z",
+    "nonce": "c00bf2ee8a54fe75866169a1cd5a09e5"
   },
-  "signature": "36IOAURA1+Y3zW0djXOYSyULZhyV3AeIurjvIN4UdvyPFUsoG0wZk6WzgWvJMxIgu7NDxyqY+9/eBWz6IHkLWg==",
+  "signature": "IRfBDavtaEjcnWSiB16C113X7zM+VTkRFxFbfOHQKzlKJ+iKKrkLcWDVbex5B7Mrh9ooyI8iBjg0CE5SxuJDiw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

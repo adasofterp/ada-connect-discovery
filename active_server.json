@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://poultry-excluding-priced-transformation.trycloudflare.com",
-  "httpUrl": "https://poultry-excluding-priced-transformation.trycloudflare.com",
-  "updatedAt": "2026-11-28T14:59:00.804Z",
-  "expiresAt": "2026-12-28T14:59:00.804Z",
-  "nonce": "c00bf2ee8a54fe75866169a1cd5a09e5",
+  "wsUrl": "wss://louis-psi-telescope-five.trycloudflare.com",
+  "httpUrl": "https://louis-psi-telescope-five.trycloudflare.com",
+  "updatedAt": "2026-11-28T15:16:48.025Z",
+  "expiresAt": "2026-12-28T15:16:48.025Z",
+  "nonce": "48a1109c6a8fa132545beb231a40f609",
   "payload": {
-    "wsUrl": "wss://poultry-excluding-priced-transformation.trycloudflare.com",
-    "httpUrl": "https://poultry-excluding-priced-transformation.trycloudflare.com",
-    "issuedAt": "2026-11-28T14:59:00.804Z",
-    "expiresAt": "2026-12-28T14:59:00.804Z",
-    "nonce": "c00bf2ee8a54fe75866169a1cd5a09e5"
+    "wsUrl": "wss://louis-psi-telescope-five.trycloudflare.com",
+    "httpUrl": "https://louis-psi-telescope-five.trycloudflare.com",
+    "issuedAt": "2026-11-28T15:16:48.025Z",
+    "expiresAt": "2026-12-28T15:16:48.025Z",
+    "nonce": "48a1109c6a8fa132545beb231a40f609"
   },
-  "signature": "IRfBDavtaEjcnWSiB16C113X7zM+VTkRFxFbfOHQKzlKJ+iKKrkLcWDVbex5B7Mrh9ooyI8iBjg0CE5SxuJDiw==",
+  "signature": "UYMelDWHd4lHGhN8d8Y7qt4jxmQys6zkjy6CiM/de/8AWvARoNv7aR9RCxzSmbAtIPqRFIPPXizfPcSnqk9+xw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

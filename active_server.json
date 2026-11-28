@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://specifies-duncan-demonstration-hair.trycloudflare.com",
-  "httpUrl": "https://specifies-duncan-demonstration-hair.trycloudflare.com",
-  "updatedAt": "2026-11-28T12:43:18.245Z",
-  "expiresAt": "2026-12-28T12:43:18.245Z",
-  "nonce": "ca4a1d1ad5e6ea387a0ada24f1d4efcd",
+  "wsUrl": "wss://richard-clause-newcastle-network.trycloudflare.com",
+  "httpUrl": "https://richard-clause-newcastle-network.trycloudflare.com",
+  "updatedAt": "2026-11-28T12:43:47.848Z",
+  "expiresAt": "2026-12-28T12:43:47.848Z",
+  "nonce": "f6908813288ae4a228d9569145da225a",
   "payload": {
-    "wsUrl": "wss://specifies-duncan-demonstration-hair.trycloudflare.com",
-    "httpUrl": "https://specifies-duncan-demonstration-hair.trycloudflare.com",
-    "issuedAt": "2026-11-28T12:43:18.245Z",
-    "expiresAt": "2026-12-28T12:43:18.245Z",
-    "nonce": "ca4a1d1ad5e6ea387a0ada24f1d4efcd"
+    "wsUrl": "wss://richard-clause-newcastle-network.trycloudflare.com",
+    "httpUrl": "https://richard-clause-newcastle-network.trycloudflare.com",
+    "issuedAt": "2026-11-28T12:43:47.848Z",
+    "expiresAt": "2026-12-28T12:43:47.848Z",
+    "nonce": "f6908813288ae4a228d9569145da225a"
   },
-  "signature": "BqYpoOwQ172nNwH2ymrtKaEkKgWKnrzI0ynp0+nO7jkyXS+IjzUBh+UNJuOt2Ain2d5ehzAlu6g3KQTbwTwWRw==",
+  "signature": "yHwKgnLi1/tOPIsEIYhix+Mwnv9Aw6Qk0XiV4BJda3vzIFnSDRRyQ6RSWM1aNibJ/LMzPT4x3kV+tOlS1EIpIw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

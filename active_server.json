@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://nick-suits-walls-making.trycloudflare.com",
-  "httpUrl": "https://nick-suits-walls-making.trycloudflare.com",
-  "updatedAt": "2026-11-28T11:41:36.136Z",
-  "expiresAt": "2026-12-28T11:41:36.136Z",
-  "nonce": "c02daa273bf2289fb4ff2591a2e65943",
+  "wsUrl": "wss://specifies-duncan-demonstration-hair.trycloudflare.com",
+  "httpUrl": "https://specifies-duncan-demonstration-hair.trycloudflare.com",
+  "updatedAt": "2026-11-28T12:43:18.245Z",
+  "expiresAt": "2026-12-28T12:43:18.245Z",
+  "nonce": "ca4a1d1ad5e6ea387a0ada24f1d4efcd",
   "payload": {
-    "wsUrl": "wss://nick-suits-walls-making.trycloudflare.com",
-    "httpUrl": "https://nick-suits-walls-making.trycloudflare.com",
-    "issuedAt": "2026-11-28T11:41:36.136Z",
-    "expiresAt": "2026-12-28T11:41:36.136Z",
-    "nonce": "c02daa273bf2289fb4ff2591a2e65943"
+    "wsUrl": "wss://specifies-duncan-demonstration-hair.trycloudflare.com",
+    "httpUrl": "https://specifies-duncan-demonstration-hair.trycloudflare.com",
+    "issuedAt": "2026-11-28T12:43:18.245Z",
+    "expiresAt": "2026-12-28T12:43:18.245Z",
+    "nonce": "ca4a1d1ad5e6ea387a0ada24f1d4efcd"
   },
-  "signature": "aK+h6UkcKNNi4LW7cTbsFHki7xH53hDJ1QY5pL8miZGBSCmZeIqmvtaArkWjE9TXDUxRucUSWd8wLkfx1+bE3g==",
+  "signature": "BqYpoOwQ172nNwH2ymrtKaEkKgWKnrzI0ynp0+nO7jkyXS+IjzUBh+UNJuOt2Ain2d5ehzAlu6g3KQTbwTwWRw==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

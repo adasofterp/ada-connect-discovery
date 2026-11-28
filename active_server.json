@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://welding-facilitate-hayes-pit.trycloudflare.com",
-  "httpUrl": "https://welding-facilitate-hayes-pit.trycloudflare.com",
-  "updatedAt": "2026-11-28T13:39:59.738Z",
-  "expiresAt": "2026-12-28T13:39:59.738Z",
-  "nonce": "18f07b399312ebc09a3d59ef579e3a33",
+  "wsUrl": "wss://craps-performs-dayton-band.trycloudflare.com",
+  "httpUrl": "https://craps-performs-dayton-band.trycloudflare.com",
+  "updatedAt": "2026-11-28T13:55:38.040Z",
+  "expiresAt": "2026-12-28T13:55:38.040Z",
+  "nonce": "e27f0aa2c64a59f75414e23feaf80557",
   "payload": {
-    "wsUrl": "wss://welding-facilitate-hayes-pit.trycloudflare.com",
-    "httpUrl": "https://welding-facilitate-hayes-pit.trycloudflare.com",
-    "issuedAt": "2026-11-28T13:39:59.738Z",
-    "expiresAt": "2026-12-28T13:39:59.738Z",
-    "nonce": "18f07b399312ebc09a3d59ef579e3a33"
+    "wsUrl": "wss://craps-performs-dayton-band.trycloudflare.com",
+    "httpUrl": "https://craps-performs-dayton-band.trycloudflare.com",
+    "issuedAt": "2026-11-28T13:55:38.040Z",
+    "expiresAt": "2026-12-28T13:55:38.040Z",
+    "nonce": "e27f0aa2c64a59f75414e23feaf80557"
   },
-  "signature": "Pz6hgMSc7EI+Kn00zOFlBLdQhg0AK/v2tQFwjW1LJOBCcAKfsWVSmotHHcJWbAzdLQZw+Ipf+95CktHNGoAQpA==",
+  "signature": "njVjHJQO1eNtAEaiHkfYI39/qaBP8ALRblg5P2QQIrGqzr80P174ldDnMC9NGdbO6AFpfLiE/yusD3TJhxNvBA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

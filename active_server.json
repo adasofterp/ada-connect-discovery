@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://richard-clause-newcastle-network.trycloudflare.com",
-  "httpUrl": "https://richard-clause-newcastle-network.trycloudflare.com",
-  "updatedAt": "2026-11-28T12:43:47.848Z",
-  "expiresAt": "2026-12-28T12:43:47.848Z",
-  "nonce": "f6908813288ae4a228d9569145da225a",
+  "wsUrl": "wss://chapel-subtle-analyzed-map.trycloudflare.com",
+  "httpUrl": "https://chapel-subtle-analyzed-map.trycloudflare.com",
+  "updatedAt": "2026-11-28T12:44:25.430Z",
+  "expiresAt": "2026-12-28T12:44:25.430Z",
+  "nonce": "5c3b368567b2e9299d0c274a8688b2db",
   "payload": {
-    "wsUrl": "wss://richard-clause-newcastle-network.trycloudflare.com",
-    "httpUrl": "https://richard-clause-newcastle-network.trycloudflare.com",
-    "issuedAt": "2026-11-28T12:43:47.848Z",
-    "expiresAt": "2026-12-28T12:43:47.848Z",
-    "nonce": "f6908813288ae4a228d9569145da225a"
+    "wsUrl": "wss://chapel-subtle-analyzed-map.trycloudflare.com",
+    "httpUrl": "https://chapel-subtle-analyzed-map.trycloudflare.com",
+    "issuedAt": "2026-11-28T12:44:25.430Z",
+    "expiresAt": "2026-12-28T12:44:25.430Z",
+    "nonce": "5c3b368567b2e9299d0c274a8688b2db"
   },
-  "signature": "yHwKgnLi1/tOPIsEIYhix+Mwnv9Aw6Qk0XiV4BJda3vzIFnSDRRyQ6RSWM1aNibJ/LMzPT4x3kV+tOlS1EIpIw==",
+  "signature": "Jzh7LMOVg820ieNNnXjvx2PEoUyTtddJX/PW8gac7MQg9VHRUULoRT/5tmMhtyonclZPBRQD2CPxOzEYkaBbxg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

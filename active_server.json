@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://louis-psi-telescope-five.trycloudflare.com",
-  "httpUrl": "https://louis-psi-telescope-five.trycloudflare.com",
-  "updatedAt": "2026-11-28T15:16:48.025Z",
-  "expiresAt": "2026-12-28T15:16:48.025Z",
-  "nonce": "48a1109c6a8fa132545beb231a40f609",
+  "wsUrl": "wss://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
+  "httpUrl": "https://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
+  "updatedAt": "2026-11-28T17:01:00.838Z",
+  "expiresAt": "2026-12-28T17:01:00.838Z",
+  "nonce": "2113c732d4edcbe981928284a2c007a7",
   "payload": {
-    "wsUrl": "wss://louis-psi-telescope-five.trycloudflare.com",
-    "httpUrl": "https://louis-psi-telescope-five.trycloudflare.com",
-    "issuedAt": "2026-11-28T15:16:48.025Z",
-    "expiresAt": "2026-12-28T15:16:48.025Z",
-    "nonce": "48a1109c6a8fa132545beb231a40f609"
+    "wsUrl": "wss://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
+    "httpUrl": "https://vendor-tobacco-prisoners-vegetables.trycloudflare.com",
+    "issuedAt": "2026-11-28T17:01:00.838Z",
+    "expiresAt": "2026-12-28T17:01:00.838Z",
+    "nonce": "2113c732d4edcbe981928284a2c007a7"
   },
-  "signature": "UYMelDWHd4lHGhN8d8Y7qt4jxmQys6zkjy6CiM/de/8AWvARoNv7aR9RCxzSmbAtIPqRFIPPXizfPcSnqk9+xw==",
+  "signature": "legtzih6ECqJm681zpeS9bD0VVR71Kybt7mlnpm6CVi6RCCt11b4DZ2GCNNfMKr+vwjeqj9RNu7NIxtE7NJCyA==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

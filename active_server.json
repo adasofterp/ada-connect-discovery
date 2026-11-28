@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://canvas-observations-screen-useful.trycloudflare.com",
-  "httpUrl": "https://canvas-observations-screen-useful.trycloudflare.com",
-  "updatedAt": "2026-11-28T14:13:15.125Z",
-  "expiresAt": "2026-12-28T14:13:15.125Z",
-  "nonce": "fa7fb5d581256359af7a0c5aa8cf030e",
+  "wsUrl": "wss://stored-deborah-salad-approaches.trycloudflare.com",
+  "httpUrl": "https://stored-deborah-salad-approaches.trycloudflare.com",
+  "updatedAt": "2026-11-28T14:28:41.748Z",
+  "expiresAt": "2026-12-28T14:28:41.748Z",
+  "nonce": "80a2a719312e35ff8ca1e9339264daac",
   "payload": {
-    "wsUrl": "wss://canvas-observations-screen-useful.trycloudflare.com",
-    "httpUrl": "https://canvas-observations-screen-useful.trycloudflare.com",
-    "issuedAt": "2026-11-28T14:13:15.125Z",
-    "expiresAt": "2026-12-28T14:13:15.125Z",
-    "nonce": "fa7fb5d581256359af7a0c5aa8cf030e"
+    "wsUrl": "wss://stored-deborah-salad-approaches.trycloudflare.com",
+    "httpUrl": "https://stored-deborah-salad-approaches.trycloudflare.com",
+    "issuedAt": "2026-11-28T14:28:41.748Z",
+    "expiresAt": "2026-12-28T14:28:41.748Z",
+    "nonce": "80a2a719312e35ff8ca1e9339264daac"
   },
-  "signature": "bnWeKuhlPvjSv5S+wXW/fQVf0VS/TOMVKsMKV2O2LJIO6ewNRo4c+ycHDLlAtfYGcMpxcDW81381QykS7Ss8lQ==",
+  "signature": "36IOAURA1+Y3zW0djXOYSyULZhyV3AeIurjvIN4UdvyPFUsoG0wZk6WzgWvJMxIgu7NDxyqY+9/eBWz6IHkLWg==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",

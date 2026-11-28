@@ -1,17 +1,17 @@
 {
-  "wsUrl": "wss://craps-performs-dayton-band.trycloudflare.com",
-  "httpUrl": "https://craps-performs-dayton-band.trycloudflare.com",
-  "updatedAt": "2026-11-28T13:55:38.040Z",
-  "expiresAt": "2026-12-28T13:55:38.040Z",
-  "nonce": "e27f0aa2c64a59f75414e23feaf80557",
+  "wsUrl": "wss://canvas-observations-screen-useful.trycloudflare.com",
+  "httpUrl": "https://canvas-observations-screen-useful.trycloudflare.com",
+  "updatedAt": "2026-11-28T14:13:15.125Z",
+  "expiresAt": "2026-12-28T14:13:15.125Z",
+  "nonce": "fa7fb5d581256359af7a0c5aa8cf030e",
   "payload": {
-    "wsUrl": "wss://craps-performs-dayton-band.trycloudflare.com",
-    "httpUrl": "https://craps-performs-dayton-band.trycloudflare.com",
-    "issuedAt": "2026-11-28T13:55:38.040Z",
-    "expiresAt": "2026-12-28T13:55:38.040Z",
-    "nonce": "e27f0aa2c64a59f75414e23feaf80557"
+    "wsUrl": "wss://canvas-observations-screen-useful.trycloudflare.com",
+    "httpUrl": "https://canvas-observations-screen-useful.trycloudflare.com",
+    "issuedAt": "2026-11-28T14:13:15.125Z",
+    "expiresAt": "2026-12-28T14:13:15.125Z",
+    "nonce": "fa7fb5d581256359af7a0c5aa8cf030e"
   },
-  "signature": "njVjHJQO1eNtAEaiHkfYI39/qaBP8ALRblg5P2QQIrGqzr80P174ldDnMC9NGdbO6AFpfLiE/yusD3TJhxNvBA==",
+  "signature": "bnWeKuhlPvjSv5S+wXW/fQVf0VS/TOMVKsMKV2O2LJIO6ewNRo4c+ycHDLlAtfYGcMpxcDW81381QykS7Ss8lQ==",
   "algorithm": "ECDSA_P256_SHA256_P1363",
   "latestClientVersion": "1.5.0",
   "exeSha256": "FC52029142356923E1B529A68D2BE5B53D6DE856776771EADD896B8F31078C66",
